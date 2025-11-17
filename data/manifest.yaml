@@ -1,0 +1,9 @@
+entries:
+  - model_id: base-100
+    csv: data/source/base_100.csv
+    pdf: data/source/base_100.pdf
+    description: "Baseline product series 100"
+  - model_id: pro-200
+    csv: data/source/pro_200.csv
+    pdf: data/source/pro_200.pdf
+    description: "Professional grade series 200"
