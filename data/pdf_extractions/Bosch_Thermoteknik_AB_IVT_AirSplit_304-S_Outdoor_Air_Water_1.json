@@ -1,0 +1,4162 @@
+{
+  "source_pdf": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1.pdf",
+  "extraction_timestamp": "2025-11-17T15:17:05.397016",
+  "total_records": 480,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype IVT AirSplit 304-S",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "bosch_thermoteknik_ab": "Postfach 1012",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "bosch_thermoteknik_ab": "57328",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "bosch_thermoteknik_ab": "Tran\u00e5s",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "bosch_thermoteknik_ab": "SE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "bosch_thermoteknik_ab": "DIN CERTCO Gesellschaft f\u00fcr Konformit\u00e4tsbewertung mbH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "bosch_thermoteknik_ab": "IVT AirSplit 304-S",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "bosch_thermoteknik_ab": "011-1W0569",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "bosch_thermoteknik_ab": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "bosch_thermoteknik_ab": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "bosch_thermoteknik_ab": "1.1 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "bosch_thermoteknik_ab": "22.12.2022",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "bosch_thermoteknik_ab": "European KEYMARK Scheme for Heat Pumps Version 12\n(2023-03)",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Model IVT AirModule Split E6 304-S",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ivt_airmodule_split_e6_304-s": "Heating + DHW + low temp",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ivt_airmodule_split_e6_304-s": "Indoor, Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ivt_airmodule_split_e6_304-s": "Warmer Climate, Colder Climate",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Heat Source",
+      "ivt_airmodule_split_e6_304-s": "Outdoor Air",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "ivt_airmodule_split_e6_304-s": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ivt_airmodule_split_e6_304-s": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ivt_airmodule_split_e6_304-s": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ivt_airmodule_split_e6_304-s": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ivt_airmodule_split_e6_304-s": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ivt_airmodule_split_e6_304-s": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "No",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "125 %",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "3.02",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "02:34 h:min",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "38 W",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "53.7 \u00b0C",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "279 l",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 16147 | Colder Climate",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "100 %",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.42",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "02:44 h:min",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "41 W",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "53.5 \u00b0C",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "270 l",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 16147 | Warmer Climate",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "152 %",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "3.68",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "02:30 h:min",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "33 W",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "53.6 \u00b0C",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "277 l",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_02",
+      "value": "34 h:min",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "heating_up_time_02",
+      "value": "44 h:min",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "heating_up_time_02",
+      "value": "30 h:min",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1"
+    },
+    {
+      "complete_power_supply_failure": "Defrost test",
+      "passed": "passed",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "complete_power_supply_failure": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "complete_power_supply_failure": "",
+      "passed": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "complete_power_supply_failure": "",
+      "passed": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "complete_power_supply_failure": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "5.21 kW",
+      "medium_temperature": "3.90 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.12 kW",
+      "medium_temperature": "1.44 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.67",
+      "medium_temperature": "2.70",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "40 dB(A)",
+      "medium_temperature": "40 dB(A)",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "60 dB(A)",
+      "medium_temperature": "60 dB(A)",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "186 %",
+      "medium_temperature": "125 %",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5.00 kW",
+      "medium_temperature": "5.60 kW",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.72",
+      "medium_temperature": "3.20",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-5 \u00b0C",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "4.36 kW",
+      "medium_temperature": "3.80 kW",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.96",
+      "medium_temperature": "1.92",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.990",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "2.73 kW",
+      "medium_temperature": "3.30 kW",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.68",
+      "medium_temperature": "3.27",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.980",
+      "medium_temperature": "0.990",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "2.34 kW",
+      "medium_temperature": "2.01 kW",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.07",
+      "medium_temperature": "4.24",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.970",
+      "medium_temperature": "0.980",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.77 kW",
+      "medium_temperature": "2.51 kW",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "8.02",
+      "medium_temperature": "5.80",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.970",
+      "medium_temperature": "0.970",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "4.36 kW",
+      "medium_temperature": "4.15 kW",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "2.96",
+      "medium_temperature": "2.14",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "3.93 kW",
+      "medium_temperature": "2.58 kW",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "2.68",
+      "medium_temperature": "1.48",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.990",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "60 \u00b0C",
+      "medium_temperature": "60 \u00b0C",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "11 W",
+      "medium_temperature": "11 W",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "11 W",
+      "medium_temperature": "11 W",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "1.07 kW",
+      "column_2": "3.00 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "2186 kWh",
+      "column_2": "3613 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 12102-1 | Colder Climate",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "40 dB(A)",
+      "medium_temperature": "40 dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "60 dB(A)",
+      "medium_temperature": "60 dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "148 %",
+      "medium_temperature": "108 %",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5 kW",
+      "medium_temperature": "5 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.77",
+      "medium_temperature": "2.76",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-12 \u00b0C",
+      "medium_temperature": "-11 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-17 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "3.15 kW",
+      "medium_temperature": "3.18 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.4",
+      "medium_temperature": "2.44",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "1.9 kW",
+      "medium_temperature": "1.89 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.61",
+      "medium_temperature": "3.55",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.97",
+      "medium_temperature": "0.98",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "2.27 kW",
+      "medium_temperature": "1.62 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.12",
+      "medium_temperature": "4.27",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.97",
+      "medium_temperature": "0.97",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.09 kW",
+      "medium_temperature": "1.79 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.97",
+      "medium_temperature": "5.18",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.97",
+      "medium_temperature": "0.97",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "3.69 kW",
+      "medium_temperature": "3.39 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3",
+      "medium_temperature": "1.86",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "2.24 kW",
+      "medium_temperature": "2.45 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "1.59",
+      "medium_temperature": "1.4",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "60 \u00b0C",
+      "medium_temperature": "60 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "11 W",
+      "medium_temperature": "11 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "11 W",
+      "medium_temperature": "11 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "Electricity",
+      "medium_temperature": "Electricity",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "5 kW",
+      "medium_temperature": "5 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qhe",
+      "low_temperature": "3267 kWh",
+      "medium_temperature": "4461 kWh",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.07 kW 3.00 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 5 kW 5 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1"
+    },
+    {
+      "pdh_tj_=_-15\u00b0c_(if_tol": "COP Tj = -15\u00b0C (if TOL",
+      "3.26": "2.43",
+      "2.77": "1.59",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-15\u00b0c_(if_tol": "Cdh Tj = -15 \u00b0C",
+      "3.26": "0.99",
+      "2.77": "0.99",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-15\u00b0c_(if_tol": "",
+      "3.26": "",
+      "2.77": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-15\u00b0c_(if_tol": "",
+      "3.26": "",
+      "2.77": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-15\u00b0c_(if_tol": "EN 12102-1 | Warmer Climate",
+      "3.26": "",
+      "2.77": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "40 dB(A)",
+      "medium_temperature": "40 dB(A)",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "60 dB(A)",
+      "medium_temperature": "60 dB(A)",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "240 %",
+      "medium_temperature": "150 %",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5 kW",
+      "medium_temperature": "5 kW",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.07",
+      "medium_temperature": "3.84",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "4 \u00b0C",
+      "medium_temperature": "4 \u00b0C",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "3.94 kW",
+      "medium_temperature": "3.71 kW",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.55",
+      "medium_temperature": "2.12",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "3.3 kW",
+      "medium_temperature": "3.28 kW",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.52",
+      "medium_temperature": "3.39",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.76 kW",
+      "medium_temperature": "2.32 kW",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.7",
+      "medium_temperature": "5.03",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.97",
+      "medium_temperature": "0.98",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "4.23 kW",
+      "medium_temperature": "4.02 kW",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.96",
+      "medium_temperature": "2.28",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "3.94 kW",
+      "medium_temperature": "3.71 kW",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "3.55",
+      "medium_temperature": "2.12",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "60 \u00b0C",
+      "medium_temperature": "60 \u00b0C",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "11 W",
+      "medium_temperature": "11 W",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "11 W",
+      "medium_temperature": "11 W",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "Electricity",
+      "medium_temperature": "Electricity",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "1.06 kW",
+      "medium_temperature": "1.29 kW",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qhe",
+      "low_temperature": "1101 kWh",
+      "medium_temperature": "1741 kWh",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.06 kW 1.29 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1"
+    },
+    {
+      "": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Model IVT AirBox Split S 304-S",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ivt_airbox_split_s_304-s": "Heating (medium temp)",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ivt_airbox_split_s_304-s": "Indoor, Outdoor",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ivt_airbox_split_s_304-s": "Warmer Climate, Colder Climate",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Heat Source",
+      "ivt_airbox_split_s_304-s": "Outdoor Air",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "ivt_airbox_split_s_304-s": "Yes",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ivt_airbox_split_s_304-s": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ivt_airbox_split_s_304-s": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ivt_airbox_split_s_304-s": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ivt_airbox_split_s_304-s": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ivt_airbox_split_s_304-s": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "No",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "5.21 kW",
+      "medium_temperature": "3.90 kW",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.12 kW",
+      "medium_temperature": "1.44 kW",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.67",
+      "medium_temperature": "2.70",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "45 dB(A)",
+      "medium_temperature": "45 dB(A)",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "60 dB(A)",
+      "medium_temperature": "60 dB(A)",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "186 %",
+      "medium_temperature": "125 %",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5.00 kW",
+      "medium_temperature": "5.60 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.72",
+      "medium_temperature": "3.20",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-5 \u00b0C",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "4.36 kW",
+      "medium_temperature": "3.80 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.96",
+      "medium_temperature": "1.92",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.990",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "2.73 kW",
+      "medium_temperature": "3.30 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.68",
+      "medium_temperature": "3.27",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "Pdh Tj = +7\u00b0C",
+      "0.980": "2.34 kW",
+      "0.990": "2.01 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "COP Tj = +7\u00b0C",
+      "0.980": "6.07",
+      "0.990": "4.24",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "0.980": "0.970",
+      "0.990": "0.980",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "Pdh Tj = 12\u00b0C",
+      "0.980": "2.77 kW",
+      "0.990": "2.51 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "COP Tj = 12\u00b0C",
+      "0.980": "8.02",
+      "0.990": "5.80",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "0.980": "0.970",
+      "0.990": "0.970",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "Pdh Tj = Tbiv",
+      "0.980": "4.36 kW",
+      "0.990": "4.15 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "COP Tj = Tbiv",
+      "0.980": "2.96",
+      "0.990": "2.14",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.980": "3.93 kW",
+      "0.990": "2.58 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.980": "2.68",
+      "0.990": "1.48",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.980": "0.990",
+      "0.990": "0.990",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "WTOL",
+      "0.980": "60 \u00b0C",
+      "0.990": "60 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "Poff",
+      "0.980": "11 W",
+      "0.990": "11 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "PTO",
+      "0.980": "0 W",
+      "0.990": "0 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "PSB",
+      "0.980": "11 W",
+      "0.990": "11 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "PCK",
+      "0.980": "0 W",
+      "0.990": "0 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "0.980": "n/a",
+      "0.990": "n/a",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "Supplementary Heater: PSUP",
+      "0.980": "1.07 kW",
+      "0.990": "3.00 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "Annual energy consumption Qhe",
+      "0.980": "2186 kWh",
+      "0.990": "3613 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "",
+      "0.980": "",
+      "0.990": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "",
+      "0.980": "",
+      "0.990": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "EN 12102-1 | Colder Climate",
+      "0.980": "",
+      "0.990": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "45 dB(A)",
+      "medium_temperature": "45 dB(A)",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "60 dB(A)",
+      "medium_temperature": "60 dB(A)",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "148 %",
+      "medium_temperature": "108 %",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5 kW",
+      "medium_temperature": "5 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.77",
+      "medium_temperature": "2.76",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-12 \u00b0C",
+      "medium_temperature": "-11 \u00b0C",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-17 \u00b0C",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "3.15 kW",
+      "medium_temperature": "3.18 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.4",
+      "medium_temperature": "2.44",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "1.9 kW",
+      "medium_temperature": "1.89 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.61",
+      "medium_temperature": "3.55",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.97",
+      "medium_temperature": "0.98",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "2.27 kW",
+      "medium_temperature": "1.62 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.12",
+      "medium_temperature": "4.27",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.97",
+      "medium_temperature": "0.97",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.09 kW",
+      "medium_temperature": "1.79 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.07 kW 3.00 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1"
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.97": "0.97",
+      "5.18": "0.97",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = Tbiv",
+      "5.97": "3.69 kW",
+      "5.18": "3.39 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = Tbiv",
+      "5.97": "3",
+      "5.18": "1.86",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.97": "2.24 kW",
+      "5.18": "2.45 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.97": "1.59",
+      "5.18": "1.4",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.97": "0.99",
+      "5.18": "0.99",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "WTOL",
+      "5.97": "60 \u00b0C",
+      "5.18": "60 \u00b0C",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Poff",
+      "5.97": "11 W",
+      "5.18": "11 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PTO",
+      "5.97": "0 W",
+      "5.18": "0 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PSB",
+      "5.97": "11 W",
+      "5.18": "11 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PCK",
+      "5.97": "0 W",
+      "5.18": "0 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.97": "n/a",
+      "5.18": "n/a",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: PSUP",
+      "5.97": "5 kW",
+      "5.18": "5 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Annual energy consumption Qhe",
+      "5.97": "3267 kWh",
+      "5.18": "4461 kWh",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = -15\u00b0C (if TOL",
+      "5.97": "3.26",
+      "5.18": "2.77",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = -15\u00b0C (if TOL",
+      "5.97": "2.43",
+      "5.18": "1.59",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = -15 \u00b0C",
+      "5.97": "0.99",
+      "5.18": "0.99",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "5.97": "",
+      "5.18": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "5.97": "",
+      "5.18": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "EN 12102-1 | Warmer Climate",
+      "5.97": "",
+      "5.18": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "45 dB(A)",
+      "medium_temperature": "45 dB(A)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "60 dB(A)",
+      "medium_temperature": "60 dB(A)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "240 %",
+      "medium_temperature": "150 %",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5 kW",
+      "medium_temperature": "5 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.07",
+      "medium_temperature": "3.84",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "4 \u00b0C",
+      "medium_temperature": "4 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "3.94 kW",
+      "medium_temperature": "3.71 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.55",
+      "medium_temperature": "2.12",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "3.3 kW",
+      "medium_temperature": "3.28 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.52",
+      "medium_temperature": "3.39",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.76 kW",
+      "medium_temperature": "2.32 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.7",
+      "medium_temperature": "5.03",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.97",
+      "medium_temperature": "0.98",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "4.23 kW",
+      "medium_temperature": "4.02 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.96",
+      "medium_temperature": "2.28",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 5 kW 5 kW",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1"
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.94_kw": "3.55",
+      "3.71_kw": "2.12",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.94_kw": "0.99",
+      "3.71_kw": "0.99",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "3.94_kw": "60 \u00b0C",
+      "3.71_kw": "60 \u00b0C",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "3.94_kw": "11 W",
+      "3.71_kw": "11 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "3.94_kw": "0 W",
+      "3.71_kw": "0 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "3.94_kw": "11 W",
+      "3.71_kw": "11 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "3.94_kw": "0 W",
+      "3.71_kw": "0 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "3.94_kw": "n/a",
+      "3.71_kw": "n/a",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "3.94_kw": "1.06 kW",
+      "3.71_kw": "1.29 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "3.94_kw": "1101 kWh",
+      "3.71_kw": "1741 kWh",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.06 kW 1.29 kW",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1"
+    },
+    {
+      "": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Model IVT AirBox Split E6 304-S",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ivt_airbox_split_e6_304-s": "Heating (medium temp)",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ivt_airbox_split_e6_304-s": "Indoor, Outdoor",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ivt_airbox_split_e6_304-s": "Warmer Climate, Colder Climate",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Heat Source",
+      "ivt_airbox_split_e6_304-s": "Outdoor Air",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "ivt_airbox_split_e6_304-s": "Yes",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ivt_airbox_split_e6_304-s": "n/a",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ivt_airbox_split_e6_304-s": "n/a",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ivt_airbox_split_e6_304-s": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ivt_airbox_split_e6_304-s": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ivt_airbox_split_e6_304-s": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "No",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "5.21 kW",
+      "medium_temperature": "3.9 kW",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.12 kW",
+      "medium_temperature": "1.44 kW",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.67",
+      "medium_temperature": "2.7",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "45 dB(A)",
+      "medium_temperature": "45 dB(A)",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "60 dB(A)",
+      "medium_temperature": "60 dB(A)",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "186 %",
+      "medium_temperature": "125 %",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5 kW",
+      "medium_temperature": "5.6 kW",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.72",
+      "medium_temperature": "3.20",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-5 \u00b0C",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "4.36 kW",
+      "medium_temperature": "3.80 kW",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.96",
+      "medium_temperature": "1.92",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "2.73 kW",
+      "medium_temperature": "3.30 kW",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.68",
+      "medium_temperature": "3.27",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "Pdh Tj = +7\u00b0C",
+      "0.98": "2.34 kW",
+      "0.99": "2.01 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "COP Tj = +7\u00b0C",
+      "0.98": "6.07",
+      "0.99": "4.24",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "0.98": "0.97",
+      "0.99": "0.98",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "Pdh Tj = 12\u00b0C",
+      "0.98": "2.77 kW",
+      "0.99": "2.51 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "COP Tj = 12\u00b0C",
+      "0.98": "8.02",
+      "0.99": "5.80",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "0.98": "0.97",
+      "0.99": "0.97",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "Pdh Tj = Tbiv",
+      "0.98": "4.36 kW",
+      "0.99": "4.15 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "COP Tj = Tbiv",
+      "0.98": "2.96",
+      "0.99": "2.14",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.98": "3.93 kW",
+      "0.99": "2.58 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.98": "2.68",
+      "0.99": "1.48",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.98": "0.99",
+      "0.99": "0.99",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "WTOL",
+      "0.98": "60 \u00b0C",
+      "0.99": "60 \u00b0C",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "Poff",
+      "0.98": "11 W",
+      "0.99": "11 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "PTO",
+      "0.98": "0 W",
+      "0.99": "0 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "PSB",
+      "0.98": "11 W",
+      "0.99": "11 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "PCK",
+      "0.98": "0 W",
+      "0.99": "0 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "0.98": "Electricity",
+      "0.99": "Electricity",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "Supplementary Heater: PSUP",
+      "0.98": "1.07 kW",
+      "0.99": "3.00 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "Annual energy consumption Qhe",
+      "0.98": "2186 kWh",
+      "0.99": "3613 kWh",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "",
+      "0.98": "",
+      "0.99": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "",
+      "0.98": "",
+      "0.99": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+2_\u00b0c": "EN 12102-1 | Colder Climate",
+      "0.98": "",
+      "0.99": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "45 dB(A)",
+      "medium_temperature": "45 dB(A)",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "60 dB(A)",
+      "medium_temperature": "60 dB(A)",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "148 %",
+      "medium_temperature": "108 %",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5 kW",
+      "medium_temperature": "5 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.77",
+      "medium_temperature": "2.76",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-12 \u00b0C",
+      "medium_temperature": "-11 \u00b0C",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-17 \u00b0C",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "3.15 kW",
+      "medium_temperature": "3.18 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.4",
+      "medium_temperature": "2.44",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "1.9 kW",
+      "medium_temperature": "1.89 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.61",
+      "medium_temperature": "3.55",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.97",
+      "medium_temperature": "0.98",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "2.27 kW",
+      "medium_temperature": "1.62 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.12",
+      "medium_temperature": "4.27",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.97",
+      "medium_temperature": "0.97",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.09 kW",
+      "medium_temperature": "1.79 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 11,
+      "source_table": null,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.07 kW 3.00 kW",
+      "source_page": 11,
+      "source_table": null,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1"
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.97": "0.97",
+      "5.18": "0.97",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = Tbiv",
+      "5.97": "3.69 kW",
+      "5.18": "3.39 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = Tbiv",
+      "5.97": "3",
+      "5.18": "1.86",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.97": "2.24 kW",
+      "5.18": "2.45 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.97": "1.59",
+      "5.18": "1.4",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.97": "0.99",
+      "5.18": "0.99",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "WTOL",
+      "5.97": "60 \u00b0C",
+      "5.18": "60 \u00b0C",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Poff",
+      "5.97": "11 W",
+      "5.18": "11 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PTO",
+      "5.97": "0 W",
+      "5.18": "0 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PSB",
+      "5.97": "11 W",
+      "5.18": "11 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PCK",
+      "5.97": "0 W",
+      "5.18": "0 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.97": "Electricity",
+      "5.18": "Electricity",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: PSUP",
+      "5.97": "5 kW",
+      "5.18": "5 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Annual energy consumption Qhe",
+      "5.97": "3267 kWh",
+      "5.18": "4461 kWh",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = -15\u00b0C (if TOL",
+      "5.97": "3.26",
+      "5.18": "2.77",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = -15\u00b0C (if TOL",
+      "5.97": "2.43",
+      "5.18": "1.59",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = -15 \u00b0C",
+      "5.97": "0.99",
+      "5.18": "0.99",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "5.97": "",
+      "5.18": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "5.97": "",
+      "5.18": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "EN 12102-1 | Warmer Climate",
+      "5.97": "",
+      "5.18": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "45 dB(A)",
+      "medium_temperature": "45 dB(A)",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "60 dB(A)",
+      "medium_temperature": "60 dB(A)",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "240 %",
+      "medium_temperature": "150 %",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5 kW",
+      "medium_temperature": "5 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.07",
+      "medium_temperature": "3.84",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "4 \u00b0C",
+      "medium_temperature": "4 \u00b0C",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "3.94 kW",
+      "medium_temperature": "3.71 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.55",
+      "medium_temperature": "2.12",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "3.3 kW",
+      "medium_temperature": "3.28 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.52",
+      "medium_temperature": "3.39",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.76 kW",
+      "medium_temperature": "2.32 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.7",
+      "medium_temperature": "5.03",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.97",
+      "medium_temperature": "0.98",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "4.23 kW",
+      "medium_temperature": "4.02 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.96",
+      "medium_temperature": "2.28",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 5 kW 5 kW",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1"
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.94_kw": "3.55",
+      "3.71_kw": "2.12",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.94_kw": "0.99",
+      "3.71_kw": "0.99",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "3.94_kw": "60 \u00b0C",
+      "3.71_kw": "60 \u00b0C",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "3.94_kw": "11 W",
+      "3.71_kw": "11 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "3.94_kw": "0 W",
+      "3.71_kw": "0 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "3.94_kw": "11 W",
+      "3.71_kw": "11 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "3.94_kw": "0 W",
+      "3.71_kw": "0 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "3.94_kw": "Electricity",
+      "3.71_kw": "Electricity",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "3.94_kw": "1.06 kW",
+      "3.71_kw": "1.29 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "3.94_kw": "1101 kWh",
+      "3.71_kw": "1741 kWh",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.06 kW 1.29 kW",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "Bosch_Thermoteknik_AB_IVT_AirSplit_304-S_Outdoor_Air_Water_1"
+    }
+  ]
+}

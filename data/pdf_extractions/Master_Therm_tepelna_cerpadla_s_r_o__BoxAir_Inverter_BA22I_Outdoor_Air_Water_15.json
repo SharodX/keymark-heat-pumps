@@ -1,0 +1,671 @@
+{
+  "source_pdf": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15.pdf",
+  "extraction_timestamp": "2025-11-17T15:38:34.556781",
+  "total_records": 79,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype BoxAir Inverter BA22I",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "master_therm_tepelna_cerpadla_s.r.o.": "Vaclavske namesti 819/43",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "master_therm_tepelna_cerpadla_s.r.o.": "110 00",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "master_therm_tepelna_cerpadla_s.r.o.": "Praha",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "master_therm_tepelna_cerpadla_s.r.o.": "CZ",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "master_therm_tepelna_cerpadla_s.r.o.": "SZU - Strojirensky zkusebni ustav (Engineering Test\nInstitute, Public Enterprise)",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "master_therm_tepelna_cerpadla_s.r.o.": "BoxAir Inverter BA22I",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "master_therm_tepelna_cerpadla_s.r.o.": "037-0063-21",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "master_therm_tepelna_cerpadla_s.r.o.": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "master_therm_tepelna_cerpadla_s.r.o.": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "master_therm_tepelna_cerpadla_s.r.o.": "1.3 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "master_therm_tepelna_cerpadla_s.r.o.": "26.01.2021",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "master_therm_tepelna_cerpadla_s.r.o.": "HP Keymark scheme rules rev. no. 7",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "master_therm_tepelna_cerpadla_s.r.o.": "SZU Brno, CZ",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Model BoxAir Inverter BA22I",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "boxair_inverter_ba22i": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "boxair_inverter_ba22i": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "boxair_inverter_ba22i": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "boxair_inverter_ba22i": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "boxair_inverter_ba22i": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "boxair_inverter_ba22i": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "boxair_inverter_ba22i": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "boxair_inverter_ba22i": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "boxair_inverter_ba22i": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "4.91 kW",
+      "medium_temperature": "4.52 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.01 kW",
+      "medium_temperature": "1.49 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.84",
+      "medium_temperature": "3.05",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "50 dB(A)",
+      "medium_temperature": "50 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "177 %",
+      "medium_temperature": "132 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "4.51 kW",
+      "medium_temperature": "4.21 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.51",
+      "medium_temperature": "3.38",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "3.99 kW",
+      "medium_temperature": "3.72 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.74",
+      "medium_temperature": "2.04",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "2.31 kW",
+      "medium_temperature": "2.16 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.31",
+      "medium_temperature": "3.19",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "1.68 kW",
+      "medium_temperature": "1.48 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "6.44": "0.90",
+      "4.89": "0.90",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "6.44": "1.60 kW",
+      "4.89": "1.51 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "6.44": "7.80",
+      "4.89": "5.93",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "6.44": "0.91",
+      "4.89": "0.93",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "6.44": "3.99 kW",
+      "4.89": "3.72 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "6.44": "2.73",
+      "4.89": "2.04",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.44": "3.68 kW",
+      "4.89": "3.47 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.44": "2.61",
+      "4.89": "1.90",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "6.44": "60 \u00b0C",
+      "4.89": "60 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "6.44": "19 W",
+      "4.89": "19 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "6.44": "19 W",
+      "4.89": "19 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "6.44": "19 W",
+      "4.89": "19 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "6.44": "0 W",
+      "4.89": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "6.44": "Electricity",
+      "4.89": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "6.44": "0.83 kW",
+      "4.89": "0.74 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "6.44": "2068 kWh",
+      "4.89": "2570 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.83 kW 0.74 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__BoxAir_Inverter_BA22I_Outdoor_Air_Water_15"
+    }
+  ]
+}

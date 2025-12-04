@@ -1,0 +1,5947 @@
+{
+  "source_pdf": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25.pdf",
+  "extraction_timestamp": "2025-11-17T15:36:11.179515",
+  "total_records": 693,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype RAS-4WH(V)RP2E",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "johnson_controls-hitachi_airconditioning_spain": "Ronda Shimizu, 1. Pol. Ind. Can Torrella",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "johnson_controls-hitachi_airconditioning_spain": "08233",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "johnson_controls-hitachi_airconditioning_spain": "Vacarisses, Barcelona",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "johnson_controls-hitachi_airconditioning_spain": "ES",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "johnson_controls-hitachi_airconditioning_spain": "BRE Global Limited",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "johnson_controls-hitachi_airconditioning_spain": "RAS-4WH(V)RP2E",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "johnson_controls-hitachi_airconditioning_spain": "041-K002-73",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "johnson_controls-hitachi_airconditioning_spain": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "johnson_controls-hitachi_airconditioning_spain": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "johnson_controls-hitachi_airconditioning_spain": "1.8 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "johnson_controls-hitachi_airconditioning_spain": "05.09.2025",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "johnson_controls-hitachi_airconditioning_spain": "Heat Pump Keymark Scheme Rules Rev 15",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "johnson_controls-hitachi_airconditioning_spain": "Centro de Ensayos, Innovaci\u00f3n y Servicios (CEIS), ES",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Model 01. RAS-4WHVRP2E + RWM-4R3E - Heating Only",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "01._ras-4whvrp2e_+_rwm-4r3e_-_heating_only": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "01._ras-4whvrp2e_+_rwm-4r3e_-_heating_only": "Indoor, Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "01._ras-4whvrp2e_+_rwm-4r3e_-_heating_only": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "01._ras-4whvrp2e_+_rwm-4r3e_-_heating_only": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "01._ras-4whvrp2e_+_rwm-4r3e_-_heating_only": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "01._ras-4whvrp2e_+_rwm-4r3e_-_heating_only": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "01._ras-4whvrp2e_+_rwm-4r3e_-_heating_only": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "01._ras-4whvrp2e_+_rwm-4r3e_-_heating_only": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "10.00 kW",
+      "medium_temperature": "10.00 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.17 kW",
+      "medium_temperature": "4.35 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.60",
+      "medium_temperature": "2.30",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "41 dB(A)",
+      "medium_temperature": "41 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "53 dB(A)",
+      "medium_temperature": "53 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "177 %",
+      "medium_temperature": "129 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12.10 kW",
+      "medium_temperature": "12.10 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.49",
+      "medium_temperature": "3.29",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "10.70 kW",
+      "medium_temperature": "10.70 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.96",
+      "medium_temperature": "2.15",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "6.51 kW",
+      "medium_temperature": "6.51 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.20",
+      "medium_temperature": "3.06",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.19 kW",
+      "medium_temperature": "4.19 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "6.13": "0.900",
+      "4.56": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "6.13": "3.99 kW",
+      "4.56": "3.65 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "6.13": "8.62",
+      "4.56": "6.26",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "6.13": "0.900",
+      "4.56": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "6.13": "10.70 kW",
+      "4.56": "10.70 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "6.13": "2.96",
+      "4.56": "2.15",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.13": "12.10 kW",
+      "4.56": "10.59 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.13": "2.89",
+      "4.56": "2.02",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.13": "0.900",
+      "4.56": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "6.13": "55 \u00b0C",
+      "4.56": "55 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "6.13": "14 W",
+      "4.56": "14 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "6.13": "15 W",
+      "4.56": "15 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "6.13": "14 W",
+      "4.56": "14 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "6.13": "0 W",
+      "4.56": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "6.13": "Electricity",
+      "4.56": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "6.13": "0.00 kW",
+      "4.56": "1.50 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "6.13": "5561 kWh",
+      "4.56": "7600 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 1.50 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25"
+    },
+    {
+      "": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Model 02. RAS-4WHVRP2E + RWM-4R3E - With Cooling Kit",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "02._ras-4whvrp2e_+_rwm-4r3e_-_with_cooling_kit": "Heating (medium temp)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "02._ras-4whvrp2e_+_rwm-4r3e_-_with_cooling_kit": "Indoor, Outdoor",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "02._ras-4whvrp2e_+_rwm-4r3e_-_with_cooling_kit": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "02._ras-4whvrp2e_+_rwm-4r3e_-_with_cooling_kit": "Yes",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "02._ras-4whvrp2e_+_rwm-4r3e_-_with_cooling_kit": "+7\u00b0C/12\u00b0C, +18\u00b0C/+23\u00b0C",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "02._ras-4whvrp2e_+_rwm-4r3e_-_with_cooling_kit": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "02._ras-4whvrp2e_+_rwm-4r3e_-_with_cooling_kit": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "02._ras-4whvrp2e_+_rwm-4r3e_-_with_cooling_kit": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "02._ras-4whvrp2e_+_rwm-4r3e_-_with_cooling_kit": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "10.00 kW",
+      "medium_temperature": "10.00 kW",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.17 kW",
+      "medium_temperature": "4.35 kW",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.60",
+      "medium_temperature": "2.30",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-2 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "+7\u00b0c/+12\u00b0c": "9.00 kW",
+      "+18\u00b0c/+23\u00b0c": "10.00 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cooling capacity",
+      "+7\u00b0c/+12\u00b0c": "2.95",
+      "+18\u00b0c/+23\u00b0c": "2.40",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EER",
+      "+7\u00b0c/+12\u00b0c": "3.05",
+      "+18\u00b0c/+23\u00b0c": "4.16",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "41 dB(A)",
+      "medium_temperature": "41 dB(A)",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "53 dB(A)",
+      "medium_temperature": "53 dB(A)",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "178 %",
+      "medium_temperature": "129 %",
+      "source_page": 4,
+      "source_table": 8,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12.10 kW",
+      "medium_temperature": "12.10 kW",
+      "source_page": 4,
+      "source_table": 8,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.54",
+      "medium_temperature": "3.31",
+      "source_page": 4,
+      "source_table": 8,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 4,
+      "source_table": 8,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "TOL",
+      "column_1": "-10 \u00b0C",
+      "column_2": "-10 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = -7\u00b0C",
+      "column_1": "10.70 kW",
+      "column_2": "10.70 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = -7\u00b0C",
+      "column_1": "2.96",
+      "column_2": "2.15",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = -7 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +2\u00b0C",
+      "column_1": "6.51 kW",
+      "column_2": "6.51 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +2\u00b0C",
+      "column_1": "4.20",
+      "column_2": "3.06",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +2 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +7\u00b0C",
+      "column_1": "4.19 kW",
+      "column_2": "4.19 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +7\u00b0C",
+      "column_1": "6.13",
+      "column_2": "4.56",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +7 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = 12\u00b0C",
+      "column_1": "3.99 kW",
+      "column_2": "3.65 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = 12\u00b0C",
+      "column_1": "8.62",
+      "column_2": "6.26",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "10.70 kW",
+      "column_2": "10.70 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "2.96",
+      "column_2": "2.15",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "12.10 kW",
+      "column_2": "10.59 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "2.89",
+      "column_2": "2.02",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "55 \u00b0C",
+      "column_2": "55 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "14 W",
+      "column_2": "14 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "15 W",
+      "column_2": "15 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "14 W",
+      "column_2": "14 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "1.50 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "5508 kWh",
+      "column_2": "7548 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 14825 | Cooling",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignc",
+      "+7\u00b0c/+12\u00b0c": "9.00 kW",
+      "+18\u00b0c/+23\u00b0c": "10.00 kW",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "SEER",
+      "+7\u00b0c/+12\u00b0c": "4.76",
+      "+18\u00b0c/+23\u00b0c": "7.61",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "9.00 kW",
+      "+18\u00b0c/+23\u00b0c": "10.00 kW",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.05",
+      "+18\u00b0c/+23\u00b0c": "4.16",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 35 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.900",
+      "+18\u00b0c/+23\u00b0c": "0.900",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.63 kW",
+      "+18\u00b0c/+23\u00b0c": "7.40 kW",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.22",
+      "+18\u00b0c/+23\u00b0c": "6.91",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 30 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.900",
+      "+18\u00b0c/+23\u00b0c": "0.900",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.26 kW",
+      "+18\u00b0c/+23\u00b0c": "6.00 kW",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "5.70",
+      "+18\u00b0c/+23\u00b0c": "8.49",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 25 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.900",
+      "+18\u00b0c/+23\u00b0c": "0.900",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.60 kW",
+      "+18\u00b0c/+23\u00b0c": "4.90 kW",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "5.74",
+      "+18\u00b0c/+23\u00b0c": "12.38",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 20 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.900",
+      "+18\u00b0c/+23\u00b0c": "0.900",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 1.50 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25"
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "14 W",
+      "column_2": "14 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "15 W",
+      "column_2": "15 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "14 W",
+      "column_2": "14 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qce",
+      "column_1": "1134 kWh",
+      "column_2": "789 kWh",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Model 05. RAS-4WHRP2E + RWM-4R3E - Heating Only",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "05._ras-4whrp2e_+_rwm-4r3e_-_heating_only": "Heating (medium temp)",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "05._ras-4whrp2e_+_rwm-4r3e_-_heating_only": "Indoor, Outdoor",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "05._ras-4whrp2e_+_rwm-4r3e_-_heating_only": "n/a",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "05._ras-4whrp2e_+_rwm-4r3e_-_heating_only": "n/a",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "05._ras-4whrp2e_+_rwm-4r3e_-_heating_only": "n/a",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "05._ras-4whrp2e_+_rwm-4r3e_-_heating_only": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "05._ras-4whrp2e_+_rwm-4r3e_-_heating_only": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "05._ras-4whrp2e_+_rwm-4r3e_-_heating_only": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "10.00 kW",
+      "medium_temperature": "10.00 kW",
+      "source_page": 7,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.17 kW",
+      "medium_temperature": "4.35 kW",
+      "source_page": 7,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.60",
+      "medium_temperature": "2.30",
+      "source_page": 7,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "41 dB(A)",
+      "medium_temperature": "41 dB(A)",
+      "source_page": 7,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "53 dB(A)",
+      "medium_temperature": "53 dB(A)",
+      "source_page": 7,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "177 %",
+      "medium_temperature": "129 %",
+      "source_page": 7,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12.10 kW",
+      "medium_temperature": "12.10 kW",
+      "source_page": 7,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.49",
+      "medium_temperature": "3.29",
+      "source_page": 7,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 7,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 7,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "10.70 kW",
+      "medium_temperature": "10.70 kW",
+      "source_page": 7,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.96",
+      "medium_temperature": "2.15",
+      "source_page": 7,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 7,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "6.51 kW",
+      "medium_temperature": "6.51 kW",
+      "source_page": 7,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.20",
+      "medium_temperature": "3.06",
+      "source_page": 7,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 7,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.19 kW",
+      "medium_temperature": "4.19 kW",
+      "source_page": 7,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "6.13": "0.900",
+      "4.56": "0.900",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "6.13": "3.99 kW",
+      "4.56": "3.65 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "6.13": "8.62",
+      "4.56": "6.26",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "6.13": "0.900",
+      "4.56": "0.900",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "6.13": "10.70 kW",
+      "4.56": "10.70 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "6.13": "2.96",
+      "4.56": "2.15",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.13": "12.10 kW",
+      "4.56": "10.59 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.13": "2.89",
+      "4.56": "2.02",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.13": "0.900",
+      "4.56": "0.900",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "6.13": "55 \u00b0C",
+      "4.56": "55 \u00b0C",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "6.13": "14 W",
+      "4.56": "14 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "6.13": "15 W",
+      "4.56": "15 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "6.13": "14 W",
+      "4.56": "14 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "6.13": "0 W",
+      "4.56": "0 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "6.13": "Electricity",
+      "4.56": "Electricity",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "6.13": "0.00 kW",
+      "4.56": "1.50 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "6.13": "5561 kWh",
+      "4.56": "7600 kWh",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 1.50 kW",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25"
+    },
+    {
+      "": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Model 06. RAS-4WHRP2E + RWM-4R3E - With Cooling Kit",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "06._ras-4whrp2e_+_rwm-4r3e_-_with_cooling_kit": "Heating (medium temp)",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "06._ras-4whrp2e_+_rwm-4r3e_-_with_cooling_kit": "Indoor, Outdoor",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "06._ras-4whrp2e_+_rwm-4r3e_-_with_cooling_kit": "n/a",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "06._ras-4whrp2e_+_rwm-4r3e_-_with_cooling_kit": "Yes",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "06._ras-4whrp2e_+_rwm-4r3e_-_with_cooling_kit": "+7\u00b0C/12\u00b0C, +18\u00b0C/+23\u00b0C",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "06._ras-4whrp2e_+_rwm-4r3e_-_with_cooling_kit": "n/a",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "06._ras-4whrp2e_+_rwm-4r3e_-_with_cooling_kit": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "06._ras-4whrp2e_+_rwm-4r3e_-_with_cooling_kit": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "06._ras-4whrp2e_+_rwm-4r3e_-_with_cooling_kit": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 9,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 9,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 9,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 9,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 9,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 9,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "10.00 kW",
+      "medium_temperature": "10.00 kW",
+      "source_page": 9,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.17 kW",
+      "medium_temperature": "4.35 kW",
+      "source_page": 9,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.60",
+      "medium_temperature": "2.30",
+      "source_page": 9,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-2 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "+7\u00b0c/+12\u00b0c": "9.00 kW",
+      "+18\u00b0c/+23\u00b0c": "10.00 kW",
+      "source_page": 9,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cooling capacity",
+      "+7\u00b0c/+12\u00b0c": "2.95",
+      "+18\u00b0c/+23\u00b0c": "2.40",
+      "source_page": 9,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EER",
+      "+7\u00b0c/+12\u00b0c": "3.05",
+      "+18\u00b0c/+23\u00b0c": "4.16",
+      "source_page": 9,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "41 dB(A)",
+      "medium_temperature": "41 dB(A)",
+      "source_page": 9,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "53 dB(A)",
+      "medium_temperature": "53 dB(A)",
+      "source_page": 9,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "178 %",
+      "medium_temperature": "129 %",
+      "source_page": 9,
+      "source_table": 8,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12.10 kW",
+      "medium_temperature": "12.10 kW",
+      "source_page": 9,
+      "source_table": 8,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.54",
+      "medium_temperature": "3.31",
+      "source_page": 9,
+      "source_table": 8,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 9,
+      "source_table": 8,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "TOL",
+      "column_1": "-10 \u00b0C",
+      "column_2": "-10 \u00b0C",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = -7\u00b0C",
+      "column_1": "10.70 kW",
+      "column_2": "10.70 kW",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = -7\u00b0C",
+      "column_1": "2.96",
+      "column_2": "2.15",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = -7 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +2\u00b0C",
+      "column_1": "6.51 kW",
+      "column_2": "6.51 kW",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +2\u00b0C",
+      "column_1": "4.20",
+      "column_2": "3.06",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +2 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +7\u00b0C",
+      "column_1": "4.19 kW",
+      "column_2": "4.19 kW",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +7\u00b0C",
+      "column_1": "6.13",
+      "column_2": "4.56",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +7 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = 12\u00b0C",
+      "column_1": "3.99 kW",
+      "column_2": "3.65 kW",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = 12\u00b0C",
+      "column_1": "8.62",
+      "column_2": "6.26",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "10.70 kW",
+      "column_2": "10.70 kW",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "2.96",
+      "column_2": "2.15",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "12.10 kW",
+      "column_2": "10.59 kW",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "2.89",
+      "column_2": "2.02",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "55 \u00b0C",
+      "column_2": "55 \u00b0C",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "14 W",
+      "column_2": "14 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "15 W",
+      "column_2": "15 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "14 W",
+      "column_2": "14 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "1.50 kW",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "5508 kWh",
+      "column_2": "7548 kWh",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 14825 | Cooling",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignc",
+      "+7\u00b0c/+12\u00b0c": "9.00 kW",
+      "+18\u00b0c/+23\u00b0c": "10.00 kW",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "SEER",
+      "+7\u00b0c/+12\u00b0c": "4.76",
+      "+18\u00b0c/+23\u00b0c": "7.61",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "9.00 kW",
+      "+18\u00b0c/+23\u00b0c": "10.00 kW",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.05",
+      "+18\u00b0c/+23\u00b0c": "4.16",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 35 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.900",
+      "+18\u00b0c/+23\u00b0c": "0.900",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.63 kW",
+      "+18\u00b0c/+23\u00b0c": "7.40 kW",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.22",
+      "+18\u00b0c/+23\u00b0c": "6.91",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 30 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.900",
+      "+18\u00b0c/+23\u00b0c": "0.900",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.26 kW",
+      "+18\u00b0c/+23\u00b0c": "6.00 kW",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "5.70",
+      "+18\u00b0c/+23\u00b0c": "8.49",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 25 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.900",
+      "+18\u00b0c/+23\u00b0c": "0.900",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.60 kW",
+      "+18\u00b0c/+23\u00b0c": "4.90 kW",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "5.74",
+      "+18\u00b0c/+23\u00b0c": "12.38",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 20 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.900",
+      "+18\u00b0c/+23\u00b0c": "0.900",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 10,
+      "source_table": null,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 1.50 kW",
+      "source_page": 10,
+      "source_table": null,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25"
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "14 W",
+      "column_2": "14 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "15 W",
+      "column_2": "15 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "14 W",
+      "column_2": "14 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qce",
+      "column_1": "1134 kWh",
+      "column_2": "789 kWh",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Model 03. RAS-4WHVRP2E + RWD-4RW3E-220S(-K) - Heating Only",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "03._ras-4whvrp2e_+_rwd-4rw3e-220s(-k)_-_heating_only": "Heating + DHW + low temp",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "03._ras-4whvrp2e_+_rwd-4rw3e-220s(-k)_-_heating_only": "Indoor, Outdoor",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "03._ras-4whvrp2e_+_rwd-4rw3e-220s(-k)_-_heating_only": "n/a",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "03._ras-4whvrp2e_+_rwd-4rw3e-220s(-k)_-_heating_only": "n/a",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "03._ras-4whvrp2e_+_rwd-4rw3e-220s(-k)_-_heating_only": "n/a",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "03._ras-4whvrp2e_+_rwd-4rw3e-220s(-k)_-_heating_only": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "03._ras-4whvrp2e_+_rwd-4rw3e-220s(-k)_-_heating_only": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "03._ras-4whvrp2e_+_rwd-4rw3e-220s(-k)_-_heating_only": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "l": "112 %",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "l": "2.73",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "l": "1:13 h:min",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "l": "43.0 W",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "l": "52.0 \u00b0C",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "l": "273 l",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "l": "",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "l": "",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "l": "",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 12,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 12,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 12,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 12,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 12,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 12,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "10.00 kW",
+      "medium_temperature": "10.00 kW",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.17 kW",
+      "medium_temperature": "4.35 kW",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.60",
+      "medium_temperature": "2.30",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "41 dB(A)",
+      "medium_temperature": "41 dB(A)",
+      "source_page": 12,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "53 dB(A)",
+      "medium_temperature": "53 dB(A)",
+      "source_page": 12,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "177 %",
+      "medium_temperature": "129 %",
+      "source_page": 12,
+      "source_table": 8,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12.10 kW",
+      "medium_temperature": "12.10 kW",
+      "source_page": 12,
+      "source_table": 8,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_1",
+      "value": "13 h:min",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25"
+    },
+    {
+      "scop": "Tbiv",
+      "4.49": "-7 \u00b0C",
+      "3.29": "-7 \u00b0C",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "TOL",
+      "4.49": "-10 \u00b0C",
+      "3.29": "-10 \u00b0C",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = -7\u00b0C",
+      "4.49": "10.70 kW",
+      "3.29": "10.70 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = -7\u00b0C",
+      "4.49": "2.96",
+      "3.29": "2.15",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = -7 \u00b0C",
+      "4.49": "0.900",
+      "3.29": "0.900",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +2\u00b0C",
+      "4.49": "6.51 kW",
+      "3.29": "6.51 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +2\u00b0C",
+      "4.49": "4.20",
+      "3.29": "3.06",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +2 \u00b0C",
+      "4.49": "0.900",
+      "3.29": "0.900",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +7\u00b0C",
+      "4.49": "4.19 kW",
+      "3.29": "4.19 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +7\u00b0C",
+      "4.49": "6.13",
+      "3.29": "4.56",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +7 \u00b0C",
+      "4.49": "0.900",
+      "3.29": "0.900",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = 12\u00b0C",
+      "4.49": "3.99 kW",
+      "3.29": "3.65 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = 12\u00b0C",
+      "4.49": "8.62",
+      "3.29": "6.26",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +12 \u00b0C",
+      "4.49": "0.900",
+      "3.29": "0.900",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = Tbiv",
+      "4.49": "10.70 kW",
+      "3.29": "10.70 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = Tbiv",
+      "4.49": "2.96",
+      "3.29": "2.15",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.49": "12.10 kW",
+      "3.29": "10.59 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.49": "2.89",
+      "3.29": "2.02",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.49": "0.900",
+      "3.29": "0.900",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "WTOL",
+      "4.49": "55 \u00b0C",
+      "3.29": "55 \u00b0C",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Poff",
+      "4.49": "14 W",
+      "3.29": "14 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "PTO",
+      "4.49": "15 W",
+      "3.29": "15 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "PSB",
+      "4.49": "14 W",
+      "3.29": "14 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "PCK",
+      "4.49": "0 W",
+      "3.29": "0 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: Type of energy\ninput",
+      "4.49": "Electricity",
+      "3.29": "Electricity",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: PSUP",
+      "4.49": "0.00 kW",
+      "3.29": "1.50 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Annual energy consumption Qhe",
+      "4.49": "5561 kWh",
+      "3.29": "7600 kWh",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 1.50 kW",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25"
+    },
+    {
+      "": "",
+      "source_page": 14,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Model 04. RAS-4WHVRP2E + RWD-4RW3E-220S(-K) - With Cooling Kit",
+      "source_page": 14,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "04._ras-4whvrp2e_+_rwd-4rw3e-220s(-k)_-_with_cooling_kit": "Heating + DHW + low temp",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "04._ras-4whvrp2e_+_rwd-4rw3e-220s(-k)_-_with_cooling_kit": "Indoor, Outdoor",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "04._ras-4whvrp2e_+_rwd-4rw3e-220s(-k)_-_with_cooling_kit": "n/a",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "04._ras-4whvrp2e_+_rwd-4rw3e-220s(-k)_-_with_cooling_kit": "Yes",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "04._ras-4whvrp2e_+_rwd-4rw3e-220s(-k)_-_with_cooling_kit": "+7\u00b0C/12\u00b0C, +18\u00b0C/+23\u00b0C",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "04._ras-4whvrp2e_+_rwd-4rw3e-220s(-k)_-_with_cooling_kit": "n/a",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "04._ras-4whvrp2e_+_rwd-4rw3e-220s(-k)_-_with_cooling_kit": "",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "04._ras-4whvrp2e_+_rwd-4rw3e-220s(-k)_-_with_cooling_kit": "",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "04._ras-4whvrp2e_+_rwd-4rw3e-220s(-k)_-_with_cooling_kit": "",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "l": "112 %",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "l": "2.73",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "l": "1:13 h:min",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "l": "43.0 W",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "l": "52.0 \u00b0C",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "l": "273 l",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "l": "",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "l": "",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "l": "",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "10.00 kW",
+      "medium_temperature": "10.00 kW",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.17 kW",
+      "medium_temperature": "4.35 kW",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.60",
+      "medium_temperature": "2.30",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-2 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "+7\u00b0c/+12\u00b0c": "9.00 kW",
+      "+18\u00b0c/+23\u00b0c": "10.00 kW",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cooling capacity",
+      "+7\u00b0c/+12\u00b0c": "2.95",
+      "+18\u00b0c/+23\u00b0c": "2.40",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EER",
+      "+7\u00b0c/+12\u00b0c": "3.05",
+      "+18\u00b0c/+23\u00b0c": "4.16",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_1",
+      "value": "13 h:min",
+      "source_page": 14,
+      "source_table": null,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25"
+    },
+    {
+      "column_0": "Sound power level indoor",
+      "column_1": "41 dB(A)",
+      "column_2": "41 dB(A)",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Sound power level outdoor",
+      "column_1": "53 dB(A)",
+      "column_2": "53 dB(A)",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 14825 | Average Climate",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "178 %",
+      "medium_temperature": "129 %",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12.10 kW",
+      "medium_temperature": "12.10 kW",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.54",
+      "medium_temperature": "3.31",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "10.70 kW",
+      "medium_temperature": "10.70 kW",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.96",
+      "medium_temperature": "2.15",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "6.51 kW",
+      "medium_temperature": "6.51 kW",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.20",
+      "medium_temperature": "3.06",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.19 kW",
+      "medium_temperature": "4.19 kW",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.13",
+      "medium_temperature": "4.56",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "3.99 kW",
+      "medium_temperature": "3.65 kW",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "8.62",
+      "medium_temperature": "6.26",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "10.70 kW",
+      "medium_temperature": "10.70 kW",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "2.96",
+      "medium_temperature": "2.15",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "12.10 kW",
+      "medium_temperature": "10.59 kW",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "2.89",
+      "medium_temperature": "2.02",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "55 \u00b0C",
+      "medium_temperature": "55 \u00b0C",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "14 W",
+      "medium_temperature": "14 W",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "15 W",
+      "medium_temperature": "15 W",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "14 W",
+      "medium_temperature": "14 W",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "Electricity",
+      "medium_temperature": "Electricity",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "0.00 kW",
+      "medium_temperature": "1.50 kW",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qhe",
+      "low_temperature": "5508 kWh",
+      "medium_temperature": "7548 kWh",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignc",
+      "+7\u00b0c/+12\u00b0c": "9.00 kW",
+      "+18\u00b0c/+23\u00b0c": "10.00 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "SEER",
+      "+7\u00b0c/+12\u00b0c": "4.76",
+      "+18\u00b0c/+23\u00b0c": "7.61",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "9.00 kW",
+      "+18\u00b0c/+23\u00b0c": "10.00 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.05",
+      "+18\u00b0c/+23\u00b0c": "4.16",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 35 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.900",
+      "+18\u00b0c/+23\u00b0c": "0.900",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 15,
+      "source_table": null,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 1.50 kW",
+      "source_page": 15,
+      "source_table": null,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25"
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "EER Tj = 30\u00b0C",
+      "6.63_kw": "4.22",
+      "7.40_kw": "6.91",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "Cdc Tj = 30 \u00b0C",
+      "6.63_kw": "0.900",
+      "7.40_kw": "0.900",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "Pdc Tj = 25\u00b0C",
+      "6.63_kw": "4.26 kW",
+      "7.40_kw": "6.00 kW",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "EER Tj = 25\u00b0C",
+      "6.63_kw": "5.70",
+      "7.40_kw": "8.49",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "Cdc Tj = 25 \u00b0C",
+      "6.63_kw": "0.900",
+      "7.40_kw": "0.900",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "Pdc Tj = 20\u00b0C",
+      "6.63_kw": "3.60 kW",
+      "7.40_kw": "4.90 kW",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "EER Tj = 20\u00b0C",
+      "6.63_kw": "5.74",
+      "7.40_kw": "12.38",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "Cdc Tj = 20 \u00b0C",
+      "6.63_kw": "0.900",
+      "7.40_kw": "0.900",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "Poff",
+      "6.63_kw": "14 W",
+      "7.40_kw": "14 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "PTO",
+      "6.63_kw": "15 W",
+      "7.40_kw": "15 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "PSB",
+      "6.63_kw": "14 W",
+      "7.40_kw": "14 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "PCK",
+      "6.63_kw": "0 W",
+      "7.40_kw": "0 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "Annual energy consumption Qce",
+      "6.63_kw": "1134 kWh",
+      "7.40_kw": "789 kWh",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Model 07. RAS-4WHRP2E + RWD-4RW3E-220S(-K) - Heating Only",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "07._ras-4whrp2e_+_rwd-4rw3e-220s(-k)_-_heating_only": "Heating + DHW + low temp",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "07._ras-4whrp2e_+_rwd-4rw3e-220s(-k)_-_heating_only": "Indoor, Outdoor",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "07._ras-4whrp2e_+_rwd-4rw3e-220s(-k)_-_heating_only": "n/a",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "07._ras-4whrp2e_+_rwd-4rw3e-220s(-k)_-_heating_only": "n/a",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "07._ras-4whrp2e_+_rwd-4rw3e-220s(-k)_-_heating_only": "n/a",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "07._ras-4whrp2e_+_rwd-4rw3e-220s(-k)_-_heating_only": "",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "07._ras-4whrp2e_+_rwd-4rw3e-220s(-k)_-_heating_only": "",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "07._ras-4whrp2e_+_rwd-4rw3e-220s(-k)_-_heating_only": "",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 17,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 17,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 17,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 17,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 17,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 17,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "3x400v_50hz": "",
+      "source_page": 17,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "l": "112 %",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "l": "2.73",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "l": "1:13 h:min",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "l": "43.0 W",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "l": "52.0 \u00b0C",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "l": "273 l",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "l": "",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "l": "",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "l": "",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 17,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 17,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 17,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 17,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 17,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 17,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "10.00 kW",
+      "medium_temperature": "10.00 kW",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.17 kW",
+      "medium_temperature": "4.35 kW",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.60",
+      "medium_temperature": "2.30",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "41 dB(A)",
+      "medium_temperature": "41 dB(A)",
+      "source_page": 17,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "53 dB(A)",
+      "medium_temperature": "53 dB(A)",
+      "source_page": 17,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 17,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 17,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 17,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "177 %",
+      "medium_temperature": "129 %",
+      "source_page": 17,
+      "source_table": 8,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12.10 kW",
+      "medium_temperature": "12.10 kW",
+      "source_page": 17,
+      "source_table": 8,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_1",
+      "value": "13 h:min",
+      "source_page": 17,
+      "source_table": null,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25"
+    },
+    {
+      "scop": "Tbiv",
+      "4.49": "-7 \u00b0C",
+      "3.29": "-7 \u00b0C",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "TOL",
+      "4.49": "-10 \u00b0C",
+      "3.29": "-10 \u00b0C",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = -7\u00b0C",
+      "4.49": "10.70 kW",
+      "3.29": "10.70 kW",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = -7\u00b0C",
+      "4.49": "2.96",
+      "3.29": "2.15",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = -7 \u00b0C",
+      "4.49": "0.900",
+      "3.29": "0.900",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +2\u00b0C",
+      "4.49": "6.51 kW",
+      "3.29": "6.51 kW",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +2\u00b0C",
+      "4.49": "4.20",
+      "3.29": "3.06",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +2 \u00b0C",
+      "4.49": "0.900",
+      "3.29": "0.900",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +7\u00b0C",
+      "4.49": "4.19 kW",
+      "3.29": "4.19 kW",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +7\u00b0C",
+      "4.49": "6.13",
+      "3.29": "4.56",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +7 \u00b0C",
+      "4.49": "0.900",
+      "3.29": "0.900",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = 12\u00b0C",
+      "4.49": "3.99 kW",
+      "3.29": "3.65 kW",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = 12\u00b0C",
+      "4.49": "8.62",
+      "3.29": "6.26",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +12 \u00b0C",
+      "4.49": "0.900",
+      "3.29": "0.900",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = Tbiv",
+      "4.49": "10.70 kW",
+      "3.29": "10.70 kW",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = Tbiv",
+      "4.49": "2.96",
+      "3.29": "2.15",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.49": "12.10 kW",
+      "3.29": "10.59 kW",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.49": "2.89",
+      "3.29": "2.02",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.49": "0.900",
+      "3.29": "0.900",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "WTOL",
+      "4.49": "55 \u00b0C",
+      "3.29": "55 \u00b0C",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Poff",
+      "4.49": "14 W",
+      "3.29": "14 W",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "PTO",
+      "4.49": "15 W",
+      "3.29": "15 W",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "PSB",
+      "4.49": "14 W",
+      "3.29": "14 W",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "PCK",
+      "4.49": "0 W",
+      "3.29": "0 W",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: Type of energy\ninput",
+      "4.49": "Electricity",
+      "3.29": "Electricity",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: PSUP",
+      "4.49": "0.00 kW",
+      "3.29": "1.50 kW",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "scop": "Annual energy consumption Qhe",
+      "4.49": "5561 kWh",
+      "3.29": "7600 kWh",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 18,
+      "source_table": null,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 1.50 kW",
+      "source_page": 18,
+      "source_table": null,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25"
+    },
+    {
+      "": "",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Model 08. RAS-4WHRP2E + RWD-4RW3E-220S(-K) - With Cooling Kit",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "08._ras-4whrp2e_+_rwd-4rw3e-220s(-k)_-_with_cooling_kit": "Heating + DHW + low temp",
+      "source_page": 19,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "08._ras-4whrp2e_+_rwd-4rw3e-220s(-k)_-_with_cooling_kit": "Indoor, Outdoor",
+      "source_page": 19,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "08._ras-4whrp2e_+_rwd-4rw3e-220s(-k)_-_with_cooling_kit": "n/a",
+      "source_page": 19,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "08._ras-4whrp2e_+_rwd-4rw3e-220s(-k)_-_with_cooling_kit": "Yes",
+      "source_page": 19,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "08._ras-4whrp2e_+_rwd-4rw3e-220s(-k)_-_with_cooling_kit": "+7\u00b0C/12\u00b0C, +18\u00b0C/+23\u00b0C",
+      "source_page": 19,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "08._ras-4whrp2e_+_rwd-4rw3e-220s(-k)_-_with_cooling_kit": "n/a",
+      "source_page": 19,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "08._ras-4whrp2e_+_rwd-4rw3e-220s(-k)_-_with_cooling_kit": "",
+      "source_page": 19,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "08._ras-4whrp2e_+_rwd-4rw3e-220s(-k)_-_with_cooling_kit": "",
+      "source_page": 19,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "08._ras-4whrp2e_+_rwd-4rw3e-220s(-k)_-_with_cooling_kit": "",
+      "source_page": 19,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 19,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 19,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 19,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 19,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 19,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 19,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "3x400v_50hz": "",
+      "source_page": 19,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "l": "112 %",
+      "source_page": 19,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "l": "2.73",
+      "source_page": 19,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "l": "1:13 h:min",
+      "source_page": 19,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "l": "43.0 W",
+      "source_page": 19,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "l": "52.0 \u00b0C",
+      "source_page": 19,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "l": "273 l",
+      "source_page": 19,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "l": "",
+      "source_page": 19,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "l": "",
+      "source_page": 19,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "l": "",
+      "source_page": 19,
+      "source_table": 4,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 19,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 19,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 19,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 19,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 19,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 19,
+      "source_table": 5,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "10.00 kW",
+      "medium_temperature": "10.00 kW",
+      "source_page": 19,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.17 kW",
+      "medium_temperature": "4.35 kW",
+      "source_page": 19,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.60",
+      "medium_temperature": "2.30",
+      "source_page": 19,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 19,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 19,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-2 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 19,
+      "source_table": 6,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "+7\u00b0c/+12\u00b0c": "9.00 kW",
+      "+18\u00b0c/+23\u00b0c": "10.00 kW",
+      "source_page": 19,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cooling capacity",
+      "+7\u00b0c/+12\u00b0c": "2.95",
+      "+18\u00b0c/+23\u00b0c": "2.40",
+      "source_page": 19,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EER",
+      "+7\u00b0c/+12\u00b0c": "3.05",
+      "+18\u00b0c/+23\u00b0c": "4.16",
+      "source_page": 19,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 19,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 19,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 19,
+      "source_table": 7,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_1",
+      "value": "13 h:min",
+      "source_page": 19,
+      "source_table": null,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25"
+    },
+    {
+      "column_0": "Sound power level indoor",
+      "column_1": "41 dB(A)",
+      "column_2": "41 dB(A)",
+      "source_page": 20,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Sound power level outdoor",
+      "column_1": "53 dB(A)",
+      "column_2": "53 dB(A)",
+      "source_page": 20,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 20,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 20,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 14825 | Average Climate",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 20,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "178 %",
+      "medium_temperature": "129 %",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12.10 kW",
+      "medium_temperature": "12.10 kW",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.54",
+      "medium_temperature": "3.31",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "10.70 kW",
+      "medium_temperature": "10.70 kW",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.96",
+      "medium_temperature": "2.15",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "6.51 kW",
+      "medium_temperature": "6.51 kW",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.20",
+      "medium_temperature": "3.06",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.19 kW",
+      "medium_temperature": "4.19 kW",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.13",
+      "medium_temperature": "4.56",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "3.99 kW",
+      "medium_temperature": "3.65 kW",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "8.62",
+      "medium_temperature": "6.26",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "10.70 kW",
+      "medium_temperature": "10.70 kW",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "2.96",
+      "medium_temperature": "2.15",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "12.10 kW",
+      "medium_temperature": "10.59 kW",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "2.89",
+      "medium_temperature": "2.02",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "55 \u00b0C",
+      "medium_temperature": "55 \u00b0C",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "14 W",
+      "medium_temperature": "14 W",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "15 W",
+      "medium_temperature": "15 W",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "14 W",
+      "medium_temperature": "14 W",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "Electricity",
+      "medium_temperature": "Electricity",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "0.00 kW",
+      "medium_temperature": "1.50 kW",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qhe",
+      "low_temperature": "5508 kWh",
+      "medium_temperature": "7548 kWh",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 20,
+      "source_table": 2,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignc",
+      "+7\u00b0c/+12\u00b0c": "9.00 kW",
+      "+18\u00b0c/+23\u00b0c": "10.00 kW",
+      "source_page": 20,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "SEER",
+      "+7\u00b0c/+12\u00b0c": "4.76",
+      "+18\u00b0c/+23\u00b0c": "7.61",
+      "source_page": 20,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "9.00 kW",
+      "+18\u00b0c/+23\u00b0c": "10.00 kW",
+      "source_page": 20,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.05",
+      "+18\u00b0c/+23\u00b0c": "4.16",
+      "source_page": 20,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 35 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.900",
+      "+18\u00b0c/+23\u00b0c": "0.900",
+      "source_page": 20,
+      "source_table": 3,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 20,
+      "source_table": null,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 1.50 kW",
+      "source_page": 20,
+      "source_table": null,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25"
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "EER Tj = 30\u00b0C",
+      "6.63_kw": "4.22",
+      "7.40_kw": "6.91",
+      "source_page": 21,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "Cdc Tj = 30 \u00b0C",
+      "6.63_kw": "0.900",
+      "7.40_kw": "0.900",
+      "source_page": 21,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "Pdc Tj = 25\u00b0C",
+      "6.63_kw": "4.26 kW",
+      "7.40_kw": "6.00 kW",
+      "source_page": 21,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "EER Tj = 25\u00b0C",
+      "6.63_kw": "5.70",
+      "7.40_kw": "8.49",
+      "source_page": 21,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "Cdc Tj = 25 \u00b0C",
+      "6.63_kw": "0.900",
+      "7.40_kw": "0.900",
+      "source_page": 21,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "Pdc Tj = 20\u00b0C",
+      "6.63_kw": "3.60 kW",
+      "7.40_kw": "4.90 kW",
+      "source_page": 21,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "EER Tj = 20\u00b0C",
+      "6.63_kw": "5.74",
+      "7.40_kw": "12.38",
+      "source_page": 21,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "Cdc Tj = 20 \u00b0C",
+      "6.63_kw": "0.900",
+      "7.40_kw": "0.900",
+      "source_page": 21,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "Poff",
+      "6.63_kw": "14 W",
+      "7.40_kw": "14 W",
+      "source_page": 21,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "PTO",
+      "6.63_kw": "15 W",
+      "7.40_kw": "15 W",
+      "source_page": 21,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "PSB",
+      "6.63_kw": "14 W",
+      "7.40_kw": "14 W",
+      "source_page": 21,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "PCK",
+      "6.63_kw": "0 W",
+      "7.40_kw": "0 W",
+      "source_page": 21,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_30\u00b0c": "Annual energy consumption Qce",
+      "6.63_kw": "1134 kWh",
+      "7.40_kw": "789 kWh",
+      "source_page": 21,
+      "source_table": 1,
+      "model_id": "Johnson_Controls-Hitachi_AirConditioning_RAS-4WH_V_RP2E_Outdoor_Air_Water_25",
+      "submodel_id": null
+    }
+  ]
+}

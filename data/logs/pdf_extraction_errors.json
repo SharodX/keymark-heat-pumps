@@ -1,0 +1,79 @@
+[
+  {
+    "file": "Clivet_s_p_a__Sheen_EVO_EVO_2_0_-_10_1__12_1__14_1_Outdoor_Air_Water_21",
+    "relative_path": "Clivet_s_p_a__Sheen_EVO_EVO_2_0_-_10_1__12_1__14_1_Outdoor_Air_Water_21.pdf",
+    "error_type": "PDFExtractionError",
+    "error": "Failed to parse PDF /workspaces/keymark-heat-pumps/data/source/Clivet_s_p_a__Sheen_EVO_EVO_2_0_-_10_1__12_1__14_1_Outdoor_Air_Water_21.pdf: 'NoneType' object has no attribute 'strip'",
+    "timestamp": "2025-11-17T15:18:10.627623"
+  },
+  {
+    "file": "ELCO_GmbH_AEROTOP_EVO___AEROTOP_EVO_PLUS_Outdoor_Air_Water_3",
+    "relative_path": "ELCO_GmbH_AEROTOP_EVO___AEROTOP_EVO_PLUS_Outdoor_Air_Water_3.pdf",
+    "error_type": "PDFExtractionError",
+    "error": "Failed to parse PDF /workspaces/keymark-heat-pumps/data/source/ELCO_GmbH_AEROTOP_EVO___AEROTOP_EVO_PLUS_Outdoor_Air_Water_3.pdf: 'NoneType' object has no attribute 'strip'",
+    "timestamp": "2025-11-17T15:23:19.797735"
+  },
+  {
+    "file": "ELCO_GmbH_AEROTOP_M_024_027_032_Outdoor_Air_Water_9",
+    "relative_path": "ELCO_GmbH_AEROTOP_M_024_027_032_Outdoor_Air_Water_9.pdf",
+    "error_type": "PDFExtractionError",
+    "error": "Failed to parse PDF /workspaces/keymark-heat-pumps/data/source/ELCO_GmbH_AEROTOP_M_024_027_032_Outdoor_Air_Water_9.pdf: 'NoneType' object has no attribute 'strip'",
+    "timestamp": "2025-11-17T15:23:21.159374"
+  },
+  {
+    "file": "ELCO_GmbH_AEROTOP_M_048_Outdoor_Air_Water_10",
+    "relative_path": "ELCO_GmbH_AEROTOP_M_048_Outdoor_Air_Water_10.pdf",
+    "error_type": "PDFExtractionError",
+    "error": "Failed to parse PDF /workspaces/keymark-heat-pumps/data/source/ELCO_GmbH_AEROTOP_M_048_Outdoor_Air_Water_10.pdf: 'NoneType' object has no attribute 'strip'",
+    "timestamp": "2025-11-17T15:23:21.411020"
+  },
+  {
+    "file": "Groupe_Atlantic_FUJITSU_Waterstage_Super_High_Power_15_3-phases_Outdoor_Air_Water_112",
+    "relative_path": "Groupe_Atlantic_FUJITSU_Waterstage_Super_High_Power_15_3-phases_Outdoor_Air_Water_112.pdf",
+    "error_type": "PDFExtractionError",
+    "error": "Failed to parse PDF /workspaces/keymark-heat-pumps/data/source/Groupe_Atlantic_FUJITSU_Waterstage_Super_High_Power_15_3-phases_Outdoor_Air_Water_112.pdf: 'NoneType' object has no attribute 'strip'",
+    "timestamp": "2025-11-17T15:32:27.824012"
+  },
+  {
+    "file": "Groupe_Atlantic_FUJITSU_Waterstage_Super_High_Power_17__3-phases_Outdoor_Air_Water_114",
+    "relative_path": "Groupe_Atlantic_FUJITSU_Waterstage_Super_High_Power_17__3-phases_Outdoor_Air_Water_114.pdf",
+    "error_type": "PDFExtractionError",
+    "error": "Failed to parse PDF /workspaces/keymark-heat-pumps/data/source/Groupe_Atlantic_FUJITSU_Waterstage_Super_High_Power_17__3-phases_Outdoor_Air_Water_114.pdf: 'NoneType' object has no attribute 'strip'",
+    "timestamp": "2025-11-17T15:32:28.732920"
+  },
+  {
+    "file": "Riello_S_p_A__CARRIER_30AWH012HP-C--C--__30AWH012HP9C--C-__30AWH014HP-C--C_Outdoor_Air_Water_38",
+    "relative_path": "Riello_S_p_A__CARRIER_30AWH012HP-C--C--__30AWH012HP9C--C-__30AWH014HP-C--C_Outdoor_Air_Water_38.pdf",
+    "error_type": "PDFExtractionError",
+    "error": "Failed to parse PDF /workspaces/keymark-heat-pumps/data/source/Riello_S_p_A__CARRIER_30AWH012HP-C--C--__30AWH012HP9C--C-__30AWH014HP-C--C_Outdoor_Air_Water_38.pdf: 'NoneType' object has no attribute 'strip'",
+    "timestamp": "2025-11-17T15:48:46.966976"
+  },
+  {
+    "file": "SOLARFOCUS_GmbH_Air_to_water_heat_pump_12K_Outdoor_Air_Water_1",
+    "relative_path": "SOLARFOCUS_GmbH_Air_to_water_heat_pump_12K_Outdoor_Air_Water_1.pdf",
+    "error_type": "PDFExtractionError",
+    "error": "Failed to parse PDF /workspaces/keymark-heat-pumps/data/source/SOLARFOCUS_GmbH_Air_to_water_heat_pump_12K_Outdoor_Air_Water_1.pdf: 'NoneType' object has no attribute 'strip'",
+    "timestamp": "2025-11-17T15:51:06.822849"
+  },
+  {
+    "file": "SOLARFOCUS_GmbH_Air_to_water_heat_pump_8K_Outdoor_Air_Water_3",
+    "relative_path": "SOLARFOCUS_GmbH_Air_to_water_heat_pump_8K_Outdoor_Air_Water_3.pdf",
+    "error_type": "PDFExtractionError",
+    "error": "Failed to parse PDF /workspaces/keymark-heat-pumps/data/source/SOLARFOCUS_GmbH_Air_to_water_heat_pump_8K_Outdoor_Air_Water_3.pdf: 'NoneType' object has no attribute 'strip'",
+    "timestamp": "2025-11-17T15:51:08.011167"
+  },
+  {
+    "file": "Viessmann_Climate_Solutions_GmbH___Co__K_Vitocal_250-A_z5_Outdoor_Air_Water_27",
+    "relative_path": "Viessmann_Climate_Solutions_GmbH___Co__K_Vitocal_250-A_z5_Outdoor_Air_Water_27.pdf",
+    "error_type": "PDFExtractionError",
+    "error": "Failed to parse PDF /workspaces/keymark-heat-pumps/data/source/Viessmann_Climate_Solutions_GmbH___Co__K_Vitocal_250-A_z5_Outdoor_Air_Water_27.pdf: 'NoneType' object has no attribute 'strip'",
+    "timestamp": "2025-11-17T15:59:23.370873"
+  },
+  {
+    "file": "tecalor_GmbH_TTF_27_HT_Brine_Water_17",
+    "relative_path": "tecalor_GmbH_TTF_27_HT_Brine_Water_17.pdf",
+    "error_type": "PDFExtractionError",
+    "error": "Failed to parse PDF /workspaces/keymark-heat-pumps/data/source/tecalor_GmbH_TTF_27_HT_Brine_Water_17.pdf: 'NoneType' object has no attribute 'strip'",
+    "timestamp": "2025-11-17T16:02:29.378933"
+  }
+]

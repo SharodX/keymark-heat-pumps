@@ -1,0 +1,774 @@
+{
+  "source_pdf": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199.pdf",
+  "extraction_timestamp": "2025-11-17T15:33:04.699455",
+  "total_records": 92,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype THERCON THERMA TCDXL06X",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "groupe_atlantic": "Rue des Fondeurs BP 64",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "groupe_atlantic": "59660",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "groupe_atlantic": "Merville",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "groupe_atlantic": "FR",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "groupe_atlantic": "RISE CERT",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "groupe_atlantic": "THERCON THERMA TCDXL06X",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "groupe_atlantic": "012-C700151",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "groupe_atlantic": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "groupe_atlantic": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "groupe_atlantic": "0.97 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "groupe_atlantic": "10.07.2024",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "groupe_atlantic": "EN 14511:2018, EN 14825:2018, EN 12102:2017, EN\n16147:2017.",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "groupe_atlantic": "CETIAT, FR",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "label": "testing_basis_en_14511",
+      "value": "2018, EN 14825:2018, EN 12102:2017, EN",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199"
+    },
+    {
+      "label": "16147",
+      "value": "2017.",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199"
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "": "Model THERCON THERMA TCDXL06X",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "thercon_therma_tcdxl06x": "Heating + DHW + low temp",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "thercon_therma_tcdxl06x": "Indoor, Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "thercon_therma_tcdxl06x": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "thercon_therma_tcdxl06x": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "thercon_therma_tcdxl06x": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "thercon_therma_tcdxl06x": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "thercon_therma_tcdxl06x": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "thercon_therma_tcdxl06x": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "140 %",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "3.50",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "1:50 h:min",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "33.0 W",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "54.0 \u00b0C",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "315 l",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "5.60 kW",
+      "medium_temperature": "5.60 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.16 kW",
+      "medium_temperature": "2.02 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.81",
+      "medium_temperature": "2.77",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "40 dB(A)",
+      "medium_temperature": "40 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "57 dB(A)",
+      "medium_temperature": "57 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "190 %",
+      "medium_temperature": "132 %",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "6.10 kW",
+      "medium_temperature": "5.40 kW",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_1",
+      "value": "50 h:min",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199"
+    },
+    {
+      "scop": "Tbiv",
+      "4.82": "-7 \u00b0C",
+      "3.37": "-7 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "TOL",
+      "4.82": "-10 \u00b0C",
+      "3.37": "-10 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = -7\u00b0C",
+      "4.82": "5.40 kW",
+      "3.37": "4.80 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = -7\u00b0C",
+      "4.82": "2.97",
+      "3.37": "2.08",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = -7 \u00b0C",
+      "4.82": "0.990",
+      "3.37": "0.990",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +2\u00b0C",
+      "4.82": "3.30 kW",
+      "3.37": "2.90 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +2\u00b0C",
+      "4.82": "4.64",
+      "3.37": "3.22",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +2 \u00b0C",
+      "4.82": "0.980",
+      "3.37": "0.990",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +7\u00b0C",
+      "4.82": "2.10 kW",
+      "3.37": "1.90 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +7\u00b0C",
+      "4.82": "6.67",
+      "3.37": "4.62",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +7 \u00b0C",
+      "4.82": "0.960",
+      "3.37": "0.970",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = 12\u00b0C",
+      "4.82": "2.40 kW",
+      "3.37": "2.30 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = 12\u00b0C",
+      "4.82": "8.34",
+      "3.37": "6.57",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +12 \u00b0C",
+      "4.82": "0.960",
+      "3.37": "0.960",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = Tbiv",
+      "4.82": "5.40 kW",
+      "3.37": "4.80 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = Tbiv",
+      "4.82": "2.97",
+      "3.37": "2.08",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.82": "4.70 kW",
+      "3.37": "4.20 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.82": "2.79",
+      "3.37": "1.80",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.82": "0.990",
+      "3.37": "0.990",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "WTOL",
+      "4.82": "55 \u00b0C",
+      "3.37": "55 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "Poff",
+      "4.82": "4 W",
+      "3.37": "4 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "PTO",
+      "4.82": "12 W",
+      "3.37": "13 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "PSB",
+      "4.82": "10 W",
+      "3.37": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "PCK",
+      "4.82": "0 W",
+      "3.37": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: Type of energy\ninput",
+      "4.82": "Electricity",
+      "3.37": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: PSUP",
+      "4.82": "1.40 kW",
+      "3.37": "1.20 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "scop": "Annual energy consumption Qhe",
+      "4.82": "2614 kWh",
+      "3.37": "3307 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.40 kW 1.20 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERCON_THERMA_TCDXL06X_Outdoor_Air_Water_199"
+    }
+  ]
+}

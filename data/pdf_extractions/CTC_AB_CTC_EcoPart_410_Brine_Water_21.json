@@ -1,0 +1,1816 @@
+{
+  "source_pdf": "CTC_AB_CTC_EcoPart_410_Brine_Water_21.pdf",
+  "extraction_timestamp": "2025-11-17T15:17:26.070357",
+  "total_records": 210,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype CTC EcoPart 410",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "ctc_ab": "Box 309, N\u00e4sv\u00e4gen",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "ctc_ab": "SE-341 26",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "ctc_ab": "Ljungby",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "ctc_ab": "SE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "ctc_ab": "RISE CERT",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "ctc_ab": "CTC EcoPart 410",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "ctc_ab": "012-064",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "ctc_ab": "Brine/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "ctc_ab": "R407c",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "ctc_ab": "1.9 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "ctc_ab": "22.05.2023",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "ctc_ab": "EN 14511:2013, EN 14825:2013, EN12102:2013",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "ctc_ab": "RISE Research Institutes of Sweden",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "label": "testing_basis_en_14511",
+      "value": "2013, EN 14825:2013, EN12102:2013",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21"
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Model CTC EcoPart 410 1x230V",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ctc_ecopart_410_1x230v": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ctc_ecopart_410_1x230v": "Indoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ctc_ecopart_410_1x230v": "Colder Climate",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ctc_ecopart_410_1x230v": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ctc_ecopart_410_1x230v": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ctc_ecopart_410_1x230v": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ctc_ecopart_410_1x230v": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ctc_ecopart_410_1x230v": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "No",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Brine/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "9.98 kW",
+      "medium_temperature": "9.30 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.17 kW",
+      "medium_temperature": "3.00 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.60",
+      "medium_temperature": "3.10",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "49 dB(A)",
+      "medium_temperature": "49 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "181 %",
+      "medium_temperature": "138 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "11.32 kW",
+      "medium_temperature": "10.60 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.70",
+      "medium_temperature": "3.65",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "10.00 kW",
+      "medium_temperature": "9.40 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.69",
+      "medium_temperature": "3.28",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "10.10 kW",
+      "medium_temperature": "9.50 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "1.88",
+      "medium_temperature": "3.66",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "10.20 kW",
+      "medium_temperature": "9.70 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.10",
+      "medium_temperature": "4.03",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "10.30 kW",
+      "medium_temperature": "9.90 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.22": "",
+      "4.41": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = Tbiv",
+      "5.22": "10.00 kW",
+      "4.41": "9.40 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = Tbiv",
+      "5.22": "4.69",
+      "4.41": "3.28",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.22": "9.98 kW",
+      "4.41": "9.30 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.22": "4.60",
+      "4.41": "3.10",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.22": "0.980",
+      "4.41": "0.990",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "WTOL",
+      "5.22": "65 \u00b0C",
+      "4.41": "65 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Poff",
+      "5.22": "18 W",
+      "4.41": "18 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PTO",
+      "5.22": "14 W",
+      "4.41": "3 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PSB",
+      "5.22": "18 W",
+      "4.41": "18 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PCK",
+      "5.22": "0 W",
+      "4.41": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.22": "Electricity",
+      "4.41": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: PSUP",
+      "5.22": "1.35 kW",
+      "4.41": "1.30 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Annual energy consumption Qhe",
+      "5.22": "4944 kWh",
+      "4.41": "5999 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "5.22": "",
+      "4.41": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "5.22": "",
+      "4.41": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "EN 12102-1 | Colder Climate",
+      "5.22": "",
+      "4.41": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "49 dB(A)",
+      "medium_temperature": "49 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "184 %",
+      "medium_temperature": "141 %",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "10.56 kW",
+      "medium_temperature": "10.48 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.80",
+      "medium_temperature": "3.70",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-18 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "10.10 kW",
+      "medium_temperature": "9.50 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.89",
+      "medium_temperature": "3.58",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "10.20 kW",
+      "medium_temperature": "9.70 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.05",
+      "medium_temperature": "3.96",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "10.20 kW",
+      "medium_temperature": "9.80 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.16",
+      "medium_temperature": "4.29",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "10.20 kW",
+      "medium_temperature": "10.00 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.19",
+      "medium_temperature": "4.54",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "10.00 kW",
+      "medium_temperature": "9.40 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "4.66",
+      "medium_temperature": "3.27",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "9.98 kW",
+      "medium_temperature": "9.30 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "4.60",
+      "medium_temperature": "3.10",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.35 kW 1.30 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21"
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "18 W",
+      "column_2": "18 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "14 W",
+      "column_2": "3 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "18 W",
+      "column_2": "18 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.60 kW",
+      "column_2": "1.20 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "5414 kWh",
+      "column_2": "6939 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.60 kW 1.20 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21"
+    },
+    {
+      "": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Model CTC EcoPart 410 3x400V",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ctc_ecopart_410_3x400v": "Heating (medium temp)",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ctc_ecopart_410_3x400v": "Indoor",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ctc_ecopart_410_3x400v": "Colder Climate",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ctc_ecopart_410_3x400v": "n/a",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ctc_ecopart_410_3x400v": "n/a",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ctc_ecopart_410_3x400v": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ctc_ecopart_410_3x400v": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ctc_ecopart_410_3x400v": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "No",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Brine/Water",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "9.98 kW",
+      "medium_temperature": "9.30 kW",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.17 kW",
+      "medium_temperature": "3.00 kW",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.60",
+      "medium_temperature": "3.10",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "49 dB(A)",
+      "medium_temperature": "49 dB(A)",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "181 %",
+      "medium_temperature": "138 %",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "11.32 kW",
+      "medium_temperature": "10.60 kW",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.70",
+      "medium_temperature": "3.65",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "10.00 kW",
+      "medium_temperature": "9.40 kW",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.69",
+      "medium_temperature": "3.28",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "10.10 kW",
+      "medium_temperature": "9.50 kW",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "1.88",
+      "medium_temperature": "3.66",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "10.20 kW",
+      "medium_temperature": "9.70 kW",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.10",
+      "medium_temperature": "4.03",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "10.30 kW",
+      "medium_temperature": "9.90 kW",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.22": "",
+      "4.41": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = Tbiv",
+      "5.22": "10.00 kW",
+      "4.41": "9.40 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = Tbiv",
+      "5.22": "4.69",
+      "4.41": "3.28",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.22": "9.98 kW",
+      "4.41": "9.30 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.22": "4.60",
+      "4.41": "3.10",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.22": "0.980",
+      "4.41": "0.990",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "WTOL",
+      "5.22": "65 \u00b0C",
+      "4.41": "65 \u00b0C",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Poff",
+      "5.22": "18 W",
+      "4.41": "18 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PTO",
+      "5.22": "14 W",
+      "4.41": "3 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PSB",
+      "5.22": "18 W",
+      "4.41": "18 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PCK",
+      "5.22": "0 W",
+      "4.41": "0 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.22": "Electricity",
+      "4.41": "Electricity",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: PSUP",
+      "5.22": "1.35 kW",
+      "4.41": "1.30 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Annual energy consumption Qhe",
+      "5.22": "4944 kWh",
+      "4.41": "5999 kWh",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "5.22": "",
+      "4.41": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "5.22": "",
+      "4.41": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "EN 12102-1 | Colder Climate",
+      "5.22": "",
+      "4.41": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "49 dB(A)",
+      "medium_temperature": "49 dB(A)",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "184 %",
+      "medium_temperature": "141 %",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "10.56 kW",
+      "medium_temperature": "10.48 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.80",
+      "medium_temperature": "3.70",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-18 \u00b0C",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "10.10 kW",
+      "medium_temperature": "9.50 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.89",
+      "medium_temperature": "3.58",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "10.20 kW",
+      "medium_temperature": "9.70 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.05",
+      "medium_temperature": "3.96",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "10.20 kW",
+      "medium_temperature": "9.80 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.16",
+      "medium_temperature": "4.29",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "10.20 kW",
+      "medium_temperature": "10.00 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.19",
+      "medium_temperature": "4.54",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "10.00 kW",
+      "medium_temperature": "9.40 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "4.66",
+      "medium_temperature": "3.27",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "9.98 kW",
+      "medium_temperature": "9.30 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "4.60",
+      "medium_temperature": "3.10",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.35 kW 1.30 kW",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21"
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "18 W",
+      "column_2": "18 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "14 W",
+      "column_2": "3 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "18 W",
+      "column_2": "18 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.60 kW",
+      "column_2": "1.20 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "5414 kWh",
+      "column_2": "6939 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.60 kW 1.20 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_EcoPart_410_Brine_Water_21"
+    }
+  ]
+}

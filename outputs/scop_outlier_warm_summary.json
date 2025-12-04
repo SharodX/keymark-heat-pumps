@@ -1,0 +1,36 @@
+{
+  "outlier_row": {
+    "manufacturer_name": "ait-deutschland GmbH",
+    "model_name": "LWD 70A",
+    "variant_name": "NOVELAN LAD 7 - CSD",
+    "dimension": "5_1_0_0",
+    "reported_scop": 4.04,
+    "calculated_scop": 2.7336983657165765,
+    "delta_scop_pct": -32.33419886840157
+  },
+  "metrics": {
+    "SCOPnet": 2.8000274716206226,
+    "SCOPon": 2.782834643358976,
+    "SCOP": 2.7336983657165765,
+    "SCOP_from_SCOPnet": 2.7336983657165765,
+    "\u03b7s": 106.34793462866305,
+    "QH": 11843.966666666667,
+    "QHE_hp_only": 4229.946593992351,
+    "QHE_active": 4256.079927325684,
+    "QSUP": 26.13333333333336,
+    "Q_offmode": 76.5,
+    "Q_total": 4332.579927325684,
+    "F1": 0.03,
+    "F2": 0.0,
+    "HOFF": 4345,
+    "HTO": 755,
+    "HSB": 0,
+    "HCK": 4476,
+    "POFF": 0.015,
+    "PTO": 0.015,
+    "PSB": 0.015,
+    "PCK": 0.0
+  },
+  "pdesignh_inferred": 8.866666666666667,
+  "include_minus7": false
+}

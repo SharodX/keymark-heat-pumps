@@ -1,0 +1,3788 @@
+{
+  "source_pdf": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11.pdf",
+  "extraction_timestamp": "2025-11-17T15:37:07.216825",
+  "total_records": 435,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype YKF C 5 7 9kW",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "johnson_controls_industries": "14 Rue de Bel Air",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "johnson_controls_industries": "44470",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "johnson_controls_industries": "Carquefou",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "johnson_controls_industries": "FR",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "johnson_controls_industries": "BRE Global Limited",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "johnson_controls_industries": "YKF C 5 7 9kW",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "johnson_controls_industries": "041-K017-10",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "johnson_controls_industries": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "johnson_controls_industries": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "johnson_controls_industries": "1.25 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "johnson_controls_industries": "04.08.2022",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "johnson_controls_industries": "Heat Pump Keymark Scheme Rules Rev 09",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "johnson_controls_industries": "T\u00dcV S\u00dcD Certification and Testing Co., Ltd. Guangzhou\nBranch, CN",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Model YKF05CNC",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ykf05cnc": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ykf05cnc": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ykf05cnc": "Warmer Climate, Colder Climate",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "ykf05cnc": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ykf05cnc": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ykf05cnc": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Phase-out Date",
+      "ykf05cnc": "06.05.2027",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ykf05cnc": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ykf05cnc": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ykf05cnc": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "6.5 kW",
+      "medium_temperature": "6.3 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.23 kW",
+      "medium_temperature": "1.97 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.3",
+      "medium_temperature": "3.2",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "60 dB(A)",
+      "medium_temperature": "60 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "201.8 %",
+      "medium_temperature": "140.72 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "6.52 kW",
+      "medium_temperature": "6.36 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.12",
+      "medium_temperature": "3.59",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "5.77 kW",
+      "medium_temperature": "5.62 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.43",
+      "medium_temperature": "2.36",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.9",
+      "medium_temperature": "0.9",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "3.74 kW",
+      "medium_temperature": "3.52 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.04",
+      "medium_temperature": "3.7",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.9",
+      "medium_temperature": "0.9",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = +7\u00b0C",
+      "2.32_kw": "6.06",
+      "2.2_kw": "4.21",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "2.32_kw": "0.9",
+      "2.2_kw": "0.9",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "2.32_kw": "1.87 kW",
+      "2.2_kw": "1.31 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "2.32_kw": "9.12",
+      "2.2_kw": "4.96",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "2.32_kw": "0.9",
+      "2.2_kw": "0.9",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "2.32_kw": "5.77 kW",
+      "2.2_kw": "5.62 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "2.32_kw": "3.43",
+      "2.2_kw": "2.36",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "2.32_kw": "6.52 kW",
+      "2.2_kw": "6.04 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "2.32_kw": "3",
+      "2.2_kw": "2.02",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "WTOL",
+      "2.32_kw": "65 \u00b0C",
+      "2.2_kw": "65 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Poff",
+      "2.32_kw": "13 W",
+      "2.2_kw": "13 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PTO",
+      "2.32_kw": "20 W",
+      "2.2_kw": "20 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PSB",
+      "2.32_kw": "13 W",
+      "2.2_kw": "13 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PCK",
+      "2.32_kw": "0 W",
+      "2.2_kw": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "2.32_kw": "Electricity",
+      "2.2_kw": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "2.32_kw": "0 kW",
+      "2.2_kw": "0.32 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "2.32_kw": "2631 kWh",
+      "2.2_kw": "3655 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "",
+      "2.32_kw": "",
+      "2.2_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "",
+      "2.32_kw": "",
+      "2.2_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "EN 12102-1 | Colder Climate",
+      "2.32_kw": "",
+      "2.2_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "60 dB(A)",
+      "medium_temperature": "60 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "173.4 %",
+      "medium_temperature": "113.12 %",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "6.13 kW",
+      "medium_temperature": "5.22 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.41",
+      "medium_temperature": "2.9",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "4.11 kW",
+      "medium_temperature": "3.21 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.76",
+      "medium_temperature": "2.6",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.9",
+      "medium_temperature": "0.9",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "2.38 kW",
+      "medium_temperature": "2.03 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.33",
+      "medium_temperature": "3.18",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.9",
+      "medium_temperature": "0.9",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "1.66 kW",
+      "medium_temperature": "1.56 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.78",
+      "medium_temperature": "4.5",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.9",
+      "medium_temperature": "0.9",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "1.87 kW",
+      "medium_temperature": "1.44 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "9.12",
+      "medium_temperature": "5.83",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.9",
+      "medium_temperature": "0.9",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "5 kW",
+      "medium_temperature": "4.25 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0 kW 0.32 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11"
+    },
+    {
+      "cop_tj_=_tbiv": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.02": "4.21 kW",
+      "2": "3.24 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.02": "2.12",
+      "2": "1.32",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "WTOL",
+      "3.02": "65 \u00b0C",
+      "2": "65 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Poff",
+      "3.02": "13 W",
+      "2": "13 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PTO",
+      "3.02": "20 W",
+      "2": "20 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PSB",
+      "3.02": "13 W",
+      "2": "13 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PCK",
+      "3.02": "0 W",
+      "2": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Supplementary Heater: Type of energy\ninput",
+      "3.02": "Electricity",
+      "2": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Supplementary Heater: PSUP",
+      "3.02": "1.92 kW",
+      "2": "1.98 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Annual energy consumption Qhe",
+      "3.02": "3425 kWh",
+      "2": "4428 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Pdh Tj = -15\u00b0C (if TOL",
+      "3.02": "5",
+      "2": "4.25",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "COP Tj = -15\u00b0C (if TOL",
+      "3.02": "3.02",
+      "2": "2",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Cdh Tj = -15 \u00b0C",
+      "3.02": "0.9",
+      "2": "0.9",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "",
+      "3.02": "",
+      "2": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "",
+      "3.02": "",
+      "2": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "EN 12102-1 | Warmer Climate",
+      "3.02": "",
+      "2": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "60 dB(A)",
+      "medium_temperature": "60 dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "268.2 %",
+      "medium_temperature": "170.9 %",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "6.24 kW",
+      "medium_temperature": "6.17 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.78",
+      "medium_temperature": "4.35",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "7 \u00b0C",
+      "medium_temperature": "7 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "5.69 kW",
+      "medium_temperature": "6.17 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.31",
+      "medium_temperature": "2.77",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.9",
+      "medium_temperature": "0.9",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.01 kW",
+      "medium_temperature": "3.97 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.39",
+      "medium_temperature": "3.9",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.9",
+      "medium_temperature": "0.9",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.07 kW",
+      "medium_temperature": "2.06 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "8.71",
+      "medium_temperature": "5.28",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.9",
+      "medium_temperature": "0.9",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "4.01 kW",
+      "medium_temperature": "3.97 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "6.39",
+      "medium_temperature": "3.9",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "5.69 kW",
+      "medium_temperature": "6.17 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "4.31",
+      "medium_temperature": "2.77",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "13 W",
+      "medium_temperature": "13 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "20 W",
+      "medium_temperature": "20 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.92 kW 1.98 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11"
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "13 W",
+      "column_2": "13 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.55 kW",
+      "column_2": "0 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "1229 kWh",
+      "column_2": "1895 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.55 kW 0 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11"
+    },
+    {
+      "": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Model YKF07CNC",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ykf07cnc": "Heating (medium temp)",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ykf07cnc": "Outdoor",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ykf07cnc": "Warmer Climate, Colder Climate",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "ykf07cnc": "Yes",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ykf07cnc": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ykf07cnc": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Phase-out Date",
+      "ykf07cnc": "06.05.2027",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ykf07cnc": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ykf07cnc": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ykf07cnc": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "8.40 kW",
+      "medium_temperature": "8.20 kW",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.66 kW",
+      "medium_temperature": "2.60 kW",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.05",
+      "medium_temperature": "3.15",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "63 dB(A)",
+      "medium_temperature": "63 dB(A)",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "203.99 %",
+      "medium_temperature": "143.64 %",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "7.90 kW",
+      "medium_temperature": "7.25 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.17",
+      "medium_temperature": "3.67",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "6.99 kW",
+      "medium_temperature": "6.42 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.29",
+      "medium_temperature": "2.31",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.51 kW",
+      "medium_temperature": "4.03 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.99",
+      "medium_temperature": "3.76",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = +7\u00b0C",
+      "2.81_kw": "6.72",
+      "2.56_kw": "4.48",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "2.81_kw": "0.90",
+      "2.56_kw": "0.90",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "2.81_kw": "1.87 kW",
+      "2.56_kw": "1.31 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "2.81_kw": "9.12",
+      "2.56_kw": "4.96",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "2.81_kw": "0.90",
+      "2.56_kw": "0.90",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "2.81_kw": "6.99 kW",
+      "2.56_kw": "6.42 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "2.81_kw": "3.29",
+      "2.56_kw": "2.31",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "2.81_kw": "7.46 kW",
+      "2.56_kw": "6.85 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "2.81_kw": "2.87",
+      "2.56_kw": "1.98",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "WTOL",
+      "2.81_kw": "65.00 \u00b0C",
+      "2.56_kw": "65.00 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Poff",
+      "2.81_kw": "13.00 W",
+      "2.56_kw": "13.00 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PTO",
+      "2.81_kw": "20.00 W",
+      "2.56_kw": "20.00 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PSB",
+      "2.81_kw": "13.00 W",
+      "2.56_kw": "13.00 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PCK",
+      "2.81_kw": "0.00 W",
+      "2.56_kw": "0.00 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "2.81_kw": "Electricity",
+      "2.56_kw": "Electricity",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "2.81_kw": "0.44 kW",
+      "2.56_kw": "0.40 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "2.81_kw": "3155 kWh",
+      "2.56_kw": "4088 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "",
+      "2.81_kw": "",
+      "2.56_kw": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "",
+      "2.81_kw": "",
+      "2.56_kw": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "EN 12102-1 | Colder Climate",
+      "2.81_kw": "",
+      "2.56_kw": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "63 dB(A)",
+      "medium_temperature": "63 dB(A)",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "174.6 %",
+      "medium_temperature": "117.73 %",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "7.51 kW",
+      "medium_temperature": "6.06 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.44",
+      "medium_temperature": "3.02",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15.00 \u00b0C",
+      "medium_temperature": "-15.00 \u00b0C",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22.00 \u00b0C",
+      "medium_temperature": "-22.00 \u00b0C",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "4.42 kW",
+      "medium_temperature": "3.95 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.67",
+      "medium_temperature": "2.75",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "2.99 kW",
+      "medium_temperature": "2.25 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.50",
+      "medium_temperature": "3.30",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "2.03 kW",
+      "medium_temperature": "1.56 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.69",
+      "medium_temperature": "4.50",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "1.87 kW",
+      "medium_temperature": "1.44 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "9.12",
+      "medium_temperature": "5.83",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "6.12 kW",
+      "medium_temperature": "4.94 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.44 kW 0.40 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11"
+    },
+    {
+      "cop_tj_=_tbiv": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "2.70": "4.78 kW",
+      "2.08": "3.24 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "2.70": "2.16",
+      "2.08": "1.32",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "WTOL",
+      "2.70": "65.00 \u00b0C",
+      "2.08": "65.00 \u00b0C",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Poff",
+      "2.70": "13.00 W",
+      "2.08": "13.00 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PTO",
+      "2.70": "20.00 W",
+      "2.08": "20.00 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PSB",
+      "2.70": "13.00 W",
+      "2.08": "13.00 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PCK",
+      "2.70": "0.00 W",
+      "2.08": "0.00 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Supplementary Heater: Type of energy\ninput",
+      "2.70": "Electricity",
+      "2.08": "Electricity",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Supplementary Heater: PSUP",
+      "2.70": "2.72 kW",
+      "2.08": "2.82 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Annual energy consumption Qhe",
+      "2.70": "4166 kWh",
+      "2.08": "4948 kWh",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Pdh Tj = -15\u00b0C (if TOL",
+      "2.70": "6.12",
+      "2.08": "4.94",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "COP Tj = -15\u00b0C (if TOL",
+      "2.70": "2.70",
+      "2.08": "2.08",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Cdh Tj = -15 \u00b0C",
+      "2.70": "0.90",
+      "2.08": "0.90",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "",
+      "2.70": "",
+      "2.08": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "",
+      "2.70": "",
+      "2.08": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "EN 12102-1 | Warmer Climate",
+      "2.70": "",
+      "2.08": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "63 dB(A)",
+      "medium_temperature": "63 dB(A)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "274.74 %",
+      "medium_temperature": "185.3 %",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "8.06 kW",
+      "medium_temperature": "8.10 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.94",
+      "medium_temperature": "4.71",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "7 \u00b0C",
+      "medium_temperature": "7 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "7.23 kW",
+      "medium_temperature": "7.80 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.04",
+      "medium_temperature": "2.68",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "5.18 kW",
+      "medium_temperature": "5.22 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.35",
+      "medium_temperature": "4.07",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.46 kW",
+      "medium_temperature": "2.36 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "9.30",
+      "medium_temperature": "6.07",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "5.18 kW",
+      "medium_temperature": "5.22 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "6.35",
+      "medium_temperature": "4.07",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "7.23 kW",
+      "medium_temperature": "7.80 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "4.04",
+      "medium_temperature": "2.68",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65.00 \u00b0C",
+      "medium_temperature": "65.00 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "13.00 W",
+      "medium_temperature": "13.00 W",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "20.00 W",
+      "medium_temperature": "20.00 W",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 2.72 kW 2.82 kW",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11"
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "13.00 W",
+      "column_2": "13.00 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0.00 W",
+      "column_2": "0.00 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.84 kW",
+      "column_2": "0.32 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "1551 kWh",
+      "column_2": "2303 kWh",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.84 kW 0.32 kW",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11"
+    },
+    {
+      "": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Model YKF09CNC",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ykf09cnc": "Heating (medium temp)",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ykf09cnc": "Outdoor",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ykf09cnc": "Warmer Climate, Colder Climate",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "ykf09cnc": "Yes",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ykf09cnc": "n/a",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ykf09cnc": "n/a",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Phase-out Date",
+      "ykf09cnc": "06.05.2027",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ykf09cnc": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ykf09cnc": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ykf09cnc": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "10 kW",
+      "medium_temperature": "9.4 kW",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.13 kW",
+      "medium_temperature": "3.03 kW",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.7",
+      "medium_temperature": "3.1",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "65 dB(A)",
+      "medium_temperature": "65 dB(A)",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "201.91 %",
+      "medium_temperature": "145.47 %",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "9.06 kW",
+      "medium_temperature": "8.16 kW",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.12",
+      "medium_temperature": "3.71",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "8.02 kW",
+      "medium_temperature": "7.21 kW",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.09",
+      "medium_temperature": "2.24",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.9",
+      "medium_temperature": "0.9",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "5.06 kW",
+      "medium_temperature": "4.56 kW",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.92",
+      "medium_temperature": "3.86",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.9",
+      "medium_temperature": "0.9",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = +7\u00b0C",
+      "3.22_kw": "7.03",
+      "2.84_kw": "4.58",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "3.22_kw": "0.9",
+      "2.84_kw": "0.9",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "3.22_kw": "1.87 kW",
+      "2.84_kw": "1.31 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "3.22_kw": "9.12",
+      "2.84_kw": "4.96",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "3.22_kw": "0.9",
+      "2.84_kw": "0.9",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "3.22_kw": "8.02 kW",
+      "2.84_kw": "7.21 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "3.22_kw": "3.09",
+      "2.84_kw": "2.24",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.22_kw": "7.88 kW",
+      "2.84_kw": "7.01 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.22_kw": "2.87",
+      "2.84_kw": "1.97",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "WTOL",
+      "3.22_kw": "65 \u00b0C",
+      "2.84_kw": "65 \u00b0C",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Poff",
+      "3.22_kw": "13 W",
+      "2.84_kw": "13 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PTO",
+      "3.22_kw": "20 W",
+      "2.84_kw": "20 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PSB",
+      "3.22_kw": "13 W",
+      "2.84_kw": "13 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PCK",
+      "3.22_kw": "0 W",
+      "2.84_kw": "0 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "3.22_kw": "Electricity",
+      "2.84_kw": "Electricity",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "3.22_kw": "1.18 kW",
+      "2.84_kw": "1.14 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "3.22_kw": "3654 kWh",
+      "2.84_kw": "4539 kWh",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "",
+      "3.22_kw": "",
+      "2.84_kw": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "",
+      "3.22_kw": "",
+      "2.84_kw": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "EN 12102-1 | Colder Climate",
+      "3.22_kw": "",
+      "2.84_kw": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "65 dB(A)",
+      "medium_temperature": "65 dB(A)",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "174.6 %",
+      "medium_temperature": "122.4 %",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "8.27 kW",
+      "medium_temperature": "7.21 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.44",
+      "medium_temperature": "3.14",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "5.42 kW",
+      "medium_temperature": "4.59 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.72",
+      "medium_temperature": "2.72",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.9",
+      "medium_temperature": "0.9",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "3.14 kW",
+      "medium_temperature": "2.82 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.56",
+      "medium_temperature": "3.6",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.9",
+      "medium_temperature": "0.9",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "2.16 kW",
+      "medium_temperature": "1.76 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.55",
+      "medium_temperature": "4.84",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.9",
+      "medium_temperature": "0.9",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "1.87 kW",
+      "medium_temperature": "1.44 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "9.12",
+      "medium_temperature": "5.83",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.9",
+      "medium_temperature": "0.9",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "6.75 kW",
+      "medium_temperature": "5.88 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 11,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.18 kW 1.14 kW",
+      "source_page": 11,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11"
+    },
+    {
+      "cop_tj_=_tbiv": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "2.59": "5.08 kW",
+      "2.1": "3.24 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "2.59": "2.01",
+      "2.1": "1.32",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "WTOL",
+      "2.59": "65 \u00b0C",
+      "2.1": "65 \u00b0C",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Poff",
+      "2.59": "13 W",
+      "2.1": "13 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PTO",
+      "2.59": "20 W",
+      "2.1": "20 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PSB",
+      "2.59": "13 W",
+      "2.1": "13 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PCK",
+      "2.59": "0 W",
+      "2.1": "0 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Supplementary Heater: Type of energy\ninput",
+      "2.59": "Electricity",
+      "2.1": "Electricity",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Supplementary Heater: PSUP",
+      "2.59": "3.19 kW",
+      "2.1": "3.97 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Annual energy consumption Qhe",
+      "2.59": "4591 kWh",
+      "2.1": "5665 kWh",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Pdh Tj = -15\u00b0C (if TOL",
+      "2.59": "6.75",
+      "2.1": "5.88",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "COP Tj = -15\u00b0C (if TOL",
+      "2.59": "2.59",
+      "2.1": "2.1",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Cdh Tj = -15 \u00b0C",
+      "2.59": "0.9",
+      "2.1": "0.9",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "",
+      "2.59": "",
+      "2.1": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "",
+      "2.59": "",
+      "2.1": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "EN 12102-1 | Warmer Climate",
+      "2.59": "",
+      "2.1": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "65 dB(A)",
+      "medium_temperature": "65 dB(A)",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "279.05 %",
+      "medium_temperature": "193.4 %",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "9.04 kW",
+      "medium_temperature": "9.03 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "7.05",
+      "medium_temperature": "4.91",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "7 \u00b0C",
+      "medium_temperature": "7 \u00b0C",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "8.29 kW",
+      "medium_temperature": "8.42 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.85",
+      "medium_temperature": "2.68",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.9",
+      "medium_temperature": "0.9",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "5.81 kW",
+      "medium_temperature": "5.81 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.24",
+      "medium_temperature": "4.16",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.9",
+      "medium_temperature": "0.9",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.67 kW",
+      "medium_temperature": "2.74 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "9.63",
+      "medium_temperature": "6.64",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.9",
+      "medium_temperature": "0.9",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "5.81 kW",
+      "medium_temperature": "5.81 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "6.24",
+      "medium_temperature": "4.16",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "8.29 kW",
+      "medium_temperature": "8.42 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "3.85",
+      "medium_temperature": "2.68",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "13 W",
+      "medium_temperature": "13 W",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "20 W",
+      "medium_temperature": "20 W",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 3.19 kW 3.97 kW",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11"
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "13 W",
+      "column_2": "13 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.75 kW",
+      "column_2": "0.61 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "1714 kWh",
+      "column_2": "2458 kWh",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.75 kW 0.61 kW",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Industries_YKF_C_5_7_9kW_Outdoor_Air_Water_11"
+    }
+  ]
+}

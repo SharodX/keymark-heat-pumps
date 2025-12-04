@@ -1,0 +1,3265 @@
+{
+  "source_pdf": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3.pdf",
+  "extraction_timestamp": "2025-11-17T15:49:57.274479",
+  "total_records": 378,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype HPi3210/12",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "rinnai_uk_ltd": "9 Christleton Ct",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "rinnai_uk_ltd": "WA7 1ST",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "rinnai_uk_ltd": "Runcorn",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "rinnai_uk_ltd": "GB",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "rinnai_uk_ltd": "ICIM S.p.A.",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "rinnai_uk_ltd": "HPi3210/12",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "rinnai_uk_ltd": "ICIM-PDC-000292",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "rinnai_uk_ltd": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "rinnai_uk_ltd": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "rinnai_uk_ltd": "2.5 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "rinnai_uk_ltd": "23.10.2024",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "rinnai_uk_ltd": "HP KEYMARK certification scheme rules rev. no. 7",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Model HPi3212",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "hpi3212": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "hpi3212": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "hpi3212": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "hpi3212": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "hpi3212": "+7\u00b0C/12\u00b0C",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "hpi3212": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hpi3212": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hpi3212": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "hpi3212": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "11.80 kW",
+      "medium_temperature": "11.37 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.73 kW",
+      "medium_temperature": "4.10 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.32",
+      "medium_temperature": "2.78",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-2 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "+7\u00b0c/+12\u00b0c": "2.79 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Cooling capacity",
+      "+7\u00b0c/+12\u00b0c": "8.51",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EER",
+      "+7\u00b0c/+12\u00b0c": "3.05",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "62 dB(A)",
+      "medium_temperature": "62 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "176 %",
+      "medium_temperature": "131 %",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "10.00 kW",
+      "medium_temperature": "10.00 kW",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.47",
+      "medium_temperature": "3.36",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = -7\u00b0C",
+      "8.90_kw": "2.88",
+      "8.50_kw": "2.08",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = -7 \u00b0C",
+      "8.90_kw": "1.000",
+      "8.50_kw": "1.000",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = +2\u00b0C",
+      "8.90_kw": "5.40 kW",
+      "8.50_kw": "5.20 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = +2\u00b0C",
+      "8.90_kw": "4.31",
+      "8.50_kw": "3.35",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +2 \u00b0C",
+      "8.90_kw": "1.000",
+      "8.50_kw": "1.000",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = +7\u00b0C",
+      "8.90_kw": "4.30 kW",
+      "8.50_kw": "4.20 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = +7\u00b0C",
+      "8.90_kw": "5.82",
+      "8.50_kw": "4.24",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "8.90_kw": "0.974",
+      "8.50_kw": "0.981",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "8.90_kw": "4.90 kW",
+      "8.50_kw": "4.80 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = 12\u00b0C",
+      "8.90_kw": "7.81",
+      "8.50_kw": "5.31",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "8.90_kw": "0.969",
+      "8.50_kw": "0.979",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = Tbiv",
+      "8.90_kw": "8.90 kW",
+      "8.50_kw": "8.50 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = Tbiv",
+      "8.90_kw": "2.88",
+      "8.50_kw": "2.08",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "8.90_kw": "8.80 kW",
+      "8.50_kw": "8.70 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "8.90_kw": "2.64",
+      "8.50_kw": "1.96",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "8.90_kw": "1.000",
+      "8.50_kw": "1.000",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "WTOL",
+      "8.90_kw": "60 \u00b0C",
+      "8.50_kw": "60 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Poff",
+      "8.90_kw": "22 W",
+      "8.50_kw": "22 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PTO",
+      "8.90_kw": "22 W",
+      "8.50_kw": "22 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PSB",
+      "8.90_kw": "22 W",
+      "8.50_kw": "22 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PCK",
+      "8.90_kw": "0 W",
+      "8.50_kw": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "8.90_kw": "n/a",
+      "8.50_kw": "n/a",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Supplementary Heater: PSUP",
+      "8.90_kw": "1.20 kW",
+      "8.50_kw": "1.30 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Annual energy consumption Qhe",
+      "8.90_kw": "4630 kWh",
+      "8.50_kw": "5941 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "",
+      "8.90_kw": "",
+      "8.50_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "",
+      "8.90_kw": "",
+      "8.50_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "EN 14825 | Cooling",
+      "8.90_kw": "",
+      "8.50_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignc",
+      "+7\u00b0c/+12\u00b0c": "8.51 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "SEER",
+      "+7\u00b0c/+12\u00b0c": "4.43",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "8.51 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.05",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.28 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.03",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 30 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "1.000",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.98 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.58",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 25 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.978",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.23 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.32",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 20 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.972",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "+7\u00b0c/+12\u00b0c": "22 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "+7\u00b0c/+12\u00b0c": "0 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.20 kW 1.30 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3"
+    },
+    {
+      "psb": "PCK",
+      "28_w": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "psb": "Annual energy consumption Qce",
+      "28_w": "1153 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Model HPi3210",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "hpi3210": "Heating (medium temp)",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "hpi3210": "Outdoor",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "hpi3210": "n/a",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "hpi3210": "Yes",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "hpi3210": "+7\u00b0C/12\u00b0C",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "hpi3210": "n/a",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hpi3210": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hpi3210": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "hpi3210": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "10.10 kW",
+      "medium_temperature": "9.73 kW",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.28 kW",
+      "medium_temperature": "3.50 kW",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.43",
+      "medium_temperature": "2.78",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-2 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "+7\u00b0c/+12\u00b0c": "2.39 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Cooling capacity",
+      "+7\u00b0c/+12\u00b0c": "7.53",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EER",
+      "+7\u00b0c/+12\u00b0c": "3.15",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "62 dB(A)",
+      "medium_temperature": "62 dB(A)",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "178 %",
+      "medium_temperature": "135 %",
+      "source_page": 5,
+      "source_table": 8,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "9.00 kW",
+      "medium_temperature": "9.00 kW",
+      "source_page": 5,
+      "source_table": 8,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.53",
+      "medium_temperature": "3.45",
+      "source_page": 5,
+      "source_table": 8,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 5,
+      "source_table": 8,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 5,
+      "source_table": 8,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = -7\u00b0C",
+      "8.30_kw": "2.93",
+      "8.10_kw": "2.13",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = -7 \u00b0C",
+      "8.30_kw": "1.000",
+      "8.10_kw": "1.000",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = +2\u00b0C",
+      "8.30_kw": "5.30 kW",
+      "8.10_kw": "5.20 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = +2\u00b0C",
+      "8.30_kw": "4.32",
+      "8.10_kw": "3.41",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +2 \u00b0C",
+      "8.30_kw": "1.000",
+      "8.10_kw": "1.000",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = +7\u00b0C",
+      "8.30_kw": "4.20 kW",
+      "8.10_kw": "4.10 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = +7\u00b0C",
+      "8.30_kw": "6.01",
+      "8.10_kw": "4.30",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "8.30_kw": "0.973",
+      "8.10_kw": "0.980",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "8.30_kw": "4.90 kW",
+      "8.10_kw": "4.80 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = 12\u00b0C",
+      "8.30_kw": "8.08",
+      "8.10_kw": "6.36",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "8.30_kw": "0.969",
+      "8.10_kw": "0.975",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = Tbiv",
+      "8.30_kw": "8.30 kW",
+      "8.10_kw": "8.10 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = Tbiv",
+      "8.30_kw": "2.93",
+      "8.10_kw": "2.13",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "8.30_kw": "8.30 kW",
+      "8.10_kw": "8.10 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "8.30_kw": "2.71",
+      "8.10_kw": "1.96",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "8.30_kw": "1.000",
+      "8.10_kw": "1.000",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "WTOL",
+      "8.30_kw": "60 \u00b0C",
+      "8.10_kw": "60 \u00b0C",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Poff",
+      "8.30_kw": "22 W",
+      "8.10_kw": "22 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PTO",
+      "8.30_kw": "22 W",
+      "8.10_kw": "22 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PSB",
+      "8.30_kw": "22 W",
+      "8.10_kw": "22 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PCK",
+      "8.30_kw": "0 W",
+      "8.10_kw": "0 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "8.30_kw": "n/a",
+      "8.10_kw": "n/a",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Supplementary Heater: PSUP",
+      "8.30_kw": "0.70 kW",
+      "8.10_kw": "0.90 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Annual energy consumption Qhe",
+      "8.30_kw": "4293 kWh",
+      "8.10_kw": "5462 kWh",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "",
+      "8.30_kw": "",
+      "8.10_kw": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "",
+      "8.30_kw": "",
+      "8.10_kw": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "EN 14825 | Cooling",
+      "8.30_kw": "",
+      "8.10_kw": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignc",
+      "+7\u00b0c/+12\u00b0c": "7.53 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "SEER",
+      "+7\u00b0c/+12\u00b0c": "4.34",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "7.53 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.15",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "5.49 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.92",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 30 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.986",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.56 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.46",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 25 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.976",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.35 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.36",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 20 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.972",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "+7\u00b0c/+12\u00b0c": "22 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "+7\u00b0c/+12\u00b0c": "0 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.70 kW 0.90 kW",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3"
+    },
+    {
+      "psb": "PCK",
+      "28_w": "0 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "psb": "Annual energy consumption Qce",
+      "28_w": "1040 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Model HPi3210T",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "hpi3210t": "Heating (medium temp)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "hpi3210t": "Outdoor",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "hpi3210t": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "hpi3210t": "Yes",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "hpi3210t": "+7\u00b0C/12\u00b0C",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "hpi3210t": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hpi3210t": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hpi3210t": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "hpi3210t": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "10.10 kW",
+      "medium_temperature": "9.73 kW",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.28 kW",
+      "medium_temperature": "3.50 kW",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.43",
+      "medium_temperature": "2.78",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-2 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "+7\u00b0c/+12\u00b0c": "2.39 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Cooling capacity",
+      "+7\u00b0c/+12\u00b0c": "7.53",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EER",
+      "+7\u00b0c/+12\u00b0c": "3.15",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "62 dB(A)",
+      "medium_temperature": "62 dB(A)",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "178 %",
+      "medium_temperature": "135 %",
+      "source_page": 8,
+      "source_table": 8,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "9.00 kW",
+      "medium_temperature": "9.00 kW",
+      "source_page": 8,
+      "source_table": 8,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.53",
+      "medium_temperature": "3.45",
+      "source_page": 8,
+      "source_table": 8,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 8,
+      "source_table": 8,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 8,
+      "source_table": 8,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = -7\u00b0C",
+      "8.30_kw": "2.93",
+      "8.10_kw": "2.13",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = -7 \u00b0C",
+      "8.30_kw": "1.000",
+      "8.10_kw": "1.000",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = +2\u00b0C",
+      "8.30_kw": "5.30 kW",
+      "8.10_kw": "5.20 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = +2\u00b0C",
+      "8.30_kw": "4.32",
+      "8.10_kw": "3.41",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +2 \u00b0C",
+      "8.30_kw": "1.000",
+      "8.10_kw": "1.000",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = +7\u00b0C",
+      "8.30_kw": "4.20 kW",
+      "8.10_kw": "4.10 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = +7\u00b0C",
+      "8.30_kw": "6.01",
+      "8.10_kw": "4.30",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "8.30_kw": "0.973",
+      "8.10_kw": "0.980",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "8.30_kw": "4.90 kW",
+      "8.10_kw": "4.80 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = 12\u00b0C",
+      "8.30_kw": "8.08",
+      "8.10_kw": "6.36",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "8.30_kw": "0.969",
+      "8.10_kw": "0.975",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = Tbiv",
+      "8.30_kw": "8.30 kW",
+      "8.10_kw": "8.10 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = Tbiv",
+      "8.30_kw": "2.93",
+      "8.10_kw": "2.13",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "8.30_kw": "8.30 kW",
+      "8.10_kw": "8.10 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "8.30_kw": "2.71",
+      "8.10_kw": "1.96",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "8.30_kw": "1.000",
+      "8.10_kw": "1.000",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "WTOL",
+      "8.30_kw": "60 \u00b0C",
+      "8.10_kw": "60 \u00b0C",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Poff",
+      "8.30_kw": "22 W",
+      "8.10_kw": "22 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PTO",
+      "8.30_kw": "22 W",
+      "8.10_kw": "22 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PSB",
+      "8.30_kw": "22 W",
+      "8.10_kw": "22 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PCK",
+      "8.30_kw": "0 W",
+      "8.10_kw": "0 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "8.30_kw": "n/a",
+      "8.10_kw": "n/a",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Supplementary Heater: PSUP",
+      "8.30_kw": "0.70 kW",
+      "8.10_kw": "0.90 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Annual energy consumption Qhe",
+      "8.30_kw": "4293 kWh",
+      "8.10_kw": "5462 kWh",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "",
+      "8.30_kw": "",
+      "8.10_kw": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "",
+      "8.30_kw": "",
+      "8.10_kw": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "EN 14825 | Cooling",
+      "8.30_kw": "",
+      "8.10_kw": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignc",
+      "+7\u00b0c/+12\u00b0c": "7.53 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "SEER",
+      "+7\u00b0c/+12\u00b0c": "4.34",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "7.53 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.15",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "5.49 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.92",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 30 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.986",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.56 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.46",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 25 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.976",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.35 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.36",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 20 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.972",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "+7\u00b0c/+12\u00b0c": "22 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "+7\u00b0c/+12\u00b0c": "0 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.70 kW 0.90 kW",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3"
+    },
+    {
+      "psb": "PCK",
+      "28_w": "0 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "psb": "Annual energy consumption Qce",
+      "28_w": "1040 kWh",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Model HPi3212T",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "hpi3212t": "Heating (medium temp)",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "hpi3212t": "Outdoor",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "hpi3212t": "n/a",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "hpi3212t": "Yes",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "hpi3212t": "+7\u00b0C/12\u00b0C",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "hpi3212t": "n/a",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hpi3212t": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hpi3212t": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "hpi3212t": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "11.80 kW",
+      "medium_temperature": "11.37 kW",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.73 kW",
+      "medium_temperature": "4.10 kW",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.32",
+      "medium_temperature": "2.78",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-2 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "+7\u00b0c/+12\u00b0c": "2.79 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Cooling capacity",
+      "+7\u00b0c/+12\u00b0c": "8.51",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EER",
+      "+7\u00b0c/+12\u00b0c": "3.05",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "62 dB(A)",
+      "medium_temperature": "62 dB(A)",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "176 %",
+      "medium_temperature": "131 %",
+      "source_page": 11,
+      "source_table": 8,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "10.00 kW",
+      "medium_temperature": "10.00 kW",
+      "source_page": 11,
+      "source_table": 8,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.47",
+      "medium_temperature": "3.36",
+      "source_page": 11,
+      "source_table": 8,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 11,
+      "source_table": 8,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 11,
+      "source_table": 8,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = -7\u00b0C",
+      "8.90_kw": "2.88",
+      "8.50_kw": "2.08",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = -7 \u00b0C",
+      "8.90_kw": "1.000",
+      "8.50_kw": "1.000",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = +2\u00b0C",
+      "8.90_kw": "5.40 kW",
+      "8.50_kw": "5.20 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = +2\u00b0C",
+      "8.90_kw": "4.31",
+      "8.50_kw": "3.35",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +2 \u00b0C",
+      "8.90_kw": "1.000",
+      "8.50_kw": "1.000",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = +7\u00b0C",
+      "8.90_kw": "4.30 kW",
+      "8.50_kw": "4.20 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = +7\u00b0C",
+      "8.90_kw": "5.82",
+      "8.50_kw": "4.24",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "8.90_kw": "0.974",
+      "8.50_kw": "0.981",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "8.90_kw": "4.90 kW",
+      "8.50_kw": "4.80 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = 12\u00b0C",
+      "8.90_kw": "7.81",
+      "8.50_kw": "5.31",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "8.90_kw": "0.969",
+      "8.50_kw": "0.979",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = Tbiv",
+      "8.90_kw": "8.90 kW",
+      "8.50_kw": "8.50 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = Tbiv",
+      "8.90_kw": "2.88",
+      "8.50_kw": "2.08",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "8.90_kw": "8.80 kW",
+      "8.50_kw": "8.70 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "8.90_kw": "2.64",
+      "8.50_kw": "1.96",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "8.90_kw": "1.000",
+      "8.50_kw": "1.000",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "WTOL",
+      "8.90_kw": "60 \u00b0C",
+      "8.50_kw": "60 \u00b0C",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Poff",
+      "8.90_kw": "22 W",
+      "8.50_kw": "22 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PTO",
+      "8.90_kw": "22 W",
+      "8.50_kw": "22 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PSB",
+      "8.90_kw": "22 W",
+      "8.50_kw": "22 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PCK",
+      "8.90_kw": "0 W",
+      "8.50_kw": "0 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "8.90_kw": "n/a",
+      "8.50_kw": "n/a",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Supplementary Heater: PSUP",
+      "8.90_kw": "1.20 kW",
+      "8.50_kw": "1.30 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Annual energy consumption Qhe",
+      "8.90_kw": "4630 kWh",
+      "8.50_kw": "5941 kWh",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "",
+      "8.90_kw": "",
+      "8.50_kw": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "",
+      "8.90_kw": "",
+      "8.50_kw": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "EN 14825 | Cooling",
+      "8.90_kw": "",
+      "8.50_kw": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignc",
+      "+7\u00b0c/+12\u00b0c": "8.51 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "SEER",
+      "+7\u00b0c/+12\u00b0c": "4.43",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "8.51 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.05",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.28 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.03",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 30 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.988",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.98 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.58",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 25 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.978",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.23 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.32",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 20 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.972",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "+7\u00b0c/+12\u00b0c": "22 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "+7\u00b0c/+12\u00b0c": "0 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.20 kW 1.30 kW",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3"
+    },
+    {
+      "psb": "PCK",
+      "28_w": "0 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "psb": "Annual energy consumption Qce",
+      "28_w": "1153 kWh",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Rinnai_UK_Ltd_HPi3210_12_Outdoor_Air_Water_3",
+      "submodel_id": null
+    }
+  ]
+}

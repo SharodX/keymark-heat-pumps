@@ -1,0 +1,679 @@
+{
+  "source_pdf": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82.pdf",
+  "extraction_timestamp": "2025-11-17T15:32:16.845275",
+  "total_records": 80,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype Atlantic Ixtra M 9",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "groupe_atlantic": "Rue des Fondeurs BP 64",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "groupe_atlantic": "59660",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "groupe_atlantic": "Merville",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "groupe_atlantic": "FR",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "groupe_atlantic": "RISE CERT",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "groupe_atlantic": "Atlantic Ixtra M 9",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "groupe_atlantic": "012-C700145",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "groupe_atlantic": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "groupe_atlantic": "R452B",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "groupe_atlantic": "1.8 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "groupe_atlantic": "14.10.2022",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "groupe_atlantic": "N 14511:2018, EN 14825:2018, EN 12102:2017.",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "groupe_atlantic": "Centro de Ensayos, Innovaci\u00f3n y Servicios (CEIS), ES",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "label": "testing_basis_n_14511",
+      "value": "2018, EN 14825:2018, EN 12102:2017.",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82"
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "Model Atlantic Ixtra M 9",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "atlantic_ixtra_m_9": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "atlantic_ixtra_m_9": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "atlantic_ixtra_m_9": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "atlantic_ixtra_m_9": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "atlantic_ixtra_m_9": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "atlantic_ixtra_m_9": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "atlantic_ixtra_m_9": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "atlantic_ixtra_m_9": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "4.33 kW",
+      "medium_temperature": "6.94 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "0.93 kW",
+      "medium_temperature": "2.41 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.66",
+      "medium_temperature": "2.88",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "53 dB(A)",
+      "medium_temperature": "53 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "175 %",
+      "medium_temperature": "128 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "8.00 kW",
+      "medium_temperature": "6.80 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.45",
+      "medium_temperature": "3.29",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-5 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "6.02 kW",
+      "medium_temperature": "6.02 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.16",
+      "medium_temperature": "2.22",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.970",
+      "medium_temperature": "0.960",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.31 kW",
+      "medium_temperature": "3.66 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.70",
+      "medium_temperature": "3.29",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.970",
+      "medium_temperature": "0.960",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.44 kW",
+      "medium_temperature": "4.27 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.63",
+      "medium_temperature": "4.27",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = 12\u00b0C",
+      "0.970": "5.04 kW",
+      "0.960": "4.97 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = 12\u00b0C",
+      "0.970": "6.66",
+      "0.960": "5.48",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "0.970": "0.970",
+      "0.960": "0.960",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = Tbiv",
+      "0.970": "6.46 kW",
+      "0.960": "6.02 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = Tbiv",
+      "0.970": "3.36",
+      "0.960": "2.22",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.970": "5.74 kW",
+      "0.960": "5.77 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.970": "2.84",
+      "0.960": "1.93",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.970": "0.970",
+      "0.960": "0.960",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "WTOL",
+      "0.970": "60 \u00b0C",
+      "0.960": "60 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Poff",
+      "0.970": "14 W",
+      "0.960": "14 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PTO",
+      "0.970": "43 W",
+      "0.960": "39 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PSB",
+      "0.970": "27 W",
+      "0.960": "27 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PCK",
+      "0.970": "0 W",
+      "0.960": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "0.970": "Electricity",
+      "0.960": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Supplementary Heater: PSUP",
+      "0.970": "2.26 kW",
+      "0.960": "1.03 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Annual energy consumption Qhe",
+      "0.970": "3714 kWh",
+      "0.960": "4275 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 2.26 kW 1.03 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_Atlantic_Ixtra_M_9_Outdoor_Air_Water_82"
+    }
+  ]
+}

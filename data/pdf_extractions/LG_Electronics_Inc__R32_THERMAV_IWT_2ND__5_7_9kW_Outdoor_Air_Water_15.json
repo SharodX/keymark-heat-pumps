@@ -1,0 +1,2055 @@
+{
+  "source_pdf": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15.pdf",
+  "extraction_timestamp": "2025-11-17T15:37:59.914001",
+  "total_records": 243,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype R32 THERMAV IWT(2ND) 5,7,9kW",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "lg_electronics_inc.": "84, Wanam-ro, seongsan-gu",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "lg_electronics_inc.": "51554",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "lg_electronics_inc.": "Changwon-si",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "lg_electronics_inc.": "KR",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "lg_electronics_inc.": "DIN CERTCO Gesellschaft f\u00fcr Konformit\u00e4tsbewertung mbH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "lg_electronics_inc.": "R32 THERMAV IWT(2ND) 5,7,9kW",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "lg_electronics_inc.": "011-1W0526",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "lg_electronics_inc.": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "lg_electronics_inc.": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "lg_electronics_inc.": "1.5 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "lg_electronics_inc.": "29.04.2022",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "lg_electronics_inc.": "European KEYMARK Scheme for Heat Pumps Rev. 9 (as of\n2021-03)",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Model HU051MR U44 / HN0913T NK0",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "hu051mr_u44_/_hn0913t_nk0": "Heating + DHW + low temp",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "hu051mr_u44_/_hn0913t_nk0": "Indoor, Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "hu051mr_u44_/_hn0913t_nk0": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "hu051mr_u44_/_hn0913t_nk0": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "hu051mr_u44_/_hn0913t_nk0": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "hu051mr_u44_/_hn0913t_nk0": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hu051mr_u44_/_hn0913t_nk0": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hu051mr_u44_/_hn0913t_nk0": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "hu051mr_u44_/_hn0913t_nk0": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "l": "133 %",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "l": "3.15",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "l": "1:44 h:min",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "l": "30.0 W",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "l": "52.0 \u00b0C",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "l": "250 l",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "l": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "l": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "l": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "5.50 kW",
+      "medium_temperature": "5.50 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.12 kW",
+      "medium_temperature": "2.04 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.90",
+      "medium_temperature": "2.70",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "42 dB(A)",
+      "medium_temperature": "42 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "60 dB(A)",
+      "medium_temperature": "60 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "183 %",
+      "medium_temperature": "126 %",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_1",
+      "value": "44 h:min",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15"
+    },
+    {
+      "prated": "SCOP",
+      "5.50_kw": "4.65",
+      "6.00_kw": "3.23",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Tbiv",
+      "5.50_kw": "-10 \u00b0C",
+      "6.00_kw": "-7 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "TOL",
+      "5.50_kw": "-10 \u00b0C",
+      "6.00_kw": "-10 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = -7\u00b0C",
+      "5.50_kw": "4.90 kW",
+      "6.00_kw": "5.30 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = -7\u00b0C",
+      "5.50_kw": "2.80",
+      "6.00_kw": "2.05",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = -7 \u00b0C",
+      "5.50_kw": "0.900",
+      "6.00_kw": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = +2\u00b0C",
+      "5.50_kw": "3.00 kW",
+      "6.00_kw": "3.20 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = +2\u00b0C",
+      "5.50_kw": "4.50",
+      "6.00_kw": "3.10",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = +2 \u00b0C",
+      "5.50_kw": "0.900",
+      "6.00_kw": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = +7\u00b0C",
+      "5.50_kw": "2.20 kW",
+      "6.00_kw": "3.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = +7\u00b0C",
+      "5.50_kw": "6.40",
+      "6.00_kw": "4.50",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = +7 \u00b0C",
+      "5.50_kw": "0.900",
+      "6.00_kw": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = 12\u00b0C",
+      "5.50_kw": "2.60 kW",
+      "6.00_kw": "3.60 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = 12\u00b0C",
+      "5.50_kw": "9.20",
+      "6.00_kw": "6.80",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = +12 \u00b0C",
+      "5.50_kw": "0.900",
+      "6.00_kw": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = Tbiv",
+      "5.50_kw": "5.50 kW",
+      "6.00_kw": "5.30 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = Tbiv",
+      "5.50_kw": "2.50",
+      "6.00_kw": "2.05",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.50_kw": "5.50 kW",
+      "6.00_kw": "5.10 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.50_kw": "2.50",
+      "6.00_kw": "1.65",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.50_kw": "0.900",
+      "6.00_kw": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "WTOL",
+      "5.50_kw": "65 \u00b0C",
+      "6.00_kw": "65 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Poff",
+      "5.50_kw": "20 W",
+      "6.00_kw": "20 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "PTO",
+      "5.50_kw": "20 W",
+      "6.00_kw": "20 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "PSB",
+      "5.50_kw": "20 W",
+      "6.00_kw": "20 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "PCK",
+      "5.50_kw": "30 W",
+      "6.00_kw": "30 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Supplementary Heater: Type of energy\ninput",
+      "5.50_kw": "n/a",
+      "6.00_kw": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Supplementary Heater: PSUP",
+      "5.50_kw": "0.00 kW",
+      "6.00_kw": "0.90 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Annual energy consumption Qhe",
+      "5.50_kw": "2444 kWh",
+      "6.00_kw": "3837 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.90 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15"
+    },
+    {
+      "": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Model HU071MR U44 / HN0913T NK0",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "hu071mr_u44_/_hn0913t_nk0": "Heating + DHW + low temp",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "hu071mr_u44_/_hn0913t_nk0": "Indoor, Outdoor",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "hu071mr_u44_/_hn0913t_nk0": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "hu071mr_u44_/_hn0913t_nk0": "Yes",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "hu071mr_u44_/_hn0913t_nk0": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "hu071mr_u44_/_hn0913t_nk0": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hu071mr_u44_/_hn0913t_nk0": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hu071mr_u44_/_hn0913t_nk0": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "hu071mr_u44_/_hn0913t_nk0": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "l": "133 %",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "l": "3.15",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "l": "1:44 h:min",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "l": "30.0 W",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "l": "52.0 \u00b0C",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "l": "250 l",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "l": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "l": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "l": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "7.00 kW",
+      "medium_temperature": "5.50 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.43 kW",
+      "medium_temperature": "2.04 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.90",
+      "medium_temperature": "2.70",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "42 dB(A)",
+      "medium_temperature": "42 dB(A)",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "60 dB(A)",
+      "medium_temperature": "60 dB(A)",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "183 %",
+      "medium_temperature": "126 %",
+      "source_page": 4,
+      "source_table": 8,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_1",
+      "value": "44 h:min",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15"
+    },
+    {
+      "prated": "SCOP",
+      "5.80_kw": "4.65",
+      "6.00_kw": "3.23",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Tbiv",
+      "5.80_kw": "-10 \u00b0C",
+      "6.00_kw": "-7 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "TOL",
+      "5.80_kw": "-10 \u00b0C",
+      "6.00_kw": "-10 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = -7\u00b0C",
+      "5.80_kw": "5.10 kW",
+      "6.00_kw": "5.30 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = -7\u00b0C",
+      "5.80_kw": "2.80",
+      "6.00_kw": "2.05",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = -7 \u00b0C",
+      "5.80_kw": "0.900",
+      "6.00_kw": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = +2\u00b0C",
+      "5.80_kw": "3.10 kW",
+      "6.00_kw": "3.20 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = +2\u00b0C",
+      "5.80_kw": "4.50",
+      "6.00_kw": "3.10",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = +2 \u00b0C",
+      "5.80_kw": "0.900",
+      "6.00_kw": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = +7\u00b0C",
+      "5.80_kw": "2.40 kW",
+      "6.00_kw": "3.00 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = +7\u00b0C",
+      "5.80_kw": "6.50",
+      "6.00_kw": "4.50",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = +7 \u00b0C",
+      "5.80_kw": "0.900",
+      "6.00_kw": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = 12\u00b0C",
+      "5.80_kw": "2.80 kW",
+      "6.00_kw": "3.60 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = 12\u00b0C",
+      "5.80_kw": "9.00",
+      "6.00_kw": "6.80",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = +12 \u00b0C",
+      "5.80_kw": "0.900",
+      "6.00_kw": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = Tbiv",
+      "5.80_kw": "5.80 kW",
+      "6.00_kw": "5.30 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = Tbiv",
+      "5.80_kw": "2.50",
+      "6.00_kw": "2.05",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.80_kw": "5.80 kW",
+      "6.00_kw": "5.10 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.80_kw": "2.50",
+      "6.00_kw": "1.65",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.80_kw": "0.900",
+      "6.00_kw": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "WTOL",
+      "5.80_kw": "65 \u00b0C",
+      "6.00_kw": "65 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Poff",
+      "5.80_kw": "20 W",
+      "6.00_kw": "20 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "PTO",
+      "5.80_kw": "20 W",
+      "6.00_kw": "20 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "PSB",
+      "5.80_kw": "20 W",
+      "6.00_kw": "20 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "PCK",
+      "5.80_kw": "30 W",
+      "6.00_kw": "30 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Supplementary Heater: Type of energy\ninput",
+      "5.80_kw": "n/a",
+      "6.00_kw": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Supplementary Heater: PSUP",
+      "5.80_kw": "0.00 kW",
+      "6.00_kw": "0.90 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "prated": "Annual energy consumption Qhe",
+      "5.80_kw": "2575 kWh",
+      "6.00_kw": "3837 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.90 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15"
+    },
+    {
+      "": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Model HU091MR U44 / HN0913T NK0",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "hu091mr_u44_/_hn0913t_nk0": "Heating + DHW + low temp",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "hu091mr_u44_/_hn0913t_nk0": "Indoor, Outdoor",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "hu091mr_u44_/_hn0913t_nk0": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "hu091mr_u44_/_hn0913t_nk0": "Yes",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "hu091mr_u44_/_hn0913t_nk0": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "hu091mr_u44_/_hn0913t_nk0": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hu091mr_u44_/_hn0913t_nk0": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hu091mr_u44_/_hn0913t_nk0": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "hu091mr_u44_/_hn0913t_nk0": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "140 %",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "3.40",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "1:44 h:min",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "30.0 W",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "52.0 \u00b0C",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "250 l",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "xl": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "9.00 kW",
+      "medium_temperature": "5.50 kW",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.94 kW",
+      "medium_temperature": "2.04 kW",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.65",
+      "medium_temperature": "2.70",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "42 dB(A)",
+      "medium_temperature": "42 dB(A)",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "60 dB(A)",
+      "medium_temperature": "60 dB(A)",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "183 %",
+      "medium_temperature": "126 %",
+      "source_page": 6,
+      "source_table": 8,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_1",
+      "value": "44 h:min",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15"
+    },
+    {
+      "column_0": "Prated",
+      "column_1": "6.00 kW",
+      "column_2": "6.00 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "SCOP",
+      "column_1": "4.65",
+      "column_2": "3.23",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Tbiv",
+      "column_1": "-10 \u00b0C",
+      "column_2": "-7 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "TOL",
+      "column_1": "-10 \u00b0C",
+      "column_2": "-10 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = -7\u00b0C",
+      "column_1": "5.30 kW",
+      "column_2": "5.30 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = -7\u00b0C",
+      "column_1": "2.75",
+      "column_2": "2.05",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = -7 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +2\u00b0C",
+      "column_1": "3.20 kW",
+      "column_2": "3.20 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +2\u00b0C",
+      "column_1": "4.50",
+      "column_2": "3.10",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +2 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +7\u00b0C",
+      "column_1": "2.30 kW",
+      "column_2": "3.00 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +7\u00b0C",
+      "column_1": "6.50",
+      "column_2": "4.50",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +7 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = 12\u00b0C",
+      "column_1": "2.80 kW",
+      "column_2": "3.60 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = 12\u00b0C",
+      "column_1": "9.00",
+      "column_2": "6.80",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "6.00 kW",
+      "column_2": "5.30 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "2.45",
+      "column_2": "2.05",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "6.00 kW",
+      "column_2": "5.10 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "2.45",
+      "column_2": "1.65",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "20 W",
+      "column_2": "20 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "20 W",
+      "column_2": "20 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "20 W",
+      "column_2": "20 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "30 W",
+      "column_2": "30 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "n/a",
+      "column_2": "Electricity",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "0.90 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "2666 kWh",
+      "column_2": "3837 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a Electricity",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.90 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "LG_Electronics_Inc__R32_THERMAV_IWT_2ND__5_7_9kW_Outdoor_Air_Water_15"
+    }
+  ]
+}

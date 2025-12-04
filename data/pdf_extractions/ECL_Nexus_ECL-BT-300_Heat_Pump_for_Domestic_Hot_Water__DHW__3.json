@@ -1,0 +1,900 @@
+{
+  "source_pdf": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3.pdf",
+  "extraction_timestamp": "2025-11-17T15:23:05.819754",
+  "total_records": 113,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype ECL-BT-300",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "ecl_nexus": "13, Boulevard Pereire",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "ecl_nexus": "75017",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "ecl_nexus": "Paris",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "ecl_nexus": "FR",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "ecl_nexus": "ICIM S.p.A.",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "ecl_nexus": "ECL-BT-300",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "ecl_nexus": "ICIM-PDC-000148",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "ecl_nexus": "Heat Pump for Domestic Hot Water (DHW)",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "ecl_nexus": "R134a",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "ecl_nexus": "0.92 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "ecl_nexus": "20.05.2022",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "ecl_nexus": "V8",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "": "Model ECLBT300X.01",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "eclbt300x.01": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "eclbt300x.01": "Indoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "eclbt300x.01": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Heat Source",
+      "eclbt300x.01": "Outdoor Air",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "eclbt300x.01": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "eclbt300x.01": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "eclbt300x.01": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "eclbt300x.01": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "eclbt300x.01": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "No",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Heat Pump for Domestic Hot Water (DHW)",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Operating test",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "Safety devices checking test",
+      "2": "2",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "Condensate draining",
+      "2": "2",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "",
+      "2": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "",
+      "2": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "EN 12102-2 | Average Climate",
+      "2": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "",
+      "58_db(a)": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "",
+      "58_db(a)": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "EN 16147 | Average Climate",
+      "58_db(a)": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "118 %",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.85",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "9:53 h:min",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "40.0 W",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "55.0 \u00b0C",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "390 l",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_9",
+      "value": "53 h:min",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3"
+    },
+    {
+      "": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "": "Model ECLBT300S.01",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "eclbt300s.01": "n/a",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "eclbt300s.01": "Indoor",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "eclbt300s.01": "n/a",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Heat Source",
+      "eclbt300s.01": "Outdoor Air",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "eclbt300s.01": "n/a",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "eclbt300s.01": "n/a",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "eclbt300s.01": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "eclbt300s.01": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "eclbt300s.01": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "No",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Heat Pump for Domestic Hot Water (DHW)",
+      "1x230v_50hz": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Operating test",
+      "1x230v_50hz": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "Safety devices checking test",
+      "2": "2",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "Condensate draining",
+      "2": "2",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "",
+      "2": "",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "",
+      "2": "",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "EN 12102-2 | Average Climate",
+      "2": "",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "",
+      "58_db(a)": "",
+      "source_page": 3,
+      "source_table": 5,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "",
+      "58_db(a)": "",
+      "source_page": 3,
+      "source_table": 5,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "EN 16147 | Average Climate",
+      "58_db(a)": "",
+      "source_page": 3,
+      "source_table": 5,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "118 %",
+      "source_page": 3,
+      "source_table": 6,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.85",
+      "source_page": 3,
+      "source_table": 6,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "9:53 h:min",
+      "source_page": 3,
+      "source_table": 6,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "40.0 W",
+      "source_page": 3,
+      "source_table": 6,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "55.0 \u00b0C",
+      "source_page": 3,
+      "source_table": 6,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "390 l",
+      "source_page": 3,
+      "source_table": 6,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_9",
+      "value": "53 h:min",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3"
+    },
+    {
+      "": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "": "Model ECLBT300D.01",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "eclbt300d.01": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "eclbt300d.01": "Indoor",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "eclbt300d.01": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Heat Source",
+      "eclbt300d.01": "Outdoor Air",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "eclbt300d.01": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "eclbt300d.01": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "eclbt300d.01": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "eclbt300d.01": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "eclbt300d.01": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "No",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Heat Pump for Domestic Hot Water (DHW)",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Operating test",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "Safety devices checking test",
+      "2": "2",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "Condensate draining",
+      "2": "2",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "",
+      "2": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "",
+      "2": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "EN 12102-2 | Average Climate",
+      "2": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "",
+      "58_db(a)": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "",
+      "58_db(a)": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "EN 16147 | Average Climate",
+      "58_db(a)": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "118 %",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.85",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "9:53 h:min",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "40.0 W",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "55.0 \u00b0C",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "390 l",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_9",
+      "value": "53 h:min",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "ECL_Nexus_ECL-BT-300_Heat_Pump_for_Domestic_Hot_Water__DHW__3"
+    }
+  ]
+}

@@ -1,0 +1,703 @@
+{
+  "source_pdf": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16.pdf",
+  "extraction_timestamp": "2025-11-17T15:23:58.548959",
+  "total_records": 83,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype DC Inverter Type Air to Water Unit- R410A- 30kW",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "es_heat_pumps_ab": "Metallgatan 2",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "es_heat_pumps_ab": "441 32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "es_heat_pumps_ab": "Alings\u00e5s",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "es_heat_pumps_ab": "SE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "es_heat_pumps_ab": "BRE Global Limited",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "es_heat_pumps_ab": "DC Inverter Type Air to Water Unit- R410A- 30kW",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "es_heat_pumps_ab": "041-K057-06",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "es_heat_pumps_ab": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "es_heat_pumps_ab": "R410A",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "es_heat_pumps_ab": "5.2 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "es_heat_pumps_ab": "06.11.2023",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "es_heat_pumps_ab": "Heat Pump KEYMARK certification Scheme rules v12",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "es_heat_pumps_ab": "T\u00dcV S\u00dcD Certification and Testing Co., Ltd. Guangzhou\nBranch, CN",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Model Indoor unit: AWC30/90-EVI-M, Outdoor unit: AW30-EVI-M",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "indoor_unit:_awc30/90-evi-m,_outdoor_unit:_aw30-evi-m": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "indoor_unit:_awc30/90-evi-m,_outdoor_unit:_aw30-evi-m": "Indoor, Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "indoor_unit:_awc30/90-evi-m,_outdoor_unit:_aw30-evi-m": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "indoor_unit:_awc30/90-evi-m,_outdoor_unit:_aw30-evi-m": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "indoor_unit:_awc30/90-evi-m,_outdoor_unit:_aw30-evi-m": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "indoor_unit:_awc30/90-evi-m,_outdoor_unit:_aw30-evi-m": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "indoor_unit:_awc30/90-evi-m,_outdoor_unit:_aw30-evi-m": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "indoor_unit:_awc30/90-evi-m,_outdoor_unit:_aw30-evi-m": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "indoor_unit:_awc30/90-evi-m,_outdoor_unit:_aw30-evi-m": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "17.71 kW",
+      "medium_temperature": "27.22 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "3.99 kW",
+      "medium_temperature": "10.61 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.43",
+      "medium_temperature": "2.57",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "32 dB(A)",
+      "medium_temperature": "32 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "66 dB(A)",
+      "medium_temperature": "71 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "159 %",
+      "medium_temperature": "125 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "26.53 kW",
+      "medium_temperature": "24.61 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.04",
+      "medium_temperature": "3.21",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-28 \u00b0C",
+      "medium_temperature": "-28 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "23.47 kW",
+      "medium_temperature": "21.77 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.76",
+      "medium_temperature": "2.20",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "14.31 kW",
+      "medium_temperature": "14.08 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.10",
+      "medium_temperature": "3.10",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "label": "model_indoor_unit",
+      "value": "AWC30/90-EVI-M, Outdoor unit: AW30-EVI-M",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16"
+    },
+    {
+      "label": "model_name_indoor_unit",
+      "value": "AWC30/90-EVI-M, Outdoor unit: AW30-EVI-M",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16"
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = +7\u00b0C",
+      "12.85_kw": "5.04",
+      "11.39_kw": "4.26",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "12.85_kw": "0.900",
+      "11.39_kw": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "12.85_kw": "13.87 kW",
+      "11.39_kw": "13.20 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "12.85_kw": "6.40",
+      "11.39_kw": "5.47",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "12.85_kw": "0.900",
+      "11.39_kw": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "12.85_kw": "23.47 kW",
+      "11.39_kw": "21.77 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "12.85_kw": "2.76",
+      "11.39_kw": "2.20",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "12.85_kw": "21.64 kW",
+      "11.39_kw": "20.58 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "12.85_kw": "2.54",
+      "11.39_kw": "1.97",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "12.85_kw": "0.900",
+      "11.39_kw": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "WTOL",
+      "12.85_kw": "60 \u00b0C",
+      "11.39_kw": "60 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Poff",
+      "12.85_kw": "10 W",
+      "11.39_kw": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PTO",
+      "12.85_kw": "12 W",
+      "11.39_kw": "12 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PSB",
+      "12.85_kw": "10 W",
+      "11.39_kw": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PCK",
+      "12.85_kw": "33 W",
+      "11.39_kw": "33 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "12.85_kw": "Electricity",
+      "11.39_kw": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "12.85_kw": "4.89 kW",
+      "11.39_kw": "4.02 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "12.85_kw": "13563 kWh",
+      "11.39_kw": "15836 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 4.89 kW 4.02 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "ES_Heat_Pumps_AB_DC_Inverter_Type_Air_to_Water_Unit-_R410A-_30kW_Outdoor_Air_Water_16"
+    }
+  ]
+}

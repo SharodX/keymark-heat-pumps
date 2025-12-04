@@ -1,0 +1,5403 @@
+{
+  "source_pdf": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9.pdf",
+  "extraction_timestamp": "2025-11-17T15:56:08.177949",
+  "total_records": 620,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype KITA SP 8-10-12 R290",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "templari_s.p.a.": "Via C. Battisti, n\u00b0 169",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "templari_s.p.a.": "35031",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "templari_s.p.a.": "Abano Terme (PD)",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "templari_s.p.a.": "IT",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "templari_s.p.a.": "ICIM S.p.A.",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "templari_s.p.a.": "KITA SP 8-10-12 R290",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "templari_s.p.a.": "ICIM-PDC-000224",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "templari_s.p.a.": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "templari_s.p.a.": "R290",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "templari_s.p.a.": "1.4 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "templari_s.p.a.": "02.11.2023",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "templari_s.p.a.": "V12",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Model Unit\u00e0 esterna KITA-SP-12, 1Ph, vers. MONOBLOCCO R-290",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "unit\u00e0_esterna_kita-sp-12,_1ph,_vers._monoblocco_r-290": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "unit\u00e0_esterna_kita-sp-12,_1ph,_vers._monoblocco_r-290": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "unit\u00e0_esterna_kita-sp-12,_1ph,_vers._monoblocco_r-290": "Colder, Colder Climate",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "unit\u00e0_esterna_kita-sp-12,_1ph,_vers._monoblocco_r-290": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "unit\u00e0_esterna_kita-sp-12,_1ph,_vers._monoblocco_r-290": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "unit\u00e0_esterna_kita-sp-12,_1ph,_vers._monoblocco_r-290": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "unit\u00e0_esterna_kita-sp-12,_1ph,_vers._monoblocco_r-290": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "unit\u00e0_esterna_kita-sp-12,_1ph,_vers._monoblocco_r-290": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "unit\u00e0_esterna_kita-sp-12,_1ph,_vers._monoblocco_r-290": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-2 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "12.10 kW",
+      "medium_temperature": "10.93 kW",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.42 kW",
+      "medium_temperature": "3.38 kW",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.99",
+      "medium_temperature": "3.23",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "50 dB(A)",
+      "medium_temperature": "50 dB(A)",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "215 %",
+      "medium_temperature": "159 %",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12.41 kW",
+      "medium_temperature": "11.59 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.44",
+      "medium_temperature": "4.05",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "10.98 kW",
+      "medium_temperature": "10.25 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.09",
+      "medium_temperature": "2.18",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "6.68 kW",
+      "medium_temperature": "6.24 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.39",
+      "medium_temperature": "4.03",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.35 kW",
+      "medium_temperature": "4.16 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "7.51",
+      "medium_temperature": "5.62",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "4.19 kW",
+      "medium_temperature": "4.07 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "10.35",
+      "medium_temperature": "8.16",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "10.98 kW",
+      "medium_temperature": "10.25 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.09",
+      "medium_temperature": "2.18",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "10.12_kw": "2.82",
+      "9.36_kw": "1.94",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "10.12_kw": "0.900",
+      "9.36_kw": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "10.12_kw": "65 \u00b0C",
+      "9.36_kw": "65 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "10.12_kw": "24 W",
+      "9.36_kw": "24 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "10.12_kw": "31 W",
+      "9.36_kw": "31 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "10.12_kw": "24 W",
+      "9.36_kw": "24 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "10.12_kw": "35 W",
+      "9.36_kw": "35 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "10.12_kw": "Electricity",
+      "9.36_kw": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "10.12_kw": "2.20 kW",
+      "9.36_kw": "2.20 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "10.12_kw": "4712 kWh",
+      "9.36_kw": "5918 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "10.12_kw": "",
+      "9.36_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "10.12_kw": "",
+      "9.36_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "EN 12102-1 | Colder Climate",
+      "10.12_kw": "",
+      "9.36_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "50 dB(A)",
+      "medium_temperature": "50 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "190 %",
+      "medium_temperature": "144 %",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "10.91 kW",
+      "medium_temperature": "10.32 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.83",
+      "medium_temperature": "3.68",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "6.61 kW",
+      "medium_temperature": "6.24 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.03",
+      "medium_temperature": "3.04",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.85 kW",
+      "medium_temperature": "4.66 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "6.30",
+      "medium_temperature": "4.66",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.38 kW",
+      "medium_temperature": "4.26 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "8.17",
+      "medium_temperature": "7.37",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "4.19 kW",
+      "medium_temperature": "4.11 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "10.35",
+      "medium_temperature": "8.80",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "8.90 kW",
+      "medium_temperature": "8.42 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "2.66",
+      "medium_temperature": "1.94",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "7.14 kW",
+      "medium_temperature": "6.72 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "2.09",
+      "medium_temperature": "1.50",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 2.20 kW 2.20 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "24 W",
+      "column_2": "24 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "31 W",
+      "column_2": "31 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "24 W",
+      "column_2": "24 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "35 W",
+      "column_2": "35 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "3.50 kW",
+      "column_2": "3.50 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "5563 kWh",
+      "column_2": "6907 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = -15\u00b0C (if TOL",
+      "column_1": "8.90",
+      "column_2": "8.42",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = -15\u00b0C (if TOL",
+      "column_1": "2.66",
+      "column_2": "1.94",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = -15 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 3.50 kW 3.50 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Model Unit\u00e0 esterna KITA-SP-12, 3Ph, vers. MONOBLOCCO R-290",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "unit\u00e0_esterna_kita-sp-12,_3ph,_vers._monoblocco_r-290": "Heating (medium temp)",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "unit\u00e0_esterna_kita-sp-12,_3ph,_vers._monoblocco_r-290": "Outdoor",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "unit\u00e0_esterna_kita-sp-12,_3ph,_vers._monoblocco_r-290": "Colder, Colder Climate",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "unit\u00e0_esterna_kita-sp-12,_3ph,_vers._monoblocco_r-290": "Yes",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "unit\u00e0_esterna_kita-sp-12,_3ph,_vers._monoblocco_r-290": "n/a",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "unit\u00e0_esterna_kita-sp-12,_3ph,_vers._monoblocco_r-290": "n/a",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "unit\u00e0_esterna_kita-sp-12,_3ph,_vers._monoblocco_r-290": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "unit\u00e0_esterna_kita-sp-12,_3ph,_vers._monoblocco_r-290": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "unit\u00e0_esterna_kita-sp-12,_3ph,_vers._monoblocco_r-290": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-2 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "12.10 kW",
+      "medium_temperature": "10.93 kW",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.42 kW",
+      "medium_temperature": "3.38 kW",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.99",
+      "medium_temperature": "3.23",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "50 dB(A)",
+      "medium_temperature": "50 dB(A)",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "215 %",
+      "medium_temperature": "159 %",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12.41 kW",
+      "medium_temperature": "11.59 kW",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.44",
+      "medium_temperature": "4.05",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "10.98 kW",
+      "medium_temperature": "10.25 kW",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.09",
+      "medium_temperature": "2.18",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "6.68 kW",
+      "medium_temperature": "6.24 kW",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.39",
+      "medium_temperature": "4.03",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.35 kW",
+      "medium_temperature": "4.16 kW",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "7.51",
+      "medium_temperature": "5.62",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "4.19 kW",
+      "medium_temperature": "4.07 kW",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "10.35",
+      "medium_temperature": "8.16",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "10.98 kW",
+      "medium_temperature": "10.25 kW",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.09",
+      "medium_temperature": "2.18",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "10.12_kw": "2.82",
+      "9.36_kw": "1.94",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "10.12_kw": "0.900",
+      "9.36_kw": "0.900",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "10.12_kw": "65 \u00b0C",
+      "9.36_kw": "65 \u00b0C",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "10.12_kw": "24 W",
+      "9.36_kw": "24 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "10.12_kw": "31 W",
+      "9.36_kw": "31 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "10.12_kw": "24 W",
+      "9.36_kw": "24 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "10.12_kw": "35 W",
+      "9.36_kw": "35 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "10.12_kw": "n/a",
+      "9.36_kw": "n/a",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "10.12_kw": "2.20 kW",
+      "9.36_kw": "2.20 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "10.12_kw": "4712 kWh",
+      "9.36_kw": "5918 kWh",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "10.12_kw": "",
+      "9.36_kw": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "10.12_kw": "",
+      "9.36_kw": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "EN 12102-1 | Colder Climate",
+      "10.12_kw": "",
+      "9.36_kw": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "50 dB(A)",
+      "medium_temperature": "50 dB(A)",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "190 %",
+      "medium_temperature": "144 %",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "10.91 kW",
+      "medium_temperature": "10.32 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.83",
+      "medium_temperature": "3.68",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "6.61 kW",
+      "medium_temperature": "6.24 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.03",
+      "medium_temperature": "3.04",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.85 kW",
+      "medium_temperature": "4.66 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "6.30",
+      "medium_temperature": "4.66",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.38 kW",
+      "medium_temperature": "4.26 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "8.17",
+      "medium_temperature": "7.37",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "4.19 kW",
+      "medium_temperature": "4.11 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "10.35",
+      "medium_temperature": "8.80",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "8.90 kW",
+      "medium_temperature": "8.42 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "2.66",
+      "medium_temperature": "1.94",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "7.14 kW",
+      "medium_temperature": "6.72 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "2.09",
+      "medium_temperature": "1.50",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 2.20 kW 2.20 kW",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "24 W",
+      "column_2": "24 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "31 W",
+      "column_2": "31 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "24 W",
+      "column_2": "24 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "35 W",
+      "column_2": "35 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "3.50 kW",
+      "column_2": "3.50 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "5563 kWh",
+      "column_2": "6907 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = -15\u00b0C (if TOL",
+      "column_1": "8.90",
+      "column_2": "8.42",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = -15\u00b0C (if TOL",
+      "column_1": "2.66",
+      "column_2": "1.94",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = -15 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 3.50 kW 3.50 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Model Unit\u00e0 esterna KITA-SP-8, 1Ph, vers. MONOBLOCCO R-290",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "unit\u00e0_esterna_kita-sp-8,_1ph,_vers._monoblocco_r-290": "Heating (medium temp)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "unit\u00e0_esterna_kita-sp-8,_1ph,_vers._monoblocco_r-290": "Outdoor",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "unit\u00e0_esterna_kita-sp-8,_1ph,_vers._monoblocco_r-290": "Colder, Colder Climate",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "unit\u00e0_esterna_kita-sp-8,_1ph,_vers._monoblocco_r-290": "Yes",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "unit\u00e0_esterna_kita-sp-8,_1ph,_vers._monoblocco_r-290": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "unit\u00e0_esterna_kita-sp-8,_1ph,_vers._monoblocco_r-290": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "unit\u00e0_esterna_kita-sp-8,_1ph,_vers._monoblocco_r-290": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "unit\u00e0_esterna_kita-sp-8,_1ph,_vers._monoblocco_r-290": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "unit\u00e0_esterna_kita-sp-8,_1ph,_vers._monoblocco_r-290": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-2 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "8.00 kW",
+      "medium_temperature": "7.12 kW",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.38 kW",
+      "medium_temperature": "1.92 kW",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.78",
+      "medium_temperature": "3.70",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "50 dB(A)",
+      "medium_temperature": "50 dB(A)",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "224 %",
+      "medium_temperature": "161 %",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "6.53 kW",
+      "medium_temperature": "6.02 kW",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.61",
+      "medium_temperature": "4.09",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "5.78 kW",
+      "medium_temperature": "5.32 kW",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.78",
+      "medium_temperature": "2.69",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.79 kW",
+      "medium_temperature": "4.52 kW",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.84",
+      "medium_temperature": "4.19",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.34 kW",
+      "medium_temperature": "4.15 kW",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "7.64",
+      "medium_temperature": "5.77",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "4.19 kW",
+      "medium_temperature": "4.07 kW",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "10.37",
+      "medium_temperature": "8.16",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "5.78 kW",
+      "medium_temperature": "5.32 kW",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.78",
+      "medium_temperature": "2.69",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.41_kw": "3.33",
+      "4.82_kw": "2.37",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.41_kw": "0.900",
+      "4.82_kw": "0.900",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "5.41_kw": "65 \u00b0C",
+      "4.82_kw": "65 \u00b0C",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "5.41_kw": "24 W",
+      "4.82_kw": "24 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "5.41_kw": "31 W",
+      "4.82_kw": "31 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "5.41_kw": "24 W",
+      "4.82_kw": "24 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "5.41_kw": "35 W",
+      "4.82_kw": "35 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "5.41_kw": "n/a",
+      "4.82_kw": "n/a",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "5.41_kw": "1.20 kW",
+      "4.82_kw": "1.20 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "5.41_kw": "2404 kWh",
+      "4.82_kw": "3039 kWh",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "5.41_kw": "",
+      "4.82_kw": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "5.41_kw": "",
+      "4.82_kw": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "EN 12102-1 | Colder Climate",
+      "5.41_kw": "",
+      "4.82_kw": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "50 dB(A)",
+      "medium_temperature": "50 dB(A)",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "188 %",
+      "medium_temperature": "138 %",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5.69 kW",
+      "medium_temperature": "5.26 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.78",
+      "medium_temperature": "3.54",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "5.08 kW",
+      "medium_temperature": "4.81 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.31",
+      "medium_temperature": "3.17",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.84 kW",
+      "medium_temperature": "4.65 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "6.54",
+      "medium_temperature": "4.74",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.37 kW",
+      "medium_temperature": "4.25 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "8.20",
+      "medium_temperature": "6.50",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "4.19 kW",
+      "medium_temperature": "4.11 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "10.37",
+      "medium_temperature": "8.80",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "4.64 kW",
+      "medium_temperature": "4.29 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.20",
+      "medium_temperature": "2.36",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "3.70 kW",
+      "medium_temperature": "3.33 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "2.46",
+      "medium_temperature": "1.74",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.20 kW 1.20 kW",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "24 W",
+      "column_2": "24 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "31 W",
+      "column_2": "31 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "24 W",
+      "column_2": "24 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "35 W",
+      "column_2": "35 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "2.00 kW",
+      "column_2": "2.00 kW",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "2937 kWh",
+      "column_2": "3667 kWh",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = -15\u00b0C (if TOL",
+      "column_1": "4.64",
+      "column_2": "4.29",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = -15\u00b0C (if TOL",
+      "column_1": "3.20",
+      "column_2": "2.36",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = -15 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 10,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 2.00 kW 2.00 kW",
+      "source_page": 10,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Model Unit\u00e0 esterna KITA-SP-8, 3Ph, vers. MONOBLOCCO R-290",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "unit\u00e0_esterna_kita-sp-8,_3ph,_vers._monoblocco_r-290": "Heating (medium temp)",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "unit\u00e0_esterna_kita-sp-8,_3ph,_vers._monoblocco_r-290": "Outdoor",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "unit\u00e0_esterna_kita-sp-8,_3ph,_vers._monoblocco_r-290": "Colder, Colder Climate",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "unit\u00e0_esterna_kita-sp-8,_3ph,_vers._monoblocco_r-290": "Yes",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "unit\u00e0_esterna_kita-sp-8,_3ph,_vers._monoblocco_r-290": "n/a",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "unit\u00e0_esterna_kita-sp-8,_3ph,_vers._monoblocco_r-290": "n/a",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "unit\u00e0_esterna_kita-sp-8,_3ph,_vers._monoblocco_r-290": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "unit\u00e0_esterna_kita-sp-8,_3ph,_vers._monoblocco_r-290": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "unit\u00e0_esterna_kita-sp-8,_3ph,_vers._monoblocco_r-290": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-2 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "8.00 kW",
+      "medium_temperature": "7.12 kW",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.38 kW",
+      "medium_temperature": "1.92 kW",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.78",
+      "medium_temperature": "3.70",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "50 dB(A)",
+      "medium_temperature": "50 dB(A)",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "224 %",
+      "medium_temperature": "161 %",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "6.53 kW",
+      "medium_temperature": "6.02 kW",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.61",
+      "medium_temperature": "4.09",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "5.78 kW",
+      "medium_temperature": "5.32 kW",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.78",
+      "medium_temperature": "2.69",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.79 kW",
+      "medium_temperature": "4.52 kW",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.84",
+      "medium_temperature": "4.19",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.34 kW",
+      "medium_temperature": "4.15 kW",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "7.64",
+      "medium_temperature": "5.77",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "4.19 kW",
+      "medium_temperature": "4.07 kW",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "10.37",
+      "medium_temperature": "8.16",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "5.78 kW",
+      "medium_temperature": "5.32 kW",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.78",
+      "medium_temperature": "2.69",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.41_kw": "3.33",
+      "4.82_kw": "2.37",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.41_kw": "0.900",
+      "4.82_kw": "0.900",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "5.41_kw": "65 \u00b0C",
+      "4.82_kw": "65 \u00b0C",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "5.41_kw": "24 W",
+      "4.82_kw": "24 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "5.41_kw": "31 W",
+      "4.82_kw": "31 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "5.41_kw": "24 W",
+      "4.82_kw": "24 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "5.41_kw": "35 W",
+      "4.82_kw": "35 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "5.41_kw": "Electricity",
+      "4.82_kw": "Electricity",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "5.41_kw": "1.20 kW",
+      "4.82_kw": "1.20 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "5.41_kw": "2404 kWh",
+      "4.82_kw": "3039 kWh",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "5.41_kw": "",
+      "4.82_kw": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "5.41_kw": "",
+      "4.82_kw": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "EN 12102-1 | Colder Climate",
+      "5.41_kw": "",
+      "4.82_kw": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "50 dB(A)",
+      "medium_temperature": "50 dB(A)",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "188 %",
+      "medium_temperature": "138 %",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5.69 kW",
+      "medium_temperature": "5.26 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.78",
+      "medium_temperature": "3.54",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "5.08 kW",
+      "medium_temperature": "4.81 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.31",
+      "medium_temperature": "3.17",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.84 kW",
+      "medium_temperature": "4.65 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "6.54",
+      "medium_temperature": "4.74",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.37 kW",
+      "medium_temperature": "4.25 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "8.20",
+      "medium_temperature": "6.50",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "4.19 kW",
+      "medium_temperature": "4.11 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "10.37",
+      "medium_temperature": "8.80",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "4.64 kW",
+      "medium_temperature": "4.29 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.20",
+      "medium_temperature": "2.36",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "3.70 kW",
+      "medium_temperature": "3.33 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "2.46",
+      "medium_temperature": "1.74",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.20 kW 1.20 kW",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "24 W",
+      "column_2": "24 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "31 W",
+      "column_2": "31 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "24 W",
+      "column_2": "24 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "35 W",
+      "column_2": "35 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "2.00 kW",
+      "column_2": "2.00 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "2937 kWh",
+      "column_2": "3667 kWh",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = -15\u00b0C (if TOL",
+      "column_1": "4.64",
+      "column_2": "4.29",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = -15\u00b0C (if TOL",
+      "column_1": "3.20",
+      "column_2": "2.36",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = -15 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 2.00 kW 2.00 kW",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "": "",
+      "source_page": 14,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Model Unit\u00e0 esterna KITA-SP-10, 3Ph, vers. MONOBLOCCO R-290",
+      "source_page": 14,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "unit\u00e0_esterna_kita-sp-10,_3ph,_vers._monoblocco_r-290": "Heating (medium temp)",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "unit\u00e0_esterna_kita-sp-10,_3ph,_vers._monoblocco_r-290": "Outdoor",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "unit\u00e0_esterna_kita-sp-10,_3ph,_vers._monoblocco_r-290": "Colder, Colder Climate",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "unit\u00e0_esterna_kita-sp-10,_3ph,_vers._monoblocco_r-290": "Yes",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "unit\u00e0_esterna_kita-sp-10,_3ph,_vers._monoblocco_r-290": "n/a",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "unit\u00e0_esterna_kita-sp-10,_3ph,_vers._monoblocco_r-290": "n/a",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "unit\u00e0_esterna_kita-sp-10,_3ph,_vers._monoblocco_r-290": "",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "unit\u00e0_esterna_kita-sp-10,_3ph,_vers._monoblocco_r-290": "",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "unit\u00e0_esterna_kita-sp-10,_3ph,_vers._monoblocco_r-290": "",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-2 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "10.00 kW",
+      "medium_temperature": "9.13 kW",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.84 kW",
+      "medium_temperature": "2.59 kW",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.44",
+      "medium_temperature": "3.53",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "50 dB(A)",
+      "medium_temperature": "50 dB(A)",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "227 %",
+      "medium_temperature": "165 %",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "8.34 kW",
+      "medium_temperature": "7.75 kW",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.75",
+      "medium_temperature": "4.20",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "7.38 kW",
+      "medium_temperature": "6.86 kW",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.59",
+      "medium_temperature": "2.56",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.79 kW",
+      "medium_temperature": "4.52 kW",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.84",
+      "medium_temperature": "4.19",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.34 kW",
+      "medium_temperature": "4.15 kW",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "7.64",
+      "medium_temperature": "5.77",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "4.19 kW",
+      "medium_temperature": "4.07 kW",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "10.37",
+      "medium_temperature": "8.16",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "7.38 kW",
+      "medium_temperature": "6.86 kW",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.59",
+      "medium_temperature": "2.56",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.88_kw": "3.20",
+      "6.34_kw": "2.26",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.88_kw": "0.900",
+      "6.34_kw": "0.900",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "6.88_kw": "65 \u00b0C",
+      "6.34_kw": "65 \u00b0C",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "6.88_kw": "24 W",
+      "6.34_kw": "24 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "6.88_kw": "31 W",
+      "6.34_kw": "31 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "6.88_kw": "24 W",
+      "6.34_kw": "24 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "6.88_kw": "35 W",
+      "6.34_kw": "35 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "6.88_kw": "n/a",
+      "6.34_kw": "n/a",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "6.88_kw": "1.50 kW",
+      "6.34_kw": "1.50 kW",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "6.88_kw": "2999 kWh",
+      "6.34_kw": "3811 kWh",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "6.88_kw": "",
+      "6.34_kw": "",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "6.88_kw": "",
+      "6.34_kw": "",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "EN 12102-1 | Colder Climate",
+      "6.88_kw": "",
+      "6.34_kw": "",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "50 dB(A)",
+      "medium_temperature": "50 dB(A)",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "193 %",
+      "medium_temperature": "142 %",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "7.28 kW",
+      "medium_temperature": "6.82 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.92",
+      "medium_temperature": "3.63",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "5.08 kW",
+      "medium_temperature": "4.81 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.31",
+      "medium_temperature": "3.10",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.84 kW",
+      "medium_temperature": "4.65 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "6.54",
+      "medium_temperature": "4.74",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.37 kW",
+      "medium_temperature": "4.25 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "8.18",
+      "medium_temperature": "6.64",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "4.19 kW",
+      "medium_temperature": "4.11 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "10.37",
+      "medium_temperature": "8.80",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "5.94 kW",
+      "medium_temperature": "5.57 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.04",
+      "medium_temperature": "2.23",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "4.75 kW",
+      "medium_temperature": "4.37 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "2.37",
+      "medium_temperature": "1.69",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 15,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.50 kW 1.50 kW",
+      "source_page": 15,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "24 W",
+      "column_2": "24 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "31 W",
+      "column_2": "31 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "24 W",
+      "column_2": "24 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "35 W",
+      "column_2": "35 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "n/a",
+      "column_2": "n/a",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "2.50 kW",
+      "column_2": "2.50 kW",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "3647 kWh",
+      "column_2": "4628 kWh",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = -15\u00b0C (if TOL",
+      "column_1": "5.94",
+      "column_2": "5.57",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = -15\u00b0C (if TOL",
+      "column_1": "3.04",
+      "column_2": "2.23",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = -15 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 16,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 2.50 kW 2.50 kW",
+      "source_page": 16,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "": "",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Model Unit\u00e0 esterna KITA-SP-10, 1Ph, vers. MONOBLOCCO R-290",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "unit\u00e0_esterna_kita-sp-10,_1ph,_vers._monoblocco_r-290": "Heating (medium temp)",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "unit\u00e0_esterna_kita-sp-10,_1ph,_vers._monoblocco_r-290": "Outdoor",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "unit\u00e0_esterna_kita-sp-10,_1ph,_vers._monoblocco_r-290": "Colder, Colder Climate",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "unit\u00e0_esterna_kita-sp-10,_1ph,_vers._monoblocco_r-290": "Yes",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "unit\u00e0_esterna_kita-sp-10,_1ph,_vers._monoblocco_r-290": "n/a",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "unit\u00e0_esterna_kita-sp-10,_1ph,_vers._monoblocco_r-290": "n/a",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "unit\u00e0_esterna_kita-sp-10,_1ph,_vers._monoblocco_r-290": "",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "unit\u00e0_esterna_kita-sp-10,_1ph,_vers._monoblocco_r-290": "",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "unit\u00e0_esterna_kita-sp-10,_1ph,_vers._monoblocco_r-290": "",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 17,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 17,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 17,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 17,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 17,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 17,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-2 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 17,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "10.00 kW",
+      "medium_temperature": "9.13 kW",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.84 kW",
+      "medium_temperature": "2.59 kW",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.44",
+      "medium_temperature": "3.53",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "50 dB(A)",
+      "medium_temperature": "50 dB(A)",
+      "source_page": 17,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 17,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 17,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 17,
+      "source_table": 5,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "227 %",
+      "medium_temperature": "165 %",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "8.34 kW",
+      "medium_temperature": "7.75 kW",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.75",
+      "medium_temperature": "4.20",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "7.38 kW",
+      "medium_temperature": "6.86 kW",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.59",
+      "medium_temperature": "2.56",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.79 kW",
+      "medium_temperature": "4.52 kW",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.84",
+      "medium_temperature": "4.19",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.34 kW",
+      "medium_temperature": "4.15 kW",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "7.64",
+      "medium_temperature": "5.77",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "4.19 kW",
+      "medium_temperature": "4.07 kW",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "10.37",
+      "medium_temperature": "8.16",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "7.38 kW",
+      "medium_temperature": "6.86 kW",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.59",
+      "medium_temperature": "2.56",
+      "source_page": 17,
+      "source_table": 6,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.88_kw": "3.20",
+      "6.34_kw": "2.26",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.88_kw": "0.900",
+      "6.34_kw": "0.900",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "6.88_kw": "65 \u00b0C",
+      "6.34_kw": "65 \u00b0C",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "6.88_kw": "24 W",
+      "6.34_kw": "24 W",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "6.88_kw": "31 W",
+      "6.34_kw": "31 W",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "6.88_kw": "24 W",
+      "6.34_kw": "24 W",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "6.88_kw": "35 W",
+      "6.34_kw": "35 W",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "6.88_kw": "Electricity",
+      "6.34_kw": "Electricity",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "6.88_kw": "1.50 kW",
+      "6.34_kw": "1.50 kW",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "6.88_kw": "2999 kWh",
+      "6.34_kw": "3811 kWh",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "6.88_kw": "",
+      "6.34_kw": "",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "6.88_kw": "",
+      "6.34_kw": "",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "EN 12102-1 | Colder Climate",
+      "6.88_kw": "",
+      "6.34_kw": "",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "50 dB(A)",
+      "medium_temperature": "50 dB(A)",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "193 %",
+      "medium_temperature": "142 %",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "7.28 kW",
+      "medium_temperature": "6.82 kW",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.92",
+      "medium_temperature": "3.63",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "5.08 kW",
+      "medium_temperature": "4.81 kW",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.31",
+      "medium_temperature": "3.10",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.84 kW",
+      "medium_temperature": "4.65 kW",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "6.54",
+      "medium_temperature": "4.74",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.37 kW",
+      "medium_temperature": "4.25 kW",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "8.18",
+      "medium_temperature": "6.64",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "4.19 kW",
+      "medium_temperature": "4.11 kW",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "10.37",
+      "medium_temperature": "8.80",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "5.94 kW",
+      "medium_temperature": "5.57 kW",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.04",
+      "medium_temperature": "2.23",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "4.75 kW",
+      "medium_temperature": "4.37 kW",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "2.37",
+      "medium_temperature": "1.69",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 18,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.50 kW 1.50 kW",
+      "source_page": 18,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "24 W",
+      "column_2": "24 W",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "31 W",
+      "column_2": "31 W",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "24 W",
+      "column_2": "24 W",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "35 W",
+      "column_2": "35 W",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "2.50 kW",
+      "column_2": "2.50 kW",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "3647 kWh",
+      "column_2": "4628 kWh",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = -15\u00b0C (if TOL",
+      "column_1": "5.94",
+      "column_2": "5.57",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = -15\u00b0C (if TOL",
+      "column_1": "3.04",
+      "column_2": "2.23",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = -15 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 19,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 2.50 kW 2.50 kW",
+      "source_page": 19,
+      "source_table": null,
+      "model_id": "Templari_S_p_A__KITA_SP_8-10-12_R290_Outdoor_Air_Water_9"
+    }
+  ]
+}

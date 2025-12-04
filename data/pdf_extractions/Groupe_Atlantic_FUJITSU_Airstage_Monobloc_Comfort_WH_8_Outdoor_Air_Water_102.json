@@ -1,0 +1,1330 @@
+{
+  "source_pdf": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102.pdf",
+  "extraction_timestamp": "2025-11-17T15:32:23.023913",
+  "total_records": 157,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype FUJITSU Airstage Monobloc Comfort WH 8",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "groupe_atlantic": "Rue des Fondeurs BP 64",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "groupe_atlantic": "59660",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "groupe_atlantic": "Merville",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "groupe_atlantic": "FR",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "groupe_atlantic": "RISE CERT",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "groupe_atlantic": "FUJITSU Airstage Monobloc Comfort WH 8",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "groupe_atlantic": "012-C700312",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "groupe_atlantic": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "groupe_atlantic": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "groupe_atlantic": "1.47 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "groupe_atlantic": "23.05.2024",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "groupe_atlantic": "EN 14511:2022, EN 14825:2022, EN 16147:2017, EN\n12102:2022",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "groupe_atlantic": "ACTA INDUSTRIE - Laboratoire Acoustique et Climatique",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "label": "testing_basis_en_14511",
+      "value": "2022, EN 14825:2022, EN 16147:2017, EN",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102"
+    },
+    {
+      "label": "12102",
+      "value": "2022",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102"
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "Model FUJITSU Airstage Monobloc Comfort WH 8 (WPEG080KRF/WSEP100KR3)",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "fujitsu_airstage_monobloc_comfort_wh_8_(wpeg080krf/wsep100kr3)": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "fujitsu_airstage_monobloc_comfort_wh_8_(wpeg080krf/wsep100kr3)": "Indoor, Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "fujitsu_airstage_monobloc_comfort_wh_8_(wpeg080krf/wsep100kr3)": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "fujitsu_airstage_monobloc_comfort_wh_8_(wpeg080krf/wsep100kr3)": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "fujitsu_airstage_monobloc_comfort_wh_8_(wpeg080krf/wsep100kr3)": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "fujitsu_airstage_monobloc_comfort_wh_8_(wpeg080krf/wsep100kr3)": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "fujitsu_airstage_monobloc_comfort_wh_8_(wpeg080krf/wsep100kr3)": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "fujitsu_airstage_monobloc_comfort_wh_8_(wpeg080krf/wsep100kr3)": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "8.00 kW",
+      "medium_temperature": "8.00 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.57 kW",
+      "medium_temperature": "2.62 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.08",
+      "medium_temperature": "3.05",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "40 dB(A)",
+      "medium_temperature": "40 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "56 dB(A)",
+      "medium_temperature": "56 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "195 %",
+      "medium_temperature": "139 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "9.00 kW",
+      "medium_temperature": "8.70 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.94",
+      "medium_temperature": "3.54",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "8.00 kW",
+      "medium_temperature": "7.70 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.19",
+      "medium_temperature": "2.26",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.990",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.80 kW",
+      "medium_temperature": "4.70 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.90",
+      "medium_temperature": "3.40",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.980",
+      "medium_temperature": "0.980",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = +7\u00b0C",
+      "3.90_kw": "6.54",
+      "3.70_kw": "4.83",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "3.90_kw": "0.960",
+      "3.70_kw": "0.970",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "3.90_kw": "4.50 kW",
+      "3.70_kw": "4.40 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "3.90_kw": "8.45",
+      "3.70_kw": "6.45",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "3.90_kw": "0.960",
+      "3.70_kw": "0.970",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "3.90_kw": "8.00 kW",
+      "3.70_kw": "7.70 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "3.90_kw": "3.19",
+      "3.70_kw": "2.26",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.90_kw": "7.90 kW",
+      "3.70_kw": "7.40 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.90_kw": "2.79",
+      "3.70_kw": "2.01",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.90_kw": "0.990",
+      "3.70_kw": "0.990",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "WTOL",
+      "3.90_kw": "60 \u00b0C",
+      "3.70_kw": "60 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Poff",
+      "3.90_kw": "13 W",
+      "3.70_kw": "13 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PTO",
+      "3.90_kw": "23 W",
+      "3.70_kw": "23 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PSB",
+      "3.90_kw": "13 W",
+      "3.70_kw": "13 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PCK",
+      "3.90_kw": "0 W",
+      "3.70_kw": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "3.90_kw": "Electricity",
+      "3.70_kw": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "3.90_kw": "1.10 kW",
+      "3.70_kw": "1.30 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "3.90_kw": "3764 kWh",
+      "3.70_kw": "5078 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.10 kW 1.30 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102"
+    },
+    {
+      "": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "Model FUJITSU Airstage Monobloc Comfort Duo 8 (WPEG080KRF/WGEP100KR3-19)",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "fujitsu_airstage_monobloc_comfort_duo_8_(wpeg080krf/wgep100kr3-19)": "Heating + DHW + low temp",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "fujitsu_airstage_monobloc_comfort_duo_8_(wpeg080krf/wgep100kr3-19)": "Indoor, Outdoor",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "fujitsu_airstage_monobloc_comfort_duo_8_(wpeg080krf/wgep100kr3-19)": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "fujitsu_airstage_monobloc_comfort_duo_8_(wpeg080krf/wgep100kr3-19)": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "fujitsu_airstage_monobloc_comfort_duo_8_(wpeg080krf/wgep100kr3-19)": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "fujitsu_airstage_monobloc_comfort_duo_8_(wpeg080krf/wgep100kr3-19)": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "fujitsu_airstage_monobloc_comfort_duo_8_(wpeg080krf/wgep100kr3-19)": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "fujitsu_airstage_monobloc_comfort_duo_8_(wpeg080krf/wgep100kr3-19)": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "l": "124 %",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "l": "3.10",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "l": "1:35 h:min",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "l": "45.0 W",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "l": "55.0 \u00b0C",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "l": "238 l",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "l": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "l": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "l": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "8.00 kW",
+      "medium_temperature": "8.00 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.57 kW",
+      "medium_temperature": "2.62 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.08",
+      "medium_temperature": "3.05",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "40 dB(A)",
+      "medium_temperature": "40 dB(A)",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "56 dB(A)",
+      "medium_temperature": "56 dB(A)",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "195 %",
+      "medium_temperature": "139 %",
+      "source_page": 4,
+      "source_table": 8,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "9.00 kW",
+      "medium_temperature": "8.70 kW",
+      "source_page": 4,
+      "source_table": 8,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_1",
+      "value": "35 h:min",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102"
+    },
+    {
+      "scop": "Tbiv",
+      "4.94": "-7 \u00b0C",
+      "3.54": "-7 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "TOL",
+      "4.94": "-10 \u00b0C",
+      "3.54": "-10 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = -7\u00b0C",
+      "4.94": "8.00 kW",
+      "3.54": "7.70 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = -7\u00b0C",
+      "4.94": "3.19",
+      "3.54": "2.26",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = -7 \u00b0C",
+      "4.94": "0.990",
+      "3.54": "0.990",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +2\u00b0C",
+      "4.94": "4.80 kW",
+      "3.54": "4.70 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +2\u00b0C",
+      "4.94": "4.90",
+      "3.54": "3.40",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +2 \u00b0C",
+      "4.94": "0.980",
+      "3.54": "0.980",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +7\u00b0C",
+      "4.94": "3.90 kW",
+      "3.54": "3.70 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +7\u00b0C",
+      "4.94": "6.54",
+      "3.54": "4.83",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +7 \u00b0C",
+      "4.94": "0.960",
+      "3.54": "0.970",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = 12\u00b0C",
+      "4.94": "4.50 kW",
+      "3.54": "4.40 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = 12\u00b0C",
+      "4.94": "8.45",
+      "3.54": "6.45",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +12 \u00b0C",
+      "4.94": "0.960",
+      "3.54": "0.970",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = Tbiv",
+      "4.94": "8.00 kW",
+      "3.54": "7.70 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = Tbiv",
+      "4.94": "3.19",
+      "3.54": "2.26",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.94": "7.90 kW",
+      "3.54": "7.40 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.94": "2.79",
+      "3.54": "2.01",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.94": "0.990",
+      "3.54": "0.990",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "WTOL",
+      "4.94": "60 \u00b0C",
+      "3.54": "60 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "Poff",
+      "4.94": "13 W",
+      "3.54": "13 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "PTO",
+      "4.94": "23 W",
+      "3.54": "23 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "PSB",
+      "4.94": "13 W",
+      "3.54": "13 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "PCK",
+      "4.94": "0 W",
+      "3.54": "0 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: Type of energy\ninput",
+      "4.94": "Electricity",
+      "3.54": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: PSUP",
+      "4.94": "1.10 kW",
+      "3.54": "1.30 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "scop": "Annual energy consumption Qhe",
+      "4.94": "3764 kWh",
+      "3.54": "5078 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.10 kW 1.30 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_FUJITSU_Airstage_Monobloc_Comfort_WH_8_Outdoor_Air_Water_102"
+    }
+  ]
+}

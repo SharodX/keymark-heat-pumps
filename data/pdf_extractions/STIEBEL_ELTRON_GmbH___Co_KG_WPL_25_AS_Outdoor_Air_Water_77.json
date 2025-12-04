@@ -1,0 +1,3747 @@
+{
+  "source_pdf": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77.pdf",
+  "extraction_timestamp": "2025-11-17T15:52:31.563915",
+  "total_records": 432,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype WPL 25 AS",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "stiebel_eltron_gmbh_&_co_kg": "Dr. Stiebel Stra\u00dfe 33",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "stiebel_eltron_gmbh_&_co_kg": "37603",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "stiebel_eltron_gmbh_&_co_kg": "Holzminden",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "stiebel_eltron_gmbh_&_co_kg": "DE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "stiebel_eltron_gmbh_&_co_kg": "DIN CERTCO Gesellschaft f\u00fcr Konformit\u00e4tsbewertung mbH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "stiebel_eltron_gmbh_&_co_kg": "WPL 25 AS",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "stiebel_eltron_gmbh_&_co_kg": "011-1W0003",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "stiebel_eltron_gmbh_&_co_kg": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "stiebel_eltron_gmbh_&_co_kg": "R410A",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "stiebel_eltron_gmbh_&_co_kg": "4.7 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "stiebel_eltron_gmbh_&_co_kg": "11.08.2016",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Model WPL 25 AS",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "wpl_25_as": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "wpl_25_as": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "wpl_25_as": "Warmer Climate, Colder Climate",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "wpl_25_as": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "wpl_25_as": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "wpl_25_as": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wpl_25_as": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wpl_25_as": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "wpl_25_as": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "8.00 kW",
+      "medium_temperature": "7.52 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.66 kW",
+      "medium_temperature": "2.33 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.82",
+      "medium_temperature": "3.23",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "55 dB(A)",
+      "medium_temperature": "55 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "173 %",
+      "medium_temperature": "136 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "15.00 kW",
+      "medium_temperature": "15.00 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.39",
+      "medium_temperature": "3.47",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-5 \u00b0C",
+      "medium_temperature": "-5 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "13.00 kW",
+      "medium_temperature": "13.26 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.02",
+      "medium_temperature": "2.43",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "8.00 kW",
+      "medium_temperature": "7.70 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.40",
+      "medium_temperature": "3.37",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "8.10 kW",
+      "medium_temperature": "7.90 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.64",
+      "medium_temperature": "4.45",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +7 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = 12\u00b0C",
+      "column_1": "9.10 kW",
+      "column_2": "9.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = 12\u00b0C",
+      "column_1": "8.11",
+      "column_2": "6.66",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "11.80 kW",
+      "column_2": "12.40 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "3.18",
+      "column_2": "2.53",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "12.60 kW",
+      "column_2": "13.40 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "2.87",
+      "column_2": "2.28",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "16 W",
+      "column_2": "16 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "16 W",
+      "column_2": "16 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "16 W",
+      "column_2": "16 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "43 W",
+      "column_2": "43 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "2.40 kW",
+      "column_2": "1.60 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "7055 kWh",
+      "column_2": "8940 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 14825 | Colder Climate",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "153 %",
+      "medium_temperature": "126 %",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "21.00 kW",
+      "medium_temperature": "22.00 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.89",
+      "medium_temperature": "3.23",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-20 \u00b0C",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "12.80 kW",
+      "medium_temperature": "13.50 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.21",
+      "medium_temperature": "2.65",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "8.10 kW",
+      "medium_temperature": "7.90 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.75",
+      "medium_temperature": "3.75",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "8.20 kW",
+      "medium_temperature": "8.00 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.95",
+      "medium_temperature": "4.86",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "9.10 kW",
+      "medium_temperature": "9.00 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "8.11",
+      "medium_temperature": "6.95",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "12.80 kW",
+      "medium_temperature": "13.50 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.21",
+      "medium_temperature": "2.65",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "17.40 kW",
+      "medium_temperature": "19.30 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "2.80",
+      "medium_temperature": "2.38",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 2.40 kW 1.60 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77"
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "16 W",
+      "column_2": "16 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "16 W",
+      "column_2": "16 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "16 W",
+      "column_2": "16 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "43 W",
+      "column_2": "43 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "21.17 kW",
+      "column_2": "22.26 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "13312 kWh",
+      "column_2": "16814 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = -15\u00b0C (if TOL",
+      "column_1": "17.40",
+      "column_2": "19.30",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = -15\u00b0C (if TOL",
+      "column_1": "2.80",
+      "column_2": "2.38",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = -15 \u00b0C",
+      "column_1": "0.90",
+      "column_2": "0.90",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 14825 | Warmer Climate",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "206 %",
+      "medium_temperature": "155 %",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "8.00 kW",
+      "medium_temperature": "7.00 kW",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.21",
+      "medium_temperature": "3.95",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "7.90 kW",
+      "medium_temperature": "7.40 kW",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.89",
+      "medium_temperature": "2.59",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "8.10 kW",
+      "medium_temperature": "7.70 kW",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.10",
+      "medium_temperature": "3.60",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "9.10 kW",
+      "medium_temperature": "9.00 kW",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.72",
+      "medium_temperature": "6.11",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "7.90 kW",
+      "medium_temperature": "7.40 kW",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.89",
+      "medium_temperature": "2.59",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "17.60 kW",
+      "medium_temperature": "19.80 kW",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "2.72",
+      "medium_temperature": "2.29",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "16 W",
+      "medium_temperature": "16 W",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "16 W",
+      "medium_temperature": "16 W",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "16 W",
+      "medium_temperature": "16 W",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "43 W",
+      "medium_temperature": "43 W",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "Electricity",
+      "medium_temperature": "Electricity",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "0.00 kW",
+      "medium_temperature": "0.00 kW",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qhe",
+      "low_temperature": "2050 kWh",
+      "medium_temperature": "2367 kWh",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 21.17 kW 22.26 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77"
+    },
+    {
+      "": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Model WPL 25 AS + HSBC 300 cool \" Profile M\"",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "wpl_25_as_+_hsbc_300_cool_\"_profile_m\"": "Heating + DHW + low temp",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "wpl_25_as_+_hsbc_300_cool_\"_profile_m\"": "Outdoor",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "wpl_25_as_+_hsbc_300_cool_\"_profile_m\"": "n/a",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "wpl_25_as_+_hsbc_300_cool_\"_profile_m\"": "Yes",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "wpl_25_as_+_hsbc_300_cool_\"_profile_m\"": "n/a",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "wpl_25_as_+_hsbc_300_cool_\"_profile_m\"": "n/a",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wpl_25_as_+_hsbc_300_cool_\"_profile_m\"": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wpl_25_as_+_hsbc_300_cool_\"_profile_m\"": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "wpl_25_as_+_hsbc_300_cool_\"_profile_m\"": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "m": "79 %",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "m": "1.72",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "m": "1:53 h:min",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "m": "79.0 W",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "m": "52.7 \u00b0C",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "m": "350 l",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "m": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "m": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "m": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "8.00 kW",
+      "medium_temperature": "7.52 kW",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.66 kW",
+      "medium_temperature": "2.33 kW",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.82",
+      "medium_temperature": "3.23",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "55 dB(A)",
+      "medium_temperature": "55 dB(A)",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "173 %",
+      "medium_temperature": "136 %",
+      "source_page": 5,
+      "source_table": 8,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "15.00 kW",
+      "medium_temperature": "15.00 kW",
+      "source_page": 5,
+      "source_table": 8,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.39",
+      "medium_temperature": "3.47",
+      "source_page": 5,
+      "source_table": 8,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_1",
+      "value": "53 h:min",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77"
+    },
+    {
+      "column_0": "Tbiv",
+      "column_1": "-5 \u00b0C",
+      "column_2": "-5 \u00b0C",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "TOL",
+      "column_1": "-10 \u00b0C",
+      "column_2": "-10 \u00b0C",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = -7\u00b0C",
+      "column_1": "13.00 kW",
+      "column_2": "13.26 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = -7\u00b0C",
+      "column_1": "3.02",
+      "column_2": "2.43",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = -7 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +2\u00b0C",
+      "column_1": "8.00 kW",
+      "column_2": "7.70 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +2\u00b0C",
+      "column_1": "4.40",
+      "column_2": "3.37",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +2 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +7\u00b0C",
+      "column_1": "8.10 kW",
+      "column_2": "7.90 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +7\u00b0C",
+      "column_1": "5.64",
+      "column_2": "4.45",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +7 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = 12\u00b0C",
+      "column_1": "9.10 kW",
+      "column_2": "9.00 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = 12\u00b0C",
+      "column_1": "8.11",
+      "column_2": "6.66",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "11.80 kW",
+      "column_2": "12.40 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "3.18",
+      "column_2": "2.53",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "12.60 kW",
+      "column_2": "13.40 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "2.87",
+      "column_2": "2.28",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "16 W",
+      "column_2": "16 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "16 W",
+      "column_2": "16 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "16 W",
+      "column_2": "16 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "43 W",
+      "column_2": "43 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "2.40 kW",
+      "column_2": "1.60 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "7055 kWh",
+      "column_2": "8940 kWh",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 14825 | Colder Climate",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "153 %",
+      "medium_temperature": "126 %",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "21.00 kW",
+      "medium_temperature": "22.00 kW",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.89",
+      "medium_temperature": "3.23",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-20 \u00b0C",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "12.80 kW",
+      "medium_temperature": "13.50 kW",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.21",
+      "medium_temperature": "2.65",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "8.10 kW",
+      "medium_temperature": "7.90 kW",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.75",
+      "medium_temperature": "3.75",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "8.20 kW",
+      "medium_temperature": "8.00 kW",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.95",
+      "medium_temperature": "4.86",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 2.40 kW 1.60 kW",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77"
+    },
+    {
+      "column_0": "Cdh Tj = +7 \u00b0C",
+      "column_1": "0.90",
+      "column_2": "0.90",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = 12\u00b0C",
+      "column_1": "9.10 kW",
+      "column_2": "9.00 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = 12\u00b0C",
+      "column_1": "8.11",
+      "column_2": "6.95",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "0.90",
+      "column_2": "0.90",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "12.80 kW",
+      "column_2": "13.50 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "3.21",
+      "column_2": "2.65",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "17.40 kW",
+      "column_2": "19.30 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "2.80",
+      "column_2": "2.38",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "16 W",
+      "column_2": "16 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "16 W",
+      "column_2": "16 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "16 W",
+      "column_2": "16 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "43 W",
+      "column_2": "43 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "21.17 kW",
+      "column_2": "22.26 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "13312 kWh",
+      "column_2": "16814 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = -15\u00b0C (if TOL",
+      "column_1": "17.40",
+      "column_2": "19.30",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = -15\u00b0C (if TOL",
+      "column_1": "2.80",
+      "column_2": "2.38",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = -15 \u00b0C",
+      "column_1": "0.90",
+      "column_2": "0.90",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 14825 | Warmer Climate",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "206 %",
+      "medium_temperature": "155 %",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "8.00 kW",
+      "medium_temperature": "7.00 kW",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.21",
+      "medium_temperature": "3.95",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "7.90 kW",
+      "medium_temperature": "7.40 kW",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.89",
+      "medium_temperature": "2.59",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "8.10 kW",
+      "medium_temperature": "7.70 kW",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.10",
+      "medium_temperature": "3.60",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "9.10 kW",
+      "medium_temperature": "9.00 kW",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.72",
+      "medium_temperature": "6.11",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "7.90 kW",
+      "medium_temperature": "7.40 kW",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.89",
+      "medium_temperature": "2.59",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "17.60 kW",
+      "medium_temperature": "19.80 kW",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "2.72",
+      "medium_temperature": "2.29",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "16 W",
+      "medium_temperature": "16 W",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 21.17 kW 22.26 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77"
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "16 W",
+      "column_2": "16 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "16 W",
+      "column_2": "16 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "43 W",
+      "column_2": "43 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "0.00 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "2050 kWh",
+      "column_2": "2367 kWh",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77"
+    },
+    {
+      "": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Model WPL 25 AS + HSBC 300 cool \" Profile XL\"",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "wpl_25_as_+_hsbc_300_cool_\"_profile_xl\"": "Heating + DHW + low temp",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "wpl_25_as_+_hsbc_300_cool_\"_profile_xl\"": "Outdoor",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "wpl_25_as_+_hsbc_300_cool_\"_profile_xl\"": "n/a",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "wpl_25_as_+_hsbc_300_cool_\"_profile_xl\"": "Yes",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "wpl_25_as_+_hsbc_300_cool_\"_profile_xl\"": "n/a",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "wpl_25_as_+_hsbc_300_cool_\"_profile_xl\"": "n/a",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wpl_25_as_+_hsbc_300_cool_\"_profile_xl\"": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wpl_25_as_+_hsbc_300_cool_\"_profile_xl\"": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "wpl_25_as_+_hsbc_300_cool_\"_profile_xl\"": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "111 %",
+      "source_page": 9,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.60",
+      "source_page": 9,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "1:49 h:min",
+      "source_page": 9,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "79.0 W",
+      "source_page": 9,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "52.9 \u00b0C",
+      "source_page": 9,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "362 l",
+      "source_page": 9,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 9,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 9,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "xl": "",
+      "source_page": 9,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 9,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 9,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 9,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 9,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 9,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "8.00 kW",
+      "medium_temperature": "7.52 kW",
+      "source_page": 9,
+      "source_table": 6,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.66 kW",
+      "medium_temperature": "2.33 kW",
+      "source_page": 9,
+      "source_table": 6,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.82",
+      "medium_temperature": "3.23",
+      "source_page": 9,
+      "source_table": 6,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 6,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 6,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 6,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "55 dB(A)",
+      "medium_temperature": "55 dB(A)",
+      "source_page": 9,
+      "source_table": 7,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 7,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 7,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 7,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "173 %",
+      "medium_temperature": "136 %",
+      "source_page": 9,
+      "source_table": 8,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "15.00 kW",
+      "medium_temperature": "15.00 kW",
+      "source_page": 9,
+      "source_table": 8,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.39",
+      "medium_temperature": "3.47",
+      "source_page": 9,
+      "source_table": 8,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_1",
+      "value": "49 h:min",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77"
+    },
+    {
+      "column_0": "Tbiv",
+      "column_1": "-5 \u00b0C",
+      "column_2": "-5 \u00b0C",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "TOL",
+      "column_1": "-10 \u00b0C",
+      "column_2": "-10 \u00b0C",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = -7\u00b0C",
+      "column_1": "13.00 kW",
+      "column_2": "13.26 kW",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = -7\u00b0C",
+      "column_1": "3.02",
+      "column_2": "2.43",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = -7 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +2\u00b0C",
+      "column_1": "8.00 kW",
+      "column_2": "7.70 kW",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +2\u00b0C",
+      "column_1": "4.40",
+      "column_2": "3.37",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +2 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +7\u00b0C",
+      "column_1": "8.10 kW",
+      "column_2": "7.90 kW",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +7\u00b0C",
+      "column_1": "5.64",
+      "column_2": "4.45",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +7 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = 12\u00b0C",
+      "column_1": "9.10 kW",
+      "column_2": "9.00 kW",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = 12\u00b0C",
+      "column_1": "8.11",
+      "column_2": "6.66",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "11.80 kW",
+      "column_2": "12.40 kW",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "3.18",
+      "column_2": "2.53",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "12.60 kW",
+      "column_2": "13.40 kW",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "2.87",
+      "column_2": "2.28",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "16 W",
+      "column_2": "16 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "16 W",
+      "column_2": "16 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "16 W",
+      "column_2": "16 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "43 W",
+      "column_2": "43 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "2.40 kW",
+      "column_2": "1.60 kW",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "7055 kWh",
+      "column_2": "8940 kWh",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 14825 | Colder Climate",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "153 %",
+      "medium_temperature": "126 %",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "21.00 kW",
+      "medium_temperature": "22.00 kW",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.89",
+      "medium_temperature": "3.23",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-20 \u00b0C",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "12.80 kW",
+      "medium_temperature": "13.50 kW",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.21",
+      "medium_temperature": "2.65",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "8.10 kW",
+      "medium_temperature": "7.90 kW",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.75",
+      "medium_temperature": "3.75",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "8.20 kW",
+      "medium_temperature": "8.00 kW",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.95",
+      "medium_temperature": "4.86",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 10,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 2.40 kW 1.60 kW",
+      "source_page": 10,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77"
+    },
+    {
+      "column_0": "Cdh Tj = +7 \u00b0C",
+      "column_1": "0.90",
+      "column_2": "0.90",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = 12\u00b0C",
+      "column_1": "9.10 kW",
+      "column_2": "9.00 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = 12\u00b0C",
+      "column_1": "8.11",
+      "column_2": "6.95",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "0.90",
+      "column_2": "0.90",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "12.80 kW",
+      "column_2": "13.50 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "3.21",
+      "column_2": "2.65",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "17.40 kW",
+      "column_2": "19.30 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "2.80",
+      "column_2": "2.38",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "16 W",
+      "column_2": "16 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "16 W",
+      "column_2": "16 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "16 W",
+      "column_2": "16 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "43 W",
+      "column_2": "43 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "21.17 kW",
+      "column_2": "22.26 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "13312 kWh",
+      "column_2": "16814 kWh",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = -15\u00b0C (if TOL",
+      "column_1": "17.40",
+      "column_2": "19.30",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = -15\u00b0C (if TOL",
+      "column_1": "2.80",
+      "column_2": "2.38",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = -15 \u00b0C",
+      "column_1": "0.90",
+      "column_2": "0.90",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 14825 | Warmer Climate",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "206 %",
+      "medium_temperature": "155 %",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "8.00 kW",
+      "medium_temperature": "7.00 kW",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.21",
+      "medium_temperature": "3.95",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "7.90 kW",
+      "medium_temperature": "7.40 kW",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.89",
+      "medium_temperature": "2.59",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "8.10 kW",
+      "medium_temperature": "7.70 kW",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.10",
+      "medium_temperature": "3.60",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "9.10 kW",
+      "medium_temperature": "9.00 kW",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.72",
+      "medium_temperature": "6.11",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "7.90 kW",
+      "medium_temperature": "7.40 kW",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.89",
+      "medium_temperature": "2.59",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "17.60 kW",
+      "medium_temperature": "19.80 kW",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "2.72",
+      "medium_temperature": "2.29",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "16 W",
+      "medium_temperature": "16 W",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 11,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 21.17 kW 22.26 kW",
+      "source_page": 11,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77"
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "16 W",
+      "column_2": "16 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "16 W",
+      "column_2": "16 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "43 W",
+      "column_2": "43 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "0.00 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "2050 kWh",
+      "column_2": "2367 kWh",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WPL_25_AS_Outdoor_Air_Water_77"
+    }
+  ]
+}

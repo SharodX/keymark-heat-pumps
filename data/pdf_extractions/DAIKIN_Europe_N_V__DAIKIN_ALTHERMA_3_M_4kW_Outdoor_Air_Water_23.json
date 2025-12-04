@@ -1,0 +1,4519 @@
+{
+  "source_pdf": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23.pdf",
+  "extraction_timestamp": "2025-11-17T15:19:58.668873",
+  "total_records": 518,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype DAIKIN ALTHERMA 3 M 4kW",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "daikin_europe_n.v.": "Zandvoordestraat 300",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "daikin_europe_n.v.": "B-8400",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "daikin_europe_n.v.": "Oostende",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "daikin_europe_n.v.": "BE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "daikin_europe_n.v.": "DIN CERTCO Gesellschaft f\u00fcr Konformit\u00e4tsbewertung mbH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "daikin_europe_n.v.": "DAIKIN ALTHERMA 3 M 4kW",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "daikin_europe_n.v.": "011-1W0527",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "daikin_europe_n.v.": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "daikin_europe_n.v.": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "daikin_europe_n.v.": "1.35 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "daikin_europe_n.v.": "18.05.2022",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "daikin_europe_n.v.": "HP KEYMARK certification scheme rules rev. 9",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Model EBLA04E3V3",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ebla04e3v3": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ebla04e3v3": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ebla04e3v3": "Warmer Climate",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "ebla04e3v3": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ebla04e3v3": "+7\u00b0C/12\u00b0C",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ebla04e3v3": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ebla04e3v3": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ebla04e3v3": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ebla04e3v3": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "4.3 kW",
+      "medium_temperature": "4.9 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "0.84 kW",
+      "medium_temperature": "1.85 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.1",
+      "medium_temperature": "2.65",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-2 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "+7\u00b0c/+12\u00b0c": "1.36 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cooling capacity",
+      "+7\u00b0c/+12\u00b0c": "4.52",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EER",
+      "+7\u00b0c/+12\u00b0c": "3.32",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "58 dB(A)",
+      "medium_temperature": "58 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "179 %",
+      "medium_temperature": "129 %",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "6 kW",
+      "medium_temperature": "6 kW",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.54",
+      "medium_temperature": "3.29",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = -7\u00b0C",
+      "5.5_kw": "2.9",
+      "5.3_kw": "1.97",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = -7 \u00b0C",
+      "5.5_kw": "1",
+      "5.3_kw": "1",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = +2\u00b0C",
+      "5.5_kw": "3.3 kW",
+      "5.3_kw": "3.3 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = +2\u00b0C",
+      "5.5_kw": "4.33",
+      "5.3_kw": "3.23",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +2 \u00b0C",
+      "5.5_kw": "1",
+      "5.3_kw": "1",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = +7\u00b0C",
+      "5.5_kw": "3.2 kW",
+      "5.3_kw": "3 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = +7\u00b0C",
+      "5.5_kw": "6.19",
+      "5.3_kw": "4.4",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "5.5_kw": "1",
+      "5.3_kw": "1",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "5.5_kw": "3.3 kW",
+      "5.3_kw": "3.3 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = 12\u00b0C",
+      "5.5_kw": "7.78",
+      "5.3_kw": "6.1",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.5_kw": "1",
+      "5.3_kw": "1",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = Tbiv",
+      "5.5_kw": "5.5 kW",
+      "5.3_kw": "5.3 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = Tbiv",
+      "5.5_kw": "2.9",
+      "5.3_kw": "1.97",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.5_kw": "5.22 kW",
+      "5.3_kw": "3.99 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.5_kw": "2.56",
+      "5.3_kw": "1.37",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "WTOL",
+      "5.5_kw": "35 \u00b0C",
+      "5.3_kw": "55 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Poff",
+      "5.5_kw": "10 W",
+      "5.3_kw": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PTO",
+      "5.5_kw": "10 W",
+      "5.3_kw": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PSB",
+      "5.5_kw": "10 W",
+      "5.3_kw": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PCK",
+      "5.5_kw": "0 W",
+      "5.3_kw": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.5_kw": "Electricity",
+      "5.3_kw": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Supplementary Heater: PSUP",
+      "5.5_kw": "0.78 kW",
+      "5.3_kw": "2.01 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Annual energy consumption Qhe",
+      "5.5_kw": "2729 kWh",
+      "5.3_kw": "3769 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "",
+      "5.5_kw": "",
+      "5.3_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "",
+      "5.5_kw": "",
+      "5.3_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "EN 12102-1 | Warmer Climate",
+      "5.5_kw": "",
+      "5.3_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "58 dB(A)",
+      "medium_temperature": "58 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "251 %",
+      "medium_temperature": "152 %",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5.2 kW",
+      "medium_temperature": "4.7 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.35",
+      "medium_temperature": "3.89",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "5.2 kW",
+      "medium_temperature": "4.7 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.68",
+      "medium_temperature": "2.11",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1",
+      "medium_temperature": "1",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "3.3 kW",
+      "medium_temperature": "3 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.79",
+      "medium_temperature": "3.28",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "1",
+      "medium_temperature": "1",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "3.5 kW",
+      "medium_temperature": "3.1 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.78 kW 2.01 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23"
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "7.78": "1",
+      "5.13": "1",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = Tbiv",
+      "7.78": "5.2 kW",
+      "5.13": "4.7 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = Tbiv",
+      "7.78": "3.68",
+      "5.13": "2.11",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "7.78": "5.2 kW",
+      "5.13": "4.7 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "7.78": "3.68",
+      "5.13": "2.11",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "7.78": "1",
+      "5.13": "1",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "WTOL",
+      "7.78": "35 \u00b0C",
+      "5.13": "55 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Poff",
+      "7.78": "10 W",
+      "5.13": "10 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PTO",
+      "7.78": "10 W",
+      "5.13": "10 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PSB",
+      "7.78": "10 W",
+      "5.13": "10 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PCK",
+      "7.78": "0 W",
+      "5.13": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "7.78": "Electricity",
+      "5.13": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: PSUP",
+      "7.78": "0 kW",
+      "5.13": "0 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Annual energy consumption Qhe",
+      "7.78": "1095 kWh",
+      "5.13": "1616 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "7.78": "",
+      "5.13": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "7.78": "",
+      "5.13": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "EN 14825 | Cooling",
+      "7.78": "",
+      "5.13": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignc",
+      "+7\u00b0c/+12\u00b0c": "4.5 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "SEER",
+      "+7\u00b0c/+12\u00b0c": "5.25",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.52 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.32",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.14 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.92",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 30 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.988",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "2.43 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.06",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 25 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.975",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "2.5 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.98",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 20 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.972",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "+7\u00b0c/+12\u00b0c": "10 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "+7\u00b0c/+12\u00b0c": "10 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "+7\u00b0c/+12\u00b0c": "10 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "+7\u00b0c/+12\u00b0c": "0 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qce",
+      "+7\u00b0c/+12\u00b0c": "518 kWh",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0 kW 0 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23"
+    },
+    {
+      "": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Model EBLA04EV3",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ebla04ev3": "Heating (medium temp)",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ebla04ev3": "Outdoor",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ebla04ev3": "Warmer Climate",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "ebla04ev3": "Yes",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ebla04ev3": "+7\u00b0C/12\u00b0C",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ebla04ev3": "n/a",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ebla04ev3": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ebla04ev3": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ebla04ev3": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "4.3 kW",
+      "medium_temperature": "4.9 kW",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "0.84 kW",
+      "medium_temperature": "1.85 kW",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.1",
+      "medium_temperature": "2.65",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-2 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "+7\u00b0c/+12\u00b0c": "1.36 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cooling capacity",
+      "+7\u00b0c/+12\u00b0c": "4.52",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EER",
+      "+7\u00b0c/+12\u00b0c": "3.32",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "58 dB(A)",
+      "medium_temperature": "58 dB(A)",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "179 %",
+      "medium_temperature": "129 %",
+      "source_page": 5,
+      "source_table": 8,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "6 kW",
+      "medium_temperature": "6 kW",
+      "source_page": 5,
+      "source_table": 8,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.54",
+      "medium_temperature": "3.29",
+      "source_page": 5,
+      "source_table": 8,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 5,
+      "source_table": 8,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 5,
+      "source_table": 8,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = -7\u00b0C",
+      "5.5_kw": "2.9",
+      "5.3_kw": "1.97",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = -7 \u00b0C",
+      "5.5_kw": "1",
+      "5.3_kw": "1",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = +2\u00b0C",
+      "5.5_kw": "3.3 kW",
+      "5.3_kw": "3.3 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = +2\u00b0C",
+      "5.5_kw": "4.33",
+      "5.3_kw": "3.23",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +2 \u00b0C",
+      "5.5_kw": "1",
+      "5.3_kw": "1",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = +7\u00b0C",
+      "5.5_kw": "3.2 kW",
+      "5.3_kw": "3 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = +7\u00b0C",
+      "5.5_kw": "6.19",
+      "5.3_kw": "4.4",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "5.5_kw": "1",
+      "5.3_kw": "1",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "5.5_kw": "3.3 kW",
+      "5.3_kw": "3.3 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = 12\u00b0C",
+      "5.5_kw": "7.78",
+      "5.3_kw": "6.1",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.5_kw": "1",
+      "5.3_kw": "1",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = Tbiv",
+      "5.5_kw": "5.5 kW",
+      "5.3_kw": "5.3 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = Tbiv",
+      "5.5_kw": "2.9",
+      "5.3_kw": "1.97",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.5_kw": "5.22 kW",
+      "5.3_kw": "3.99 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.5_kw": "2.56",
+      "5.3_kw": "1.37",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "WTOL",
+      "5.5_kw": "35 \u00b0C",
+      "5.3_kw": "55 \u00b0C",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Poff",
+      "5.5_kw": "10 W",
+      "5.3_kw": "10 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PTO",
+      "5.5_kw": "10 W",
+      "5.3_kw": "10 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PSB",
+      "5.5_kw": "10 W",
+      "5.3_kw": "10 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PCK",
+      "5.5_kw": "0 W",
+      "5.3_kw": "0 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.5_kw": "Electricity",
+      "5.3_kw": "Electricity",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Supplementary Heater: PSUP",
+      "5.5_kw": "0.78 kW",
+      "5.3_kw": "2.01 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Annual energy consumption Qhe",
+      "5.5_kw": "2729 kWh",
+      "5.3_kw": "3769 kWh",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "",
+      "5.5_kw": "",
+      "5.3_kw": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "",
+      "5.5_kw": "",
+      "5.3_kw": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "EN 12102-1 | Warmer Climate",
+      "5.5_kw": "",
+      "5.3_kw": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "58 dB(A)",
+      "medium_temperature": "58 dB(A)",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "251 %",
+      "medium_temperature": "152 %",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5.2 kW",
+      "medium_temperature": "4.7 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.35",
+      "medium_temperature": "3.89",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "5.2 kW",
+      "medium_temperature": "4.7 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.68",
+      "medium_temperature": "2.11",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1",
+      "medium_temperature": "1",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "3.3 kW",
+      "medium_temperature": "3 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.79",
+      "medium_temperature": "3.28",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "1",
+      "medium_temperature": "1",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "3.5 kW",
+      "medium_temperature": "3.1 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.78 kW 2.01 kW",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23"
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "7.78": "1",
+      "5.13": "1",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = Tbiv",
+      "7.78": "5.2 kW",
+      "5.13": "4.7 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = Tbiv",
+      "7.78": "3.68",
+      "5.13": "2.11",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "7.78": "5.2 kW",
+      "5.13": "4.7 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "7.78": "3.68",
+      "5.13": "2.11",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "7.78": "1",
+      "5.13": "1",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "WTOL",
+      "7.78": "35 \u00b0C",
+      "5.13": "55 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Poff",
+      "7.78": "10 W",
+      "5.13": "10 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PTO",
+      "7.78": "10 W",
+      "5.13": "10 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PSB",
+      "7.78": "10 W",
+      "5.13": "10 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PCK",
+      "7.78": "0 W",
+      "5.13": "0 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "7.78": "Electricity",
+      "5.13": "Electricity",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: PSUP",
+      "7.78": "0 kW",
+      "5.13": "0 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Annual energy consumption Qhe",
+      "7.78": "1095 kWh",
+      "5.13": "1616 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "7.78": "",
+      "5.13": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "7.78": "",
+      "5.13": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "EN 14825 | Cooling",
+      "7.78": "",
+      "5.13": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignc",
+      "+7\u00b0c/+12\u00b0c": "4.5 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "SEER",
+      "+7\u00b0c/+12\u00b0c": "5.25",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.52 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.32",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.14 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.92",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 30 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.988",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "2.43 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.06",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 25 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.975",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "2.5 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.98",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 20 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.972",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "+7\u00b0c/+12\u00b0c": "10 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "+7\u00b0c/+12\u00b0c": "10 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "+7\u00b0c/+12\u00b0c": "10 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "+7\u00b0c/+12\u00b0c": "0 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qce",
+      "+7\u00b0c/+12\u00b0c": "518 kWh",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0 kW 0 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23"
+    },
+    {
+      "": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Model EDLA04E3V3",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "edla04e3v3": "Heating (medium temp)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "edla04e3v3": "Outdoor",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "edla04e3v3": "Warmer Climate",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "edla04e3v3": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "edla04e3v3": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "edla04e3v3": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "edla04e3v3": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "edla04e3v3": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "4.3 kW",
+      "medium_temperature": "4.9 kW",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "0.84 kW",
+      "medium_temperature": "1.85 kW",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.1",
+      "medium_temperature": "2.65",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-2 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "+7\u00b0c/+12\u00b0c": "1.36 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cooling capacity",
+      "+7\u00b0c/+12\u00b0c": "4.52",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EER",
+      "+7\u00b0c/+12\u00b0c": "3.32",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "58 dB(A)",
+      "medium_temperature": "58 dB(A)",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "176 %",
+      "medium_temperature": "127 %",
+      "source_page": 8,
+      "source_table": 8,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "6 kW",
+      "medium_temperature": "6 kW",
+      "source_page": 8,
+      "source_table": 8,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.48",
+      "medium_temperature": "3.26",
+      "source_page": 8,
+      "source_table": 8,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 8,
+      "source_table": 8,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 8,
+      "source_table": 8,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "5.5 kW",
+      "medium_temperature": "5.3 kW",
+      "source_page": 8,
+      "source_table": 8,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Cdh Tj = -7 \u00b0C",
+      "2.9": "1",
+      "1.97": "1",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Pdh Tj = +2\u00b0C",
+      "2.9": "3.3 kW",
+      "1.97": "3.3 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "COP Tj = +2\u00b0C",
+      "2.9": "4.33",
+      "1.97": "3.23",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Cdh Tj = +2 \u00b0C",
+      "2.9": "1",
+      "1.97": "1",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Pdh Tj = +7\u00b0C",
+      "2.9": "3.2 kW",
+      "1.97": "3 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "COP Tj = +7\u00b0C",
+      "2.9": "6.19",
+      "1.97": "4.4",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "2.9": "1",
+      "1.97": "1",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "2.9": "3.3 kW",
+      "1.97": "3.3 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "COP Tj = 12\u00b0C",
+      "2.9": "7.78",
+      "1.97": "6.1",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "2.9": "1",
+      "1.97": "1",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Pdh Tj = Tbiv",
+      "2.9": "5.5 kW",
+      "1.97": "5.3 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "COP Tj = Tbiv",
+      "2.9": "2.9",
+      "1.97": "1.97",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "2.9": "5.22 kW",
+      "1.97": "3.99 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "2.9": "2.56",
+      "1.97": "1.37",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "WTOL",
+      "2.9": "35 \u00b0C",
+      "1.97": "55 \u00b0C",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Poff",
+      "2.9": "10 W",
+      "1.97": "10 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "PTO",
+      "2.9": "10 W",
+      "1.97": "10 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "PSB",
+      "2.9": "10 W",
+      "1.97": "10 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "PCK",
+      "2.9": "0 W",
+      "1.97": "0 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "2.9": "Electricity",
+      "1.97": "Electricity",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Supplementary Heater: PSUP",
+      "2.9": "0.78 kW",
+      "1.97": "2.01 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Annual energy consumption Qhe",
+      "2.9": "2766 kWh",
+      "1.97": "3806 kWh",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "",
+      "2.9": "",
+      "1.97": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "",
+      "2.9": "",
+      "1.97": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "EN 12102-1 | Warmer Climate",
+      "2.9": "",
+      "1.97": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "58 dB(A)",
+      "medium_temperature": "58 dB(A)",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "241 %",
+      "medium_temperature": "148 %",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5.2 kW",
+      "medium_temperature": "4.7 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.1",
+      "medium_temperature": "3.78",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "5.2 kW",
+      "medium_temperature": "4.7 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.68",
+      "medium_temperature": "2.11",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1",
+      "medium_temperature": "1",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "3.3 kW",
+      "medium_temperature": "3 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.79",
+      "medium_temperature": "3.28",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "1",
+      "medium_temperature": "1",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "3.5 kW",
+      "medium_temperature": "3.1 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.78",
+      "medium_temperature": "5.13",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.78 kW 2.01 kW",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23"
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "1",
+      "column_2": "1",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "5.2 kW",
+      "column_2": "4.7 kW",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "3.68",
+      "column_2": "2.11",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "5.2 kW",
+      "column_2": "4.7 kW",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "3.68",
+      "column_2": "2.11",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "1",
+      "column_2": "1",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "35 \u00b0C",
+      "column_2": "55 \u00b0C",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "10 W",
+      "column_2": "10 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "10 W",
+      "column_2": "10 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "10 W",
+      "column_2": "10 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0 kW",
+      "column_2": "0 kW",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "1139 kWh",
+      "column_2": "1660 kWh",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 14825 | Cooling",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignc",
+      "+7\u00b0c/+12\u00b0c": "4.5 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "SEER",
+      "+7\u00b0c/+12\u00b0c": "5.25",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.52 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.32",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.14 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.92",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 30 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "1",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "2.43 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.06",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 25 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "1",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "2.5 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.98",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 20 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "1",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "+7\u00b0c/+12\u00b0c": "10 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "+7\u00b0c/+12\u00b0c": "10 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "+7\u00b0c/+12\u00b0c": "10 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "+7\u00b0c/+12\u00b0c": "0 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qce",
+      "+7\u00b0c/+12\u00b0c": "518 kWh",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 10,
+      "source_table": null,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0 kW 0 kW",
+      "source_page": 10,
+      "source_table": null,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23"
+    },
+    {
+      "": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Model EDLA04EV3",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "edla04ev3": "Heating (medium temp)",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "edla04ev3": "Outdoor",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "edla04ev3": "Warmer Climate",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "edla04ev3": "n/a",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "edla04ev3": "n/a",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "edla04ev3": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "edla04ev3": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "edla04ev3": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "4.3 kW",
+      "medium_temperature": "4.9 kW",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "0.84 kW",
+      "medium_temperature": "1.85 kW",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.1",
+      "medium_temperature": "2.65",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-2 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "+7\u00b0c/+12\u00b0c": "1.36 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cooling capacity",
+      "+7\u00b0c/+12\u00b0c": "4.52",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EER",
+      "+7\u00b0c/+12\u00b0c": "3.32",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "58 dB(A)",
+      "medium_temperature": "58 dB(A)",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "176 %",
+      "medium_temperature": "127 %",
+      "source_page": 11,
+      "source_table": 8,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "6 kW",
+      "medium_temperature": "6 kW",
+      "source_page": 11,
+      "source_table": 8,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.48",
+      "medium_temperature": "3.26",
+      "source_page": 11,
+      "source_table": 8,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 11,
+      "source_table": 8,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 11,
+      "source_table": 8,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "5.5 kW",
+      "medium_temperature": "5.3 kW",
+      "source_page": 11,
+      "source_table": 8,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Cdh Tj = -7 \u00b0C",
+      "2.9": "1",
+      "1.97": "1",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Pdh Tj = +2\u00b0C",
+      "2.9": "3.3 kW",
+      "1.97": "3.3 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "COP Tj = +2\u00b0C",
+      "2.9": "4.33",
+      "1.97": "3.23",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Cdh Tj = +2 \u00b0C",
+      "2.9": "1",
+      "1.97": "1",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Pdh Tj = +7\u00b0C",
+      "2.9": "3.2 kW",
+      "1.97": "3 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "COP Tj = +7\u00b0C",
+      "2.9": "6.19",
+      "1.97": "4.4",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "2.9": "1",
+      "1.97": "1",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "2.9": "3.3 kW",
+      "1.97": "3.3 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "COP Tj = 12\u00b0C",
+      "2.9": "7.78",
+      "1.97": "6.1",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "2.9": "1",
+      "1.97": "1",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Pdh Tj = Tbiv",
+      "2.9": "5.5 kW",
+      "1.97": "5.3 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "COP Tj = Tbiv",
+      "2.9": "2.9",
+      "1.97": "1.97",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "2.9": "5.22 kW",
+      "1.97": "3.99 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "2.9": "2.56",
+      "1.97": "1.37",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "WTOL",
+      "2.9": "35 \u00b0C",
+      "1.97": "55 \u00b0C",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Poff",
+      "2.9": "10 W",
+      "1.97": "10 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "PTO",
+      "2.9": "10 W",
+      "1.97": "10 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "PSB",
+      "2.9": "10 W",
+      "1.97": "10 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "PCK",
+      "2.9": "0 W",
+      "1.97": "0 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "2.9": "Electricity",
+      "1.97": "Electricity",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Supplementary Heater: PSUP",
+      "2.9": "0.78 kW",
+      "1.97": "2.01 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Annual energy consumption Qhe",
+      "2.9": "2766 kWh",
+      "1.97": "3806 kWh",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "",
+      "2.9": "",
+      "1.97": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "",
+      "2.9": "",
+      "1.97": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "EN 12102-1 | Warmer Climate",
+      "2.9": "",
+      "1.97": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "58 dB(A)",
+      "medium_temperature": "58 dB(A)",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "241 %",
+      "medium_temperature": "148 %",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5.2 kW",
+      "medium_temperature": "4.7 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.1",
+      "medium_temperature": "3.78",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "5.2 kW",
+      "medium_temperature": "4.7 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.68",
+      "medium_temperature": "2.11",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1",
+      "medium_temperature": "1",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "3.3 kW",
+      "medium_temperature": "3 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.79",
+      "medium_temperature": "3.28",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "1",
+      "medium_temperature": "1",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "3.5 kW",
+      "medium_temperature": "3.1 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.78",
+      "medium_temperature": "5.13",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.78 kW 2.01 kW",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23"
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "1",
+      "column_2": "1",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "5.2 kW",
+      "column_2": "4.7 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "3.68",
+      "column_2": "2.11",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "5.2 kW",
+      "column_2": "4.7 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "3.68",
+      "column_2": "2.11",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "1",
+      "column_2": "1",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "35 \u00b0C",
+      "column_2": "55 \u00b0C",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "10 W",
+      "column_2": "10 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "10 W",
+      "column_2": "10 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "10 W",
+      "column_2": "10 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0 kW",
+      "column_2": "0 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "1139 kWh",
+      "column_2": "1660 kWh",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 14825 | Cooling",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignc",
+      "+7\u00b0c/+12\u00b0c": "4.5 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "SEER",
+      "+7\u00b0c/+12\u00b0c": "5.25",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.52 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.32",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.14 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.92",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 30 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "1",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "2.43 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.06",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 25 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "1",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "2.5 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.98",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 20 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "1",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "+7\u00b0c/+12\u00b0c": "10 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "+7\u00b0c/+12\u00b0c": "10 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "+7\u00b0c/+12\u00b0c": "10 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "+7\u00b0c/+12\u00b0c": "0 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qce",
+      "+7\u00b0c/+12\u00b0c": "518 kWh",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0 kW 0 kW",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "DAIKIN_Europe_N_V__DAIKIN_ALTHERMA_3_M_4kW_Outdoor_Air_Water_23"
+    }
+  ]
+}

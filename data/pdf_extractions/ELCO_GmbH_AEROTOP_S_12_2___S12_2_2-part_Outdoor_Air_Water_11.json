@@ -1,0 +1,1203 @@
+{
+  "source_pdf": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11.pdf",
+  "extraction_timestamp": "2025-11-17T15:23:31.903856",
+  "total_records": 141,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype AEROTOP S.12.2 / S12.2_2-part",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "elco_gmbh": "Hohenzollernstrasse 31",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "elco_gmbh": "72379",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "elco_gmbh": "Hechingen",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "elco_gmbh": "DE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "elco_gmbh": "DIN CERTCO Gesellschaft f\u00fcr Konformit\u00e4tsbewertung mbH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "elco_gmbh": "AEROTOP S.12.2 / S12.2_2-part",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "elco_gmbh": "011-1W0194",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "elco_gmbh": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "elco_gmbh": "R410A",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "elco_gmbh": "4.4 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "elco_gmbh": "17.12.2019",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Model AEROTOP S12.2",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "aerotop_s12.2": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "aerotop_s12.2": "Indoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "aerotop_s12.2": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "aerotop_s12.2": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "aerotop_s12.2": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aerotop_s12.2": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aerotop_s12.2": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "aerotop_s12.2": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "7.95 kW",
+      "medium_temperature": "7.37 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.64 kW",
+      "medium_temperature": "2.45 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.86",
+      "medium_temperature": "3.00",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "49 dB(A)",
+      "medium_temperature": "49 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "51 dB(A)",
+      "medium_temperature": "51 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "184 %",
+      "medium_temperature": "133 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "13.31 kW",
+      "medium_temperature": "12.62 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.76",
+      "medium_temperature": "3.47",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "11.77 kW",
+      "medium_temperature": "11.16 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.24",
+      "medium_temperature": "2.29",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "7.31 kW",
+      "medium_temperature": "6.97 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.52",
+      "medium_temperature": "3.27",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.98",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.69 kW",
+      "medium_temperature": "4.42 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "6.39": "0.97",
+      "4.46": "0.97",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "6.39": "4.72 kW",
+      "4.46": "4.77 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "6.39": "7.55",
+      "4.46": "6.28",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "6.39": "0.96",
+      "4.46": "0.96",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "6.39": "11.77 kW",
+      "4.46": "11.16 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "6.39": "3.24",
+      "4.46": "2.29",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.39": "13.25 kW",
+      "4.46": "12.59 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.39": "2.84",
+      "4.46": "2.13",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "6.39": "65 \u00b0C",
+      "4.46": "65 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "6.39": "28 W",
+      "4.46": "28 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "6.39": "28 W",
+      "4.46": "28 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "6.39": "28 W",
+      "4.46": "28 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "6.39": "28 W",
+      "4.46": "28 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "6.39": "Electricity",
+      "4.46": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "6.39": "0.06 kW",
+      "4.46": "0.03 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "6.39": "5889 kWh",
+      "4.46": "7658 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.06 kW 0.03 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11"
+    },
+    {
+      "": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Model AEROTOP S12.2_2-part",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "aerotop_s12.2_2-part": "Heating (medium temp)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "aerotop_s12.2_2-part": "Indoor",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "aerotop_s12.2_2-part": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "aerotop_s12.2_2-part": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "aerotop_s12.2_2-part": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aerotop_s12.2_2-part": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aerotop_s12.2_2-part": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "aerotop_s12.2_2-part": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "7.95 kW",
+      "medium_temperature": "7.37 kW",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.64 kW",
+      "medium_temperature": "2.45 kW",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.86",
+      "medium_temperature": "3.00",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "49 dB(A)",
+      "medium_temperature": "49 dB(A)",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "51 dB(A)",
+      "medium_temperature": "51 dB(A)",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "184 %",
+      "medium_temperature": "133 %",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "13.31 kW",
+      "medium_temperature": "12.62 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.76",
+      "medium_temperature": "3.47",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "11.77 kW",
+      "medium_temperature": "11.16 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.24",
+      "medium_temperature": "2.29",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "7.31 kW",
+      "medium_temperature": "6.97 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.52",
+      "medium_temperature": "3.27",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.98",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.69 kW",
+      "medium_temperature": "4.42 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "6.39": "0.97",
+      "4.46": "0.97",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "6.39": "4.72 kW",
+      "4.46": "4.77 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "6.39": "7.55",
+      "4.46": "6.28",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "6.39": "0.96",
+      "4.46": "0.96",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "6.39": "11.77 kW",
+      "4.46": "11.16 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "6.39": "3.24",
+      "4.46": "2.29",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.39": "13.25 kW",
+      "4.46": "12.59 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.39": "2.84",
+      "4.46": "2.13",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "6.39": "65 \u00b0C",
+      "4.46": "65 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "6.39": "28 W",
+      "4.46": "28 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "6.39": "28 W",
+      "4.46": "28 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "6.39": "28 W",
+      "4.46": "28 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "6.39": "28 W",
+      "4.46": "28 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "6.39": "Electricity",
+      "4.46": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "6.39": "0.06 kW",
+      "4.46": "0.03 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "6.39": "5889 kWh",
+      "4.46": "7658 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.06 kW 0.03 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_S_12_2___S12_2_2-part_Outdoor_Air_Water_11"
+    }
+  ]
+}

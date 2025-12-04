@@ -1,0 +1,161 @@
+{
+  "file_metadata": {
+    "Refrigerant": "R134a",
+    "Mass of Refrigerant": "1,200 kg",
+    "Date": "02.08.2023",
+    "Manufacturer": "Energie est, Lda.",
+    "Modelname": "Aquapura Monobloc 200",
+    "Type": "Heat Pump for Domestic Hot Water (DHW)",
+    "Energy": "Electricity"
+  },
+  "heat_pumps": [
+    {
+      "title": "Aquapura Monobloc 200i",
+      "properties": {
+        "application": "0",
+        "indoor": "1",
+        "outdoor": "0",
+        "coolingMode7c12c": "0",
+        "coolingMode18c23c": "0",
+        "colderClimate": "1",
+        "warmerClimate": "1",
+        "reversibility": "0",
+        "colderForHeating": "1",
+        "warmerForHeating": "1",
+        "en145112Certification": "0",
+        "heatSource": "1",
+        "additionalOutdoorAir": "0",
+        "additionalExhaustAir": "0",
+        "additionalIndoorAir": "0",
+        "additionalNonheatedSpaceAir": "0",
+        "powerSupply": "1",
+        "offPeakProduct": "2"
+      },
+      "measurements": {
+        "EN12102_2_001": {
+          "0_1_0_0": "57",
+          "0_2_0_0": "57",
+          "0_3_0_0": "57"
+        },
+        "EN16147_001": {
+          "0_1_0_0": "L",
+          "0_2_0_0": "L",
+          "0_3_0_0": "L"
+        },
+        "EN16147_002": {
+          "0_1_0_0": "154",
+          "0_2_0_0": "112",
+          "0_3_0_0": "128"
+        },
+        "EN16147_003": {
+          "0_1_0_0": "3.70",
+          "0_2_0_0": "2.70",
+          "0_3_0_0": "3.10"
+        },
+        "EN16147_004": {
+          "0_1_0_0": "4:36",
+          "0_2_0_0": "7:17",
+          "0_3_0_0": "5:52"
+        },
+        "EN16147_005": {
+          "0_1_0_0": "20.2",
+          "0_2_0_0": "27.6",
+          "0_3_0_0": "23.4"
+        },
+        "EN16147_006": {
+          "0_1_0_0": "52.0",
+          "0_2_0_0": "52.0",
+          "0_3_0_0": "52.0"
+        },
+        "EN16147_007": {
+          "0_1_0_0": "220",
+          "0_2_0_0": "218",
+          "0_3_0_0": "218"
+        },
+        "EN16147_008": {
+          "0_5_0_0": "2"
+        },
+        "EN16147_009": {
+          "0_5_0_0": "2"
+        },
+        "EN16147_010": {
+          "0_5_0_0": "2"
+        }
+      }
+    },
+    {
+      "title": "Aquapura Monobloc 200ix",
+      "properties": {
+        "application": "0",
+        "indoor": "1",
+        "outdoor": "0",
+        "coolingMode7c12c": "0",
+        "coolingMode18c23c": "0",
+        "colderClimate": "1",
+        "warmerClimate": "1",
+        "reversibility": "0",
+        "colderForHeating": "1",
+        "warmerForHeating": "1",
+        "en145112Certification": "0",
+        "heatSource": "1",
+        "additionalOutdoorAir": "0",
+        "additionalExhaustAir": "0",
+        "additionalIndoorAir": "0",
+        "additionalNonheatedSpaceAir": "0",
+        "powerSupply": "1",
+        "offPeakProduct": "2"
+      },
+      "measurements": {
+        "EN12102_2_001": {
+          "0_1_0_0": "57",
+          "0_2_0_0": "57",
+          "0_3_0_0": "57"
+        },
+        "EN16147_001": {
+          "0_1_0_0": "L",
+          "0_2_0_0": "L",
+          "0_3_0_0": "L"
+        },
+        "EN16147_002": {
+          "0_1_0_0": "154",
+          "0_2_0_0": "112",
+          "0_3_0_0": "128"
+        },
+        "EN16147_003": {
+          "0_1_0_0": "3.70",
+          "0_2_0_0": "2.70",
+          "0_3_0_0": "3.10"
+        },
+        "EN16147_004": {
+          "0_1_0_0": "4:36",
+          "0_2_0_0": "7:17",
+          "0_3_0_0": "5:52"
+        },
+        "EN16147_005": {
+          "0_1_0_0": "20.2",
+          "0_2_0_0": "27.6",
+          "0_3_0_0": "23.4"
+        },
+        "EN16147_006": {
+          "0_1_0_0": "52.0",
+          "0_2_0_0": "52.0",
+          "0_3_0_0": "52.0"
+        },
+        "EN16147_007": {
+          "0_1_0_0": "220",
+          "0_2_0_0": "218",
+          "0_3_0_0": "218"
+        },
+        "EN16147_008": {
+          "0_5_0_0": "2"
+        },
+        "EN16147_009": {
+          "0_5_0_0": "2"
+        },
+        "EN16147_010": {
+          "0_5_0_0": "2"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,3165 @@
+{
+  "source_pdf": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24.pdf",
+  "extraction_timestamp": "2025-11-17T15:06:27.979422",
+  "total_records": 361,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype NIMBUS 80 S - Plus-H",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "ariston_thermo_group": "Viale Aristide Merloni 45",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "ariston_thermo_group": "I-60044",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "ariston_thermo_group": "Fabriano (AN)",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "ariston_thermo_group": "IT",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "ariston_thermo_group": "ICIM S.p.A.",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "ariston_thermo_group": "NIMBUS 80 S - Plus-H",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "ariston_thermo_group": "ICIM-PDC-000243",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "ariston_thermo_group": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "ariston_thermo_group": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "ariston_thermo_group": "1.8 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "ariston_thermo_group": "12.02.2024",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Model NIMBUS PLUS-H 80 S NET R32",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "nimbus_plus-h_80_s_net_r32": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "nimbus_plus-h_80_s_net_r32": "Indoor, Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "nimbus_plus-h_80_s_net_r32": "Colder, Warmer, Warmer Climate, Colder Climate",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "nimbus_plus-h_80_s_net_r32": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "nimbus_plus-h_80_s_net_r32": "+7\u00b0C/12\u00b0C, +18\u00b0C/+23\u00b0C",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "nimbus_plus-h_80_s_net_r32": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "nimbus_plus-h_80_s_net_r32": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "nimbus_plus-h_80_s_net_r32": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "nimbus_plus-h_80_s_net_r32": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "8.00 kW",
+      "medium_temperature": "5.80 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.67 kW",
+      "medium_temperature": "1.97 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.80",
+      "medium_temperature": "2.95",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-2 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "+7\u00b0c/+12\u00b0c": "2.26 kW",
+      "+18\u00b0c/+23\u00b0c": "1.49 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Cooling capacity",
+      "+7\u00b0c/+12\u00b0c": "7.00",
+      "+18\u00b0c/+23\u00b0c": "7.00",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "EER",
+      "+7\u00b0c/+12\u00b0c": "3.10",
+      "+18\u00b0c/+23\u00b0c": "4.70",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "37 dB(A)",
+      "medium_temperature": "37 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "56 dB(A)",
+      "medium_temperature": "56 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignh",
+      "low_temperature": "8.37 kW",
+      "medium_temperature": "7.62 kW",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "195 %",
+      "medium_temperature": "140 %",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "8.37 kW",
+      "medium_temperature": "7.62 kW",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.95",
+      "medium_temperature": "3.57",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Tbiv",
+      "column_1": "-7 \u00b0C",
+      "column_2": "-7 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "TOL",
+      "column_1": "-20 \u00b0C",
+      "column_2": "-20 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = -7\u00b0C",
+      "column_1": "7.40 kW",
+      "column_2": "6.74 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = -7\u00b0C",
+      "column_1": "3.10",
+      "column_2": "2.29",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = -7 \u00b0C",
+      "column_1": "0.994",
+      "column_2": "0.995",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +2\u00b0C",
+      "column_1": "4.54 kW",
+      "column_2": "4.22 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +2\u00b0C",
+      "column_1": "4.80",
+      "column_2": "3.51",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +2 \u00b0C",
+      "column_1": "0.985",
+      "column_2": "0.988",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +7\u00b0C",
+      "column_1": "2.94 kW",
+      "column_2": "2.74 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +7\u00b0C",
+      "column_1": "6.61",
+      "column_2": "4.36",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +7 \u00b0C",
+      "column_1": "0.969",
+      "column_2": "0.978",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = 12\u00b0C",
+      "column_1": "3.16 kW",
+      "column_2": "3.28 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = 12\u00b0C",
+      "column_1": "8.15",
+      "column_2": "6.50",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "0.964",
+      "column_2": "0.972",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "7.40 kW",
+      "column_2": "6.74 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "3.10",
+      "column_2": "2.29",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "5.51 kW",
+      "column_2": "4.90 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "2.22",
+      "column_2": "1.51",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "0.994",
+      "column_2": "0.995",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "60 \u00b0C",
+      "column_2": "60 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "14 W",
+      "column_2": "14 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "14 W",
+      "column_2": "14 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "14 W",
+      "column_2": "14 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "14 W",
+      "column_2": "14 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "2.86 kW",
+      "column_2": "2.72 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Backup Heater",
+      "column_1": "4.00 kW",
+      "column_2": "4.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "3491 kWh",
+      "column_2": "4409 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 12102-1 | Colder Climate",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "37 dB(A)",
+      "medium_temperature": "37 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "56 dB(A)",
+      "medium_temperature": "56 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignh",
+      "low_temperature": "11.78 kW",
+      "medium_temperature": "11.53 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "154 %",
+      "medium_temperature": "121 %",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "11.78 kW",
+      "medium_temperature": "11.53 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.92",
+      "medium_temperature": "3.11",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-20 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "7.13 kW",
+      "medium_temperature": "6.98 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 2.86 kW 2.72 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24"
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Cdh Tj = -7 \u00b0C",
+      "3.47": "0.993",
+      "2.73": "0.995",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Pdh Tj = +2\u00b0C",
+      "3.47": "4.51 kW",
+      "2.73": "4.20 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "COP Tj = +2\u00b0C",
+      "3.47": "5.32",
+      "2.73": "4.07",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Cdh Tj = +2 \u00b0C",
+      "3.47": "0.983",
+      "2.73": "0.986",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Pdh Tj = +7\u00b0C",
+      "3.47": "3.06 kW",
+      "2.73": "2.84 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "COP Tj = +7\u00b0C",
+      "3.47": "7.24",
+      "2.73": "5.15",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "3.47": "0.967",
+      "2.73": "0.975",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "3.47": "3.18 kW",
+      "2.73": "3.24 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "COP Tj = 12\u00b0C",
+      "3.47": "8.02",
+      "2.73": "6.47",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "3.47": "0.965",
+      "2.73": "0.972",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Pdh Tj = Tbiv",
+      "3.47": "7.13 kW",
+      "2.73": "6.98 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "COP Tj = Tbiv",
+      "3.47": "3.47",
+      "2.73": "2.73",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.47": "5.51 kW",
+      "2.73": "4.90 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.47": "2.22",
+      "2.73": "1.51",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.47": "0.993",
+      "2.73": "0.995",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "WTOL",
+      "3.47": "60 \u00b0C",
+      "2.73": "60 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Poff",
+      "3.47": "14 W",
+      "2.73": "14 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "PTO",
+      "3.47": "14 W",
+      "2.73": "14 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "PSB",
+      "3.47": "14 W",
+      "2.73": "14 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "PCK",
+      "3.47": "14 W",
+      "2.73": "14 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "3.47": "Electricity",
+      "2.73": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Supplementary Heater: PSUP",
+      "3.47": "11.16 kW",
+      "2.73": "10.93 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Backup Heater",
+      "3.47": "4.00 kW",
+      "2.73": "4.00 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Annual energy consumption Qhe",
+      "3.47": "7400 kWh",
+      "2.73": "9141 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "",
+      "3.47": "",
+      "2.73": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "",
+      "3.47": "",
+      "2.73": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "EN 12102-1 | Warmer Climate",
+      "3.47": "",
+      "2.73": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "37 dB(A)",
+      "medium_temperature": "37 dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "56 dB(A)",
+      "medium_temperature": "56 dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignh",
+      "low_temperature": "4.93 kW",
+      "medium_temperature": "4.48 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "247 %",
+      "medium_temperature": "152 %",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "4.91 kW",
+      "medium_temperature": "4.30 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.25",
+      "medium_temperature": "3.87",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-20 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.91 kW",
+      "medium_temperature": "4.30 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.05",
+      "medium_temperature": "2.50",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.988",
+      "medium_temperature": "0.992",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "3.10 kW",
+      "medium_temperature": "2.81 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 11.16 kW 10.93 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24"
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "5.70": "0.974",
+      "3.08": "0.985",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "5.70": "3.28 kW",
+      "3.08": "3.16 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "5.70": "7.86",
+      "3.08": "5.45",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.70": "0.966",
+      "3.08": "0.976",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "5.70": "4.91 kW",
+      "3.08": "4.30 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "5.70": "4.05",
+      "3.08": "2.50",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.70": "5.51 kW",
+      "3.08": "4.90 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.70": "2.22",
+      "3.08": "1.51",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "5.70": "60 \u00b0C",
+      "3.08": "60 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "5.70": "14 W",
+      "3.08": "14 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "5.70": "14 W",
+      "3.08": "14 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "5.70": "14 W",
+      "3.08": "14 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "5.70": "14 W",
+      "3.08": "14 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.70": "n/a",
+      "3.08": "n/a",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "5.70": "0.00 kW",
+      "3.08": "0.00 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Backup Heater",
+      "5.70": "4.00 kW",
+      "3.08": "4.00 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "5.70": "1049 kWh",
+      "3.08": "1483 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "5.70": "",
+      "3.08": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "5.70": "",
+      "3.08": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "EN 14825 | Cooling",
+      "5.70": "",
+      "3.08": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignc",
+      "+7\u00b0c/+12\u00b0c": "7 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "SEER",
+      "+7\u00b0c/+12\u00b0c": "4.64",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "7 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.1",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "5.17 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.13",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 30 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.99",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.32 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.89",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 25 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.98",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.19 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.85",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 20 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.97",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "+7\u00b0c/+12\u00b0c": "14 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "+7\u00b0c/+12\u00b0c": "14 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "+7\u00b0c/+12\u00b0c": "14 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "+7\u00b0c/+12\u00b0c": "0 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qce",
+      "+7\u00b0c/+12\u00b0c": "1381 kWh",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24"
+    },
+    {
+      "": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Model NIMBUS PLUS-H 80 S-T NET R32",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "nimbus_plus-h_80_s-t_net_r32": "Heating (medium temp)",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "nimbus_plus-h_80_s-t_net_r32": "Indoor, Outdoor",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "nimbus_plus-h_80_s-t_net_r32": "Colder, Warmer, Warmer Climate, Colder Climate",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "nimbus_plus-h_80_s-t_net_r32": "Yes",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "nimbus_plus-h_80_s-t_net_r32": "+7\u00b0C/12\u00b0C, +18\u00b0C/+23\u00b0C",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "nimbus_plus-h_80_s-t_net_r32": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "nimbus_plus-h_80_s-t_net_r32": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "nimbus_plus-h_80_s-t_net_r32": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "nimbus_plus-h_80_s-t_net_r32": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "8.00 kW",
+      "medium_temperature": "5.80 kW",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.67 kW",
+      "medium_temperature": "1.97 kW",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.80",
+      "medium_temperature": "2.95",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-2 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "+7\u00b0c/+12\u00b0c": "2.26 kW",
+      "+18\u00b0c/+23\u00b0c": "1.49 kW",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Cooling capacity",
+      "+7\u00b0c/+12\u00b0c": "7.00",
+      "+18\u00b0c/+23\u00b0c": "7.00",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "EER",
+      "+7\u00b0c/+12\u00b0c": "3.10",
+      "+18\u00b0c/+23\u00b0c": "4.70",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "37 dB(A)",
+      "medium_temperature": "37 dB(A)",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "56 dB(A)",
+      "medium_temperature": "56 dB(A)",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignh",
+      "low_temperature": "8.37 kW",
+      "medium_temperature": "7.62 kW",
+      "source_page": 6,
+      "source_table": 8,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "195 %",
+      "medium_temperature": "140 %",
+      "source_page": 6,
+      "source_table": 8,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "8.37 kW",
+      "medium_temperature": "7.62 kW",
+      "source_page": 6,
+      "source_table": 8,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.95",
+      "medium_temperature": "3.57",
+      "source_page": 6,
+      "source_table": 8,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Tbiv",
+      "column_1": "-7 \u00b0C",
+      "column_2": "-7 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "TOL",
+      "column_1": "-20 \u00b0C",
+      "column_2": "-20 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = -7\u00b0C",
+      "column_1": "7.40 kW",
+      "column_2": "6.74 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = -7\u00b0C",
+      "column_1": "3.10",
+      "column_2": "2.29",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = -7 \u00b0C",
+      "column_1": "0.994",
+      "column_2": "0.995",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +2\u00b0C",
+      "column_1": "4.54 kW",
+      "column_2": "4.22 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +2\u00b0C",
+      "column_1": "4.80",
+      "column_2": "3.51",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +2 \u00b0C",
+      "column_1": "0.985",
+      "column_2": "0.988",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +7\u00b0C",
+      "column_1": "2.94 kW",
+      "column_2": "2.74 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +7\u00b0C",
+      "column_1": "6.61",
+      "column_2": "4.36",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +7 \u00b0C",
+      "column_1": "0.969",
+      "column_2": "0.978",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = 12\u00b0C",
+      "column_1": "3.16 kW",
+      "column_2": "3.28 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = 12\u00b0C",
+      "column_1": "8.15",
+      "column_2": "6.50",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "0.964",
+      "column_2": "0.972",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "7.40 kW",
+      "column_2": "6.74 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "3.10",
+      "column_2": "2.29",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "5.51 kW",
+      "column_2": "4.90 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "2.22",
+      "column_2": "1.51",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "0.994",
+      "column_2": "0.995",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "60 \u00b0C",
+      "column_2": "60 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "14 W",
+      "column_2": "14 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "14 W",
+      "column_2": "14 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "14 W",
+      "column_2": "14 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "14 W",
+      "column_2": "14 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "2.86 kW",
+      "column_2": "2.72 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Backup Heater",
+      "column_1": "4.00 kW",
+      "column_2": "4.00 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "3491 kWh",
+      "column_2": "4409 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 12102-1 | Colder Climate",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "37 dB(A)",
+      "medium_temperature": "37 dB(A)",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "56 dB(A)",
+      "medium_temperature": "56 dB(A)",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignh",
+      "low_temperature": "11.78 kW",
+      "medium_temperature": "11.53 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "154 %",
+      "medium_temperature": "121 %",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "11.78 kW",
+      "medium_temperature": "11.53 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.92",
+      "medium_temperature": "3.11",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-20 \u00b0C",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "7.13 kW",
+      "medium_temperature": "6.98 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 2.86 kW 2.72 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24"
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Cdh Tj = -7 \u00b0C",
+      "3.47": "0.993",
+      "2.73": "0.995",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Pdh Tj = +2\u00b0C",
+      "3.47": "4.51 kW",
+      "2.73": "4.20 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "COP Tj = +2\u00b0C",
+      "3.47": "5.32",
+      "2.73": "4.07",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Cdh Tj = +2 \u00b0C",
+      "3.47": "0.983",
+      "2.73": "0.986",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Pdh Tj = +7\u00b0C",
+      "3.47": "3.06 kW",
+      "2.73": "2.84 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "COP Tj = +7\u00b0C",
+      "3.47": "7.24",
+      "2.73": "5.15",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "3.47": "0.967",
+      "2.73": "0.975",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "3.47": "3.18 kW",
+      "2.73": "3.24 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "COP Tj = 12\u00b0C",
+      "3.47": "8.02",
+      "2.73": "6.47",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "3.47": "0.965",
+      "2.73": "0.972",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Pdh Tj = Tbiv",
+      "3.47": "7.13 kW",
+      "2.73": "6.98 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "COP Tj = Tbiv",
+      "3.47": "3.47",
+      "2.73": "2.73",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.47": "5.51 kW",
+      "2.73": "4.90 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.47": "2.22",
+      "2.73": "1.51",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.47": "0.993",
+      "2.73": "0.995",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "WTOL",
+      "3.47": "60 \u00b0C",
+      "2.73": "60 \u00b0C",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Poff",
+      "3.47": "14 W",
+      "2.73": "14 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "PTO",
+      "3.47": "14 W",
+      "2.73": "14 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "PSB",
+      "3.47": "14 W",
+      "2.73": "14 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "PCK",
+      "3.47": "14 W",
+      "2.73": "14 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "3.47": "Electricity",
+      "2.73": "Electricity",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Supplementary Heater: PSUP",
+      "3.47": "11.16 kW",
+      "2.73": "10.93 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Backup Heater",
+      "3.47": "4.00 kW",
+      "2.73": "4.00 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "Annual energy consumption Qhe",
+      "3.47": "7400 kWh",
+      "2.73": "9141 kWh",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "",
+      "3.47": "",
+      "2.73": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "",
+      "3.47": "",
+      "2.73": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-7\u00b0c": "EN 12102-1 | Warmer Climate",
+      "3.47": "",
+      "2.73": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "37 dB(A)",
+      "medium_temperature": "37 dB(A)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "56 dB(A)",
+      "medium_temperature": "56 dB(A)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignh",
+      "low_temperature": "4.93 kW",
+      "medium_temperature": "4.48 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "247 %",
+      "medium_temperature": "152 %",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "4.91 kW",
+      "medium_temperature": "4.30 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.25",
+      "medium_temperature": "3.87",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-20 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.91 kW",
+      "medium_temperature": "4.30 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.05",
+      "medium_temperature": "2.50",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.988",
+      "medium_temperature": "0.992",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "3.10 kW",
+      "medium_temperature": "2.81 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 11.16 kW 10.93 kW",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24"
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "5.70": "0.974",
+      "3.08": "0.985",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "5.70": "3.28 kW",
+      "3.08": "3.16 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "5.70": "7.86",
+      "3.08": "5.45",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.70": "0.966",
+      "3.08": "0.976",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "5.70": "4.91 kW",
+      "3.08": "4.30 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "5.70": "4.05",
+      "3.08": "2.50",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.70": "5.51 kW",
+      "3.08": "4.90 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.70": "2.22",
+      "3.08": "1.51",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "5.70": "60 \u00b0C",
+      "3.08": "60 \u00b0C",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "5.70": "14 W",
+      "3.08": "14 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "5.70": "14 W",
+      "3.08": "14 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "5.70": "14 W",
+      "3.08": "14 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "5.70": "14 W",
+      "3.08": "14 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.70": "n/a",
+      "3.08": "n/a",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "5.70": "0.00 kW",
+      "3.08": "0.00 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Backup Heater",
+      "5.70": "4.00 kW",
+      "3.08": "4.00 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "5.70": "1049 kWh",
+      "3.08": "1483 kWh",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "5.70": "",
+      "3.08": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "5.70": "",
+      "3.08": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "EN 14825 | Cooling",
+      "5.70": "",
+      "3.08": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignc",
+      "+7\u00b0c/+12\u00b0c": "7 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "SEER",
+      "+7\u00b0c/+12\u00b0c": "4.64",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "7 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.1",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "5.17 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.13",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 30 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.99",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.32 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.89",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 25 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.98",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.19 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.85",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 20 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.97",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "+7\u00b0c/+12\u00b0c": "14 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "+7\u00b0c/+12\u00b0c": "14 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "+7\u00b0c/+12\u00b0c": "14 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "+7\u00b0c/+12\u00b0c": "0 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qce",
+      "+7\u00b0c/+12\u00b0c": "1381 kWh",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Ariston_Thermo_Group_NIMBUS_80_S_-_Plus-H_Outdoor_Air_Water_24"
+    }
+  ]
+}

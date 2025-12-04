@@ -1,0 +1,19 @@
+{
+  "extraction_timestamp": "2025-11-17T16:03:04.207209",
+  "total_pdfs": 2769,
+  "successful": 2758,
+  "failed": 11,
+  "skipped": 0,
+  "total_records_extracted": 1172298,
+  "success_rate_percent": 99.60274467316721,
+  "elapsed_seconds": 3623.2967870235443,
+  "output_directory": "/workspaces/keymark-heat-pumps/data/pdf_extractions",
+  "log_file": "/workspaces/keymark-heat-pumps/data/logs/pdf_extraction_progress.log",
+  "errors_file": "/workspaces/keymark-heat-pumps/data/logs/pdf_extraction_errors.json",
+  "error_breakdown": {
+    "PDFExtractionError": 11
+  },
+  "records_by_type": {
+    "unknown": 1172298
+  }
+}

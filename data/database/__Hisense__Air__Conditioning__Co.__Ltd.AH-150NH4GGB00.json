@@ -1,0 +1,87 @@
+{
+  "file_metadata": {
+    "Refrigerant": "R290",
+    "Mass of Refrigerant": "0,148 kg",
+    "Date": "11.08.2025",
+    "Manufacturer": "Hisense Air Conditioning Co. Ltd.",
+    "Modelname": "AH-150NH4GGB00",
+    "Type": "Heat Pump for Domestic Hot Water (DHW)",
+    "Energy": "Electricity"
+  },
+  "heat_pumps": [
+    {
+      "title": "AH-150NH4GGB00",
+      "properties": {
+        "application": "0",
+        "indoor": "1",
+        "outdoor": "0",
+        "coolingMode7c12c": "0",
+        "coolingMode18c23c": "0",
+        "colderClimate": "1",
+        "warmerClimate": "1",
+        "reversibility": "0",
+        "colderForHeating": "1",
+        "warmerForHeating": "1",
+        "en145112Certification": "0",
+        "heatSource": "1",
+        "additionalOutdoorAir": "0",
+        "additionalExhaustAir": "0",
+        "additionalIndoorAir": "0",
+        "additionalNonheatedSpaceAir": "0",
+        "powerSupply": "1",
+        "offPeakProduct": "2"
+      },
+      "measurements": {
+        "EN12102_2_001": {
+          "0_1_0_0": "47",
+          "0_2_0_0": "47",
+          "0_3_0_0": "47"
+        },
+        "EN16147_001": {
+          "0_1_0_0": "L",
+          "0_2_0_0": "L",
+          "0_3_0_0": "L"
+        },
+        "EN16147_002": {
+          "0_1_0_0": "159",
+          "0_2_0_0": "117",
+          "0_3_0_0": "120"
+        },
+        "EN16147_003": {
+          "0_1_0_0": "3.87",
+          "0_2_0_0": "2.84",
+          "0_3_0_0": "3.05"
+        },
+        "EN16147_004": {
+          "0_1_0_0": "7:59",
+          "0_2_0_0": "11:21",
+          "0_3_0_0": "9:38"
+        },
+        "EN16147_005": {
+          "0_1_0_0": "15.0",
+          "0_2_0_0": "20.0",
+          "0_3_0_0": "17.0"
+        },
+        "EN16147_006": {
+          "0_1_0_0": "49.5",
+          "0_2_0_0": "49.4",
+          "0_3_0_0": "49.4"
+        },
+        "EN16147_007": {
+          "0_1_0_0": "187",
+          "0_2_0_0": "187",
+          "0_3_0_0": "180"
+        },
+        "EN16147_008": {
+          "0_5_0_0": "2"
+        },
+        "EN16147_009": {
+          "0_5_0_0": "2"
+        },
+        "EN16147_010": {
+          "0_5_0_0": "2"
+        }
+      }
+    }
+  ]
+}

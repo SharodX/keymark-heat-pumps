@@ -1,0 +1,63 @@
+manufacturer_name,model_name,variant_name,dimension,match_temp,reference_col,cop_tbiv,ref_cop,delta
+Ariston Thermo Group,NIMBUS 40 M - ARIANEXT 40 M - AEROTOP MONO 04X - ENERGION M 4,AEROTOP MONO BUILT-IN 04M-CRX,5_3_0_0,-7,cop_m7,2.13,2.29,-0.16000000000000014
+Ariston Thermo Group,NIMBUS 40 M - ARIANEXT 40 M - AEROTOP MONO 04X - ENERGION M 4,ARIANEXT COMPACT 40 M 2Z,5_3_0_0,-7,cop_m7,2.13,2.29,-0.16000000000000014
+Ariston Thermo Group,NIMBUS 40 M - ARIANEXT 40 M - AEROTOP MONO 04X - ENERGION M 4,ARIANEXT COMPACT 40 M 2Z LINK,5_3_0_0,-7,cop_m7,2.13,2.29,-0.16000000000000014
+Ariston Thermo Group,NIMBUS 40 M - ARIANEXT 40 M - AEROTOP MONO 04X - ENERGION M 4,ENERGION M COMPACT 4 2Z,5_3_0_0,-7,cop_m7,2.13,2.29,-0.16000000000000014
+Ariston Thermo Group,NIMBUS 40 M - ARIANEXT 40 M - AEROTOP MONO 04X - ENERGION M 4,ENERGION M PLUS 4 2Z,5_3_0_0,-7,cop_m7,2.13,2.29,-0.16000000000000014
+Ariston Thermo Group,NIMBUS 40 M - ARIANEXT 40 M - AEROTOP MONO 04X - ENERGION M 4,NIMBUS FLEX 40 M NET,5_3_0_0,-7,cop_m7,2.13,2.29,-0.16000000000000014
+Ariston Thermo Group,NIMBUS/ARIANEXT/AEROTOP/ENERGION 120/150 S - COMPACT,AEROTOP SPLIT 12.2 M-C2R,4_2_0_0,-7,cop_m7,3.5,3.6,-0.10000000000000009
+Bosch Thermotechnik GmbH,Bosch CS5800i/6800iAW 4/5/7 OR,CSH5800iAW 4 O,5_3_0_0,-7,cop_m7,3.55,2.12,1.4299999999999997
+Bosch Thermotechnik GmbH,Bosch CS5800i/6800iAW 4/5/7 OR,CS5800iAW 4 ORE-S,5_3_0_0,-7,cop_m7,3.55,2.12,1.4299999999999997
+Bosch Thermotechnik GmbH,Bosch CS5800i/6800iAW 4/5/7 OR,CS5800iAW 4 ORE-S (60°C),5_3_0_0,-7,cop_m7,3.55,2.12,1.4299999999999997
+Bosch Thermotechnik GmbH,Bosch CS5800i/6800iAW 4/5/7 OR,CS5800iAW 4 ORMB-S,5_3_0_0,-7,cop_m7,3.53,2.11,1.42
+Ariston Thermo Group,NIMBUS 40 M - ARIANEXT 40 M - AEROTOP MONO 04X - ENERGION M 4,AEROTOP HYBRID MINI EVO 04X,5_3_0_0,-7,cop_m7,2.13,2.29,-0.16000000000000014
+Ariston Thermo Group,NIMBUS 40 M - ARIANEXT 40 M - AEROTOP MONO 04X - ENERGION M 4,AEROTOP MONO 04M-CRX 1Z,5_3_0_0,-7,cop_m7,2.13,2.29,-0.16000000000000014
+Ariston Thermo Group,NIMBUS 40 M - ARIANEXT 40 M - AEROTOP MONO 04X - ENERGION M 4,AEROTOP MONO 04M-RX 1Z,5_3_0_0,-7,cop_m7,2.13,2.29,-0.16000000000000014
+Ariston Thermo Group,NIMBUS 40 M - ARIANEXT 40 M - AEROTOP MONO 04X - ENERGION M 4,AEROTOP MONO 04M-RX 2Z,5_3_0_0,-7,cop_m7,2.13,2.29,-0.16000000000000014
+Ariston Thermo Group,NIMBUS 40 M - ARIANEXT 40 M - AEROTOP MONO 04X - ENERGION M 4,ARIANEXT COMPACT 40 M,5_3_0_0,-7,cop_m7,2.13,2.29,-0.16000000000000014
+Ariston Thermo Group,NIMBUS 40 M - ARIANEXT 40 M - AEROTOP MONO 04X - ENERGION M 4,ARIANEXT M HYBRID FLEX 4 LINK,5_3_0_0,-7,cop_m7,2.13,2.29,-0.16000000000000014
+Ariston Thermo Group,NIMBUS 40 M - ARIANEXT 40 M - AEROTOP MONO 04X - ENERGION M 4,ARIANEXT PLUS 40 M 2Z,5_3_0_0,-7,cop_m7,2.13,2.29,-0.16000000000000014
+Ariston Thermo Group,NIMBUS 40 M - ARIANEXT 40 M - AEROTOP MONO 04X - ENERGION M 4,ATAG i ENERGION M HYBRIDzone 4,5_3_0_0,-7,cop_m7,2.13,2.29,-0.16000000000000014
+Ariston Thermo Group,NIMBUS/ARIANEXT/AEROTOP/ENERGION 120/150 S - COMPACT,AEROTOP SPLIT 12.2 M-CR 2Z,4_2_0_0,-7,cop_m7,3.5,3.6,-0.10000000000000009
+Ariston Thermo Group,NIMBUS/ARIANEXT/AEROTOP/ENERGION 120/150 S - Plus,AEROTOP SPLIT 12.2 M-R,4_2_0_0,-7,cop_m7,3.5,3.6,-0.10000000000000009
+Bosch Thermotechnik GmbH,Bosch CS5800i/6800iAW 4/5/7 OR,CSH5800iAW 4,5_3_0_0,-7,cop_m7,3.55,2.12,1.4299999999999997
+Bosch Thermotechnik GmbH,Bosch CS5800i/6800iAW 4/5/7 OR,CS5800iAW 4 ORMB-S (60°C),5_3_0_0,-7,cop_m7,3.53,2.11,1.42
+ELCO GmbH,AEROTOP SX10,AEROTOP SX10,4_3_0_0,-7,cop_m7,3.24,3.51,-0.2699999999999996
+"Guangzhou Sprsun New Energy Technology Dev. Co., Ltd,",EVI DC Inverter Air Source Heat Pumps 025,CGK-025V3L,5_3_0_0,-7,cop_m7,2.03,2.18,-0.15000000000000036
+Johnson Controls-Hitachi AirConditioning Spain,37. Yutaki S (N1) 10.0HP R410A (3ph),01. RAS-10WHNPE  RWM-10.0N1E - Heating Only,4_3_0_0,-7,cop_m7,2.1,2.3,-0.19999999999999973
+Johnson Controls-Hitachi AirConditioning Spain,Yutaki M 4.0HP R32 (mono),RASM-4VR1E - with cooling kit,5_3_0_0,-7,cop_m7,2.45,2.4,0.050000000000000266
+Johnson Controls-Hitachi AirConditioning Spain,Yutaki M 4.0HP R32 (mono),RASM-4VRW1E & HWD-WE-220S - heating only,5_3_0_0,-7,cop_m7,2.45,2.4,0.050000000000000266
+Kaukora,Jäspi Inverter Nordic 20,Jäspi Inverter Nordic 20,4_2_0_0,-7,cop_m7,3.15,3.5,-0.3500000000000001
+Kaukora,Jäspi Inverter Nordic 20,Jäspi Inverter Nordic 20,5_2_0_0,-7,cop_m7,2.55,2.85,-0.30000000000000027
+LumenHaus GmbH,Monobloc LH-HHP-series 12/14/16,LH-HHP-SE16K01CE,5_3_0_0,-7,cop_m7,2.39,2.27,0.1200000000000001
+Johnson Controls-Hitachi AirConditioning Spain,RASM-6(V)TW2E,RASM-6TW2E & ATW-CBX-01 - Heating Only,5_3_0_0,-7,cop_m7,1.93,2.0,-0.07000000000000006
+Johnson Controls-Hitachi AirConditioning Spain,Yutaki M 4.0HP R32 (mono),RASM-4VR1E - heating only,5_3_0_0,-7,cop_m7,2.45,2.4,0.050000000000000266
+Johnson Controls-Hitachi AirConditioning Spain,Yutaki M 4.0HP R32 (mono),RASM-4VRW1E & HWD-WE-220S - with cooling kit,5_3_0_0,-7,cop_m7,2.45,2.4,0.050000000000000266
+Johnson Controls-Hitachi AirConditioning Spain,Yutaki M 4.0HP R32 (mono),RASM-4VRW1E & HWM-WE - heating only,5_3_0_0,-7,cop_m7,2.45,2.4,0.050000000000000266
+Johnson Controls-Hitachi AirConditioning Spain,Yutaki M 4.0HP R32 (mono),RASM-4VRW1E & HWM-WE - with cooling kit,5_3_0_0,-7,cop_m7,2.45,2.4,0.050000000000000266
+KENSOL Sp z.o.o.,KENSOL KTM14kW&17kW,KTM14kW,4_3_0_0,-7,cop_m7,0.55,3.55,-3.0
+Kaukora,Jäspi Inverter Nordic 12,Jäspi Inverter Nordic 12,4_3_0_0,-7,cop_m7,2.95,3.05,-0.09999999999999964
+Kaukora,Jäspi Inverter Nordic 12,Jäspi Inverter Nordic 12,5_3_0_0,-7,cop_m7,2.28,2.39,-0.11000000000000032
+Ariston Thermo Group,NIMBUS/ARIANEXT/AEROTOP/ENERGION 120/150 S - COMPACT,AEROTOP SPLIT 12.2 M-CR 2Z,4_1_0_0,2,cop_p2,4.0,3.9,0.10000000000000009
+Ariston Thermo Group,NIMBUS/ARIANEXT/AEROTOP/ENERGION 120/150 S - Plus,AEROTOP SPLIT 12.2 M-R,4_1_0_0,2,cop_p2,4.0,3.9,0.10000000000000009
+Ariston Thermo Group,NIMBUS/ARIANEXT/AEROTOP/ENERGION 120/150 S - COMPACT,AEROTOP SPLIT 12.2 M-C2R,4_1_0_0,2,cop_p2,4.0,3.9,0.10000000000000009
+ELCO GmbH,AEROTOP T20 / T20R,AEROTOP T20R,5_1_0_0,2,cop_p2,4.05,1.89,2.16
+ait-deutschland GmbH,LWV 82 Inverter,NOVELAN LICV 8.2R1/3,4_1_0_0,2,cop_p2,4.28,4.15,0.1299999999999999
+Kospel SP. z o.o.,HPS.Z 6kW/230 V,HPSO-6/230 + HPSI-6,4_1_0_0,2,cop_p2,2.97,4.3,-1.3299999999999996
+ait-deutschland GmbH,LWV 82 Inverter,NOVELAN LAV 8.2R1/3,4_1_0_0,2,cop_p2,4.28,4.15,0.1299999999999999
+"GD Midea Heating & Ventilating Equipment Co., Ltd.",M thermal P series Split 12 14 16 kW,MHA-V16WD2N8*-C-B+HB-A160C****GN8*-C,5_1_0_0,7,cop_p7,1.78,3.91,-2.13
+"GD Midea Heating & Ventilating Equipment Co., Ltd.",M thermal P series Split 12 14 16 kW,MHA-V16WD2N8*-C-B+HB-A160C****GN8*-C,4_1_0_0,7,cop_p7,1.78,5.69,-3.91
+"GD Midea Heating & Ventilating Equipment Co., Ltd.",M thermal P series Split 8 10 kW,MHA-V10WD2N8*-C-B+HB-A100C****GN8*-C,4_1_0_0,7,cop_p7,1.99,5.93,-3.9399999999999995
+"GD Midea Heating & Ventilating Equipment Co., Ltd.",M thermal P series Split 8 10 kW,MHA-V10WD2N8*-C-B+HB-A100C****GN8*-C,5_1_0_0,7,cop_p7,1.99,3.91,-1.9200000000000002
+"GD Midea Heating & Ventilating Equipment Co., Ltd.",M thermal P series Split 12 14 16 kW,MHA-V12WD2N8*-C-B+HB-A160C****GN8*-C,4_1_0_0,7,cop_p7,1.74,5.88,-4.14
+"GD Midea Heating & Ventilating Equipment Co., Ltd.",M thermal P series Split 12 14 16 kW,MHA-V12WD2N8*-C-B+HB-A160C****GN8*-C,5_1_0_0,7,cop_p7,1.74,3.86,-2.12
+"GD Midea Heating & Ventilating Equipment Co., Ltd.",M thermal P series Split 12 14 16 kW,MHA-V14WD2N8*-C-B+HB-A160C****GN8*-C,4_1_0_0,7,cop_p7,1.74,5.62,-3.88
+"GD Midea Heating & Ventilating Equipment Co., Ltd.",M thermal P series Split 12 14 16 kW,MHA-V14WD2N8*-C-B+HB-A160C****GN8*-C,5_1_0_0,7,cop_p7,1.74,3.9,-2.16
+"GD Midea Heating & Ventilating Equipment Co., Ltd.",M thermal P series Split 3 4 kW,MHA-V3WD2N8*-C-B+HB-A60C****GN8*-C,4_1_0_0,7,cop_p7,1.64,5.54,-3.9000000000000004
+"GD Midea Heating & Ventilating Equipment Co., Ltd.",M thermal P series Split 3 4 kW,MHA-V3WD2N8*-C-B+HB-A60C****GN8*-C,5_1_0_0,7,cop_p7,1.64,3.22,-1.5800000000000003
+"GD Midea Heating & Ventilating Equipment Co., Ltd.",M thermal P series Split 3 4 kW,MHA-V4WD2N8*-C-B+HB-A60C****GN8*-C,4_1_0_0,7,cop_p7,1.75,5.63,-3.88
+"GD Midea Heating & Ventilating Equipment Co., Ltd.",M thermal P series Split 3 4 kW,MHA-V4WD2N8*-C-B+HB-A60C****GN8*-C,5_1_0_0,7,cop_p7,1.75,3.46,-1.71
+"GD Midea Heating & Ventilating Equipment Co., Ltd.",M thermal P series Split 6 kW,MHA-V6WD2N8*-C-B+HB-A60C****GN8*-C,5_1_0_0,7,cop_p7,1.67,3.57,-1.9
+"GD Midea Heating & Ventilating Equipment Co., Ltd.",M thermal P series Split 6 kW,MHA-V6WD2N8*-C-B+HB-A60C****GN8*-C,4_1_0_0,7,cop_p7,1.67,5.28,-3.6100000000000003
+"GD Midea Heating & Ventilating Equipment Co., Ltd.",M thermal P series Split 8 10 kW,MHA-V8WD2N8*-C-B+HB-A100C****GN8*-C,4_1_0_0,7,cop_p7,1.93,6.03,-4.1000000000000005
+"GD Midea Heating & Ventilating Equipment Co., Ltd.",M thermal P series Split 8 10 kW,MHA-V8WD2N8*-C-B+HB-A100C****GN8*-C,5_1_0_0,7,cop_p7,1.93,3.89,-1.9600000000000002

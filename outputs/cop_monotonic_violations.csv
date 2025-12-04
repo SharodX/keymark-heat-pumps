@@ -1,0 +1,72 @@
+manufacturer_name,model_name,variant_name,dimension,violation_type,src_temp,dst_temp,src_cop,dst_cop,delta
+CTC AB,CTC EcoAir 510M 1x230V,CTC EcoAir 510M 1x230V,5_3_0_0,monotonic -7->2,-7,2,7.95,3.14,-4.8100000000000005
+Bosch Thermotechnik GmbH (Buderus),Buderus Logatherm WLW MB-10/12 AR,Logatherm WLW176i-12 AR E,4_2_0_0,monotonic 2->7,2,7,5.42,5.35,-0.07000000000000028
+Bosch Thermotechnik GmbH (Buderus),Buderus Logatherm WLW MB-10/12 AR,Logatherm WLW176i-12 AR E (60°C),4_2_0_0,monotonic 2->7,2,7,5.42,5.35,-0.07000000000000028
+Bosch Thermotechnik GmbH (Buderus),Buderus Logatherm WLW MB-10/12 AR,Logatherm WLW176i-12 AR T180,4_2_0_0,monotonic 2->7,2,7,5.38,5.3,-0.08000000000000007
+Bosch Thermotechnik GmbH (Buderus),Buderus Logatherm WLW MB-10/12 AR,Logatherm WLW176i-12 AR T180 (60°C),4_2_0_0,monotonic 2->7,2,7,5.38,5.3,-0.08000000000000007
+Bosch Thermotechnik GmbH (Buderus),Buderus Logatherm WLW MB-10/12 AR,Logatherm WLW176i-12 AR TP70 (60°C),4_2_0_0,monotonic 2->7,2,7,5.38,5.3,-0.08000000000000007
+Bosch Thermotechnik GmbH (Buderus),Buderus Logatherm WPLS.11/13/15.2,Buderus Logatherm WPLS13.2 RB-S,4_2_0_0,monotonic 2->7,2,7,5.12,4.8,-0.3200000000000003
+Bosch Thermotechnik GmbH,Bosch Compress 3000 AWS-11/13/15,Bosch Compress 3000 AWS-13 E-S,4_2_0_0,monotonic 2->7,2,7,5.12,4.8,-0.3200000000000003
+Bosch Thermotechnik GmbH (Buderus),Buderus Logatherm WPLS.11/13/15.2,Buderus Logatherm WPLS15.2 RB-S,4_2_0_0,monotonic 2->7,2,7,5.12,4.8,-0.3200000000000003
+Bosch Thermotechnik GmbH,Bosch Compress 3000 AWS-11/13/15,Bosch Compress 3000 AWS-15 MS-S,4_2_0_0,monotonic 2->7,2,7,5.12,4.8,-0.3200000000000003
+Bosch Thermotechnik GmbH (Buderus),Buderus Logatherm WLW MB-10/12 AR,Logatherm WLW176i-12 AR TP70,4_2_0_0,monotonic 2->7,2,7,5.38,5.3,-0.08000000000000007
+Bosch Thermotechnik GmbH,Bosch Compress 3000 AWS-11/13/15,Bosch Compress 3000 AWS-13 M-S,4_2_0_0,monotonic 2->7,2,7,5.12,4.8,-0.3200000000000003
+Bosch Thermotechnik GmbH,Bosch Compress 3000 AWS-11/13/15,Bosch Compress 3000 AWS-13 MS-S,4_2_0_0,monotonic 2->7,2,7,5.12,4.8,-0.3200000000000003
+Bosch Thermotechnik GmbH,Bosch Compress 3000 AWS-11/13/15,Bosch Compress 3000 AWS-15 E-S,4_2_0_0,monotonic 2->7,2,7,5.12,4.8,-0.3200000000000003
+Bosch Thermotechnik GmbH,Bosch Compress 3000 AWS-11/13/15,Bosch Compress 3000 AWS-15 M-S,4_2_0_0,monotonic 2->7,2,7,5.12,4.8,-0.3200000000000003
+Fonderie Sime S.p.A.,SHP M PRO 12 14 16 kW,SHP M PRO 012,4_2_0_0,monotonic 2->7,2,7,5.34,5.28,-0.05999999999999961
+Fonderie Sime S.p.A.,SHP M PRO 12 14 16 kW,SHP M PRO 012T,4_2_0_0,monotonic 2->7,2,7,5.34,5.28,-0.05999999999999961
+GLOBAL SYSTEM INTEGRATION SRL G.S.I. SRL,MEVO 116-120 STD PRO MAGIS,MEVO STD 116M,4_1_0_0,monotonic 2->7,2,7,5.58,5.16,-0.41999999999999993
+Clivet s.p.a.,"Sheen EVO/EVO 2.0 - 10.1, 12.1, 14.1",WiSAN-YSE1 EXC-EN 12.1,4_3_0_0,monotonic 2->7,2,7,4.62,2.6,-2.02
+Bosch Thermotechnik GmbH,Bosch Compress 3000 AWS-11/13/15,Bosch Compress 3000 AWS-13 B-S,4_2_0_0,monotonic 2->7,2,7,5.12,4.8,-0.3200000000000003
+Bosch Thermotechnik GmbH,Bosch Compress 3000 AWS-11/13/15,Bosch Compress 3000 AWS-15 B-S,4_2_0_0,monotonic 2->7,2,7,5.12,4.8,-0.3200000000000003
+Ecoforest Geotermia S.L.,ecoAIR 1-7 PRO,ECOAIR 1-7 PRO,4_2_0_0,monotonic 2->7,2,7,4.95,4.73,-0.21999999999999975
+LG Electronics Inc.,THERMA V High temperature 3rd Gen 16kW,"HU161HA U33, HN1610H NK3",5_3_0_0,monotonic 2->7,2,7,3.47,3.0,-0.4700000000000002
+Airwell Residential S.A.S.,WELLEA MONOBLOC 12/14/16 KW 1ph,WELLEA MONOBLOC 12 KW 1PH,4_3_0_0,monotonic 7->12,7,12,5.99,5.3,-0.6900000000000004
+Airwell Residential S.A.S.,WELLEA MONOBLOC 12/14/16 KW 3ph,WELLEA MONOBLOC 12 KW 3PH,4_3_0_0,monotonic 7->12,7,12,5.74,5.4,-0.33999999999999986
+Bosch Thermotechnik GmbH,Bosch Compress CS3400iAWS 4 OR-S,CS3400iAWS 4 ORB-S,4_2_0_0,monotonic 7->12,7,12,6.12,5.97,-0.15000000000000036
+Bosch Thermotechnik GmbH,Bosch Compress CS3400iAWS 4 OR-S,CS3400iAWS 4 ORE-S,4_2_0_0,monotonic 7->12,7,12,6.12,5.97,-0.15000000000000036
+Bosch Thermotechnik GmbH,Bosch Compress CS3400iAWS 4 OR-S,CS3400iAWS 4 ORM-S,4_2_0_0,monotonic 7->12,7,12,6.12,5.97,-0.15000000000000036
+Fonderie Sime S.p.A.,SHP M PRO 12 14 16 kW,SHP M PRO 012,5_3_0_0,monotonic 7->12,7,12,5.07,4.52,-0.5500000000000007
+Fonderie Sime S.p.A.,SHP M PRO 12 14 16 kW,SHP M PRO 012T,5_3_0_0,monotonic 7->12,7,12,5.07,4.52,-0.5500000000000007
+Fonderie Sime S.p.A.,SHP M PRO 12 14 16 kW,SHP M PRO 014T,5_3_0_0,monotonic 7->12,7,12,5.06,4.52,-0.54
+Fonderie Sime S.p.A.,SHP M PRO 12 14 16 kW,SHP M PRO 016T,5_3_0_0,monotonic 7->12,7,12,5.05,4.52,-0.5300000000000002
+"GZ AXEN Heat Pump Technology Co., Ltd.",Heat pump-R290 KS-70*,KS-70W/EN7BP,4_3_0_0,monotonic 7->12,7,12,6.85,5.14,-1.71
+Grant Engineering (Ireland) ULC,Grant Aerona HPR290i40,Grant Aerona HPR290i40,4_3_0_0,monotonic 7->12,7,12,6.47,6.23,-0.23999999999999932
+"Gree Electric Appliances, Inc. of Zhuhai",VERSATI AIO G2 4-6kW,GRS-CQ6.0PdG/NhH2-E,4_2_0_0,monotonic 7->12,7,12,7.04,6.9,-0.13999999999999968
+"Gree Electric Appliances, Inc. of Zhuhai",VERSATI AIO G2 4-6kW,GRS-CQ6.0PdG/NhH2-E,4_3_0_0,monotonic 7->12,7,12,6.47,6.39,-0.08000000000000007
+"Gree Electric Appliances, Inc. of Zhuhai",Versati Split G2 4/6kW,GRS-CQ6.0Pd/NhH2-E+SXTVD300LC/B-E,4_3_0_0,monotonic 7->12,7,12,6.47,5.72,-0.75
+"Gree Electric Appliances, Inc. of Zhuhai",Versati Split G2 4/6kW,GRS-CQ6.0Pd/NhH2-E+SXTVD300LC/B-E,4_2_0_0,monotonic 7->12,7,12,7.04,6.9,-0.13999999999999968
+BAXI Heating UK Limited,Assure Mono 12 16,Assure Mono 12,4_3_0_0,monotonic 7->12,7,12,5.74,5.4,-0.33999999999999986
+Fonderie Sime S.p.A.,SHP M PRO 12 14 16 kW,SHP M PRO 014,5_3_0_0,monotonic 7->12,7,12,5.06,4.52,-0.54
+Fonderie Sime S.p.A.,SHP M PRO 12 14 16 kW,SHP M PRO 016,5_3_0_0,monotonic 7->12,7,12,5.05,4.52,-0.5300000000000002
+"Gree Electric Appliances, Inc. of Zhuhai",VERSATI AIO G2 4-6kW,GRS-CQ4.0PdG/NhH2-E,4_2_0_0,monotonic 7->12,7,12,7.04,6.9,-0.13999999999999968
+"Gree Electric Appliances, Inc. of Zhuhai",Versati Split G2 4/6kW,GRS-CQ4.0Pd/NhH2-E+SXTVD300LC/B-E,4_2_0_0,monotonic 7->12,7,12,7.04,6.9,-0.13999999999999968
+DVI Energi A/S,DVI AW-290-20,DVI AW-290-20,5_3_0_0,monotonic 7->12,7,12,4.82,4.5,-0.3200000000000003
+ELCO GmbH,AEROTOP S05.2,AEROTOP S05.2,4_3_0_0,monotonic 7->12,7,12,5.65,3.57,-2.0800000000000005
+ELCO GmbH,AEROTOP T20 / T20R,AEROTOP T20,5_1_0_0,monotonic 7->12,7,12,3.11,2.17,-0.94
+ELCO GmbH,AEROTOP T20 / T20R,AEROTOP T20R,5_1_0_0,monotonic 7->12,7,12,3.11,2.17,-0.94
+ES Heat Pumps AB,DC Inverter Air to Water Heat Pump Unit 15,"Indoor Unit: AWC6/19-R32-M, Outdoor Unit: AW15-R32-M",4_3_0_0,monotonic 7->12,7,12,6.29,6.02,-0.27000000000000046
+Ecoforest Geotermia S.L.,ecoAIR 1-7 PRO,ECOAIR 1-7 PRO,4_1_0_0,monotonic 7->12,7,12,6.15,5.26,-0.8900000000000006
+Ecoforest Geotermia S.L.,ecoAIR 3-12 PRO,ECOAIR 3-12 PRO,4_1_0_0,monotonic 7->12,7,12,5.34,4.41,-0.9299999999999997
+Ecoforest Geotermia S.L.,ecoAIR 3-12 PRO,ECOAIR T 3-12 PRO,4_1_0_0,monotonic 7->12,7,12,5.34,4.41,-0.9299999999999997
+DUKO Energie s.r.o.,DC Inverter Air to Water Heat Pump Unit- R32-15AIO,Indoor unit: M15kWR32AIO; Outdoor unit: M15WR32AIO,4_3_0_0,monotonic 7->12,7,12,6.29,6.02,-0.27000000000000046
+DUKO Energie s.r.o.,DC Inverter Air to Water Heat Pump Unit- R32-15HYD,Indoor unit: M15kWR32HYD; Outdoor unit: M15kWR32HYD,4_3_0_0,monotonic 7->12,7,12,6.29,6.02,-0.27000000000000046
+ELCO GmbH,AEROTOP T26 / T26R,AEROTOP T26,5_1_0_0,monotonic 7->12,7,12,3.22,2.19,-1.0300000000000002
+ELCO GmbH,AEROTOP T26 / T26R,AEROTOP T26R,5_1_0_0,monotonic 7->12,7,12,3.22,2.19,-1.0300000000000002
+Ecoforest Geotermia S.L.,ecoAIR 1-9 PRO,ecoAIR 1-9 PRO,4_2_0_0,monotonic 7->12,7,12,6.13,5.29,-0.8399999999999999
+Ecoforest Geotermia S.L.,ecoAIR 3-12 PRO,ECOAIR 3-12 PRO,4_2_0_0,monotonic 7->12,7,12,4.5,4.28,-0.21999999999999975
+Ecoforest Geotermia S.L.,ecoAIR 3-12 PRO,ECOAIR 3-12 PRO,4_3_0_0,monotonic 7->12,7,12,4.53,4.26,-0.27000000000000046
+Ecoforest Geotermia S.L.,ecoAIR 3-12 PRO,ECOAIR T 3-12 PRO,4_2_0_0,monotonic 7->12,7,12,4.5,4.28,-0.21999999999999975
+Ecoforest Geotermia S.L.,ecoAIR 3-12 PRO,ECOAIR T 3-12 PRO,4_3_0_0,monotonic 7->12,7,12,4.53,4.26,-0.27000000000000046
+Groupe Atlantic,ISILIA M 10 (R290),ISILIA M 10,4_3_0_0,monotonic 7->12,7,12,5.94,5.77,-0.17000000000000082
+Johnson Controls-Hitachi AirConditioning Spain,36. Yutaki S (N1) 8.0HP R410A (3ph),02. RAS-8WHNPE RWM-8.0N1E - with cooling kit,4_3_0_0,monotonic 7->12,7,12,5.4,4.65,-0.75
+Johnson Controls-Hitachi AirConditioning Spain,37. Yutaki S (N1) 10.0HP R410A (3ph),01. RAS-10WHNPE  RWM-10.0N1E - Heating Only,4_3_0_0,monotonic 7->12,7,12,5.1,4.9,-0.1999999999999993
+Johnson Controls-Hitachi AirConditioning Spain,37. Yutaki S (N1) 10.0HP R410A (3ph),02. RAS-10WHNPE RWM-10.0N1E - with cooling kit,4_3_0_0,monotonic 7->12,7,12,5.1,4.9,-0.1999999999999993
+Johnson Controls Hitachi Air-Conditioning Europe SAS,airH2O 400 Combi 10 12,HZKF10KSE-Q/HZKF10KW230E-Q,4_3_0_0,monotonic 7->12,7,12,6.54,6.06,-0.4800000000000004
+Johnson Controls Hitachi Air-Conditioning Europe SAS,airH2O 400 Combi 10 12,HZKF10KSO-Q/HZKF10KW230O-Q,4_3_0_0,monotonic 7->12,7,12,6.54,6.06,-0.4800000000000004
+LG Electronics Inc.,R410 MultiV S Hydrokit 8HP (High Temp.),ARUN080LSS5 / ARNH08LK3A4,4_3_0_0,monotonic 7->12,7,12,3.83,3.63,-0.20000000000000018
+LG Electronics Inc.,THERMA V High temperature 3rd Gen 16kW,"HU161HA U33, HN1610H NK3",4_3_0_0,monotonic 7->12,7,12,4.2,3.8,-0.40000000000000036
+ait-deutschland GmbH,LWD 70A,NOVELAN LAD 7 - CSD,5_1_0_0,monotonic 7->12,7,12,3.43,2.52,-0.9100000000000001
+IGLOTECH Sp. z o.o.,DC Inverter Air to Water Heat Pump Unit-R32-15,Indoor Unit: Neoheat Eko II 15 Outdoor Unit: Neoheat Eko II 15,4_3_0_0,monotonic 7->12,7,12,6.29,6.02,-0.27000000000000046
+Johnson Controls-Hitachi AirConditioning Spain,36. Yutaki S (N1) 8.0HP R410A (3ph),01. RAS-8WHNPE  RWM-8.0N1E - Heating Only,4_3_0_0,monotonic 7->12,7,12,5.4,4.65,-0.75

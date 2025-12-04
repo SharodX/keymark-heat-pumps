@@ -1,0 +1,1665 @@
+{
+  "source_pdf": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42.pdf",
+  "extraction_timestamp": "2025-11-17T15:17:02.394446",
+  "total_records": 194,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype WLW276 65/75/89",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "bosch_thermotechnik_gmbh_(buderus)": "Sophienstra\u00dfe 30-32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "bosch_thermotechnik_gmbh_(buderus)": "35576",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "bosch_thermotechnik_gmbh_(buderus)": "Wetzlar",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "bosch_thermotechnik_gmbh_(buderus)": "DE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "bosch_thermotechnik_gmbh_(buderus)": "ICIM S.p.A.",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "bosch_thermotechnik_gmbh_(buderus)": "WLW276 65/75/89",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "bosch_thermotechnik_gmbh_(buderus)": "ICIM-PDC-000260",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "bosch_thermotechnik_gmbh_(buderus)": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "bosch_thermotechnik_gmbh_(buderus)": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "bosch_thermotechnik_gmbh_(buderus)": "26.5 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "bosch_thermotechnik_gmbh_(buderus)": "18.06.2024",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "bosch_thermotechnik_gmbh_(buderus)": "V12",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Model WLW276 65; WLW276 65 IP; WLW276 65 P; WLW276 65 V; WLW276 65 IPC; WLW276 65 PC;\nWLW276 65 VC; WLW276 65 C",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "wlw276_65;_wlw276_65_ip;_wlw276_65_p;_wlw276_65_v;_wlw276_65_ipc;_wlw276_65_pc;_wlw276_65_vc;_wlw276_65_c": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "wlw276_65;_wlw276_65_ip;_wlw276_65_p;_wlw276_65_v;_wlw276_65_ipc;_wlw276_65_pc;_wlw276_65_vc;_wlw276_65_c": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "wlw276_65;_wlw276_65_ip;_wlw276_65_p;_wlw276_65_v;_wlw276_65_ipc;_wlw276_65_pc;_wlw276_65_vc;_wlw276_65_c": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "wlw276_65;_wlw276_65_ip;_wlw276_65_p;_wlw276_65_v;_wlw276_65_ipc;_wlw276_65_pc;_wlw276_65_vc;_wlw276_65_c": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "wlw276_65;_wlw276_65_ip;_wlw276_65_p;_wlw276_65_v;_wlw276_65_ipc;_wlw276_65_pc;_wlw276_65_vc;_wlw276_65_c": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "wlw276_65;_wlw276_65_ip;_wlw276_65_p;_wlw276_65_v;_wlw276_65_ipc;_wlw276_65_pc;_wlw276_65_vc;_wlw276_65_c": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wlw276_65;_wlw276_65_ip;_wlw276_65_p;_wlw276_65_v;_wlw276_65_ipc;_wlw276_65_pc;_wlw276_65_vc;_wlw276_65_c": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wlw276_65;_wlw276_65_ip;_wlw276_65_p;_wlw276_65_v;_wlw276_65_ipc;_wlw276_65_pc;_wlw276_65_vc;_wlw276_65_c": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "wlw276_65;_wlw276_65_ip;_wlw276_65_p;_wlw276_65_v;_wlw276_65_ipc;_wlw276_65_pc;_wlw276_65_vc;_wlw276_65_c": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-2 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "101.40 kW",
+      "medium_temperature": "96.20 kW",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "24.43 kW",
+      "medium_temperature": "34.60 kW",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.15",
+      "medium_temperature": "2.78",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "82 dB(A)",
+      "medium_temperature": "82 dB(A)",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "183 %",
+      "medium_temperature": "134 %",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "73.80 kW",
+      "medium_temperature": "75.97 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.65",
+      "medium_temperature": "3.42",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "65.30 kW",
+      "medium_temperature": "67.20 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.16",
+      "medium_temperature": "2.03",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "39.75 kW",
+      "medium_temperature": "40.90 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.71",
+      "medium_temperature": "3.58",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "29.46 kW",
+      "medium_temperature": "26.30 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.63",
+      "medium_temperature": "4.10",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "24.70 kW",
+      "medium_temperature": "24.47 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.08",
+      "medium_temperature": "5.75",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "65.30 kW",
+      "column_2": "67.20 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "3.16",
+      "column_2": "2.03",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "61.43 kW",
+      "column_2": "64.08 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "2.97",
+      "column_2": "1.66",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "35 \u00b0C",
+      "column_2": "55 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "135 W",
+      "column_2": "135 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "200 W",
+      "column_2": "200 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "135 W",
+      "column_2": "135 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "135 W",
+      "column_2": "135 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "n/a",
+      "column_2": "n/a",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "12.39 kW",
+      "column_2": "11.89 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "32811 kWh",
+      "column_2": "45954 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 12.39 kW 11.89 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42"
+    },
+    {
+      "": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Model WLW276 75; WLW276 75 IP; WLW276 75 P; WLW276 75 V; WLW276 75 IPC; WLW276 75 PC;\nWLW276 75 VC; WLW276 75 C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "wlw276_75;_wlw276_75_ip;_wlw276_75_p;_wlw276_75_v;_wlw276_75_ipc;_wlw276_75_pc;_wlw276_75_vc;_wlw276_75_c": "Heating (medium temp)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "wlw276_75;_wlw276_75_ip;_wlw276_75_p;_wlw276_75_v;_wlw276_75_ipc;_wlw276_75_pc;_wlw276_75_vc;_wlw276_75_c": "Outdoor",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "wlw276_75;_wlw276_75_ip;_wlw276_75_p;_wlw276_75_v;_wlw276_75_ipc;_wlw276_75_pc;_wlw276_75_vc;_wlw276_75_c": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "wlw276_75;_wlw276_75_ip;_wlw276_75_p;_wlw276_75_v;_wlw276_75_ipc;_wlw276_75_pc;_wlw276_75_vc;_wlw276_75_c": "Yes",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "wlw276_75;_wlw276_75_ip;_wlw276_75_p;_wlw276_75_v;_wlw276_75_ipc;_wlw276_75_pc;_wlw276_75_vc;_wlw276_75_c": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "wlw276_75;_wlw276_75_ip;_wlw276_75_p;_wlw276_75_v;_wlw276_75_ipc;_wlw276_75_pc;_wlw276_75_vc;_wlw276_75_c": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wlw276_75;_wlw276_75_ip;_wlw276_75_p;_wlw276_75_v;_wlw276_75_ipc;_wlw276_75_pc;_wlw276_75_vc;_wlw276_75_c": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wlw276_75;_wlw276_75_ip;_wlw276_75_p;_wlw276_75_v;_wlw276_75_ipc;_wlw276_75_pc;_wlw276_75_vc;_wlw276_75_c": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "wlw276_75;_wlw276_75_ip;_wlw276_75_p;_wlw276_75_v;_wlw276_75_ipc;_wlw276_75_pc;_wlw276_75_vc;_wlw276_75_c": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-2 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "110.70 kW",
+      "medium_temperature": "105.00 kW",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "27.00 kW",
+      "medium_temperature": "38.89 kW",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.10",
+      "medium_temperature": "2.70",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "83 dB(A)",
+      "medium_temperature": "83 dB(A)",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "181 %",
+      "medium_temperature": "132 %",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "78.00 kW",
+      "medium_temperature": "79.00 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.60",
+      "medium_temperature": "3.38",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "69.00 kW",
+      "medium_temperature": "69.90 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.14",
+      "medium_temperature": "2.01",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "42.00 kW",
+      "medium_temperature": "45.31 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.64",
+      "medium_temperature": "3.52",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "29.46 kW",
+      "medium_temperature": "28.70 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.53",
+      "medium_temperature": "4.08",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "24.70 kW",
+      "medium_temperature": "24.47 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "6.85",
+      "medium_temperature": "5.75",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "69.00 kW",
+      "column_2": "69.90 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "3.14",
+      "column_2": "2.01",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "67.00 kW",
+      "column_2": "64.08 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "2.95",
+      "column_2": "1.65",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "35 \u00b0C",
+      "column_2": "55 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "135 W",
+      "column_2": "135 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "200 W",
+      "column_2": "200 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "135 W",
+      "column_2": "135 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "135 W",
+      "column_2": "135 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "n/a",
+      "column_2": "n/a",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "11.00 kW",
+      "column_2": "14.94 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "35013 kWh",
+      "column_2": "48229 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 11.00 kW 14.94 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42"
+    },
+    {
+      "": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Model WLW276 89; WLW276 89 IP; WLW276 89 P; WLW276 89 V; WLW276 89 IPC; WLW276 89 PC;\nWLW276 89 VC; WLW276 89 C",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "wlw276_89;_wlw276_89_ip;_wlw276_89_p;_wlw276_89_v;_wlw276_89_ipc;_wlw276_89_pc;_wlw276_89_vc;_wlw276_89_c": "Heating (medium temp)",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "wlw276_89;_wlw276_89_ip;_wlw276_89_p;_wlw276_89_v;_wlw276_89_ipc;_wlw276_89_pc;_wlw276_89_vc;_wlw276_89_c": "Outdoor",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "wlw276_89;_wlw276_89_ip;_wlw276_89_p;_wlw276_89_v;_wlw276_89_ipc;_wlw276_89_pc;_wlw276_89_vc;_wlw276_89_c": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "wlw276_89;_wlw276_89_ip;_wlw276_89_p;_wlw276_89_v;_wlw276_89_ipc;_wlw276_89_pc;_wlw276_89_vc;_wlw276_89_c": "Yes",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "wlw276_89;_wlw276_89_ip;_wlw276_89_p;_wlw276_89_v;_wlw276_89_ipc;_wlw276_89_pc;_wlw276_89_vc;_wlw276_89_c": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "wlw276_89;_wlw276_89_ip;_wlw276_89_p;_wlw276_89_v;_wlw276_89_ipc;_wlw276_89_pc;_wlw276_89_vc;_wlw276_89_c": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wlw276_89;_wlw276_89_ip;_wlw276_89_p;_wlw276_89_v;_wlw276_89_ipc;_wlw276_89_pc;_wlw276_89_vc;_wlw276_89_c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wlw276_89;_wlw276_89_ip;_wlw276_89_p;_wlw276_89_v;_wlw276_89_ipc;_wlw276_89_pc;_wlw276_89_vc;_wlw276_89_c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "wlw276_89;_wlw276_89_ip;_wlw276_89_p;_wlw276_89_v;_wlw276_89_ipc;_wlw276_89_pc;_wlw276_89_vc;_wlw276_89_c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-2 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "130.00 kW",
+      "medium_temperature": "127.00 kW",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "32.50 kW",
+      "medium_temperature": "47.92 kW",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.00",
+      "medium_temperature": "2.65",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "84 dB(A)",
+      "medium_temperature": "84 dB(A)",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "180 %",
+      "medium_temperature": "132 %",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "80.60 kW",
+      "medium_temperature": "83.47 kW",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.56",
+      "medium_temperature": "3.36",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "71.30 kW",
+      "medium_temperature": "73.84 kW",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.13",
+      "medium_temperature": "2.00",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "44.39 kW",
+      "medium_temperature": "45.31 kW",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.60",
+      "medium_temperature": "3.49",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "29.46 kW",
+      "medium_temperature": "29.19 kW",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.41",
+      "medium_temperature": "4.06",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "24.70 kW",
+      "medium_temperature": "24.47 kW",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "6.71",
+      "medium_temperature": "5.75",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "71.30 kW",
+      "column_2": "73.84 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "3.13",
+      "column_2": "2.00",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "67.00 kW",
+      "column_2": "64.08 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "2.93",
+      "column_2": "1.62",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "35 \u00b0C",
+      "column_2": "55 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "135 W",
+      "column_2": "135 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "200 W",
+      "column_2": "200 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "135 W",
+      "column_2": "135 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "135 W",
+      "column_2": "135 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "n/a",
+      "column_2": "n/a",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "13.60 kW",
+      "column_2": "19.39 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "36499 kWh",
+      "column_2": "51290 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 13.60 kW 19.39 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "Bosch_Thermotechnik_GmbH__Buderus__WLW276_65_75_89_Outdoor_Air_Water_42"
+    }
+  ]
+}

@@ -1,0 +1,912 @@
+{
+  "source_pdf": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37.pdf",
+  "extraction_timestamp": "2025-11-17T15:48:46.846214",
+  "total_records": 106,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype CARRIER 30AWH010HP-C--C--",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "riello_s.p.a.": "Via Ing. Pilade Riello 7",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "riello_s.p.a.": "37045",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "riello_s.p.a.": "Legnago (VR)",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "riello_s.p.a.": "IT",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "riello_s.p.a.": "DIN CERTCO Gesellschaft f\u00fcr Konformit\u00e4tsbewertung mbH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "riello_s.p.a.": "CARRIER 30AWH010HP-C--C--",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "riello_s.p.a.": "011-1W0624",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "riello_s.p.a.": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "riello_s.p.a.": "R290",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "riello_s.p.a.": "0.76 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "riello_s.p.a.": "26.06.2023",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "riello_s.p.a.": "HP KEYMARK Certification Scheme Rules Rev. 12",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "Model CARRIER 30AWH010HP-C--C--",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "carrier_30awh010hp-c--c--": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "carrier_30awh010hp-c--c--": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "carrier_30awh010hp-c--c--": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "carrier_30awh010hp-c--c--": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "carrier_30awh010hp-c--c--": "+7\u00b0C/12\u00b0C",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "carrier_30awh010hp-c--c--": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "carrier_30awh010hp-c--c--": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "carrier_30awh010hp-c--c--": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "carrier_30awh010hp-c--c--": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "9.60 kW",
+      "medium_temperature": "9.40 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.21 kW",
+      "medium_temperature": "3.19 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.35",
+      "medium_temperature": "2.95",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-2 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "+7\u00b0c/+12\u00b0c": "2.55 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "Cooling capacity",
+      "+7\u00b0c/+12\u00b0c": "7.40",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "EER",
+      "+7\u00b0c/+12\u00b0c": "2.90",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "49 dB(A)",
+      "medium_temperature": "51 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "185 %",
+      "medium_temperature": "131 %",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "6.43 kW",
+      "medium_temperature": "6.45 kW",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.69",
+      "medium_temperature": "3.34",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = -7\u00b0C",
+      "5.69_kw": "2.68",
+      "5.71_kw": "1.90",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = -7 \u00b0C",
+      "5.69_kw": "",
+      "5.71_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = +2\u00b0C",
+      "5.69_kw": "3.46 kW",
+      "5.71_kw": "3.48 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = +2\u00b0C",
+      "5.69_kw": "4.60",
+      "5.71_kw": "3.12",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +2 \u00b0C",
+      "5.69_kw": "",
+      "5.71_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = +7\u00b0C",
+      "5.69_kw": "2.80 kW",
+      "5.71_kw": "2.68 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = +7\u00b0C",
+      "5.69_kw": "6.63",
+      "5.71_kw": "4.97",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "5.69_kw": "0.964",
+      "5.71_kw": "0.972",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "5.69_kw": "3.23 kW",
+      "5.71_kw": "3.16 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = 12\u00b0C",
+      "5.69_kw": "8.51",
+      "5.71_kw": "7.09",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.69_kw": "0.960",
+      "5.71_kw": "0.966",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = Tbiv",
+      "5.69_kw": "5.69 kW",
+      "5.71_kw": "5.71 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = Tbiv",
+      "5.69_kw": "2.68",
+      "5.71_kw": "1.90",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.69_kw": "5.27 kW",
+      "5.71_kw": "5.29 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.69_kw": "2.36",
+      "5.71_kw": "1.71",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.69_kw": "",
+      "5.71_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "WTOL",
+      "5.69_kw": "75 \u00b0C",
+      "5.71_kw": "75 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Poff",
+      "5.69_kw": "10 W",
+      "5.71_kw": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PTO",
+      "5.69_kw": "15 W",
+      "5.71_kw": "15 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PSB",
+      "5.69_kw": "10 W",
+      "5.71_kw": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PCK",
+      "5.69_kw": "0 W",
+      "5.71_kw": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.69_kw": "n/a",
+      "5.71_kw": "n/a",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Supplementary Heater: PSUP",
+      "5.69_kw": "1.16 kW",
+      "5.71_kw": "1.16 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Annual energy consumption Qhe",
+      "5.69_kw": "2829 kWh",
+      "5.71_kw": "3989 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "",
+      "5.69_kw": "",
+      "5.71_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "",
+      "5.69_kw": "",
+      "5.71_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "EN 14825 | Cooling",
+      "5.69_kw": "",
+      "5.71_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignc",
+      "+7\u00b0c/+12\u00b0c": "7.40 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "SEER",
+      "+7\u00b0c/+12\u00b0c": "5.15",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "7.40 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "2.90",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 35 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "5.45 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.23",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 30 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.51 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.10",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 25 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.02 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "7.54",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 20 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.963",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "+7\u00b0c/+12\u00b0c": "10 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.16 kW 1.16 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37"
+    },
+    {
+      "pto": "PSB",
+      "15_w": "10 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pto": "PCK",
+      "15_w": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    },
+    {
+      "pto": "Annual energy consumption Qce",
+      "15_w": "4440 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Riello_S_p_A__CARRIER_30AWH010HP-C--C--_Outdoor_Air_Water_37",
+      "submodel_id": null
+    }
+  ]
+}

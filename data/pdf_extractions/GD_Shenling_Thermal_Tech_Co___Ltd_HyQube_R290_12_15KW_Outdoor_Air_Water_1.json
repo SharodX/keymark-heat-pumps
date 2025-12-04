@@ -1,0 +1,5197 @@
+{
+  "source_pdf": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1.pdf",
+  "extraction_timestamp": "2025-11-17T15:28:54.319804",
+  "total_records": 597,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype HyQube R290 12/15KW",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "gd_shenling_thermal_tech_co.,_ltd": "No.29 Shunye East Rd.",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "gd_shenling_thermal_tech_co.,_ltd": "528325",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "gd_shenling_thermal_tech_co.,_ltd": "Foshan",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "gd_shenling_thermal_tech_co.,_ltd": "CN",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "gd_shenling_thermal_tech_co.,_ltd": "DIN CERTCO Gesellschaft f\u00fcr Konformit\u00e4tsbewertung mbH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "gd_shenling_thermal_tech_co.,_ltd": "HyQube R290 12/15KW",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "gd_shenling_thermal_tech_co.,_ltd": "011-1W0801",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "gd_shenling_thermal_tech_co.,_ltd": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "gd_shenling_thermal_tech_co.,_ltd": "R290",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "gd_shenling_thermal_tech_co.,_ltd": "1.4 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "gd_shenling_thermal_tech_co.,_ltd": "21.06.2024",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Model OU: HPM-V120W/SR3-B + IU: HM-90/DM",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ou:_hpm-v120w/sr3-b_+_iu:_hm-90/dm": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ou:_hpm-v120w/sr3-b_+_iu:_hm-90/dm": "Indoor, Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ou:_hpm-v120w/sr3-b_+_iu:_hm-90/dm": "Colder, Warmer, Warmer Climate, Colder Climate",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "ou:_hpm-v120w/sr3-b_+_iu:_hm-90/dm": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ou:_hpm-v120w/sr3-b_+_iu:_hm-90/dm": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ou:_hpm-v120w/sr3-b_+_iu:_hm-90/dm": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ou:_hpm-v120w/sr3-b_+_iu:_hm-90/dm": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ou:_hpm-v120w/sr3-b_+_iu:_hm-90/dm": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ou:_hpm-v120w/sr3-b_+_iu:_hm-90/dm": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "12.00 kW",
+      "medium_temperature": "12.00 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.53 kW",
+      "medium_temperature": "4.00 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.75",
+      "medium_temperature": "3.00",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "37 dB(A)",
+      "medium_temperature": "37 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "56 dB(A)",
+      "medium_temperature": "56 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "193 %",
+      "medium_temperature": "148 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12.20 kW",
+      "medium_temperature": "12.10 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.89",
+      "medium_temperature": "3.77",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "11.21 kW",
+      "medium_temperature": "11.19 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.79",
+      "medium_temperature": "2.21",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.997",
+      "medium_temperature": "0.997",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "6.67 kW",
+      "medium_temperature": "6.45 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.58",
+      "medium_temperature": "3.59",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.991",
+      "medium_temperature": "0.993",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "model_ou",
+      "value": "HPM-V120W/SR3-B + IU: HM-90/DM",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "model_name_ou",
+      "value": "HPM-V120W/SR3-B + IU: HM-90/DM",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = +7\u00b0C",
+      "4.23_kw": "7.11",
+      "4.18_kw": "5.18",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "4.23_kw": "0.978",
+      "4.18_kw": "0.984",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "4.23_kw": "2.76 kW",
+      "4.18_kw": "2.70 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "4.23_kw": "10.13",
+      "4.18_kw": "7.61",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "4.23_kw": "0.952",
+      "4.18_kw": "0.963",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "4.23_kw": "11.21 kW",
+      "4.18_kw": "11.19 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "4.23_kw": "2.79",
+      "4.18_kw": "2.21",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.23_kw": "10.58 kW",
+      "4.18_kw": "10.16 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.23_kw": "2.61",
+      "4.18_kw": "2.00",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.23_kw": "0.997",
+      "4.18_kw": "0.997",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "WTOL",
+      "4.23_kw": "75 \u00b0C",
+      "4.18_kw": "75 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Poff",
+      "4.23_kw": "12 W",
+      "4.18_kw": "12 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PTO",
+      "4.23_kw": "13 W",
+      "4.18_kw": "13 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PSB",
+      "4.23_kw": "12 W",
+      "4.18_kw": "12 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PCK",
+      "4.23_kw": "0 W",
+      "4.18_kw": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "4.23_kw": "Electricity",
+      "4.18_kw": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "4.23_kw": "1.60 kW",
+      "4.18_kw": "1.90 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "4.23_kw": "5157 kWh",
+      "4.18_kw": "6626 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "",
+      "4.23_kw": "",
+      "4.18_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "",
+      "4.23_kw": "",
+      "4.18_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "EN 12102-1 | Colder Climate",
+      "4.23_kw": "",
+      "4.18_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "37 dB(A)",
+      "medium_temperature": "37 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "56 dB(A)",
+      "medium_temperature": "56 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "170 %",
+      "medium_temperature": "132 %",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "11.30 kW",
+      "medium_temperature": "10.50 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.33",
+      "medium_temperature": "3.36",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "6.95 kW",
+      "medium_temperature": "6.47 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.61",
+      "medium_temperature": "2.77",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.993",
+      "medium_temperature": "0.994",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.19 kW",
+      "medium_temperature": "4.05 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.25",
+      "medium_temperature": "3.98",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.984",
+      "medium_temperature": "0.987",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "2.82 kW",
+      "medium_temperature": "2.70 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.84",
+      "medium_temperature": "5.52",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.969",
+      "medium_temperature": "0.973",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.69 kW",
+      "medium_temperature": "2.63 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.99",
+      "medium_temperature": "6.82",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.60 kW 1.90 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Pdh Tj = Tbiv",
+      "0.961": "9.22 kW",
+      "0.966": "8.61 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "COP Tj = Tbiv",
+      "0.961": "2.60",
+      "0.966": "2.09",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.961": "7.66 kW",
+      "0.966": "6.78 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.961": "2.08",
+      "0.966": "1.58",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.961": "0.996",
+      "0.966": "0.997",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "WTOL",
+      "0.961": "75 \u00b0C",
+      "0.966": "75 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Poff",
+      "0.961": "12 W",
+      "0.966": "12 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "PTO",
+      "0.961": "13 W",
+      "0.966": "13 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "PSB",
+      "0.961": "12 W",
+      "0.966": "12 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "PCK",
+      "0.961": "0 W",
+      "0.966": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "0.961": "Electricity",
+      "0.966": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Supplementary Heater: PSUP",
+      "0.961": "3.60 kW",
+      "0.966": "3.70 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Annual energy consumption Qhe",
+      "0.961": "6435 kWh",
+      "0.966": "7693 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Pdh Tj = -15\u00b0C (if TOL",
+      "0.961": "9.22",
+      "0.966": "8.61",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "COP Tj = -15\u00b0C (if TOL",
+      "0.961": "2.60",
+      "0.966": "2.09",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Cdh Tj = -15 \u00b0C",
+      "0.961": "0.996",
+      "0.966": "0.997",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "",
+      "0.961": "",
+      "0.966": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "",
+      "0.961": "",
+      "0.966": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "EN 12102-1 | Warmer Climate",
+      "0.961": "",
+      "0.966": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "37 dB(A)",
+      "medium_temperature": "37 dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "56 dB(A)",
+      "medium_temperature": "56 dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "265 %",
+      "medium_temperature": "189 %",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "11.40 kW",
+      "medium_temperature": "11.40 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.71",
+      "medium_temperature": "4.80",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "11.44 kW",
+      "medium_temperature": "11.96 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.61",
+      "medium_temperature": "2.51",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.996",
+      "medium_temperature": "0.997",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "7.51 kW",
+      "medium_temperature": "7.91 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.85",
+      "medium_temperature": "4.13",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.993",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "3.47 kW",
+      "medium_temperature": "3.57 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "8.40",
+      "medium_temperature": "6.11",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.969",
+      "medium_temperature": "0.978",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "11.44 kW",
+      "medium_temperature": "11.96 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.61",
+      "medium_temperature": "2.51",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "11.44 kW",
+      "medium_temperature": "11.96 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 3.60 kW 3.70 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.61": "0.996",
+      "2.51": "0.997",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "3.61": "75 \u00b0C",
+      "2.51": "75 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "3.61": "12 W",
+      "2.51": "12 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "3.61": "13 W",
+      "2.51": "13 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "3.61": "12 W",
+      "2.51": "12 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "3.61": "0 W",
+      "2.51": "0 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "3.61": "Electricity",
+      "2.51": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "3.61": "0.00 kW",
+      "2.51": "0.00 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "3.61": "2271 kWh",
+      "2.51": "3173 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Model OU: HPM-V150W/SR3-B + IU: HM-90/DM",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ou:_hpm-v150w/sr3-b_+_iu:_hm-90/dm": "Heating (medium temp)",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ou:_hpm-v150w/sr3-b_+_iu:_hm-90/dm": "Indoor, Outdoor",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ou:_hpm-v150w/sr3-b_+_iu:_hm-90/dm": "Colder, Warmer, Warmer Climate, Colder Climate",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "ou:_hpm-v150w/sr3-b_+_iu:_hm-90/dm": "Yes",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ou:_hpm-v150w/sr3-b_+_iu:_hm-90/dm": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ou:_hpm-v150w/sr3-b_+_iu:_hm-90/dm": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ou:_hpm-v150w/sr3-b_+_iu:_hm-90/dm": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ou:_hpm-v150w/sr3-b_+_iu:_hm-90/dm": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ou:_hpm-v150w/sr3-b_+_iu:_hm-90/dm": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "15.00 kW",
+      "medium_temperature": "15.00 kW",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "3.33 kW",
+      "medium_temperature": "5.26 kW",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.50",
+      "medium_temperature": "2.85",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "38 dB(A)",
+      "medium_temperature": "38 dB(A)",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "57 dB(A)",
+      "medium_temperature": "57 dB(A)",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "187 %",
+      "medium_temperature": "145 %",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "14.00 kW",
+      "medium_temperature": "14.00 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.75",
+      "medium_temperature": "3.70",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "12.39 kW",
+      "medium_temperature": "12.85 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.68",
+      "medium_temperature": "2.10",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.997",
+      "medium_temperature": "0.998",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "7.55 kW",
+      "medium_temperature": "7.53 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.45",
+      "medium_temperature": "3.50",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.992",
+      "medium_temperature": "0.994",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "model_ou",
+      "value": "HPM-V150W/SR3-B + IU: HM-90/DM",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "model_name_ou",
+      "value": "HPM-V150W/SR3-B + IU: HM-90/DM",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = +7\u00b0C",
+      "4.83_kw": "6.95",
+      "4.78_kw": "5.26",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "4.83_kw": "0.981",
+      "4.78_kw": "0.986",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "4.83_kw": "2.76 kW",
+      "4.78_kw": "2.71 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "4.83_kw": "10.13",
+      "4.78_kw": "7.62",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "4.83_kw": "0.952",
+      "4.78_kw": "0.963",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "4.83_kw": "12.39 kW",
+      "4.78_kw": "12.85 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "4.83_kw": "2.68",
+      "4.78_kw": "2.10",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.83_kw": "11.54 kW",
+      "4.78_kw": "11.78 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.83_kw": "2.56",
+      "4.78_kw": "1.89",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.83_kw": "0.997",
+      "4.78_kw": "0.998",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "WTOL",
+      "4.83_kw": "75 \u00b0C",
+      "4.78_kw": "75 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Poff",
+      "4.83_kw": "12 W",
+      "4.78_kw": "12 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PTO",
+      "4.83_kw": "13 W",
+      "4.78_kw": "13 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PSB",
+      "4.83_kw": "12 W",
+      "4.78_kw": "12 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PCK",
+      "4.83_kw": "0 W",
+      "4.78_kw": "0 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "4.83_kw": "Electricity",
+      "4.78_kw": "Electricity",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "4.83_kw": "2.50 kW",
+      "4.78_kw": "2.20 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "4.83_kw": "6089 kWh",
+      "4.78_kw": "7818 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "",
+      "4.83_kw": "",
+      "4.78_kw": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "",
+      "4.83_kw": "",
+      "4.78_kw": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "EN 12102-1 | Colder Climate",
+      "4.83_kw": "",
+      "4.78_kw": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "38 dB(A)",
+      "medium_temperature": "38 dB(A)",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "57 dB(A)",
+      "medium_temperature": "57 dB(A)",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "163 %",
+      "medium_temperature": "131 %",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "13.50 kW",
+      "medium_temperature": "12.80 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.15",
+      "medium_temperature": "3.36",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "8.25 kW",
+      "medium_temperature": "7.90 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.45",
+      "medium_temperature": "2.76",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.995",
+      "medium_temperature": "0.995",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.96 kW",
+      "medium_temperature": "4.72 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.97",
+      "medium_temperature": "4.02",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.987",
+      "medium_temperature": "0.989",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "3.22 kW",
+      "medium_temperature": "3.05 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.96",
+      "medium_temperature": "5.44",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.972",
+      "medium_temperature": "0.977",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.69 kW",
+      "medium_temperature": "2.63 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.99",
+      "medium_temperature": "6.82",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 2.50 kW 2.20 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Pdh Tj = Tbiv",
+      "0.961": "11.06 kW",
+      "0.966": "10.47 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "COP Tj = Tbiv",
+      "0.961": "2.45",
+      "0.966": "1.99",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.961": "8.91 kW",
+      "0.966": "8.40 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.961": "2.04",
+      "0.966": "1.65",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.961": "0.997",
+      "0.966": "0.997",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "WTOL",
+      "0.961": "75 \u00b0C",
+      "0.966": "75 \u00b0C",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Poff",
+      "0.961": "12 W",
+      "0.966": "12 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "PTO",
+      "0.961": "13 W",
+      "0.966": "13 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "PSB",
+      "0.961": "12 W",
+      "0.966": "12 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "PCK",
+      "0.961": "0 W",
+      "0.966": "0 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "0.961": "Electricity",
+      "0.966": "Electricity",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Supplementary Heater: PSUP",
+      "0.961": "4.60 kW",
+      "0.966": "4.40 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Annual energy consumption Qhe",
+      "0.961": "8028 kWh",
+      "0.966": "9404 kWh",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Pdh Tj = -15\u00b0C (if TOL",
+      "0.961": "11.06",
+      "0.966": "10.47",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "COP Tj = -15\u00b0C (if TOL",
+      "0.961": "2.45",
+      "0.966": "1.99",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Cdh Tj = -15 \u00b0C",
+      "0.961": "0.997",
+      "0.966": "0.998",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "",
+      "0.961": "",
+      "0.966": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "",
+      "0.961": "",
+      "0.966": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "EN 12102-1 | Warmer Climate",
+      "0.961": "",
+      "0.966": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "38 dB(A)",
+      "medium_temperature": "38 dB(A)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "57 dB(A)",
+      "medium_temperature": "57 dB(A)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "250 %",
+      "medium_temperature": "190 %",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "13.00 kW",
+      "medium_temperature": "12.30 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.33",
+      "medium_temperature": "4.83",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "13.09 kW",
+      "medium_temperature": "12.39 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.37",
+      "medium_temperature": "2.50",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.997",
+      "medium_temperature": "0.997",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "8.59 kW",
+      "medium_temperature": "8.30 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.80",
+      "medium_temperature": "4.11",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.991",
+      "medium_temperature": "0.994",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "3.77 kW",
+      "medium_temperature": "3.84 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.56",
+      "medium_temperature": "6.23",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.974",
+      "medium_temperature": "0.979",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "13.09 kW",
+      "medium_temperature": "12.39 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.37",
+      "medium_temperature": "2.50",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "13.09 kW",
+      "medium_temperature": "12.39 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 4.60 kW 4.40 kW",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.37": "0.997",
+      "2.50": "0.997",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "3.37": "75 \u00b0C",
+      "2.50": "75 \u00b0C",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "3.37": "12 W",
+      "2.50": "12 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "3.37": "13 W",
+      "2.50": "13 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "3.37": "12 W",
+      "2.50": "12 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "3.37": "0 W",
+      "2.50": "0 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "3.37": "Electricity",
+      "2.50": "Electricity",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "3.37": "0.00 kW",
+      "2.50": "0.00 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "3.37": "2744 kWh",
+      "2.50": "3401 kWh",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Model OU: HPM-V120W/SR3-B + IU: HM-90/D",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ou:_hpm-v120w/sr3-b_+_iu:_hm-90/d": "Heating (medium temp)",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ou:_hpm-v120w/sr3-b_+_iu:_hm-90/d": "Indoor, Outdoor",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ou:_hpm-v120w/sr3-b_+_iu:_hm-90/d": "Colder, Warmer, Warmer Climate, Colder Climate",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "ou:_hpm-v120w/sr3-b_+_iu:_hm-90/d": "Yes",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ou:_hpm-v120w/sr3-b_+_iu:_hm-90/d": "n/a",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ou:_hpm-v120w/sr3-b_+_iu:_hm-90/d": "n/a",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ou:_hpm-v120w/sr3-b_+_iu:_hm-90/d": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ou:_hpm-v120w/sr3-b_+_iu:_hm-90/d": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ou:_hpm-v120w/sr3-b_+_iu:_hm-90/d": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "12.00 kW",
+      "medium_temperature": "12.00 kW",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.53 kW",
+      "medium_temperature": "4.00 kW",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.75",
+      "medium_temperature": "3.00",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "37 dB(A)",
+      "medium_temperature": "37 dB(A)",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "56 dB(A)",
+      "medium_temperature": "56 dB(A)",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "193 %",
+      "medium_temperature": "148 %",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12.20 kW",
+      "medium_temperature": "12.10 kW",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.89",
+      "medium_temperature": "3.77",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "11.21 kW",
+      "medium_temperature": "11.19 kW",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.79",
+      "medium_temperature": "2.21",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.997",
+      "medium_temperature": "0.997",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "6.67 kW",
+      "medium_temperature": "6.45 kW",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.58",
+      "medium_temperature": "3.59",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.991",
+      "medium_temperature": "0.993",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "model_ou",
+      "value": "HPM-V120W/SR3-B + IU: HM-90/D",
+      "source_page": 10,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "model_name_ou",
+      "value": "HPM-V120W/SR3-B + IU: HM-90/D",
+      "source_page": 10,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = +7\u00b0C",
+      "4.23_kw": "7.11",
+      "4.18_kw": "5.18",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "4.23_kw": "0.978",
+      "4.18_kw": "0.984",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "4.23_kw": "2.76 kW",
+      "4.18_kw": "2.70 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "4.23_kw": "10.13",
+      "4.18_kw": "7.61",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "4.23_kw": "0.952",
+      "4.18_kw": "0.963",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "4.23_kw": "11.21 kW",
+      "4.18_kw": "11.19 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "4.23_kw": "2.79",
+      "4.18_kw": "2.21",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.23_kw": "10.58 kW",
+      "4.18_kw": "10.16 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.23_kw": "2.61",
+      "4.18_kw": "2.00",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.23_kw": "0.997",
+      "4.18_kw": "0.997",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "WTOL",
+      "4.23_kw": "75 \u00b0C",
+      "4.18_kw": "75 \u00b0C",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Poff",
+      "4.23_kw": "12 W",
+      "4.18_kw": "12 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PTO",
+      "4.23_kw": "13 W",
+      "4.18_kw": "13 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PSB",
+      "4.23_kw": "12 W",
+      "4.18_kw": "12 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PCK",
+      "4.23_kw": "0 W",
+      "4.18_kw": "0 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "4.23_kw": "Electricity",
+      "4.18_kw": "Electricity",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "4.23_kw": "1.60 kW",
+      "4.18_kw": "1.90 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "4.23_kw": "5157 kWh",
+      "4.18_kw": "6626 kWh",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "",
+      "4.23_kw": "",
+      "4.18_kw": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "",
+      "4.23_kw": "",
+      "4.18_kw": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "EN 12102-1 | Colder Climate",
+      "4.23_kw": "",
+      "4.18_kw": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "37 dB(A)",
+      "medium_temperature": "37 dB(A)",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "56 dB(A)",
+      "medium_temperature": "56 dB(A)",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "170 %",
+      "medium_temperature": "132 %",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "11.30 kW",
+      "medium_temperature": "10.50 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.33",
+      "medium_temperature": "3.36",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "6.95 kW",
+      "medium_temperature": "6.47 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.61",
+      "medium_temperature": "2.77",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.993",
+      "medium_temperature": "0.994",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.19 kW",
+      "medium_temperature": "4.05 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.25",
+      "medium_temperature": "3.98",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.984",
+      "medium_temperature": "0.987",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "2.82 kW",
+      "medium_temperature": "2.70 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.84",
+      "medium_temperature": "5.52",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.969",
+      "medium_temperature": "0.973",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.69 kW",
+      "medium_temperature": "2.63 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.99",
+      "medium_temperature": "6.82",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 11,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.60 kW 1.90 kW",
+      "source_page": 11,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Pdh Tj = Tbiv",
+      "0.961": "9.22 kW",
+      "0.966": "8.61 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "COP Tj = Tbiv",
+      "0.961": "2.60",
+      "0.966": "2.09",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.961": "7.66 kW",
+      "0.966": "6.78 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.961": "2.08",
+      "0.966": "1.58",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.961": "0.996",
+      "0.966": "0.997",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "WTOL",
+      "0.961": "75 \u00b0C",
+      "0.966": "75 \u00b0C",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Poff",
+      "0.961": "12 W",
+      "0.966": "12 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "PTO",
+      "0.961": "13 W",
+      "0.966": "13 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "PSB",
+      "0.961": "12 W",
+      "0.966": "12 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "PCK",
+      "0.961": "0 W",
+      "0.966": "0 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "0.961": "Electricity",
+      "0.966": "Electricity",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Supplementary Heater: PSUP",
+      "0.961": "3.60 kW",
+      "0.966": "3.70 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Annual energy consumption Qhe",
+      "0.961": "6435 kWh",
+      "0.966": "7693 kWh",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Pdh Tj = -15\u00b0C (if TOL",
+      "0.961": "9.22",
+      "0.966": "8.61",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "COP Tj = -15\u00b0C (if TOL",
+      "0.961": "2.60",
+      "0.966": "2.09",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Cdh Tj = -15 \u00b0C",
+      "0.961": "0.996",
+      "0.966": "0.997",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "",
+      "0.961": "",
+      "0.966": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "",
+      "0.961": "",
+      "0.966": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "EN 12102-1 | Warmer Climate",
+      "0.961": "",
+      "0.966": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "37 dB(A)",
+      "medium_temperature": "37 dB(A)",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "56 dB(A)",
+      "medium_temperature": "56 dB(A)",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "265 %",
+      "medium_temperature": "189 %",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "11.40 kW",
+      "medium_temperature": "11.40 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.71",
+      "medium_temperature": "4.80",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "11.44 kW",
+      "medium_temperature": "11.96 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.61",
+      "medium_temperature": "2.51",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.996",
+      "medium_temperature": "0.997",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "7.51 kW",
+      "medium_temperature": "7.91 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.85",
+      "medium_temperature": "4.13",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.993",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "3.47 kW",
+      "medium_temperature": "3.57 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "8.40",
+      "medium_temperature": "6.11",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.969",
+      "medium_temperature": "0.978",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "11.44 kW",
+      "medium_temperature": "11.96 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.61",
+      "medium_temperature": "2.51",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "11.44 kW",
+      "medium_temperature": "11.96 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 3.60 kW 3.70 kW",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.61": "0.996",
+      "2.51": "0.997",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "3.61": "75 \u00b0C",
+      "2.51": "75 \u00b0C",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "3.61": "12 W",
+      "2.51": "12 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "3.61": "13 W",
+      "2.51": "13 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "3.61": "12 W",
+      "2.51": "12 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "3.61": "0 W",
+      "2.51": "0 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "3.61": "Electricity",
+      "2.51": "Electricity",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "3.61": "0.00 kW",
+      "2.51": "0.00 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "3.61": "2271 kWh",
+      "2.51": "3173 kWh",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "": "",
+      "source_page": 14,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Model OU: HPM-V150W/SR3-B + IU: HM-90/D",
+      "source_page": 14,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ou:_hpm-v150w/sr3-b_+_iu:_hm-90/d": "Heating (medium temp)",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ou:_hpm-v150w/sr3-b_+_iu:_hm-90/d": "Indoor, Outdoor",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ou:_hpm-v150w/sr3-b_+_iu:_hm-90/d": "Colder, Warmer, Warmer Climate, Colder Climate",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "ou:_hpm-v150w/sr3-b_+_iu:_hm-90/d": "Yes",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ou:_hpm-v150w/sr3-b_+_iu:_hm-90/d": "n/a",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ou:_hpm-v150w/sr3-b_+_iu:_hm-90/d": "n/a",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ou:_hpm-v150w/sr3-b_+_iu:_hm-90/d": "",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ou:_hpm-v150w/sr3-b_+_iu:_hm-90/d": "",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ou:_hpm-v150w/sr3-b_+_iu:_hm-90/d": "",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "15.00 kW",
+      "medium_temperature": "15.00 kW",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "3.33 kW",
+      "medium_temperature": "5.26 kW",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.50",
+      "medium_temperature": "2.85",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "38 dB(A)",
+      "medium_temperature": "38 dB(A)",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "57 dB(A)",
+      "medium_temperature": "57 dB(A)",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "187 %",
+      "medium_temperature": "145 %",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "14.00 kW",
+      "medium_temperature": "14.00 kW",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.75",
+      "medium_temperature": "3.70",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "12.39 kW",
+      "medium_temperature": "12.85 kW",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.68",
+      "medium_temperature": "2.10",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.997",
+      "medium_temperature": "0.998",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "7.55 kW",
+      "medium_temperature": "7.53 kW",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.45",
+      "medium_temperature": "3.50",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.992",
+      "medium_temperature": "0.994",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "model_ou",
+      "value": "HPM-V150W/SR3-B + IU: HM-90/D",
+      "source_page": 14,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "model_name_ou",
+      "value": "HPM-V150W/SR3-B + IU: HM-90/D",
+      "source_page": 14,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = +7\u00b0C",
+      "4.83_kw": "6.95",
+      "4.78_kw": "5.26",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "4.83_kw": "0.981",
+      "4.78_kw": "0.986",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "4.83_kw": "2.76 kW",
+      "4.78_kw": "2.71 kW",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "4.83_kw": "10.13",
+      "4.78_kw": "7.62",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "4.83_kw": "0.952",
+      "4.78_kw": "0.963",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "4.83_kw": "12.39 kW",
+      "4.78_kw": "12.85 kW",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "4.83_kw": "2.68",
+      "4.78_kw": "2.10",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.83_kw": "11.54 kW",
+      "4.78_kw": "11.78 kW",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.83_kw": "2.56",
+      "4.78_kw": "1.89",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.83_kw": "0.997",
+      "4.78_kw": "0.998",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "WTOL",
+      "4.83_kw": "75 \u00b0C",
+      "4.78_kw": "75 \u00b0C",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Poff",
+      "4.83_kw": "12 W",
+      "4.78_kw": "12 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PTO",
+      "4.83_kw": "13 W",
+      "4.78_kw": "13 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PSB",
+      "4.83_kw": "12 W",
+      "4.78_kw": "12 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PCK",
+      "4.83_kw": "0 W",
+      "4.78_kw": "0 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "4.83_kw": "Electricity",
+      "4.78_kw": "Electricity",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "4.83_kw": "2.50 kW",
+      "4.78_kw": "2.20 kW",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "4.83_kw": "6089 kWh",
+      "4.78_kw": "7818 kWh",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "",
+      "4.83_kw": "",
+      "4.78_kw": "",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "",
+      "4.83_kw": "",
+      "4.78_kw": "",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "EN 12102-1 | Colder Climate",
+      "4.83_kw": "",
+      "4.78_kw": "",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "38 dB(A)",
+      "medium_temperature": "38 dB(A)",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "57 dB(A)",
+      "medium_temperature": "57 dB(A)",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "163 %",
+      "medium_temperature": "131 %",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "13.50 kW",
+      "medium_temperature": "12.80 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.15",
+      "medium_temperature": "3.36",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "8.25 kW",
+      "medium_temperature": "7.90 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.45",
+      "medium_temperature": "2.76",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.995",
+      "medium_temperature": "0.995",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.96 kW",
+      "medium_temperature": "4.72 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.97",
+      "medium_temperature": "4.02",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.987",
+      "medium_temperature": "0.989",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "3.22 kW",
+      "medium_temperature": "3.05 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.96",
+      "medium_temperature": "5.44",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.972",
+      "medium_temperature": "0.977",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.69 kW",
+      "medium_temperature": "2.63 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.99",
+      "medium_temperature": "6.82",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 15,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 2.50 kW 2.20 kW",
+      "source_page": 15,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Pdh Tj = Tbiv",
+      "0.961": "11.06 kW",
+      "0.966": "10.47 kW",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "COP Tj = Tbiv",
+      "0.961": "2.45",
+      "0.966": "1.99",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.961": "8.91 kW",
+      "0.966": "8.40 kW",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.961": "2.04",
+      "0.966": "1.65",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.961": "0.997",
+      "0.966": "0.997",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "WTOL",
+      "0.961": "75 \u00b0C",
+      "0.966": "75 \u00b0C",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Poff",
+      "0.961": "12 W",
+      "0.966": "12 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "PTO",
+      "0.961": "13 W",
+      "0.966": "13 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "PSB",
+      "0.961": "12 W",
+      "0.966": "12 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "PCK",
+      "0.961": "0 W",
+      "0.966": "0 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "0.961": "Electricity",
+      "0.966": "Electricity",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Supplementary Heater: PSUP",
+      "0.961": "4.60 kW",
+      "0.966": "4.40 kW",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Annual energy consumption Qhe",
+      "0.961": "8028 kWh",
+      "0.966": "9404 kWh",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Pdh Tj = -15\u00b0C (if TOL",
+      "0.961": "11.06",
+      "0.966": "10.47",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "COP Tj = -15\u00b0C (if TOL",
+      "0.961": "2.45",
+      "0.966": "1.99",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Cdh Tj = -15 \u00b0C",
+      "0.961": "0.997",
+      "0.966": "0.998",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "",
+      "0.961": "",
+      "0.966": "",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "",
+      "0.961": "",
+      "0.966": "",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "EN 12102-1 | Warmer Climate",
+      "0.961": "",
+      "0.966": "",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "38 dB(A)",
+      "medium_temperature": "38 dB(A)",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "57 dB(A)",
+      "medium_temperature": "57 dB(A)",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "250 %",
+      "medium_temperature": "190 %",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "13.00 kW",
+      "medium_temperature": "12.30 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.33",
+      "medium_temperature": "4.83",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "13.09 kW",
+      "medium_temperature": "12.39 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.37",
+      "medium_temperature": "2.50",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.997",
+      "medium_temperature": "0.997",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "8.59 kW",
+      "medium_temperature": "8.30 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.80",
+      "medium_temperature": "4.11",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.991",
+      "medium_temperature": "0.994",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "3.77 kW",
+      "medium_temperature": "3.84 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.56",
+      "medium_temperature": "6.23",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.974",
+      "medium_temperature": "0.979",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "13.09 kW",
+      "medium_temperature": "12.39 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.37",
+      "medium_temperature": "2.50",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "13.09 kW",
+      "medium_temperature": "12.39 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 16,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 4.60 kW 4.40 kW",
+      "source_page": 16,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.37": "0.997",
+      "2.50": "0.997",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "3.37": "75 \u00b0C",
+      "2.50": "75 \u00b0C",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "3.37": "12 W",
+      "2.50": "12 W",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "3.37": "13 W",
+      "2.50": "13 W",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "3.37": "12 W",
+      "2.50": "12 W",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "3.37": "0 W",
+      "2.50": "0 W",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "3.37": "Electricity",
+      "2.50": "Electricity",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "3.37": "0.00 kW",
+      "2.50": "0.00 kW",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "3.37": "2744 kWh",
+      "2.50": "3401 kWh",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 17,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 17,
+      "source_table": null,
+      "model_id": "GD_Shenling_Thermal_Tech_Co___Ltd_HyQube_R290_12_15KW_Outdoor_Air_Water_1"
+    }
+  ]
+}

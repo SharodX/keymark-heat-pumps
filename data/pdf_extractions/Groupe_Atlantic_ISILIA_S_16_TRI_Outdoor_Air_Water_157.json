@@ -1,0 +1,688 @@
+{
+  "source_pdf": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157.pdf",
+  "extraction_timestamp": "2025-11-17T15:32:45.541282",
+  "total_records": 81,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype ISILIA S 16 TRI",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "groupe_atlantic": "Rue des Fondeurs BP 64",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "groupe_atlantic": "59660",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "groupe_atlantic": "Merville",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "groupe_atlantic": "FR",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "groupe_atlantic": "RISE CERT",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "groupe_atlantic": "ISILIA S 16 TRI",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "groupe_atlantic": "012-C700230",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "groupe_atlantic": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "groupe_atlantic": "R410A",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "groupe_atlantic": "2.5 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "groupe_atlantic": "13.02.2024",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "groupe_atlantic": "EN 14511:2022, EN 14825:2022, EN 12102:2022",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "groupe_atlantic": "ACTA INDUSTRIE - Laboratoire Acoustique et Climatique",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "label": "testing_basis_en_14511",
+      "value": "2022, EN 14825:2022, EN 12102:2022",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157"
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "Model ISILIA S 16 TRI",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "isilia_s_16_tri": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "isilia_s_16_tri": "Indoor, Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "isilia_s_16_tri": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "isilia_s_16_tri": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "isilia_s_16_tri": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "isilia_s_16_tri": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "isilia_s_16_tri": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "isilia_s_16_tri": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "13.80 kW",
+      "medium_temperature": "11.20 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "3.12 kW",
+      "medium_temperature": "4.21 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.42",
+      "medium_temperature": "2.66",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "40 dB(A)",
+      "medium_temperature": "40 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "67 dB(A)",
+      "medium_temperature": "67 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "166 %",
+      "medium_temperature": "130 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "13.30 kW",
+      "medium_temperature": "13.30 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.21",
+      "medium_temperature": "3.32",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-5 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "11.50 kW",
+      "medium_temperature": "9.50 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.73",
+      "medium_temperature": "1.98",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "6.90 kW",
+      "medium_temperature": "7.20 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.96",
+      "medium_temperature": "3.26",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.990",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "6.30 kW",
+      "medium_temperature": "6.40 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "5.86": "0.980",
+      "4.78": "0.990",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "5.86": "7.20 kW",
+      "4.78": "7.50 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "5.86": "7.40",
+      "4.78": "6.02",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.86": "0.980",
+      "4.78": "0.990",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "5.86": "11.50 kW",
+      "4.78": "10.50 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "5.86": "2.73",
+      "4.78": "2.21",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.86": "11.30 kW",
+      "4.78": "8.40 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.86": "2.63",
+      "4.78": "1.76",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.86": "1.000",
+      "4.78": "1.000",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "5.86": "60 \u00b0C",
+      "4.78": "60 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "5.86": "10 W",
+      "4.78": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "5.86": "15 W",
+      "4.78": "15 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "5.86": "10 W",
+      "4.78": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "5.86": "0 W",
+      "4.78": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.86": "Electricity",
+      "4.78": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "5.86": "2.00 kW",
+      "4.78": "4.90 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "5.86": "6522 kWh",
+      "4.78": "8266 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 2.00 kW 4.90 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_ISILIA_S_16_TRI_Outdoor_Air_Water_157"
+    }
+  ]
+}

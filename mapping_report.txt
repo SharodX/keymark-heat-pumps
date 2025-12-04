@@ -1,0 +1,791 @@
+Found 1716 database files.
+Found 2758 PDF extraction files.
+Starting verification...
+Processing file 0/1716
+Processing file 100/1716
+Processing file 200/1716
+Processing file 300/1716
+Processing file 400/1716
+Processing file 500/1716
+Processing file 600/1716
+Processing file 700/1716
+Processing file 800/1716
+Processing file 900/1716
+Processing file 1000/1716
+Processing file 1100/1716
+Processing file 1200/1716
+Processing file 1300/1716
+Processing file 1400/1716
+Processing file 1500/1716
+Processing file 1600/1716
+Processing file 1700/1716
+Matched 1441 database files to PDF extractions.
+
+==================================================
+MAPPING VERIFICATION REPORT
+==================================================
+
+Code: EN12102_1_001
+  Found in DB: 11639 times
+  Matched in JSON: 11483 times (98.7%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 256909 (2237.3%)
+    - 'medium_temperature': 256604 (2234.6%)
+    - '': 26756 (233.0%)
+    - 'column_1': 18522 (161.3%)
+    - 'column_2': 18522 (161.3%)
+
+Code: EN12102_1_002
+  Found in DB: 13373 times
+  Matched in JSON: 13274 times (99.3%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 235114 (1771.2%)
+    - 'medium_temperature': 234133 (1763.8%)
+    - 'column_1': 24669 (185.8%)
+    - 'column_2': 24669 (185.8%)
+    - 'declared_load_profile': 5076 (38.2%)
+
+Code: EN12102_2_001
+  Found in DB: 242 times
+  Matched in JSON: 15 times (6.2%)
+  Top 5 corresponding JSON keys:
+    - 'xl': 9 (60.0%)
+    - 'medium_temperature': 3 (20.0%)
+    - 'low_temperature': 3 (20.0%)
+    - 'declared_load_profile': 1 (6.7%)
+
+Code: EN12102_2_002
+  Found in DB: 10 times
+  Matched in JSON: 6 times (60.0%)
+  Top 5 corresponding JSON keys:
+    - 'medium_temperature': 4 (66.7%)
+    - '48_db(a)': 4 (66.7%)
+    - '46_db(a)': 2 (33.3%)
+    - '45_db(a)': 1 (16.7%)
+    - '40_db(a)': 1 (16.7%)
+
+Code: EN14511_2_001
+  Found in DB: 8608 times
+  Matched in JSON: 8531 times (99.1%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 33587 (393.7%)
+    - 'medium_temperature': 31259 (366.4%)
+    - '': 11563 (135.5%)
+    - '+7°c/+12°c': 4272 (50.1%)
+    - 'cop_tj_=_+7°c': 1911 (22.4%)
+
+Code: EN14511_2_002
+  Found in DB: 10282 times
+  Matched in JSON: 10179 times (99.0%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 26829 (263.6%)
+    - 'medium_temperature': 23557 (231.4%)
+    - '+7°c/+12°c': 10090 (99.1%)
+    - '+18°c/+23°c': 4190 (41.2%)
+    - '': 1532 (15.1%)
+
+Code: EN14511_2_003
+  Found in DB: 8623 times
+  Matched in JSON: 8539 times (99.0%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 28935 (338.9%)
+    - 'medium_temperature': 27219 (318.8%)
+    - 'column_1': 2499 (29.3%)
+    - '+7°c/+12°c': 2419 (28.3%)
+    - 'column_2': 1121 (13.1%)
+
+Code: EN14511_2_005
+  Found in DB: 1651 times
+  Matched in JSON: 1641 times (99.4%)
+  Top 5 corresponding JSON keys:
+    - '+7°c/+12°c': 29284 (1784.5%)
+    - 'column_0': 8118 (494.7%)
+    - 'cop_tj_=_-7°c': 8016 (488.5%)
+    - '': 6701 (408.3%)
+    - 'low_temperature': 6625 (403.7%)
+
+Code: EN14511_2_006
+  Found in DB: 12 times
+  Matched in JSON: 9 times (75.0%)
+  Top 5 corresponding JSON keys:
+    - 'a7/a20': 11 (122.2%)
+    - 'indoor_dry_bulb_temperature:_20°c': 3 (33.3%)
+    - 'indoor_dry(wet)_bulb_temperature_27(19)°c': 2 (22.2%)
+    - 'a35/a27': 1 (11.1%)
+
+Code: EN14511_2_007
+  Found in DB: 1701 times
+  Matched in JSON: 1688 times (99.2%)
+  Top 5 corresponding JSON keys:
+    - '+7°c/+12°c': 15491 (917.7%)
+    - '+18°c/+23°c': 5499 (325.8%)
+    - 'low_temperature': 3066 (181.6%)
+    - 'column_1': 2778 (164.6%)
+    - 'medium_temperature': 634 (37.6%)
+
+Code: EN14511_4_001
+  Found in DB: 994 times
+  Matched in JSON: 994 times (100.0%)
+  Top 5 corresponding JSON keys:
+    - '': 70475 (7090.0%)
+    - 'medium_temperature': 15128 (1521.9%)
+    - 'low_temperature': 14923 (1501.3%)
+    - 'label': 2935 (295.3%)
+    - 'column_0': 2521 (253.6%)
+
+Code: EN14511_4_002
+  Found in DB: 995 times
+  Matched in JSON: 995 times (100.0%)
+  Top 5 corresponding JSON keys:
+    - '': 70484 (7083.8%)
+    - 'medium_temperature': 15129 (1520.5%)
+    - 'low_temperature': 14924 (1499.9%)
+    - 'label': 2935 (295.0%)
+    - 'column_0': 2521 (253.4%)
+
+Code: EN14511_4_003
+  Found in DB: 4275 times
+  Matched in JSON: 4275 times (100.0%)
+  Top 5 corresponding JSON keys:
+    - '': 191765 (4485.7%)
+    - 'low_temperature': 33734 (789.1%)
+    - 'medium_temperature': 33501 (783.6%)
+    - 'column_0': 18419 (430.9%)
+    - 'cop_tj_=_-7°c': 10626 (248.6%)
+
+Code: EN14511_4_004
+  Found in DB: 4275 times
+  Matched in JSON: 4275 times (100.0%)
+  Top 5 corresponding JSON keys:
+    - '': 191765 (4485.7%)
+    - 'low_temperature': 33734 (789.1%)
+    - 'medium_temperature': 33501 (783.6%)
+    - 'column_0': 18419 (430.9%)
+    - 'cop_tj_=_-7°c': 10626 (248.6%)
+
+Code: EN14511_4_005
+  Found in DB: 4026 times
+  Matched in JSON: 4026 times (100.0%)
+  Top 5 corresponding JSON keys:
+    - '': 185357 (4604.0%)
+    - 'low_temperature': 32585 (809.4%)
+    - 'medium_temperature': 32349 (803.5%)
+    - 'column_0': 18356 (455.9%)
+    - 'cop_tj_=_-7°c': 10626 (263.9%)
+
+Code: EN14511_4_006
+  Found in DB: 3809 times
+  Matched in JSON: 3809 times (100.0%)
+  Top 5 corresponding JSON keys:
+    - '': 177586 (4662.3%)
+    - 'low_temperature': 31468 (826.1%)
+    - 'medium_temperature': 31089 (816.2%)
+    - 'column_0': 18058 (474.1%)
+    - 'cop_tj_=_-7°c': 10548 (276.9%)
+
+Code: EN14825_001
+  Found in DB: 16719 times
+  Matched in JSON: 16466 times (98.5%)
+  Top 5 corresponding JSON keys:
+    - 'medium_temperature': 49920 (303.2%)
+    - 'low_temperature': 46509 (282.5%)
+    - 'xl': 722 (4.4%)
+    - 'l': 311 (1.9%)
+    - '': 224 (1.4%)
+
+Code: EN14825_002
+  Found in DB: 16431 times
+  Matched in JSON: 16237 times (98.8%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 155736 (959.1%)
+    - 'medium_temperature': 151600 (933.7%)
+    - '': 41312 (254.4%)
+    - 'column_0': 6868 (42.3%)
+    - 'value': 3423 (21.1%)
+
+Code: EN14825_003
+  Found in DB: 16438 times
+  Matched in JSON: 16129 times (98.1%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 47257 (293.0%)
+    - 'medium_temperature': 44908 (278.4%)
+    - '+7°c/+12°c': 2278 (14.1%)
+    - 'column_1': 734 (4.6%)
+    - '6.42_kw': 507 (3.1%)
+
+Code: EN14825_004
+  Found in DB: 16734 times
+  Matched in JSON: 16701 times (99.8%)
+  Top 5 corresponding JSON keys:
+    - '': 491898 (2945.3%)
+    - 'medium_temperature': 205063 (1227.8%)
+    - 'low_temperature': 204887 (1226.8%)
+    - 'column_0': 77076 (461.5%)
+    - 'cop_tj_=_-7°c': 34855 (208.7%)
+
+Code: EN14825_005
+  Found in DB: 16590 times
+  Matched in JSON: 16542 times (99.7%)
+  Top 5 corresponding JSON keys:
+    - '': 274855 (1661.6%)
+    - 'low_temperature': 237643 (1436.6%)
+    - 'medium_temperature': 231510 (1399.5%)
+    - 'column_2': 24752 (149.6%)
+    - 'column_1': 24550 (148.4%)
+
+Code: EN14825_008
+  Found in DB: 12477 times
+  Matched in JSON: 12285 times (98.5%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 52972 (431.2%)
+    - 'medium_temperature': 45765 (372.5%)
+    - 'column_1': 11301 (92.0%)
+    - '+7°c/+12°c': 10643 (86.6%)
+    - 'column_2': 10569 (86.0%)
+
+Code: EN14825_009
+  Found in DB: 12477 times
+  Matched in JSON: 12352 times (99.0%)
+  Top 5 corresponding JSON keys:
+    - 'medium_temperature': 39849 (322.6%)
+    - 'low_temperature': 38467 (311.4%)
+    - 'column_2': 9946 (80.5%)
+    - 'column_1': 7822 (63.3%)
+    - '+7°c/+12°c': 5786 (46.8%)
+
+Code: EN14825_010
+  Found in DB: 16734 times
+  Matched in JSON: 16552 times (98.9%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 80539 (486.6%)
+    - 'medium_temperature': 79240 (478.7%)
+    - 'column_1': 10442 (63.1%)
+    - 'column_2': 6957 (42.0%)
+    - '+7°c/+12°c': 3438 (20.8%)
+
+Code: EN14825_011
+  Found in DB: 16736 times
+  Matched in JSON: 16572 times (99.0%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 68323 (412.3%)
+    - 'medium_temperature': 65608 (395.9%)
+    - 'column_1': 7168 (43.3%)
+    - 'column_2': 6932 (41.8%)
+    - '3.41_kw': 1537 (9.3%)
+
+Code: EN14825_012
+  Found in DB: 16734 times
+  Matched in JSON: 16385 times (97.9%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 50936 (310.9%)
+    - 'medium_temperature': 46876 (286.1%)
+    - 'column_1': 9388 (57.3%)
+    - 'column_2': 7645 (46.7%)
+    - '+7°c/+12°c': 4498 (27.5%)
+
+Code: EN14825_013
+  Found in DB: 16730 times
+  Matched in JSON: 15339 times (91.7%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 38823 (253.1%)
+    - 'medium_temperature': 36409 (237.4%)
+    - 'column_2': 5382 (35.1%)
+    - 'column_1': 4870 (31.7%)
+    - '3.47': 1340 (8.7%)
+
+Code: EN14825_014
+  Found in DB: 16730 times
+  Matched in JSON: 16498 times (98.6%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 55859 (338.6%)
+    - 'medium_temperature': 49827 (302.0%)
+    - 'column_2': 9600 (58.2%)
+    - 'column_1': 9396 (57.0%)
+    - '5.70': 2623 (15.9%)
+
+Code: EN14825_015
+  Found in DB: 16730 times
+  Matched in JSON: 16367 times (97.8%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 40271 (246.0%)
+    - 'medium_temperature': 30152 (184.2%)
+    - 'column_2': 6433 (39.3%)
+    - 'column_1': 5909 (36.1%)
+    - '': 3743 (22.9%)
+
+Code: EN14825_016
+  Found in DB: 16730 times
+  Matched in JSON: 16586 times (99.1%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 132796 (800.7%)
+    - 'medium_temperature': 119900 (722.9%)
+    - 'column_1': 18071 (109.0%)
+    - 'column_2': 16975 (102.3%)
+    - '+7°c/+12°c': 11323 (68.3%)
+
+Code: EN14825_017
+  Found in DB: 16730 times
+  Matched in JSON: 16529 times (98.8%)
+  Top 5 corresponding JSON keys:
+    - 'medium_temperature': 99241 (600.4%)
+    - 'low_temperature': 97558 (590.2%)
+    - 'column_2': 16866 (102.0%)
+    - 'column_1': 14389 (87.1%)
+    - '+7°c/+12°c': 5551 (33.6%)
+
+Code: EN14825_018
+  Found in DB: 16490 times
+  Matched in JSON: 15920 times (96.5%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 101070 (634.9%)
+    - 'medium_temperature': 96555 (606.5%)
+    - 'column_1': 15817 (99.4%)
+    - 'column_2': 15090 (94.8%)
+    - '': 7928 (49.8%)
+
+Code: EN14825_019
+  Found in DB: 16490 times
+  Matched in JSON: 16252 times (98.6%)
+  Top 5 corresponding JSON keys:
+    - 'medium_temperature': 91019 (560.0%)
+    - 'low_temperature': 85900 (528.6%)
+    - 'column_1': 15378 (94.6%)
+    - 'column_2': 14876 (91.5%)
+    - '': 4211 (25.9%)
+
+Code: EN14825_020
+  Found in DB: 4 times
+  Matched in JSON: 4 times (100.0%)
+  Top 5 corresponding JSON keys:
+    - '4.09_kw': 4 (100.0%)
+    - '4.36_kw': 4 (100.0%)
+
+Code: EN14825_021
+  Found in DB: 9831 times
+  Matched in JSON: 9809 times (99.8%)
+  Top 5 corresponding JSON keys:
+    - 'medium_temperature': 221862 (2261.8%)
+    - 'low_temperature': 204629 (2086.1%)
+    - 'column_2': 45023 (459.0%)
+    - 'column_1': 42013 (428.3%)
+    - '+7°c/+12°c': 11456 (116.8%)
+
+Code: EN14825_022
+  Found in DB: 16567 times
+  Matched in JSON: 16529 times (99.8%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 162488 (983.0%)
+    - 'medium_temperature': 162219 (981.4%)
+    - 'column_1': 54984 (332.7%)
+    - 'column_2': 54968 (332.6%)
+    - '': 18807 (113.8%)
+
+Code: EN14825_023
+  Found in DB: 18263 times
+  Matched in JSON: 18175 times (99.5%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 424116 (2333.5%)
+    - 'medium_temperature': 420020 (2311.0%)
+    - 'column_2': 167937 (924.0%)
+    - 'column_1': 167917 (923.9%)
+    - '+7°c/+12°c': 75510 (415.5%)
+
+Code: EN14825_024
+  Found in DB: 18263 times
+  Matched in JSON: 18180 times (99.5%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 375497 (2065.4%)
+    - 'medium_temperature': 370709 (2039.1%)
+    - 'column_1': 149092 (820.1%)
+    - 'column_2': 149022 (819.7%)
+    - '+7°c/+12°c': 73342 (403.4%)
+
+Code: EN14825_025
+  Found in DB: 18262 times
+  Matched in JSON: 18145 times (99.4%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 421862 (2324.9%)
+    - 'medium_temperature': 418212 (2304.8%)
+    - 'column_2': 168425 (928.2%)
+    - 'column_1': 168393 (928.0%)
+    - '+7°c/+12°c': 74770 (412.1%)
+
+Code: EN14825_026
+  Found in DB: 18230 times
+  Matched in JSON: 18196 times (99.8%)
+  Top 5 corresponding JSON keys:
+    - 'medium_temperature': 278551 (1530.8%)
+    - 'low_temperature': 277075 (1522.7%)
+    - 'column_1': 178245 (979.6%)
+    - 'column_2': 171920 (944.8%)
+    - 'value': 101275 (556.6%)
+
+Code: EN14825_027
+  Found in DB: 16385 times
+  Matched in JSON: 11069 times (67.6%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 142526 (1287.6%)
+    - 'medium_temperature': 133194 (1203.3%)
+    - 'label': 92522 (835.9%)
+    - 'l': 65552 (592.2%)
+    - 'column_1': 28643 (258.8%)
+
+Code: EN14825_028
+  Found in DB: 16344 times
+  Matched in JSON: 16109 times (98.6%)
+  Top 5 corresponding JSON keys:
+    - 'value': 144701 (898.3%)
+    - 'low_temperature': 90594 (562.4%)
+    - 'medium_temperature': 90187 (559.9%)
+    - 'column_1': 63466 (394.0%)
+    - 'column_2': 60610 (376.2%)
+
+Code: EN14825_029
+  Found in DB: 16732 times
+  Matched in JSON: 16518 times (98.7%)
+  Top 5 corresponding JSON keys:
+    - 'medium_temperature': 11729 (71.0%)
+    - 'low_temperature': 11683 (70.7%)
+    - 'column_2': 11611 (70.3%)
+    - 'column_1': 11393 (69.0%)
+    - '3.47': 1340 (8.1%)
+
+Code: EN14825_030
+  Found in DB: 1521 times
+  Matched in JSON: 1511 times (99.3%)
+  Top 5 corresponding JSON keys:
+    - '+7°c/+12°c': 22669 (1500.3%)
+    - 'low_temperature': 7179 (475.1%)
+    - '+18°c/+23°c': 5005 (331.2%)
+    - '': 4345 (287.6%)
+    - 'column_0': 4110 (272.0%)
+
+Code: EN14825_031
+  Found in DB: 1521 times
+  Matched in JSON: 1513 times (99.5%)
+  Top 5 corresponding JSON keys:
+    - '+7°c/+12°c': 8588 (567.6%)
+    - '+18°c/+23°c': 1083 (71.6%)
+    - 'medium_temperature': 177 (11.7%)
+    - 'column_2': 36 (2.4%)
+    - '12.77_kw': 16 (1.1%)
+
+Code: EN14825_032
+  Found in DB: 1521 times
+  Matched in JSON: 1511 times (99.3%)
+  Top 5 corresponding JSON keys:
+    - '+7°c/+12°c': 26140 (1730.0%)
+    - 'low_temperature': 6391 (423.0%)
+    - '+18°c/+23°c': 4984 (329.8%)
+    - '': 4339 (287.2%)
+    - 'column_0': 4110 (272.0%)
+
+Code: EN14825_033
+  Found in DB: 1521 times
+  Matched in JSON: 1511 times (99.3%)
+  Top 5 corresponding JSON keys:
+    - '+7°c/+12°c': 15739 (1041.6%)
+    - 'column_1': 2774 (183.6%)
+    - '+18°c/+23°c': 2401 (158.9%)
+    - 'low_temperature': 2394 (158.4%)
+    - '3.50': 496 (32.8%)
+
+Code: EN14825_034
+  Found in DB: 1521 times
+  Matched in JSON: 1421 times (93.4%)
+  Top 5 corresponding JSON keys:
+    - '+7°c/+12°c': 10408 (732.4%)
+    - '+18°c/+23°c': 951 (66.9%)
+    - 'medium_temperature': 349 (24.6%)
+    - 'low_temperature': 89 (6.3%)
+    - 'column_2': 83 (5.8%)
+
+Code: EN14825_035
+  Found in DB: 1521 times
+  Matched in JSON: 1501 times (98.7%)
+  Top 5 corresponding JSON keys:
+    - '+7°c/+12°c': 8344 (555.9%)
+    - '+18°c/+23°c': 907 (60.4%)
+    - 'medium_temperature': 281 (18.7%)
+    - '8.67_kw': 152 (10.1%)
+    - 'low_temperature': 131 (8.7%)
+
+Code: EN14825_036
+  Found in DB: 1521 times
+  Matched in JSON: 1457 times (95.8%)
+  Top 5 corresponding JSON keys:
+    - '+7°c/+12°c': 7223 (495.7%)
+    - '+18°c/+23°c': 784 (53.8%)
+    - 'medium_temperature': 708 (48.6%)
+    - '0.98': 654 (44.9%)
+    - 'low_temperature': 280 (19.2%)
+
+Code: EN14825_037
+  Found in DB: 1521 times
+  Matched in JSON: 1473 times (96.8%)
+  Top 5 corresponding JSON keys:
+    - '+7°c/+12°c': 5891 (399.9%)
+    - '': 2628 (178.4%)
+    - '+18°c/+23°c': 716 (48.6%)
+    - 'medium_temperature': 340 (23.1%)
+    - '0.98': 339 (23.0%)
+
+Code: EN14825_038
+  Found in DB: 1521 times
+  Matched in JSON: 1509 times (99.2%)
+  Top 5 corresponding JSON keys:
+    - '+7°c/+12°c': 6292 (417.0%)
+    - '+18°c/+23°c': 740 (49.0%)
+    - '0.98': 654 (43.3%)
+    - 'medium_temperature': 573 (38.0%)
+    - '6.99': 560 (37.1%)
+
+Code: EN14825_039
+  Found in DB: 1521 times
+  Matched in JSON: 1505 times (98.9%)
+  Top 5 corresponding JSON keys:
+    - '+7°c/+12°c': 5815 (386.4%)
+    - '+18°c/+23°c': 708 (47.0%)
+    - '6.99': 496 (33.0%)
+    - '': 436 (29.0%)
+    - '0.98': 339 (22.5%)
+
+Code: EN14825_041
+  Found in DB: 1431 times
+  Matched in JSON: 1409 times (98.5%)
+  Top 5 corresponding JSON keys:
+    - '+7°c/+12°c': 3333 (236.6%)
+    - '14_w': 634 (45.0%)
+    - '6.99': 496 (35.2%)
+    - '18_w': 338 (24.0%)
+    - '7.00': 304 (21.6%)
+
+Code: EN14825_042
+  Found in DB: 1291 times
+  Matched in JSON: 1291 times (100.0%)
+  Top 5 corresponding JSON keys:
+    - 'column_1': 20810 (1611.9%)
+    - 'column_2': 20810 (1611.9%)
+    - 'low_temperature': 20772 (1609.0%)
+    - 'medium_temperature': 20664 (1600.6%)
+    - '3.47': 8016 (620.9%)
+
+Code: EN14825_043
+  Found in DB: 2699 times
+  Matched in JSON: 2696 times (99.9%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 90889 (3371.3%)
+    - 'medium_temperature': 78132 (2898.1%)
+    - 'column_1': 1152 (42.7%)
+    - 'column_2': 1152 (42.7%)
+    - '8.21_kw': 936 (34.7%)
+
+Code: EN14825_044
+  Found in DB: 2225 times
+  Matched in JSON: 2187 times (98.3%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 3699 (169.1%)
+    - 'medium_temperature': 2469 (112.9%)
+    - 'column_2': 349 (16.0%)
+    - 'column_1': 290 (13.3%)
+    - '6.87': 276 (12.6%)
+
+Code: EN14825_045
+  Found in DB: 2225 times
+  Matched in JSON: 2188 times (98.3%)
+  Top 5 corresponding JSON keys:
+    - 'medium_temperature': 3686 (168.5%)
+    - 'low_temperature': 2578 (117.8%)
+    - '': 1259 (57.5%)
+    - 'column_2': 402 (18.4%)
+    - 'column_1': 362 (16.5%)
+
+Code: EN14825_047
+  Found in DB: 10901 times
+  Matched in JSON: 10863 times (99.7%)
+  Top 5 corresponding JSON keys:
+    - 'medium_temperature': 395268 (3638.7%)
+    - 'low_temperature': 393150 (3619.2%)
+    - 'column_1': 47543 (437.7%)
+    - 'column_2': 46431 (427.4%)
+    - '+7°c/+12°c': 13580 (125.0%)
+
+Code: EN14825_048
+  Found in DB: 14990 times
+  Matched in JSON: 14936 times (99.6%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 574390 (3845.7%)
+    - 'medium_temperature': 572324 (3831.8%)
+    - 'column_1': 59994 (401.7%)
+    - 'column_2': 58852 (394.0%)
+    - '+7°c/+12°c': 22192 (148.6%)
+
+Code: EN14825_049
+  Found in DB: 14986 times
+  Matched in JSON: 14883 times (99.3%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 545217 (3663.4%)
+    - 'medium_temperature': 537161 (3609.2%)
+    - 'column_1': 58974 (396.3%)
+    - 'column_2': 52992 (356.1%)
+    - '+7°c/+12°c': 20484 (137.6%)
+
+Code: EN14825_050
+  Found in DB: 14926 times
+  Matched in JSON: 14804 times (99.2%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 519790 (3511.1%)
+    - 'medium_temperature': 501740 (3389.2%)
+    - 'column_1': 51652 (348.9%)
+    - 'column_2': 47794 (322.8%)
+    - '+7°c/+12°c': 21032 (142.1%)
+
+Code: EN14825_051
+  Found in DB: 2140 times
+  Matched in JSON: 2124 times (99.3%)
+  Top 5 corresponding JSON keys:
+    - 'medium_temperature': 99208 (4670.8%)
+    - 'low_temperature': 94380 (4443.5%)
+    - 'column_2': 9077 (427.4%)
+    - 'column_1': 8769 (412.9%)
+    - '0.98': 2402 (113.1%)
+
+Code: EN14825_052
+  Found in DB: 427 times
+  Matched in JSON: 423 times (99.1%)
+  Top 5 corresponding JSON keys:
+    - '+7°c/+12°c': 6376 (1507.3%)
+    - '+18°c/+23°c': 6304 (1490.3%)
+    - 'medium_temperature': 6078 (1436.9%)
+    - 'low_temperature': 6074 (1435.9%)
+    - 'column_1': 4134 (977.3%)
+
+Code: EN14825_053
+  Found in DB: 1409 times
+  Matched in JSON: 1403 times (99.6%)
+  Top 5 corresponding JSON keys:
+    - '+7°c/+12°c': 17770 (1266.6%)
+    - 'low_temperature': 17262 (1230.4%)
+    - 'medium_temperature': 15863 (1130.6%)
+    - '+18°c/+23°c': 6884 (490.7%)
+    - 'column_1': 6383 (455.0%)
+
+Code: EN14825_054
+  Found in DB: 1409 times
+  Matched in JSON: 1403 times (99.6%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 16361 (1166.1%)
+    - 'medium_temperature': 15183 (1082.2%)
+    - '+7°c/+12°c': 14370 (1024.2%)
+    - '+18°c/+23°c': 7230 (515.3%)
+    - 'column_1': 5983 (426.4%)
+
+Code: EN14825_055
+  Found in DB: 1409 times
+  Matched in JSON: 1405 times (99.7%)
+  Top 5 corresponding JSON keys:
+    - '+7°c/+12°c': 15135 (1077.2%)
+    - 'low_temperature': 15063 (1072.1%)
+    - 'medium_temperature': 13884 (988.2%)
+    - '+18°c/+23°c': 6397 (455.3%)
+    - 'column_1': 5910 (420.6%)
+
+Code: EN16147_001
+  Found in DB: 3 times
+  Matched in JSON: 3 times (100.0%)
+  Top 5 corresponding JSON keys:
+    - 'column_1': 12 (400.0%)
+    - 'column_2': 9 (300.0%)
+    - 'value': 6 (200.0%)
+    - '+7°c/+12°c': 3 (100.0%)
+    - '+18°c/+23°c': 3 (100.0%)
+
+Code: EN16147_002
+  Found in DB: 3481 times
+  Matched in JSON: 3384 times (97.2%)
+  Top 5 corresponding JSON keys:
+    - 'l': 22371 (661.1%)
+    - 'xl': 5612 (165.8%)
+    - 'medium_temperature': 1357 (40.1%)
+    - 'low_temperature': 668 (19.7%)
+    - 'm': 448 (13.2%)
+
+Code: EN16147_003
+  Found in DB: 3467 times
+  Matched in JSON: 3401 times (98.1%)
+  Top 5 corresponding JSON keys:
+    - '': 39488 (1161.1%)
+    - 'l': 22228 (653.6%)
+    - 'low_temperature': 11986 (352.4%)
+    - 'medium_temperature': 10109 (297.2%)
+    - 'xl': 5404 (158.9%)
+
+Code: EN16147_004
+  Found in DB: 3469 times
+  Matched in JSON: 3283 times (94.6%)
+  Top 5 corresponding JSON keys:
+    - 'low_temperature': 41072 (1251.1%)
+    - 'medium_temperature': 39262 (1195.9%)
+    - 'label': 39139 (1192.2%)
+    - '': 33542 (1021.7%)
+    - 'l': 24770 (754.5%)
+
+Code: EN16147_005
+  Found in DB: 3469 times
+  Matched in JSON: 3367 times (97.1%)
+  Top 5 corresponding JSON keys:
+    - 'l': 22338 (663.4%)
+    - 'xl': 5588 (166.0%)
+    - 'medium_temperature': 681 (20.2%)
+    - 'low_temperature': 665 (19.8%)
+    - 'm': 450 (13.4%)
+
+Code: EN16147_006
+  Found in DB: 3481 times
+  Matched in JSON: 3248 times (93.3%)
+  Top 5 corresponding JSON keys:
+    - 'l': 21581 (664.4%)
+    - 'xl': 10270 (316.2%)
+    - 'm': 814 (25.1%)
+    - 'low_temperature': 356 (11.0%)
+    - 'medium_temperature': 345 (10.6%)
+
+Code: EN16147_007
+  Found in DB: 3475 times
+  Matched in JSON: 3259 times (93.8%)
+  Top 5 corresponding JSON keys:
+    - 'l': 20402 (626.0%)
+    - 'xl': 9033 (277.2%)
+    - 'm': 728 (22.3%)
+    - 'low_temperature': 280 (8.6%)
+    - '3.63_kw': 144 (4.4%)
+
+Code: EN16147_008
+  Found in DB: 146 times
+  Matched in JSON: 143 times (97.9%)
+  Top 5 corresponding JSON keys:
+    - '2': 786 (549.7%)
+    - '': 28 (19.6%)
+    - 'scop': 24 (16.8%)
+    - 'value': 3 (2.1%)
+    - 'frigicoll': 2 (1.4%)
+
+Code: EN16147_009
+  Found in DB: 146 times
+  Matched in JSON: 143 times (97.9%)
+  Top 5 corresponding JSON keys:
+    - '2': 786 (549.7%)
+    - '': 28 (19.6%)
+    - 'scop': 24 (16.8%)
+    - 'value': 3 (2.1%)
+    - 'frigicoll': 2 (1.4%)
+
+Code: EN16147_010
+  Found in DB: 146 times
+  Matched in JSON: 143 times (97.9%)
+  Top 5 corresponding JSON keys:
+    - '2': 786 (549.7%)
+    - '': 28 (19.6%)
+    - 'scop': 24 (16.8%)
+    - 'value': 3 (2.1%)
+    - 'frigicoll': 2 (1.4%)

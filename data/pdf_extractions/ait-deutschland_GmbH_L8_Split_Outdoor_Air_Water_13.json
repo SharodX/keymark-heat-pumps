@@ -1,0 +1,2363 @@
+{
+  "source_pdf": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13.pdf",
+  "extraction_timestamp": "2025-11-17T16:01:17.919094",
+  "total_records": 279,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype L8 Split",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "ait-deutschland_gmbh": "Industriestr. 3",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "ait-deutschland_gmbh": "95359",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "ait-deutschland_gmbh": "Kasendorf",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "ait-deutschland_gmbh": "DE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "ait-deutschland_gmbh": "RISE CERT",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "ait-deutschland_gmbh": "L8 Split",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "ait-deutschland_gmbh": "012-C700071",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "ait-deutschland_gmbh": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "ait-deutschland_gmbh": "R410A",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "ait-deutschland_gmbh": "2.6 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "ait-deutschland_gmbh": "29.04.2020",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "ait-deutschland_gmbh": "HP Keymark Scheme 2020",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "ait-deutschland_gmbh": "RISE Research Institutes of Sweden",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Model alpha innotec L8 Split-HT 12",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "alpha_innotec_l8_split-ht_12": "Heating + DHW + low temp",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "alpha_innotec_l8_split-ht_12": "Indoor, Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "alpha_innotec_l8_split-ht_12": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "alpha_innotec_l8_split-ht_12": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "alpha_innotec_l8_split-ht_12": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "alpha_innotec_l8_split-ht_12": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "alpha_innotec_l8_split-ht_12": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "alpha_innotec_l8_split-ht_12": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "No",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "99 %",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.34",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "1:20 h:min",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "85.0 W",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "51.0 \u00b0C",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "230 l",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "3.86 kW",
+      "medium_temperature": "3.50 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "0.83 kW",
+      "medium_temperature": "1.17 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.65",
+      "medium_temperature": "2.99",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "35 dB(A)",
+      "medium_temperature": "35 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "55 dB(A)",
+      "medium_temperature": "55 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "172 %",
+      "medium_temperature": "127 %",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "8.20 kW",
+      "medium_temperature": "7.00 kW",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_1",
+      "value": "20 h:min",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13"
+    },
+    {
+      "scop": "Tbiv",
+      "4.37": "-8 \u00b0C",
+      "3.25": "-9 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "TOL",
+      "4.37": "-10 \u00b0C",
+      "3.25": "-10 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = -7\u00b0C",
+      "4.37": "7.40 kW",
+      "3.25": "6.30 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = -7\u00b0C",
+      "4.37": "2.92",
+      "3.25": "1.94",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +2\u00b0C",
+      "4.37": "4.50 kW",
+      "3.25": "3.90 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +2\u00b0C",
+      "4.37": "4.30",
+      "3.25": "3.11",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +7\u00b0C",
+      "4.37": "2.90 kW",
+      "3.25": "2.60 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +7\u00b0C",
+      "4.37": "5.41",
+      "3.25": "4.42",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = 12\u00b0C",
+      "4.37": "3.50 kW",
+      "3.25": "3.70 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = 12\u00b0C",
+      "4.37": "6.51",
+      "3.25": "5.93",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = Tbiv",
+      "4.37": "7.40 kW",
+      "3.25": "6.60 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = Tbiv",
+      "4.37": "2.86",
+      "3.25": "1.83",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.37": "6.80 kW",
+      "3.25": "5.90 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.37": "2.67",
+      "3.25": "1.86",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.37": "0.96",
+      "3.25": "0.97",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "WTOL",
+      "4.37": "65 \u00b0C",
+      "3.25": "65 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "Poff",
+      "4.37": "2 W",
+      "3.25": "2 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "PTO",
+      "4.37": "15 W",
+      "3.25": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "PSB",
+      "4.37": "15 W",
+      "3.25": "15 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "PCK",
+      "4.37": "30 W",
+      "3.25": "30 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: Type of energy\ninput",
+      "4.37": "Electricity",
+      "3.25": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: PSUP",
+      "4.37": "1.40 kW",
+      "3.25": "1.10 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "Annual energy consumption Qhe",
+      "4.37": "3882 kWh",
+      "3.25": "4447 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.40 kW 1.10 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13"
+    },
+    {
+      "": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Model NOVELAN L8 Split-CS 12",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "novelan_l8_split-cs_12": "Heating + DHW + low temp",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "novelan_l8_split-cs_12": "Indoor, Outdoor",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "novelan_l8_split-cs_12": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "novelan_l8_split-cs_12": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "novelan_l8_split-cs_12": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "novelan_l8_split-cs_12": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "novelan_l8_split-cs_12": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "novelan_l8_split-cs_12": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "n/a": "n/a",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "n/a": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "n/a": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "n/a": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "n/a": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "n/a": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "n/a": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "99 %",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.34",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "1:20 h:min",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "85.0 W",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "51.0 \u00b0C",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "230 l",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "xl": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "3.86 kW",
+      "medium_temperature": "3.50 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "0.83 kW",
+      "medium_temperature": "1.17 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.65",
+      "medium_temperature": "2.99",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "35 dB(A)",
+      "medium_temperature": "35 dB(A)",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "55 dB(A)",
+      "medium_temperature": "55 dB(A)",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "172 %",
+      "medium_temperature": "127 %",
+      "source_page": 4,
+      "source_table": 8,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "8.20 kW",
+      "medium_temperature": "7.00 kW",
+      "source_page": 4,
+      "source_table": 8,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_1",
+      "value": "20 h:min",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13"
+    },
+    {
+      "scop": "Tbiv",
+      "4.37": "-8 \u00b0C",
+      "3.25": "-9 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "TOL",
+      "4.37": "-10 \u00b0C",
+      "3.25": "-10 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = -7\u00b0C",
+      "4.37": "7.40 kW",
+      "3.25": "6.30 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = -7\u00b0C",
+      "4.37": "2.92",
+      "3.25": "1.94",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +2\u00b0C",
+      "4.37": "4.50 kW",
+      "3.25": "3.90 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +2\u00b0C",
+      "4.37": "4.30",
+      "3.25": "3.11",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +7\u00b0C",
+      "4.37": "2.90 kW",
+      "3.25": "2.60 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +7\u00b0C",
+      "4.37": "5.41",
+      "3.25": "4.42",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = 12\u00b0C",
+      "4.37": "3.50 kW",
+      "3.25": "3.70 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = 12\u00b0C",
+      "4.37": "6.51",
+      "3.25": "5.93",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = Tbiv",
+      "4.37": "7.40 kW",
+      "3.25": "6.60 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = Tbiv",
+      "4.37": "2.86",
+      "3.25": "1.83",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.37": "6.80 kW",
+      "3.25": "5.90 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.37": "2.67",
+      "3.25": "1.86",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.37": "0.96",
+      "3.25": "0.97",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "WTOL",
+      "4.37": "65 \u00b0C",
+      "3.25": "65 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "Poff",
+      "4.37": "2 W",
+      "3.25": "2 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "PTO",
+      "4.37": "15 W",
+      "3.25": "10 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "PSB",
+      "4.37": "15 W",
+      "3.25": "15 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "PCK",
+      "4.37": "30 W",
+      "3.25": "30 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: Type of energy\ninput",
+      "4.37": "Electricity",
+      "3.25": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: PSUP",
+      "4.37": "1.40 kW",
+      "3.25": "1.10 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "scop": "Annual energy consumption Qhe",
+      "4.37": "3882 kWh",
+      "3.25": "4447 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.40 kW 1.10 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13"
+    },
+    {
+      "": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Model alpha innotec L8 Split-HM 12",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "alpha_innotec_l8_split-hm_12": "Heating (medium temp)",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "alpha_innotec_l8_split-hm_12": "Indoor, Outdoor",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "alpha_innotec_l8_split-hm_12": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "alpha_innotec_l8_split-hm_12": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "alpha_innotec_l8_split-hm_12": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "alpha_innotec_l8_split-hm_12": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "alpha_innotec_l8_split-hm_12": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "alpha_innotec_l8_split-hm_12": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "3.86 kW",
+      "medium_temperature": "3.50 kW",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "0.83 kW",
+      "medium_temperature": "1.17 kW",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.65",
+      "medium_temperature": "2.99",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "35 dB(A)",
+      "medium_temperature": "35 dB(A)",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "55 dB(A)",
+      "medium_temperature": "55 dB(A)",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "172 %",
+      "medium_temperature": "127 %",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "8.20 kW",
+      "medium_temperature": "7.00 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.37",
+      "medium_temperature": "3.25",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-8 \u00b0C",
+      "medium_temperature": "-9 \u00b0C",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "7.40 kW",
+      "medium_temperature": "6.30 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.92",
+      "medium_temperature": "1.94",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.50 kW",
+      "medium_temperature": "3.90 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.30",
+      "medium_temperature": "3.11",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "2.90 kW",
+      "medium_temperature": "2.60 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.41",
+      "medium_temperature": "4.42",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "3.50 kW",
+      "medium_temperature": "3.70 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = Tbiv",
+      "6.51": "7.40 kW",
+      "5.93": "6.60 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = Tbiv",
+      "6.51": "2.86",
+      "5.93": "1.83",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.51": "6.80 kW",
+      "5.93": "5.90 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.51": "2.67",
+      "5.93": "1.86",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.51": "0.96",
+      "5.93": "0.97",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "WTOL",
+      "6.51": "65 \u00b0C",
+      "5.93": "65 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Poff",
+      "6.51": "2 W",
+      "5.93": "2 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PTO",
+      "6.51": "15 W",
+      "5.93": "10 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PSB",
+      "6.51": "15 W",
+      "5.93": "15 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PCK",
+      "6.51": "30 W",
+      "5.93": "30 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "6.51": "Electricity",
+      "5.93": "Electricity",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: PSUP",
+      "6.51": "1.40 kW",
+      "5.93": "1.10 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Annual energy consumption Qhe",
+      "6.51": "3882 kWh",
+      "5.93": "4447 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.40 kW 1.10 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13"
+    },
+    {
+      "": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Model NOVELAN L8 Split-HV 12",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "novelan_l8_split-hv_12": "Heating (medium temp)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "novelan_l8_split-hv_12": "Indoor, Outdoor",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "novelan_l8_split-hv_12": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "novelan_l8_split-hv_12": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "novelan_l8_split-hv_12": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "novelan_l8_split-hv_12": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "novelan_l8_split-hv_12": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "novelan_l8_split-hv_12": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "3.86 kW",
+      "medium_temperature": "3.50 kW",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "0.83 kW",
+      "medium_temperature": "1.17 kW",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.65",
+      "medium_temperature": "2.99",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "35 dB(A)",
+      "medium_temperature": "35 dB(A)",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "55 dB(A)",
+      "medium_temperature": "55 dB(A)",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "172 %",
+      "medium_temperature": "127 %",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "8.20 kW",
+      "medium_temperature": "7.00 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.37",
+      "medium_temperature": "3.25",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-8 \u00b0C",
+      "medium_temperature": "-9 \u00b0C",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "7.40 kW",
+      "medium_temperature": "6.30 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.92",
+      "medium_temperature": "1.94",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.50 kW",
+      "medium_temperature": "3.90 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.30",
+      "medium_temperature": "3.11",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "2.90 kW",
+      "medium_temperature": "2.60 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.41",
+      "medium_temperature": "4.42",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "3.50 kW",
+      "medium_temperature": "3.70 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = Tbiv",
+      "6.51": "7.40 kW",
+      "5.93": "6.60 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = Tbiv",
+      "6.51": "2.86",
+      "5.93": "1.83",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.51": "6.80 kW",
+      "5.93": "5.90 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.51": "2.67",
+      "5.93": "1.86",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.51": "0.96",
+      "5.93": "0.97",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "WTOL",
+      "6.51": "65 \u00b0C",
+      "5.93": "65 \u00b0C",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Poff",
+      "6.51": "2 W",
+      "5.93": "2 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PTO",
+      "6.51": "15 W",
+      "5.93": "10 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PSB",
+      "6.51": "15 W",
+      "5.93": "15 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PCK",
+      "6.51": "30 W",
+      "5.93": "30 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "6.51": "Electricity",
+      "5.93": "Electricity",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: PSUP",
+      "6.51": "1.40 kW",
+      "5.93": "1.10 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Annual energy consumption Qhe",
+      "6.51": "3882 kWh",
+      "5.93": "4447 kWh",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.40 kW 1.10 kW",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_L8_Split_Outdoor_Air_Water_13"
+    }
+  ]
+}

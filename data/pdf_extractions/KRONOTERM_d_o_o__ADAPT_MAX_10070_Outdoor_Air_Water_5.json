@@ -1,0 +1,1600 @@
+{
+  "source_pdf": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5.pdf",
+  "extraction_timestamp": "2025-11-17T15:37:11.320148",
+  "total_records": 183,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype ADAPT MAX 10070",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "kronoterm_d.o.o.": "Trnava 5e",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "kronoterm_d.o.o.": "3303",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "kronoterm_d.o.o.": "Gomilsko",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "kronoterm_d.o.o.": "SI",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "kronoterm_d.o.o.": "DIN CERTCO Gesellschaft f\u00fcr Konformit\u00e4tsbewertung mbH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "kronoterm_d.o.o.": "ADAPT MAX 10070",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "kronoterm_d.o.o.": "011-1W1029",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "kronoterm_d.o.o.": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "kronoterm_d.o.o.": "R290",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "kronoterm_d.o.o.": "7.5 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "kronoterm_d.o.o.": "09.04.2025",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "kronoterm_d.o.o.": "HP KEYMARK certification scheme rules V14",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Model ADAPT MAX 10070 HT / HK 3F",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "adapt_max_10070_ht_/_hk_3f": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "adapt_max_10070_ht_/_hk_3f": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "adapt_max_10070_ht_/_hk_3f": "Colder, Warmer, Warmer Climate, Colder Climate",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "adapt_max_10070_ht_/_hk_3f": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "adapt_max_10070_ht_/_hk_3f": "+7\u00b0C/12\u00b0C, +18\u00b0C/+23\u00b0C",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "adapt_max_10070_ht_/_hk_3f": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "adapt_max_10070_ht_/_hk_3f": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "adapt_max_10070_ht_/_hk_3f": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "adapt_max_10070_ht_/_hk_3f": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "53.48 kW",
+      "medium_temperature": "52.92 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "10.03 kW",
+      "medium_temperature": "15.25 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.33",
+      "medium_temperature": "3.47",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-2 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "+7\u00b0c/+12\u00b0c": "22.09 kW",
+      "+18\u00b0c/+23\u00b0c": "13.03 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cooling capacity",
+      "+7\u00b0c/+12\u00b0c": "60.54",
+      "+18\u00b0c/+23\u00b0c": "60.20",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EER",
+      "+7\u00b0c/+12\u00b0c": "2.74",
+      "+18\u00b0c/+23\u00b0c": "4.62",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "52 dB(A)",
+      "medium_temperature": "53 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "229 %",
+      "medium_temperature": "171 %",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "53.00 kW",
+      "medium_temperature": "53.00 kW",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.81",
+      "medium_temperature": "4.35",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = -7\u00b0C",
+      "46.79_kw": "3.38",
+      "46.99_kw": "2.48",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = -7 \u00b0C",
+      "46.79_kw": "0.998",
+      "46.99_kw": "0.999",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = +2\u00b0C",
+      "46.79_kw": "28.82 kW",
+      "46.99_kw": "28.81 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = +2\u00b0C",
+      "46.79_kw": "5.49",
+      "46.99_kw": "4.23",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +2 \u00b0C",
+      "46.79_kw": "0.995",
+      "46.99_kw": "0.996",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = +7\u00b0C",
+      "46.79_kw": "19.05 kW",
+      "46.99_kw": "18.63 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = +7\u00b0C",
+      "46.79_kw": "8.36",
+      "46.99_kw": "5.91",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "46.79_kw": "0.989",
+      "46.99_kw": "0.992",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "46.79_kw": "20.95 kW",
+      "46.99_kw": "20.17 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = 12\u00b0C",
+      "46.79_kw": "10.28",
+      "46.99_kw": "7.92",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "46.79_kw": "0.987",
+      "46.99_kw": "0.990",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = Tbiv",
+      "46.79_kw": "53.05 kW",
+      "46.99_kw": "53.40 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = Tbiv",
+      "46.79_kw": "2.87",
+      "46.99_kw": "2.10",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "46.79_kw": "53.05 kW",
+      "46.99_kw": "53.40 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "46.79_kw": "2.87",
+      "46.99_kw": "2.10",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "46.79_kw": "0.999",
+      "46.99_kw": "0.999",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "WTOL",
+      "46.79_kw": "75 \u00b0C",
+      "46.99_kw": "75 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Poff",
+      "46.79_kw": "26 W",
+      "46.99_kw": "26 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PTO",
+      "46.79_kw": "26 W",
+      "46.99_kw": "26 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PSB",
+      "46.79_kw": "26 W",
+      "46.99_kw": "26 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "PCK",
+      "46.79_kw": "26 W",
+      "46.99_kw": "26 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "46.79_kw": "Electricity",
+      "46.99_kw": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Supplementary Heater: PSUP",
+      "46.79_kw": "0.00 kW",
+      "46.99_kw": "0.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "Annual energy consumption Qhe",
+      "46.79_kw": "18854 kWh",
+      "46.99_kw": "25178 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "",
+      "46.79_kw": "",
+      "46.99_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "",
+      "46.79_kw": "",
+      "46.99_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_-7\u00b0c": "EN 12102-1 | Colder Climate",
+      "46.79_kw": "",
+      "46.99_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "52 dB(A)",
+      "medium_temperature": "53 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "193 %",
+      "medium_temperature": "150 %",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "62.40 kW",
+      "medium_temperature": "62.00 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.90",
+      "medium_temperature": "3.81",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "37.85 kW",
+      "medium_temperature": "37.52 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.00",
+      "medium_temperature": "3.07",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.997",
+      "medium_temperature": "0.998",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "22.76 kW",
+      "medium_temperature": "22.82 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "6.14",
+      "medium_temperature": "4.77",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.993",
+      "medium_temperature": "0.995",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5"
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = +7\u00b0C",
+      "18.90_kw": "8.57",
+      "18.64_kw": "6.57",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "18.90_kw": "0.988",
+      "18.64_kw": "0.991",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "18.90_kw": "20.73 kW",
+      "18.64_kw": "20.24 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "18.90_kw": "10.06",
+      "18.64_kw": "8.55",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "18.90_kw": "0.987",
+      "18.64_kw": "0.989",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "18.90_kw": "50.90 kW",
+      "18.64_kw": "51.95 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "18.90_kw": "2.70",
+      "18.64_kw": "2.05",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "18.90_kw": "40.66 kW",
+      "18.64_kw": "42.43 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "18.90_kw": "2.26",
+      "18.64_kw": "1.66",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "18.90_kw": "0.999",
+      "18.64_kw": "0.999",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "WTOL",
+      "18.90_kw": "75 \u00b0C",
+      "18.64_kw": "75 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Poff",
+      "18.90_kw": "26 W",
+      "18.64_kw": "26 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PTO",
+      "18.90_kw": "26 W",
+      "18.64_kw": "26 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PSB",
+      "18.90_kw": "26 W",
+      "18.64_kw": "26 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PCK",
+      "18.90_kw": "26 W",
+      "18.64_kw": "26 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "18.90_kw": "Electricity",
+      "18.64_kw": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "18.90_kw": "21.70 kW",
+      "18.64_kw": "19.60 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "18.90_kw": "31386 kWh",
+      "18.64_kw": "40095 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = -15\u00b0C (if TOL",
+      "18.90_kw": "50.90",
+      "18.64_kw": "51.95",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = -15\u00b0C (if TOL",
+      "18.90_kw": "2.70",
+      "18.64_kw": "2.05",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = -15 \u00b0C",
+      "18.90_kw": "0.999",
+      "18.64_kw": "0.999",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "",
+      "18.90_kw": "",
+      "18.64_kw": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "",
+      "18.90_kw": "",
+      "18.64_kw": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "EN 12102-1 | Warmer Climate",
+      "18.90_kw": "",
+      "18.64_kw": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "52 dB(A)",
+      "medium_temperature": "53 dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "302 %",
+      "medium_temperature": "216 %",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "64.40 kW",
+      "medium_temperature": "64.00 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "7.65",
+      "medium_temperature": "5.48",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "64.38 kW",
+      "medium_temperature": "63.99 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.43",
+      "medium_temperature": "2.48",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.999",
+      "medium_temperature": "0.999",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "41.48 kW",
+      "medium_temperature": "41.13 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.23",
+      "medium_temperature": "4.45",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.996",
+      "medium_temperature": "0.997",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "20.79 kW",
+      "medium_temperature": "19.82 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "10.54",
+      "medium_temperature": "7.56",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.987",
+      "medium_temperature": "0.990",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 21.70 kW 19.60 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5"
+    },
+    {
+      "pdh_tj_=_tbiv": "COP Tj = Tbiv",
+      "69.79_kw": "3.43",
+      "67.65_kw": "2.48",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "69.79_kw": "69.79 kW",
+      "67.65_kw": "67.65 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "69.79_kw": "3.43",
+      "67.65_kw": "2.48",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "69.79_kw": "0.999",
+      "67.65_kw": "0.999",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "WTOL",
+      "69.79_kw": "75 \u00b0C",
+      "67.65_kw": "75 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Poff",
+      "69.79_kw": "26 W",
+      "67.65_kw": "26 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "PTO",
+      "69.79_kw": "26 W",
+      "67.65_kw": "26 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "PSB",
+      "69.79_kw": "26 W",
+      "67.65_kw": "26 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "PCK",
+      "69.79_kw": "26 W",
+      "67.65_kw": "26 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Supplementary Heater: Type of energy\ninput",
+      "69.79_kw": "Electricity",
+      "67.65_kw": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Supplementary Heater: PSUP",
+      "69.79_kw": "0.00 kW",
+      "67.65_kw": "0.00 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Annual energy consumption Qhe",
+      "69.79_kw": "11359 kWh",
+      "67.65_kw": "15635 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "",
+      "69.79_kw": "",
+      "67.65_kw": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "",
+      "69.79_kw": "",
+      "67.65_kw": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "EN 14825 | Cooling",
+      "69.79_kw": "",
+      "67.65_kw": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignc",
+      "+7\u00b0c/+12\u00b0c": "60.50 kW",
+      "+18\u00b0c/+23\u00b0c": "60.00 kW",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "SEER",
+      "+7\u00b0c/+12\u00b0c": "5.50",
+      "+18\u00b0c/+23\u00b0c": "8.18",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "60.54 kW",
+      "+18\u00b0c/+23\u00b0c": "60.20 kW",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "2.74",
+      "+18\u00b0c/+23\u00b0c": "4.62",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 35 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.999",
+      "+18\u00b0c/+23\u00b0c": "0.998",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "44.68 kW",
+      "+18\u00b0c/+23\u00b0c": "44.27 kW",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.22",
+      "+18\u00b0c/+23\u00b0c": "6.47",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 30 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.998",
+      "+18\u00b0c/+23\u00b0c": "0.996",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "28.62 kW",
+      "+18\u00b0c/+23\u00b0c": "28.77 kW",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.09",
+      "+18\u00b0c/+23\u00b0c": "9.11",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 25 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.995",
+      "+18\u00b0c/+23\u00b0c": "0.992",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "19.03 kW",
+      "+18\u00b0c/+23\u00b0c": "21.93 kW",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "8.54",
+      "+18\u00b0c/+23\u00b0c": "11.26",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 20 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.988",
+      "+18\u00b0c/+23\u00b0c": "0.987",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "+7\u00b0c/+12\u00b0c": "26 W",
+      "+18\u00b0c/+23\u00b0c": "26 W",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "+7\u00b0c/+12\u00b0c": "26 W",
+      "+18\u00b0c/+23\u00b0c": "26 W",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "+7\u00b0c/+12\u00b0c": "26 W",
+      "+18\u00b0c/+23\u00b0c": "26 W",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "+7\u00b0c/+12\u00b0c": "26 W",
+      "+18\u00b0c/+23\u00b0c": "26 W",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qce",
+      "+7\u00b0c/+12\u00b0c": "6708 kWh",
+      "+18\u00b0c/+23\u00b0c": "4502 kWh",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ADAPT_MAX_10070_Outdoor_Air_Water_5"
+    }
+  ]
+}

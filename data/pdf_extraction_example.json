@@ -1,0 +1,47 @@
+{
+  "pdf_file": "Bosch_Thermotechnik_GmbH_Bosch_CS3000_AWP_16_19_24_Outdoor_Air_Water_36.pdf",
+  "total_records": 1766,
+  "labeled_count": 72,
+  "tabular_count": 1694,
+  "pages": 49,
+  "labeled_sample": [
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Bosch_Thermotechnik_GmbH_Bosch_CS3000_AWP_16_19_24_Outdoor_Air_Water_36"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 2.76 kW 7.63 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Bosch_Thermotechnik_GmbH_Bosch_CS3000_AWP_16_19_24_Outdoor_Air_Water_36"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Bosch_Thermotechnik_GmbH_Bosch_CS3000_AWP_16_19_24_Outdoor_Air_Water_36"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 16.55 kW 17.13 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Bosch_Thermotechnik_GmbH_Bosch_CS3000_AWP_16_19_24_Outdoor_Air_Water_36"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Bosch_Thermotechnik_GmbH_Bosch_CS3000_AWP_16_19_24_Outdoor_Air_Water_36"
+    }
+  ],
+  "tabular_structure": {
+    "page_3_table_1": 23
+  }
+}

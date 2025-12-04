@@ -1,0 +1,712 @@
+{
+  "source_pdf": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4.pdf",
+  "extraction_timestamp": "2025-11-17T15:34:56.636424",
+  "total_records": 84,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype DC Inverter Air to Water Heat Pump Unit-R32-15",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "iglotech_sp._z_o.o.": "ul. TORUNSKA, nr 41, lok. ---, miejsc. KWIDZYN, kod\n82-500, poczta KWIDZYN",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "iglotech_sp._z_o.o.": "",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "iglotech_sp._z_o.o.": "",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "iglotech_sp._z_o.o.": "PL",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "iglotech_sp._z_o.o.": "BRE Global Limited",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "iglotech_sp._z_o.o.": "DC Inverter Air to Water Heat Pump Unit-R32-15",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "iglotech_sp._z_o.o.": "041-K083-04",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "iglotech_sp._z_o.o.": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "iglotech_sp._z_o.o.": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "iglotech_sp._z_o.o.": "2.55 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "iglotech_sp._z_o.o.": "01.02.2024",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "iglotech_sp._z_o.o.": "Heat Pump Keymark Scheme Rules Rev 13",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "iglotech_sp._z_o.o.": "T\u00dcV S\u00dcD Certification and Testing Co., Ltd. Guangzhou\nBranch, CN",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Model Indoor Unit: Neoheat Eko II 15 Outdoor Unit: Neoheat Eko II 15",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "indoor_unit:_neoheat_eko_ii_15_outdoor_unit:_neoheat_eko_ii_15": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "indoor_unit:_neoheat_eko_ii_15_outdoor_unit:_neoheat_eko_ii_15": "Indoor, Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "indoor_unit:_neoheat_eko_ii_15_outdoor_unit:_neoheat_eko_ii_15": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "indoor_unit:_neoheat_eko_ii_15_outdoor_unit:_neoheat_eko_ii_15": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "indoor_unit:_neoheat_eko_ii_15_outdoor_unit:_neoheat_eko_ii_15": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "indoor_unit:_neoheat_eko_ii_15_outdoor_unit:_neoheat_eko_ii_15": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "indoor_unit:_neoheat_eko_ii_15_outdoor_unit:_neoheat_eko_ii_15": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "indoor_unit:_neoheat_eko_ii_15_outdoor_unit:_neoheat_eko_ii_15": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "indoor_unit:_neoheat_eko_ii_15_outdoor_unit:_neoheat_eko_ii_15": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "9.58 kW",
+      "medium_temperature": "11.14 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.85 kW",
+      "medium_temperature": "4.14 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.19",
+      "medium_temperature": "2.69",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "40 dB(A)",
+      "medium_temperature": "35 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "57 dB(A)",
+      "medium_temperature": "61 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "185 %",
+      "medium_temperature": "127 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "11.60 kW",
+      "medium_temperature": "11.04 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.70",
+      "medium_temperature": "3.24",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-25 \u00b0C",
+      "medium_temperature": "-25 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "10.26 kW",
+      "medium_temperature": "9.76 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.38",
+      "medium_temperature": "1.89",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "6.30 kW",
+      "medium_temperature": "6.11 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.69",
+      "medium_temperature": "3.22",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "label": "model_indoor_unit",
+      "value": "Neoheat Eko II 15 Outdoor Unit: Neoheat Eko II 15",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4"
+    },
+    {
+      "label": "model_name_indoor_unit",
+      "value": "Neoheat Eko II 15 Outdoor Unit: Neoheat Eko",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4"
+    },
+    {
+      "column_0": "Cdh Tj = +2 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +7\u00b0C",
+      "column_1": "6.13 kW",
+      "column_2": "5.93 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +7\u00b0C",
+      "column_1": "6.29",
+      "column_2": "4.76",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +7 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = 12\u00b0C",
+      "column_1": "5.97 kW",
+      "column_2": "6.92 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = 12\u00b0C",
+      "column_1": "6.02",
+      "column_2": "5.80",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "10.26 kW",
+      "column_2": "9.76 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "3.38",
+      "column_2": "1.89",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "11.23 kW",
+      "column_2": "9.13 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "3.02",
+      "column_2": "1.70",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "56 \u00b0C",
+      "column_2": "56 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "13 W",
+      "column_2": "13 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "39 W",
+      "column_2": "39 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "13 W",
+      "column_2": "13 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "41 W",
+      "column_2": "41 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.37 kW",
+      "column_2": "1.91 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "5096 kWh",
+      "column_2": "7039 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.37 kW 1.91 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "IGLOTECH_Sp__z_o_o__DC_Inverter_Air_to_Water_Heat_Pump_Unit-R32-15_Outdoor_Air_Water_4"
+    }
+  ]
+}

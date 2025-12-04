@@ -1,0 +1,2772 @@
+{
+  "EN12102_1_001": {
+    "name": "Sound Power Indoor",
+    "category": "sound",
+    "unit": "dB",
+    "keywords": [
+      "sound",
+      "indoor",
+      "power",
+      "level",
+      "noise",
+      "acoustic"
+    ],
+    "general_matches": [
+      {
+        "parameter": "sound_power_level_indoor",
+        "score": 8.0,
+        "occurrences": 570
+      },
+      {
+        "parameter": "sound_power_level_outdoor",
+        "score": 6.5,
+        "occurrences": 12
+      }
+    ],
+    "dimension_matches": {
+      "4_1_0_0": [
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 8.0,
+          "occurrences": 570
+        },
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 6.5,
+          "occurrences": 12
+        },
+        {
+          "parameter": "indoor_unit:_hpcwt-350l,_outdoor_unit:_hp-20kw-r290-t1",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "indoor_unit_pbsx-100(30)/dn8-a_and_outdoor_unit_m3oa-18hfn8-q(hru)",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "outdoor_unit:_lcm-100r;_indoor_unit:_lcm-r",
+          "score": 6.0,
+          "occurrences": 6
+        }
+      ],
+      "4_2_0_0": [
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 8.0,
+          "occurrences": 570
+        },
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 6.5,
+          "occurrences": 12
+        },
+        {
+          "parameter": "indoor_unit:_hpcwt-350l,_outdoor_unit:_hp-20kw-r290-t1",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "indoor_unit_pbsx-100(30)/dn8-a_and_outdoor_unit_m3oa-18hfn8-q(hru)",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "outdoor_unit:_lcm-100r;_indoor_unit:_lcm-r",
+          "score": 6.0,
+          "occurrences": 6
+        }
+      ],
+      "4_3_0_0": [
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 8.0,
+          "occurrences": 570
+        },
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 6.5,
+          "occurrences": 12
+        },
+        {
+          "parameter": "indoor_unit:_hpcwt-350l,_outdoor_unit:_hp-20kw-r290-t1",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "indoor_unit_pbsx-100(30)/dn8-a_and_outdoor_unit_m3oa-18hfn8-q(hru)",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "outdoor_unit:_lcm-100r;_indoor_unit:_lcm-r",
+          "score": 6.0,
+          "occurrences": 6
+        }
+      ],
+      "4_10_0_0": [
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 8.0,
+          "occurrences": 570
+        },
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 6.5,
+          "occurrences": 12
+        },
+        {
+          "parameter": "indoor_unit:_hpcwt-350l,_outdoor_unit:_hp-20kw-r290-t1",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "indoor_unit_pbsx-100(30)/dn8-a_and_outdoor_unit_m3oa-18hfn8-q(hru)",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "outdoor_unit:_lcm-100r;_indoor_unit:_lcm-r",
+          "score": 6.0,
+          "occurrences": 6
+        }
+      ],
+      "5_1_0_0": [
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 8.0,
+          "occurrences": 570
+        },
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 6.5,
+          "occurrences": 12
+        }
+      ],
+      "5_2_0_0": [
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 8.0,
+          "occurrences": 570
+        },
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 6.5,
+          "occurrences": 12
+        }
+      ],
+      "5_3_0_0": [
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 8.0,
+          "occurrences": 570
+        },
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 6.5,
+          "occurrences": 12
+        }
+      ],
+      "5_10_0_0": [
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 8.0,
+          "occurrences": 570
+        },
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 6.5,
+          "occurrences": 12
+        }
+      ],
+      "6_1_0_0": [
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 8.0,
+          "occurrences": 570
+        },
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 6.5,
+          "occurrences": 12
+        }
+      ],
+      "6_2_0_0": [
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 8.0,
+          "occurrences": 570
+        },
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 6.5,
+          "occurrences": 12
+        }
+      ],
+      "6_3_0_0": [
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 8.0,
+          "occurrences": 570
+        },
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 6.5,
+          "occurrences": 12
+        }
+      ],
+      "6_10_0_0": [
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 8.0,
+          "occurrences": 570
+        },
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 6.5,
+          "occurrences": 12
+        }
+      ]
+    }
+  },
+  "EN12102_1_002": {
+    "name": "Sound Power Outdoor",
+    "category": "sound",
+    "unit": "dB",
+    "keywords": [
+      "sound",
+      "outdoor",
+      "power",
+      "level",
+      "noise",
+      "acoustic"
+    ],
+    "general_matches": [
+      {
+        "parameter": "sound_power_level_outdoor",
+        "score": 8.0,
+        "occurrences": 12
+      },
+      {
+        "parameter": "sound_power_level_indoor",
+        "score": 6.5,
+        "occurrences": 570
+      }
+    ],
+    "dimension_matches": {
+      "4_1_0_0": [
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 8.0,
+          "occurrences": 12
+        },
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 6.5,
+          "occurrences": 570
+        },
+        {
+          "parameter": "indoor_unit:_hpcwt-350l,_outdoor_unit:_hp-20kw-r290-t1",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "indoor_unit_pbsx-100(30)/dn8-a_and_outdoor_unit_m3oa-18hfn8-q(hru)",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "outdoor_unit:_lcm-100r;_indoor_unit:_lcm-r",
+          "score": 6.0,
+          "occurrences": 6
+        }
+      ],
+      "4_2_0_0": [
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 8.0,
+          "occurrences": 12
+        },
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 6.5,
+          "occurrences": 570
+        },
+        {
+          "parameter": "indoor_unit:_hpcwt-350l,_outdoor_unit:_hp-20kw-r290-t1",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "indoor_unit_pbsx-100(30)/dn8-a_and_outdoor_unit_m3oa-18hfn8-q(hru)",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "outdoor_unit:_lcm-100r;_indoor_unit:_lcm-r",
+          "score": 6.0,
+          "occurrences": 6
+        }
+      ],
+      "4_3_0_0": [
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 8.0,
+          "occurrences": 12
+        },
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 6.5,
+          "occurrences": 570
+        },
+        {
+          "parameter": "indoor_unit:_hpcwt-350l,_outdoor_unit:_hp-20kw-r290-t1",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "indoor_unit_pbsx-100(30)/dn8-a_and_outdoor_unit_m3oa-18hfn8-q(hru)",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "outdoor_unit:_lcm-100r;_indoor_unit:_lcm-r",
+          "score": 6.0,
+          "occurrences": 6
+        }
+      ],
+      "4_10_0_0": [
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 8.0,
+          "occurrences": 12
+        },
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 6.5,
+          "occurrences": 570
+        },
+        {
+          "parameter": "indoor_unit:_hpcwt-350l,_outdoor_unit:_hp-20kw-r290-t1",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "indoor_unit_pbsx-100(30)/dn8-a_and_outdoor_unit_m3oa-18hfn8-q(hru)",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "outdoor_unit:_lcm-100r;_indoor_unit:_lcm-r",
+          "score": 6.0,
+          "occurrences": 6
+        }
+      ],
+      "5_1_0_0": [
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 8.0,
+          "occurrences": 12
+        },
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 6.5,
+          "occurrences": 570
+        }
+      ],
+      "5_2_0_0": [
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 8.0,
+          "occurrences": 12
+        },
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 6.5,
+          "occurrences": 570
+        }
+      ],
+      "5_3_0_0": [
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 8.0,
+          "occurrences": 12
+        },
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 6.5,
+          "occurrences": 570
+        }
+      ],
+      "5_10_0_0": [
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 8.0,
+          "occurrences": 12
+        },
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 6.5,
+          "occurrences": 570
+        }
+      ],
+      "6_1_0_0": [
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 8.0,
+          "occurrences": 12
+        },
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 6.5,
+          "occurrences": 570
+        }
+      ],
+      "6_2_0_0": [
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 8.0,
+          "occurrences": 12
+        },
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 6.5,
+          "occurrences": 570
+        }
+      ],
+      "6_3_0_0": [
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 8.0,
+          "occurrences": 12
+        },
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 6.5,
+          "occurrences": 570
+        }
+      ],
+      "6_10_0_0": [
+        {
+          "parameter": "sound_power_level_outdoor",
+          "score": 8.0,
+          "occurrences": 12
+        },
+        {
+          "parameter": "sound_power_level_indoor",
+          "score": 6.5,
+          "occurrences": 570
+        }
+      ]
+    }
+  },
+  "EN14511_2_001": {
+    "name": "Heat Output",
+    "category": "performance",
+    "unit": "kW",
+    "keywords": [
+      "heat",
+      "output",
+      "capacity",
+      "heating",
+      "pdh",
+      "power"
+    ],
+    "general_matches": [
+      {
+        "parameter": "gd_midea_heating_&_ventilating_equipment_co.,_ltd.",
+        "score": 4.0,
+        "occurrences": 720
+      },
+      {
+        "parameter": "gd_tcl_intelligent_heating_&_ventilating_equipment_co.,_ltd.",
+        "score": 4.0,
+        "occurrences": 151
+      },
+      {
+        "parameter": "guangdong_carrier_heating,_ventilation_&_air_conditioning_company_limited",
+        "score": 4.0,
+        "occurrences": 108
+      },
+      {
+        "parameter": "ideal_heating_alf\u00e9a_excellia_a.i._11",
+        "score": 4.0,
+        "occurrences": 5
+      },
+      {
+        "parameter": "03._ras-4whnpe_rwd-4.0nw1e-220s_-_heating_only",
+        "score": 4.0,
+        "occurrences": 5
+      },
+      {
+        "parameter": "05._ras-4whnpe_rwd-4.0nw1e-220s-k_\u2013_uk_version_-_heating_only",
+        "score": 4.0,
+        "occurrences": 5
+      },
+      {
+        "parameter": "01._ras-4whnpe_rwm-4.0n1e_-_heating_only",
+        "score": 4.0,
+        "occurrences": 5
+      },
+      {
+        "parameter": "rasm-5vtw2e_&_atw-cbx-01_-_heating_only",
+        "score": 4.0,
+        "occurrences": 6
+      },
+      {
+        "parameter": "rasm-5tw2e_&_atw-cbx-01_-_heating_only",
+        "score": 4.0,
+        "occurrences": 6
+      },
+      {
+        "parameter": "rasm-5vtw2e_&_hwm-w2e_-_heating_only",
+        "score": 4.0,
+        "occurrences": 6
+      }
+    ],
+    "dimension_matches": {
+      "4_1_0_0": [
+        {
+          "parameter": "01._ras-10whnpe_rwm-10.0n1e_-_heating_only",
+          "score": 9.0,
+          "occurrences": 5
+        },
+        {
+          "parameter": "rasm-7r1e_-_heating_only",
+          "score": 9.0,
+          "occurrences": 5
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwm-we_-_heating_only",
+          "score": 9.0,
+          "occurrences": 5
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s_-_heating_only",
+          "score": 9.0,
+          "occurrences": 5
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s-k_-_heating_only",
+          "score": 9.0,
+          "occurrences": 5
+        }
+      ],
+      "4_2_0_0": [
+        {
+          "parameter": "01._ras-10whnpe_rwm-10.0n1e_-_heating_only",
+          "score": 9.0,
+          "occurrences": 5
+        },
+        {
+          "parameter": "rasm-7r1e_-_heating_only",
+          "score": 9.0,
+          "occurrences": 5
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwm-we_-_heating_only",
+          "score": 9.0,
+          "occurrences": 5
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s_-_heating_only",
+          "score": 9.0,
+          "occurrences": 5
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s-k_-_heating_only",
+          "score": 9.0,
+          "occurrences": 5
+        }
+      ],
+      "4_3_0_0": [
+        {
+          "parameter": "01._ras-10whnpe_rwm-10.0n1e_-_heating_only",
+          "score": 9.0,
+          "occurrences": 5
+        },
+        {
+          "parameter": "rasm-7r1e_-_heating_only",
+          "score": 9.0,
+          "occurrences": 5
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwm-we_-_heating_only",
+          "score": 9.0,
+          "occurrences": 5
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s_-_heating_only",
+          "score": 9.0,
+          "occurrences": 5
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s-k_-_heating_only",
+          "score": 9.0,
+          "occurrences": 5
+        }
+      ],
+      "4_10_0_0": [
+        {
+          "parameter": "01._ras-10whnpe_rwm-10.0n1e_-_heating_only",
+          "score": 9.0,
+          "occurrences": 5
+        },
+        {
+          "parameter": "rasm-7r1e_-_heating_only",
+          "score": 9.0,
+          "occurrences": 5
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwm-we_-_heating_only",
+          "score": 9.0,
+          "occurrences": 5
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s_-_heating_only",
+          "score": 9.0,
+          "occurrences": 5
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s-k_-_heating_only",
+          "score": 9.0,
+          "occurrences": 5
+        }
+      ],
+      "5_1_0_0": [
+        {
+          "parameter": "pdh_tj_=_tbiv",
+          "score": 6.0,
+          "occurrences": 6171
+        },
+        {
+          "parameter": "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 13634
+        },
+        {
+          "parameter": "pdh_tj_=_+7\u00b0c",
+          "score": 6.0,
+          "occurrences": 17092
+        },
+        {
+          "parameter": "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 1061
+        },
+        {
+          "parameter": "pdh_tj_=_-15\u00b0c_(if_tol",
+          "score": 6.0,
+          "occurrences": 315
+        }
+      ],
+      "5_2_0_0": [
+        {
+          "parameter": "pdh_tj_=_tbiv",
+          "score": 6.0,
+          "occurrences": 6171
+        },
+        {
+          "parameter": "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 13634
+        },
+        {
+          "parameter": "pdh_tj_=_+7\u00b0c",
+          "score": 6.0,
+          "occurrences": 17092
+        },
+        {
+          "parameter": "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 1061
+        },
+        {
+          "parameter": "pdh_tj_=_-15\u00b0c_(if_tol",
+          "score": 6.0,
+          "occurrences": 315
+        }
+      ],
+      "5_3_0_0": [
+        {
+          "parameter": "pdh_tj_=_tbiv",
+          "score": 6.0,
+          "occurrences": 6171
+        },
+        {
+          "parameter": "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 13634
+        },
+        {
+          "parameter": "pdh_tj_=_+7\u00b0c",
+          "score": 6.0,
+          "occurrences": 17092
+        },
+        {
+          "parameter": "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 1061
+        },
+        {
+          "parameter": "pdh_tj_=_-15\u00b0c_(if_tol",
+          "score": 6.0,
+          "occurrences": 315
+        }
+      ],
+      "5_10_0_0": [
+        {
+          "parameter": "pdh_tj_=_tbiv",
+          "score": 6.0,
+          "occurrences": 6171
+        },
+        {
+          "parameter": "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 13634
+        },
+        {
+          "parameter": "pdh_tj_=_+7\u00b0c",
+          "score": 6.0,
+          "occurrences": 17092
+        },
+        {
+          "parameter": "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 1061
+        },
+        {
+          "parameter": "pdh_tj_=_-15\u00b0c_(if_tol",
+          "score": 6.0,
+          "occurrences": 315
+        }
+      ]
+    }
+  },
+  "EN14511_2_002": {
+    "name": "Electrical Input",
+    "category": "performance",
+    "unit": "kW",
+    "keywords": [
+      "electrical",
+      "input",
+      "power",
+      "consumption",
+      "elec",
+      "el_input"
+    ],
+    "general_matches": [
+      {
+        "parameter": "foshan_shunde_zealux_electrical_appliances_co.,_ltd.",
+        "score": 3.0,
+        "occurrences": 194
+      },
+      {
+        "parameter": "el_input",
+        "score": 3.0,
+        "occurrences": 8
+      },
+      {
+        "parameter": "zhejiang_zhongguang_electrical_co.,_ltd.",
+        "score": 3.0,
+        "occurrences": 120
+      },
+      {
+        "parameter": "ningbo_deye_domestic_electrical_appliance_technology_co.,_ltd",
+        "score": 3.0,
+        "occurrences": 25
+      }
+    ],
+    "dimension_matches": {}
+  },
+  "EN14511_2_003": {
+    "name": "COP",
+    "category": "efficiency",
+    "unit": "ratio",
+    "keywords": [
+      "cop",
+      "coefficient",
+      "performance",
+      "efficiency"
+    ],
+    "general_matches": [
+      {
+        "parameter": "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh",
+        "score": 3.0,
+        "occurrences": 4987
+      },
+      {
+        "parameter": "cop_tj_=_+7\u00b0c",
+        "score": 3.0,
+        "occurrences": 35807
+      },
+      {
+        "parameter": "scop",
+        "score": 3.0,
+        "occurrences": 13134
+      },
+      {
+        "parameter": "cop_tj_=_tbiv",
+        "score": 3.0,
+        "occurrences": 5210
+      },
+      {
+        "parameter": "ctc_ecopart_406_1x230v",
+        "score": 3.0,
+        "occurrences": 5
+      },
+      {
+        "parameter": "ctc_ecopart_406_3x400v",
+        "score": 3.0,
+        "occurrences": 5
+      },
+      {
+        "parameter": "cop_tj_=_12\u00b0c",
+        "score": 3.0,
+        "occurrences": 9802
+      },
+      {
+        "parameter": "cop_tj_=_-15\u00b0c_(if_tol",
+        "score": 3.0,
+        "occurrences": 126
+      },
+      {
+        "parameter": "cop_tj_=_+2\u00b0c",
+        "score": 3.0,
+        "occurrences": 3318
+      },
+      {
+        "parameter": "cop_tj_=_-7\u00b0c",
+        "score": 3.0,
+        "occurrences": 3698
+      }
+    ],
+    "dimension_matches": {
+      "4_1_0_0": [
+        {
+          "parameter": "cop_tj_=_-15\u00b0c_(if_tol",
+          "score": 8.0,
+          "occurrences": 126
+        },
+        {
+          "parameter": "cop_tj_=_-7\u00b0c",
+          "score": 8.0,
+          "occurrences": 3698
+        }
+      ],
+      "4_2_0_0": [
+        {
+          "parameter": "cop_tj_=_-15\u00b0c_(if_tol",
+          "score": 8.0,
+          "occurrences": 126
+        },
+        {
+          "parameter": "cop_tj_=_-7\u00b0c",
+          "score": 8.0,
+          "occurrences": 3698
+        }
+      ],
+      "4_3_0_0": [
+        {
+          "parameter": "cop_tj_=_-15\u00b0c_(if_tol",
+          "score": 8.0,
+          "occurrences": 126
+        },
+        {
+          "parameter": "cop_tj_=_-7\u00b0c",
+          "score": 8.0,
+          "occurrences": 3698
+        }
+      ],
+      "4_10_0_0": [
+        {
+          "parameter": "cop_tj_=_-15\u00b0c_(if_tol",
+          "score": 8.0,
+          "occurrences": 126
+        },
+        {
+          "parameter": "cop_tj_=_-7\u00b0c",
+          "score": 8.0,
+          "occurrences": 3698
+        }
+      ],
+      "5_1_0_0": [
+        {
+          "parameter": "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 8.0,
+          "occurrences": 4987
+        },
+        {
+          "parameter": "cop_tj_=_+7\u00b0c",
+          "score": 8.0,
+          "occurrences": 35807
+        },
+        {
+          "parameter": "cop_tj_=_tbiv",
+          "score": 8.0,
+          "occurrences": 5210
+        },
+        {
+          "parameter": "cop_tj_=_-15\u00b0c_(if_tol",
+          "score": 8.0,
+          "occurrences": 126
+        },
+        {
+          "parameter": "cop_tj_=_+2\u00b0c",
+          "score": 8.0,
+          "occurrences": 3318
+        }
+      ],
+      "5_2_0_0": [
+        {
+          "parameter": "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 8.0,
+          "occurrences": 4987
+        },
+        {
+          "parameter": "cop_tj_=_+7\u00b0c",
+          "score": 8.0,
+          "occurrences": 35807
+        },
+        {
+          "parameter": "cop_tj_=_tbiv",
+          "score": 8.0,
+          "occurrences": 5210
+        },
+        {
+          "parameter": "cop_tj_=_-15\u00b0c_(if_tol",
+          "score": 8.0,
+          "occurrences": 126
+        },
+        {
+          "parameter": "cop_tj_=_+2\u00b0c",
+          "score": 8.0,
+          "occurrences": 3318
+        }
+      ],
+      "5_3_0_0": [
+        {
+          "parameter": "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 8.0,
+          "occurrences": 4987
+        },
+        {
+          "parameter": "cop_tj_=_+7\u00b0c",
+          "score": 8.0,
+          "occurrences": 35807
+        },
+        {
+          "parameter": "cop_tj_=_tbiv",
+          "score": 8.0,
+          "occurrences": 5210
+        },
+        {
+          "parameter": "cop_tj_=_-15\u00b0c_(if_tol",
+          "score": 8.0,
+          "occurrences": 126
+        },
+        {
+          "parameter": "cop_tj_=_+2\u00b0c",
+          "score": 8.0,
+          "occurrences": 3318
+        }
+      ],
+      "5_10_0_0": [
+        {
+          "parameter": "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 8.0,
+          "occurrences": 4987
+        },
+        {
+          "parameter": "cop_tj_=_+7\u00b0c",
+          "score": 8.0,
+          "occurrences": 35807
+        },
+        {
+          "parameter": "cop_tj_=_tbiv",
+          "score": 8.0,
+          "occurrences": 5210
+        },
+        {
+          "parameter": "cop_tj_=_-15\u00b0c_(if_tol",
+          "score": 8.0,
+          "occurrences": 126
+        },
+        {
+          "parameter": "cop_tj_=_+2\u00b0c",
+          "score": 8.0,
+          "occurrences": 3318
+        }
+      ]
+    }
+  },
+  "EN14511_3_001": {
+    "name": "Cooling Capacity",
+    "category": "performance",
+    "unit": "kW",
+    "keywords": [
+      "cooling",
+      "capacity",
+      "cool",
+      "refrigeration"
+    ],
+    "general_matches": [
+      {
+        "parameter": "04._ras-4whnpe_rwd-4.0nw1e-220s_-_with_cooling_kit",
+        "score": 4.0,
+        "occurrences": 6
+      },
+      {
+        "parameter": "06._ras-4whnpe_rwd-4.0nw1e-220s-k_\u2013_uk_version_-_with_cooling_kit",
+        "score": 4.0,
+        "occurrences": 6
+      },
+      {
+        "parameter": "02._ras-4whnpe_rwm-4.0n1e_-_with_cooling_kit",
+        "score": 4.0,
+        "occurrences": 6
+      },
+      {
+        "parameter": "erla14dv3_/_ebbh16d(6v/9w)_+_cooling_kit",
+        "score": 4.0,
+        "occurrences": 6
+      },
+      {
+        "parameter": "erla14dv3_/_ebvh16s18d(6v/9w)_+_cooling_kit",
+        "score": 4.0,
+        "occurrences": 6
+      },
+      {
+        "parameter": "erla14dw1_/_ebbh16d(6v/9w)_+_cooling_kit",
+        "score": 4.0,
+        "occurrences": 6
+      },
+      {
+        "parameter": "erla14dw1_/_ebvh16s18d(6v/9w)_+_cooling_kit",
+        "score": 4.0,
+        "occurrences": 6
+      },
+      {
+        "parameter": "erla14dv3_/_ebvz16s18d(6v/9w)_+_cooling_kit",
+        "score": 4.0,
+        "occurrences": 6
+      },
+      {
+        "parameter": "erla14dw1_/_ebvz16s18d(6v/9w)_+_cooling_kit",
+        "score": 4.0,
+        "occurrences": 6
+      },
+      {
+        "parameter": "rasm-5vtw2e_&_atw-cbx-01_-_with_cooling_kit",
+        "score": 4.0,
+        "occurrences": 6
+      }
+    ],
+    "dimension_matches": {
+      "4_1_0_0": [
+        {
+          "parameter": "02._ras-10whnpe_rwm-10.0n1e_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7r1e_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwm-we_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        }
+      ],
+      "4_2_0_0": [
+        {
+          "parameter": "02._ras-10whnpe_rwm-10.0n1e_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7r1e_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwm-we_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        }
+      ],
+      "4_3_0_0": [
+        {
+          "parameter": "02._ras-10whnpe_rwm-10.0n1e_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7r1e_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwm-we_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        }
+      ],
+      "4_10_0_0": [
+        {
+          "parameter": "02._ras-10whnpe_rwm-10.0n1e_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7r1e_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwm-we_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        }
+      ]
+    }
+  },
+  "EN14511_3_002": {
+    "name": "Cooling Power Input",
+    "category": "performance",
+    "unit": "kW",
+    "keywords": [
+      "cooling",
+      "power",
+      "input",
+      "electrical",
+      "cool"
+    ],
+    "general_matches": [
+      {
+        "parameter": "04._ras-4whnpe_rwd-4.0nw1e-220s_-_with_cooling_kit",
+        "score": 4.0,
+        "occurrences": 6
+      },
+      {
+        "parameter": "06._ras-4whnpe_rwd-4.0nw1e-220s-k_\u2013_uk_version_-_with_cooling_kit",
+        "score": 4.0,
+        "occurrences": 6
+      },
+      {
+        "parameter": "02._ras-4whnpe_rwm-4.0n1e_-_with_cooling_kit",
+        "score": 4.0,
+        "occurrences": 6
+      },
+      {
+        "parameter": "erla14dv3_/_ebbh16d(6v/9w)_+_cooling_kit",
+        "score": 4.0,
+        "occurrences": 6
+      },
+      {
+        "parameter": "erla14dv3_/_ebvh16s18d(6v/9w)_+_cooling_kit",
+        "score": 4.0,
+        "occurrences": 6
+      },
+      {
+        "parameter": "erla14dw1_/_ebbh16d(6v/9w)_+_cooling_kit",
+        "score": 4.0,
+        "occurrences": 6
+      },
+      {
+        "parameter": "erla14dw1_/_ebvh16s18d(6v/9w)_+_cooling_kit",
+        "score": 4.0,
+        "occurrences": 6
+      },
+      {
+        "parameter": "erla14dv3_/_ebvz16s18d(6v/9w)_+_cooling_kit",
+        "score": 4.0,
+        "occurrences": 6
+      },
+      {
+        "parameter": "erla14dw1_/_ebvz16s18d(6v/9w)_+_cooling_kit",
+        "score": 4.0,
+        "occurrences": 6
+      },
+      {
+        "parameter": "rasm-5vtw2e_&_atw-cbx-01_-_with_cooling_kit",
+        "score": 4.0,
+        "occurrences": 6
+      }
+    ],
+    "dimension_matches": {
+      "4_1_0_0": [
+        {
+          "parameter": "02._ras-10whnpe_rwm-10.0n1e_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7r1e_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwm-we_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        }
+      ],
+      "4_2_0_0": [
+        {
+          "parameter": "02._ras-10whnpe_rwm-10.0n1e_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7r1e_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwm-we_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        }
+      ],
+      "4_3_0_0": [
+        {
+          "parameter": "02._ras-10whnpe_rwm-10.0n1e_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7r1e_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwm-we_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        }
+      ],
+      "4_10_0_0": [
+        {
+          "parameter": "02._ras-10whnpe_rwm-10.0n1e_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7r1e_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwm-we_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s_-_with_cooling_kit",
+          "score": 9.0,
+          "occurrences": 6
+        }
+      ]
+    }
+  },
+  "EN14511_3_003": {
+    "name": "EER",
+    "category": "efficiency",
+    "unit": "ratio",
+    "keywords": [
+      "eer",
+      "energy",
+      "efficiency",
+      "ratio",
+      "cooling"
+    ],
+    "general_matches": [
+      {
+        "parameter": "energy_efficiency_technologies",
+        "score": 5.0,
+        "occurrences": 44
+      },
+      {
+        "parameter": "eer_tj_=_20\u00b0c",
+        "score": 3.0,
+        "occurrences": 258
+      },
+      {
+        "parameter": "grant_engineering_(uk)_ltd",
+        "score": 3.0,
+        "occurrences": 112
+      },
+      {
+        "parameter": "eer_tj_=_30\u00b0c",
+        "score": 3.0,
+        "occurrences": 916
+      },
+      {
+        "parameter": "eer_tj_=_25\u00b0c",
+        "score": 3.0,
+        "occurrences": 824
+      },
+      {
+        "parameter": "seer",
+        "score": 3.0,
+        "occurrences": 48
+      },
+      {
+        "parameter": "grant_engineering_(ireland)_ulc",
+        "score": 3.0,
+        "occurrences": 112
+      },
+      {
+        "parameter": "eco_engineering_2050_gmbh",
+        "score": 3.0,
+        "occurrences": 52
+      }
+    ],
+    "dimension_matches": {
+      "4_1_0_0": [
+        {
+          "parameter": "02._ras-10whnpe_rwm-10.0n1e_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7r1e_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwm-we_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "energy_efficiency_technologies",
+          "score": 5.0,
+          "occurrences": 44
+        }
+      ],
+      "4_2_0_0": [
+        {
+          "parameter": "02._ras-10whnpe_rwm-10.0n1e_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7r1e_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwm-we_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "energy_efficiency_technologies",
+          "score": 5.0,
+          "occurrences": 44
+        }
+      ],
+      "4_3_0_0": [
+        {
+          "parameter": "02._ras-10whnpe_rwm-10.0n1e_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7r1e_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwm-we_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "energy_efficiency_technologies",
+          "score": 5.0,
+          "occurrences": 44
+        }
+      ],
+      "4_10_0_0": [
+        {
+          "parameter": "02._ras-10whnpe_rwm-10.0n1e_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7r1e_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwm-we_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "energy_efficiency_technologies",
+          "score": 5.0,
+          "occurrences": 44
+        }
+      ],
+      "5_1_0_0": [
+        {
+          "parameter": "energy_efficiency_technologies",
+          "score": 5.0,
+          "occurrences": 44
+        }
+      ],
+      "5_2_0_0": [
+        {
+          "parameter": "energy_efficiency_technologies",
+          "score": 5.0,
+          "occurrences": 44
+        }
+      ],
+      "5_3_0_0": [
+        {
+          "parameter": "energy_efficiency_technologies",
+          "score": 5.0,
+          "occurrences": 44
+        }
+      ],
+      "5_10_0_0": [
+        {
+          "parameter": "energy_efficiency_technologies",
+          "score": 5.0,
+          "occurrences": 44
+        }
+      ],
+      "6_1_0_0": [
+        {
+          "parameter": "energy_efficiency_technologies",
+          "score": 5.0,
+          "occurrences": 44
+        }
+      ],
+      "6_2_0_0": [
+        {
+          "parameter": "energy_efficiency_technologies",
+          "score": 5.0,
+          "occurrences": 44
+        }
+      ],
+      "6_3_0_0": [
+        {
+          "parameter": "energy_efficiency_technologies",
+          "score": 5.0,
+          "occurrences": 44
+        }
+      ],
+      "6_10_0_0": [
+        {
+          "parameter": "energy_efficiency_technologies",
+          "score": 5.0,
+          "occurrences": 44
+        }
+      ]
+    }
+  },
+  "EN14825_001": {
+    "name": "Design Capacity",
+    "category": "performance",
+    "unit": "kW",
+    "keywords": [
+      "design",
+      "capacity",
+      "pdesignh",
+      "rated"
+    ],
+    "general_matches": [
+      {
+        "parameter": "pdesignh",
+        "score": 3.0,
+        "occurrences": 89
+      }
+    ],
+    "dimension_matches": {
+      "5_1_0_0": [
+        {
+          "parameter": "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 4987
+        },
+        {
+          "parameter": "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 13634
+        },
+        {
+          "parameter": "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 1061
+        }
+      ],
+      "5_2_0_0": [
+        {
+          "parameter": "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 4987
+        },
+        {
+          "parameter": "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 13634
+        },
+        {
+          "parameter": "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 1061
+        }
+      ],
+      "5_3_0_0": [
+        {
+          "parameter": "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 4987
+        },
+        {
+          "parameter": "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 13634
+        },
+        {
+          "parameter": "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 1061
+        }
+      ],
+      "5_10_0_0": [
+        {
+          "parameter": "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 4987
+        },
+        {
+          "parameter": "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 13634
+        },
+        {
+          "parameter": "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 1061
+        }
+      ]
+    }
+  },
+  "EN14825_002": {
+    "name": "Rated Power (Prated)",
+    "category": "performance",
+    "unit": "kW",
+    "keywords": [
+      "prated",
+      "rated",
+      "power",
+      "nominal"
+    ],
+    "general_matches": [
+      {
+        "parameter": "prated",
+        "score": 5.0,
+        "occurrences": 17048
+      },
+      {
+        "parameter": "fujitsu_waterstage_super_high_power_16_integrated_dhw_(woyg160ljl/wgyg160dj6)",
+        "score": 3.0,
+        "occurrences": 5
+      },
+      {
+        "parameter": "fujitsu_waterstage_high_power_11_integrated_dhw_(woyg112lht/wgyg140dg6)",
+        "score": 3.0,
+        "occurrences": 5
+      },
+      {
+        "parameter": "fujitsu_waterstage_high_power_14_3-phases_integrated_dhw_(woyk140lcta/wgyk160dg9)",
+        "score": 3.0,
+        "occurrences": 5
+      },
+      {
+        "parameter": "fujitsu_waterstage_high_power_14_integrated_dhw_(woyg140_lcta/wgyg140dg6)",
+        "score": 3.0,
+        "occurrences": 5
+      },
+      {
+        "parameter": "fujitsu_waterstage_high_power_16_3-phases_integrated_dhw_(woyk160lcta/wgyk160dg9)",
+        "score": 3.0,
+        "occurrences": 5
+      },
+      {
+        "parameter": "fujitsu_waterstage_high_power_11_3-phases_integrated_dhw_(woyk112lcta/wgyk160dg9)",
+        "score": 3.0,
+        "occurrences": 5
+      }
+    ],
+    "dimension_matches": {
+      "4_1_0_0": [
+        {
+          "parameter": "prated",
+          "score": 5.0,
+          "occurrences": 17048
+        }
+      ],
+      "4_2_0_0": [
+        {
+          "parameter": "prated",
+          "score": 5.0,
+          "occurrences": 17048
+        }
+      ],
+      "4_3_0_0": [
+        {
+          "parameter": "prated",
+          "score": 5.0,
+          "occurrences": 17048
+        }
+      ],
+      "4_10_0_0": [
+        {
+          "parameter": "prated",
+          "score": 5.0,
+          "occurrences": 17048
+        }
+      ],
+      "5_1_0_0": [
+        {
+          "parameter": "prated",
+          "score": 5.0,
+          "occurrences": 17048
+        }
+      ],
+      "5_2_0_0": [
+        {
+          "parameter": "prated",
+          "score": 5.0,
+          "occurrences": 17048
+        }
+      ],
+      "5_3_0_0": [
+        {
+          "parameter": "prated",
+          "score": 5.0,
+          "occurrences": 17048
+        }
+      ],
+      "5_10_0_0": [
+        {
+          "parameter": "prated",
+          "score": 5.0,
+          "occurrences": 17048
+        }
+      ],
+      "6_1_0_0": [
+        {
+          "parameter": "prated",
+          "score": 5.0,
+          "occurrences": 17048
+        }
+      ],
+      "6_2_0_0": [
+        {
+          "parameter": "prated",
+          "score": 5.0,
+          "occurrences": 17048
+        }
+      ],
+      "6_3_0_0": [
+        {
+          "parameter": "prated",
+          "score": 5.0,
+          "occurrences": 17048
+        }
+      ],
+      "6_10_0_0": [
+        {
+          "parameter": "prated",
+          "score": 5.0,
+          "occurrences": 17048
+        }
+      ]
+    }
+  },
+  "EN14825_003": {
+    "name": "SCOP",
+    "category": "efficiency",
+    "unit": "ratio",
+    "keywords": [
+      "scop",
+      "seasonal",
+      "cop",
+      "efficiency",
+      "performance"
+    ],
+    "general_matches": [
+      {
+        "parameter": "scop",
+        "score": 7.0,
+        "occurrences": 13134
+      },
+      {
+        "parameter": "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh",
+        "score": 3.0,
+        "occurrences": 4987
+      },
+      {
+        "parameter": "cop_tj_=_+7\u00b0c",
+        "score": 3.0,
+        "occurrences": 35807
+      },
+      {
+        "parameter": "cop_tj_=_tbiv",
+        "score": 3.0,
+        "occurrences": 5210
+      },
+      {
+        "parameter": "ctc_ecopart_406_1x230v",
+        "score": 3.0,
+        "occurrences": 5
+      },
+      {
+        "parameter": "ctc_ecopart_406_3x400v",
+        "score": 3.0,
+        "occurrences": 5
+      },
+      {
+        "parameter": "cop_tj_=_12\u00b0c",
+        "score": 3.0,
+        "occurrences": 9802
+      },
+      {
+        "parameter": "cop_tj_=_-15\u00b0c_(if_tol",
+        "score": 3.0,
+        "occurrences": 126
+      },
+      {
+        "parameter": "cop_tj_=_+2\u00b0c",
+        "score": 3.0,
+        "occurrences": 3318
+      },
+      {
+        "parameter": "cop_tj_=_-7\u00b0c",
+        "score": 3.0,
+        "occurrences": 3698
+      }
+    ],
+    "dimension_matches": {
+      "4_1_0_0": [
+        {
+          "parameter": "cop_tj_=_-15\u00b0c_(if_tol",
+          "score": 8.0,
+          "occurrences": 126
+        },
+        {
+          "parameter": "cop_tj_=_-7\u00b0c",
+          "score": 8.0,
+          "occurrences": 3698
+        },
+        {
+          "parameter": "scop",
+          "score": 7.0,
+          "occurrences": 13134
+        }
+      ],
+      "4_2_0_0": [
+        {
+          "parameter": "cop_tj_=_-15\u00b0c_(if_tol",
+          "score": 8.0,
+          "occurrences": 126
+        },
+        {
+          "parameter": "cop_tj_=_-7\u00b0c",
+          "score": 8.0,
+          "occurrences": 3698
+        },
+        {
+          "parameter": "scop",
+          "score": 7.0,
+          "occurrences": 13134
+        }
+      ],
+      "4_3_0_0": [
+        {
+          "parameter": "cop_tj_=_-15\u00b0c_(if_tol",
+          "score": 8.0,
+          "occurrences": 126
+        },
+        {
+          "parameter": "cop_tj_=_-7\u00b0c",
+          "score": 8.0,
+          "occurrences": 3698
+        },
+        {
+          "parameter": "scop",
+          "score": 7.0,
+          "occurrences": 13134
+        }
+      ],
+      "4_10_0_0": [
+        {
+          "parameter": "cop_tj_=_-15\u00b0c_(if_tol",
+          "score": 8.0,
+          "occurrences": 126
+        },
+        {
+          "parameter": "cop_tj_=_-7\u00b0c",
+          "score": 8.0,
+          "occurrences": 3698
+        },
+        {
+          "parameter": "scop",
+          "score": 7.0,
+          "occurrences": 13134
+        }
+      ],
+      "5_1_0_0": [
+        {
+          "parameter": "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 8.0,
+          "occurrences": 4987
+        },
+        {
+          "parameter": "cop_tj_=_+7\u00b0c",
+          "score": 8.0,
+          "occurrences": 35807
+        },
+        {
+          "parameter": "cop_tj_=_tbiv",
+          "score": 8.0,
+          "occurrences": 5210
+        },
+        {
+          "parameter": "cop_tj_=_-15\u00b0c_(if_tol",
+          "score": 8.0,
+          "occurrences": 126
+        },
+        {
+          "parameter": "cop_tj_=_+2\u00b0c",
+          "score": 8.0,
+          "occurrences": 3318
+        }
+      ],
+      "5_2_0_0": [
+        {
+          "parameter": "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 8.0,
+          "occurrences": 4987
+        },
+        {
+          "parameter": "cop_tj_=_+7\u00b0c",
+          "score": 8.0,
+          "occurrences": 35807
+        },
+        {
+          "parameter": "cop_tj_=_tbiv",
+          "score": 8.0,
+          "occurrences": 5210
+        },
+        {
+          "parameter": "cop_tj_=_-15\u00b0c_(if_tol",
+          "score": 8.0,
+          "occurrences": 126
+        },
+        {
+          "parameter": "cop_tj_=_+2\u00b0c",
+          "score": 8.0,
+          "occurrences": 3318
+        }
+      ],
+      "5_3_0_0": [
+        {
+          "parameter": "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 8.0,
+          "occurrences": 4987
+        },
+        {
+          "parameter": "cop_tj_=_+7\u00b0c",
+          "score": 8.0,
+          "occurrences": 35807
+        },
+        {
+          "parameter": "cop_tj_=_tbiv",
+          "score": 8.0,
+          "occurrences": 5210
+        },
+        {
+          "parameter": "cop_tj_=_-15\u00b0c_(if_tol",
+          "score": 8.0,
+          "occurrences": 126
+        },
+        {
+          "parameter": "cop_tj_=_+2\u00b0c",
+          "score": 8.0,
+          "occurrences": 3318
+        }
+      ],
+      "5_10_0_0": [
+        {
+          "parameter": "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 8.0,
+          "occurrences": 4987
+        },
+        {
+          "parameter": "cop_tj_=_+7\u00b0c",
+          "score": 8.0,
+          "occurrences": 35807
+        },
+        {
+          "parameter": "cop_tj_=_tbiv",
+          "score": 8.0,
+          "occurrences": 5210
+        },
+        {
+          "parameter": "cop_tj_=_-15\u00b0c_(if_tol",
+          "score": 8.0,
+          "occurrences": 126
+        },
+        {
+          "parameter": "cop_tj_=_+2\u00b0c",
+          "score": 8.0,
+          "occurrences": 3318
+        }
+      ],
+      "6_1_0_0": [
+        {
+          "parameter": "scop",
+          "score": 7.0,
+          "occurrences": 13134
+        }
+      ],
+      "6_2_0_0": [
+        {
+          "parameter": "scop",
+          "score": 7.0,
+          "occurrences": 13134
+        }
+      ],
+      "6_3_0_0": [
+        {
+          "parameter": "scop",
+          "score": 7.0,
+          "occurrences": 13134
+        }
+      ],
+      "6_10_0_0": [
+        {
+          "parameter": "scop",
+          "score": 7.0,
+          "occurrences": 13134
+        }
+      ]
+    }
+  },
+  "EN14825_004": {
+    "name": "SEER",
+    "category": "efficiency",
+    "unit": "ratio",
+    "keywords": [
+      "seer",
+      "seasonal",
+      "eer",
+      "cooling",
+      "efficiency"
+    ],
+    "general_matches": [
+      {
+        "parameter": "seer",
+        "score": 7.0,
+        "occurrences": 48
+      },
+      {
+        "parameter": "eer_tj_=_20\u00b0c",
+        "score": 3.0,
+        "occurrences": 258
+      },
+      {
+        "parameter": "grant_engineering_(uk)_ltd",
+        "score": 3.0,
+        "occurrences": 112
+      },
+      {
+        "parameter": "eer_tj_=_30\u00b0c",
+        "score": 3.0,
+        "occurrences": 916
+      },
+      {
+        "parameter": "eer_tj_=_25\u00b0c",
+        "score": 3.0,
+        "occurrences": 824
+      },
+      {
+        "parameter": "grant_engineering_(ireland)_ulc",
+        "score": 3.0,
+        "occurrences": 112
+      },
+      {
+        "parameter": "eco_engineering_2050_gmbh",
+        "score": 3.0,
+        "occurrences": 52
+      }
+    ],
+    "dimension_matches": {
+      "4_1_0_0": [
+        {
+          "parameter": "seer",
+          "score": 7.0,
+          "occurrences": 48
+        },
+        {
+          "parameter": "02._ras-10whnpe_rwm-10.0n1e_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7r1e_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwm-we_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        }
+      ],
+      "4_2_0_0": [
+        {
+          "parameter": "seer",
+          "score": 7.0,
+          "occurrences": 48
+        },
+        {
+          "parameter": "02._ras-10whnpe_rwm-10.0n1e_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7r1e_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwm-we_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        }
+      ],
+      "4_3_0_0": [
+        {
+          "parameter": "seer",
+          "score": 7.0,
+          "occurrences": 48
+        },
+        {
+          "parameter": "02._ras-10whnpe_rwm-10.0n1e_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7r1e_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwm-we_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        }
+      ],
+      "4_10_0_0": [
+        {
+          "parameter": "seer",
+          "score": 7.0,
+          "occurrences": 48
+        },
+        {
+          "parameter": "02._ras-10whnpe_rwm-10.0n1e_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7r1e_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwm-we_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "rasm-7rw1e_&_hwd-we-220s_-_with_cooling_kit",
+          "score": 7.0,
+          "occurrences": 6
+        }
+      ],
+      "5_1_0_0": [
+        {
+          "parameter": "seer",
+          "score": 7.0,
+          "occurrences": 48
+        }
+      ],
+      "5_2_0_0": [
+        {
+          "parameter": "seer",
+          "score": 7.0,
+          "occurrences": 48
+        }
+      ],
+      "5_3_0_0": [
+        {
+          "parameter": "seer",
+          "score": 7.0,
+          "occurrences": 48
+        }
+      ],
+      "5_10_0_0": [
+        {
+          "parameter": "seer",
+          "score": 7.0,
+          "occurrences": 48
+        }
+      ],
+      "6_1_0_0": [
+        {
+          "parameter": "seer",
+          "score": 7.0,
+          "occurrences": 48
+        }
+      ],
+      "6_2_0_0": [
+        {
+          "parameter": "seer",
+          "score": 7.0,
+          "occurrences": 48
+        }
+      ],
+      "6_3_0_0": [
+        {
+          "parameter": "seer",
+          "score": 7.0,
+          "occurrences": 48
+        }
+      ],
+      "6_10_0_0": [
+        {
+          "parameter": "seer",
+          "score": 7.0,
+          "occurrences": 48
+        }
+      ]
+    }
+  },
+  "EN14825_029": {
+    "name": "Annual Energy Consumption",
+    "category": "energy",
+    "unit": "kWh",
+    "keywords": [
+      "annual",
+      "energy",
+      "consumption",
+      "qhe",
+      "yearly"
+    ],
+    "general_matches": [
+      {
+        "parameter": "annual_energy_consumption_qhe",
+        "score": 8.0,
+        "occurrences": 423
+      },
+      {
+        "parameter": "guangdong_phnix_eco-energy_solution_ltd.",
+        "score": 3.0,
+        "occurrences": 312
+      },
+      {
+        "parameter": "fotowoltaika_by_energy_solutions_sp._z_o._o.",
+        "score": 3.0,
+        "occurrences": 87
+      },
+      {
+        "parameter": "guangdong_new_energy_technology_co.,_ltd.",
+        "score": 3.0,
+        "occurrences": 268
+      },
+      {
+        "parameter": "jiangsu_micoe_solar_energy_co.,_ltd",
+        "score": 3.0,
+        "occurrences": 103
+      },
+      {
+        "parameter": "guangzhou_sprsun_new_energy_technology_dev._co.,_ltd,",
+        "score": 3.0,
+        "occurrences": 232
+      },
+      {
+        "parameter": "nibe_energy_systems_france",
+        "score": 3.0,
+        "occurrences": 26
+      },
+      {
+        "parameter": "guangdong_luckingstar_new_energy_co.,_ltd.",
+        "score": 3.0,
+        "occurrences": 89
+      },
+      {
+        "parameter": "energy_efficiency_technologies",
+        "score": 3.0,
+        "occurrences": 44
+      },
+      {
+        "parameter": "elfoenergy_storm_evo_wsan-yes_25.2_r32",
+        "score": 3.0,
+        "occurrences": 6
+      }
+    ],
+    "dimension_matches": {
+      "4_1_0_0": [
+        {
+          "parameter": "annual_energy_consumption_qhe",
+          "score": 8.0,
+          "occurrences": 423
+        }
+      ],
+      "4_2_0_0": [
+        {
+          "parameter": "annual_energy_consumption_qhe",
+          "score": 8.0,
+          "occurrences": 423
+        }
+      ],
+      "4_3_0_0": [
+        {
+          "parameter": "annual_energy_consumption_qhe",
+          "score": 8.0,
+          "occurrences": 423
+        }
+      ],
+      "4_10_0_0": [
+        {
+          "parameter": "annual_energy_consumption_qhe",
+          "score": 8.0,
+          "occurrences": 423
+        }
+      ],
+      "5_1_0_0": [
+        {
+          "parameter": "annual_energy_consumption_qhe",
+          "score": 8.0,
+          "occurrences": 423
+        }
+      ],
+      "5_2_0_0": [
+        {
+          "parameter": "annual_energy_consumption_qhe",
+          "score": 8.0,
+          "occurrences": 423
+        }
+      ],
+      "5_3_0_0": [
+        {
+          "parameter": "annual_energy_consumption_qhe",
+          "score": 8.0,
+          "occurrences": 423
+        }
+      ],
+      "5_10_0_0": [
+        {
+          "parameter": "annual_energy_consumption_qhe",
+          "score": 8.0,
+          "occurrences": 423
+        }
+      ],
+      "6_1_0_0": [
+        {
+          "parameter": "annual_energy_consumption_qhe",
+          "score": 8.0,
+          "occurrences": 423
+        }
+      ],
+      "6_2_0_0": [
+        {
+          "parameter": "annual_energy_consumption_qhe",
+          "score": 8.0,
+          "occurrences": 423
+        }
+      ],
+      "6_3_0_0": [
+        {
+          "parameter": "annual_energy_consumption_qhe",
+          "score": 8.0,
+          "occurrences": 423
+        }
+      ],
+      "6_10_0_0": [
+        {
+          "parameter": "annual_energy_consumption_qhe",
+          "score": 8.0,
+          "occurrences": 423
+        }
+      ]
+    }
+  },
+  "EN14825_050": {
+    "name": "Degradation Coefficient",
+    "category": "efficiency",
+    "unit": "ratio",
+    "keywords": [
+      "degradation",
+      "coefficient",
+      "cd"
+    ],
+    "general_matches": [],
+    "dimension_matches": {
+      "4_1_0_0": [
+        {
+          "parameter": "ahw-080hcds1+ahm-080hcdsaa/hdhwt-200l30h**",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "ahz-100hcds1",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "dawg1-acdc-10r3ep",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "ahw-100hcds1/ahs-100hcdsaa-23",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "cdh_tj_=_-7_\u00b0c",
+          "score": 6.0,
+          "occurrences": 72
+        }
+      ],
+      "4_2_0_0": [
+        {
+          "parameter": "ahw-080hcds1+ahm-080hcdsaa/hdhwt-200l30h**",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "ahz-100hcds1",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "dawg1-acdc-10r3ep",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "ahw-100hcds1/ahs-100hcdsaa-23",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "cdh_tj_=_-7_\u00b0c",
+          "score": 6.0,
+          "occurrences": 72
+        }
+      ],
+      "4_3_0_0": [
+        {
+          "parameter": "ahw-080hcds1+ahm-080hcdsaa/hdhwt-200l30h**",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "ahz-100hcds1",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "dawg1-acdc-10r3ep",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "ahw-100hcds1/ahs-100hcdsaa-23",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "cdh_tj_=_-7_\u00b0c",
+          "score": 6.0,
+          "occurrences": 72
+        }
+      ],
+      "4_10_0_0": [
+        {
+          "parameter": "ahw-080hcds1+ahm-080hcdsaa/hdhwt-200l30h**",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "ahz-100hcds1",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "dawg1-acdc-10r3ep",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "ahw-100hcds1/ahs-100hcdsaa-23",
+          "score": 6.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "cdh_tj_=_-7_\u00b0c",
+          "score": 6.0,
+          "occurrences": 72
+        }
+      ],
+      "5_1_0_0": [
+        {
+          "parameter": "cdh_tj_=_+12_\u00b0c",
+          "score": 6.0,
+          "occurrences": 906
+        },
+        {
+          "parameter": "cdh_tj_=_+2_\u00b0c",
+          "score": 6.0,
+          "occurrences": 3480
+        },
+        {
+          "parameter": "cdh_tj_=_+7_\u00b0c",
+          "score": 6.0,
+          "occurrences": 3519
+        },
+        {
+          "parameter": "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 1061
+        }
+      ],
+      "5_2_0_0": [
+        {
+          "parameter": "cdh_tj_=_+12_\u00b0c",
+          "score": 6.0,
+          "occurrences": 906
+        },
+        {
+          "parameter": "cdh_tj_=_+2_\u00b0c",
+          "score": 6.0,
+          "occurrences": 3480
+        },
+        {
+          "parameter": "cdh_tj_=_+7_\u00b0c",
+          "score": 6.0,
+          "occurrences": 3519
+        },
+        {
+          "parameter": "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 1061
+        }
+      ],
+      "5_3_0_0": [
+        {
+          "parameter": "cdh_tj_=_+12_\u00b0c",
+          "score": 6.0,
+          "occurrences": 906
+        },
+        {
+          "parameter": "cdh_tj_=_+2_\u00b0c",
+          "score": 6.0,
+          "occurrences": 3480
+        },
+        {
+          "parameter": "cdh_tj_=_+7_\u00b0c",
+          "score": 6.0,
+          "occurrences": 3519
+        },
+        {
+          "parameter": "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 1061
+        }
+      ],
+      "5_10_0_0": [
+        {
+          "parameter": "cdh_tj_=_+12_\u00b0c",
+          "score": 6.0,
+          "occurrences": 906
+        },
+        {
+          "parameter": "cdh_tj_=_+2_\u00b0c",
+          "score": 6.0,
+          "occurrences": 3480
+        },
+        {
+          "parameter": "cdh_tj_=_+7_\u00b0c",
+          "score": 6.0,
+          "occurrences": 3519
+        },
+        {
+          "parameter": "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh",
+          "score": 6.0,
+          "occurrences": 1061
+        }
+      ]
+    }
+  },
+  "EN16147_001": {
+    "name": "DHW Heating Capacity",
+    "category": "dhw",
+    "unit": "kW",
+    "keywords": [
+      "dhw",
+      "domestic",
+      "hot",
+      "water",
+      "heating",
+      "capacity"
+    ],
+    "general_matches": [
+      {
+        "parameter": "fujitsu_waterstage_split_comfort_series_integrated_dhw_8_(woya080klt/wgya080ml3)",
+        "score": 4.0,
+        "occurrences": 5
+      },
+      {
+        "parameter": "fujitsu_waterstage_split_comfort_series_integrated_dhw_6_(woya060klt/wgya080ml3)",
+        "score": 4.0,
+        "occurrences": 5
+      },
+      {
+        "parameter": "fujitsu_waterstage_split_comfort_series_integrated_dhw_10_(woya100klt/wgya100ml3)",
+        "score": 4.0,
+        "occurrences": 5
+      },
+      {
+        "parameter": "fujitsu_waterstage_super_high_power_16_integrated_dhw_(woyg160ljl/wgyg160dj6)",
+        "score": 4.0,
+        "occurrences": 5
+      },
+      {
+        "parameter": "fujitsu_waterstage_high_power_11_integrated_dhw_(woyg112lht/wgyg140dg6)",
+        "score": 4.0,
+        "occurrences": 5
+      },
+      {
+        "parameter": "general_waterstage_split_comfort_series_integrated_dhw_8_(woha080klt/wgha080ml3)",
+        "score": 4.0,
+        "occurrences": 5
+      },
+      {
+        "parameter": "general_waterstage_split_comfort_series_integrated_dhw_10_(woha100klt/wgha100ml3)",
+        "score": 4.0,
+        "occurrences": 5
+      },
+      {
+        "parameter": "general_waterstage_split_comfort_series_integrated_dhw_6_(woha060klt/wgha080ml3)",
+        "score": 4.0,
+        "occurrences": 5
+      },
+      {
+        "parameter": "fujitsu_waterstage_high_power_14_3-phases_integrated_dhw_(woyk140lcta/wgyk160dg9)",
+        "score": 4.0,
+        "occurrences": 5
+      },
+      {
+        "parameter": "fujitsu_waterstage_high_power_14_integrated_dhw_(woyg140_lcta/wgyg140dg6)",
+        "score": 4.0,
+        "occurrences": 5
+      }
+    ],
+    "dimension_matches": {
+      "4_1_0_0": [
+        {
+          "parameter": "ahw-080hcds1+ahm-080hcdsaa/hdhwt-200l30h**",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "bdhw-100r-04m25",
+          "score": 7.0,
+          "occurrences": 5
+        },
+        {
+          "parameter": "ahw-044hcds1+ahm-044hcdsaa/hdhwt-200l30h**",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "ahw-060hcds1+ahm-060hcdsaa/hdhwt-200l30h**",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "01._ras-10whnpe_rwm-10.0n1e_-_heating_only",
+          "score": 6.0,
+          "occurrences": 5
+        }
+      ],
+      "4_2_0_0": [
+        {
+          "parameter": "ahw-080hcds1+ahm-080hcdsaa/hdhwt-200l30h**",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "bdhw-100r-04m25",
+          "score": 7.0,
+          "occurrences": 5
+        },
+        {
+          "parameter": "ahw-044hcds1+ahm-044hcdsaa/hdhwt-200l30h**",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "ahw-060hcds1+ahm-060hcdsaa/hdhwt-200l30h**",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "01._ras-10whnpe_rwm-10.0n1e_-_heating_only",
+          "score": 6.0,
+          "occurrences": 5
+        }
+      ],
+      "4_3_0_0": [
+        {
+          "parameter": "ahw-080hcds1+ahm-080hcdsaa/hdhwt-200l30h**",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "bdhw-100r-04m25",
+          "score": 7.0,
+          "occurrences": 5
+        },
+        {
+          "parameter": "ahw-044hcds1+ahm-044hcdsaa/hdhwt-200l30h**",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "ahw-060hcds1+ahm-060hcdsaa/hdhwt-200l30h**",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "01._ras-10whnpe_rwm-10.0n1e_-_heating_only",
+          "score": 6.0,
+          "occurrences": 5
+        }
+      ],
+      "4_10_0_0": [
+        {
+          "parameter": "ahw-080hcds1+ahm-080hcdsaa/hdhwt-200l30h**",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "bdhw-100r-04m25",
+          "score": 7.0,
+          "occurrences": 5
+        },
+        {
+          "parameter": "ahw-044hcds1+ahm-044hcdsaa/hdhwt-200l30h**",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "ahw-060hcds1+ahm-060hcdsaa/hdhwt-200l30h**",
+          "score": 7.0,
+          "occurrences": 6
+        },
+        {
+          "parameter": "01._ras-10whnpe_rwm-10.0n1e_-_heating_only",
+          "score": 6.0,
+          "occurrences": 5
+        }
+      ]
+    }
+  }
+}

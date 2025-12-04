@@ -1,0 +1,689 @@
+{
+  "source_pdf": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7.pdf",
+  "extraction_timestamp": "2025-11-17T15:02:50.248772",
+  "total_records": 81,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype Acond PRO-N",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "acond_a.s.": "\u0160t\u011brboholsk\u00e1 1434/102a",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "acond_a.s.": "102 00",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "acond_a.s.": "Hostiva\u0159, Praha",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "acond_a.s.": "CZ",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "acond_a.s.": "SZU - Strojirensky zkusebni ustav (Engineering Test\nInstitute, Public Enterprise)",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "acond_a.s.": "Acond PRO-N",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "acond_a.s.": "037-0075-22",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "acond_a.s.": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "acond_a.s.": "R290",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "acond_a.s.": "1.35 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "acond_a.s.": "17.03.2022",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "acond_a.s.": "HP Keymark scheme rules rev. no. 9",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "acond_a.s.": "SZU Brno, CZ",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Model Acond PRO-N",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "acond_pro-n": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "acond_pro-n": "Indoor, Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "acond_pro-n": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "acond_pro-n": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "acond_pro-n": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "acond_pro-n": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "acond_pro-n": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "acond_pro-n": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "acond_pro-n": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "3.04 kW",
+      "medium_temperature": "3.54 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "0.62 kW",
+      "medium_temperature": "1.17 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.90",
+      "medium_temperature": "3.03",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "dB(A)",
+      "medium_temperature": "0 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "dB(A)",
+      "medium_temperature": "48 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "164 %",
+      "medium_temperature": "135 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5.29 kW",
+      "medium_temperature": "5.14 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.18",
+      "medium_temperature": "3.45",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "4.68 kW",
+      "medium_temperature": "4.54 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.98",
+      "medium_temperature": "2.20",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "2.88 kW",
+      "medium_temperature": "2.77 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.18",
+      "medium_temperature": "3.42",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = +7\u00b0C",
+      "1.83_kw": "5.11",
+      "1.86_kw": "4.46",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "1.83_kw": "0.900",
+      "1.86_kw": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "1.83_kw": "1.81 kW",
+      "1.86_kw": "1.76 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "1.83_kw": "5.18",
+      "1.86_kw": "4.86",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "1.83_kw": "0.954",
+      "1.86_kw": "0.959",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "1.83_kw": "5.29 kW",
+      "1.86_kw": "5.14 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "1.83_kw": "2.21",
+      "1.86_kw": "1.88",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "1.83_kw": "5.29 kW",
+      "1.86_kw": "5.14 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "1.83_kw": "2.21",
+      "1.86_kw": "1.88",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "1.83_kw": "0.900",
+      "1.86_kw": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "WTOL",
+      "1.83_kw": "70 \u00b0C",
+      "1.86_kw": "70 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Poff",
+      "1.83_kw": "16 W",
+      "1.86_kw": "16 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PTO",
+      "1.83_kw": "16 W",
+      "1.86_kw": "16 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PSB",
+      "1.83_kw": "16 W",
+      "1.86_kw": "16 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PCK",
+      "1.83_kw": "0 W",
+      "1.86_kw": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "1.83_kw": "n/a",
+      "1.86_kw": "n/a",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "1.83_kw": "0.00 kW",
+      "1.86_kw": "0.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "1.83_kw": "2615 kWh",
+      "1.86_kw": "3078 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Acond_a_s__Acond_PRO-N_Outdoor_Air_Water_7"
+    }
+  ]
+}

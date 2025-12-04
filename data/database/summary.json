@@ -1,0 +1,15 @@
+{
+  "transformation_date": "2025-11-17T14:15:52.130929",
+  "files_processed": 1715,
+  "files_failed": 4,
+  "total_heat_pumps": 5814,
+  "total_measurements": 813301,
+  "log_issues": {
+    "skipped_records": 4,
+    "corrupted_records": 0,
+    "warnings": 10,
+    "errors": 0
+  },
+  "output_directory": "data/database",
+  "log_directory": "data/logs"
+}

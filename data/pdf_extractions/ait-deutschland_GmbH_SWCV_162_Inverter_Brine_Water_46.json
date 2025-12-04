@@ -1,0 +1,4881 @@
+{
+  "source_pdf": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46.pdf",
+  "extraction_timestamp": "2025-11-17T16:01:45.036580",
+  "total_records": 559,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype SWCV 162 Inverter",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "ait-deutschland_gmbh": "Industriestr. 3",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "ait-deutschland_gmbh": "95359",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "ait-deutschland_gmbh": "Kasendorf",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "ait-deutschland_gmbh": "DE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "ait-deutschland_gmbh": "BRE Global Limited",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "ait-deutschland_gmbh": "SWCV 162 Inverter",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "ait-deutschland_gmbh": "041-K001-14",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "ait-deutschland_gmbh": "Brine/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "ait-deutschland_gmbh": "R407c",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "ait-deutschland_gmbh": "2.2 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "ait-deutschland_gmbh": "12.05.2017",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "ait-deutschland_gmbh": "HP Keymark Scheme Transition Rules",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "ait-deutschland_gmbh": "RISE Research Institutes of Sweden",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Model alpha innotec SWCV 162(H)(K)3",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "alpha_innotec_swcv_162(h)(k)3": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "alpha_innotec_swcv_162(h)(k)3": "Indoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "alpha_innotec_swcv_162(h)(k)3": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "alpha_innotec_swcv_162(h)(k)3": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "alpha_innotec_swcv_162(h)(k)3": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "alpha_innotec_swcv_162(h)(k)3": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "alpha_innotec_swcv_162(h)(k)3": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "alpha_innotec_swcv_162(h)(k)3": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Brine/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "9.42 kW",
+      "medium_temperature": "9.06 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.91 kW",
+      "medium_temperature": "1.88 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.92",
+      "medium_temperature": "3.22",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "43 dB(A)",
+      "medium_temperature": "43 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "199 %",
+      "medium_temperature": "154 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "16.00 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.17",
+      "medium_temperature": "4.05",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "14.20 kW",
+      "medium_temperature": "14.20 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.19",
+      "medium_temperature": "3.00",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "8.70 kW",
+      "medium_temperature": "8.70 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.26",
+      "medium_temperature": "4.10",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "5.70 kW",
+      "medium_temperature": "5.60 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.06",
+      "medium_temperature": "4.90",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "5.80 kW",
+      "medium_temperature": "5.50 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.88": "0.98",
+      "5.00": "0.97",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = Tbiv",
+      "5.88": "15.90 kW",
+      "5.00": "15.40 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = Tbiv",
+      "5.88": "3.90",
+      "5.00": "2.80",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.88": "15.90 kW",
+      "5.00": "15.40 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.88": "3.90",
+      "5.00": "2.80",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.88": "1.00",
+      "5.00": "1.00",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "WTOL",
+      "5.88": "65 \u00b0C",
+      "5.00": "65 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Poff",
+      "5.88": "2 W",
+      "5.00": "2 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PTO",
+      "5.88": "20 W",
+      "5.00": "20 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PSB",
+      "5.88": "7 W",
+      "5.00": "7 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PCK",
+      "5.88": "30 W",
+      "5.00": "30 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.88": "Electricity",
+      "5.00": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: PSUP",
+      "5.88": "0.00 kW",
+      "5.00": "0.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Annual energy consumption Qhe",
+      "5.88": "6355 kWh",
+      "5.00": "8154 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "5.88": "",
+      "5.00": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "5.88": "",
+      "5.00": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "EN 12102-1 | Colder Climate",
+      "5.88": "",
+      "5.00": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "43 dB(A)",
+      "medium_temperature": "43 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "210 %",
+      "medium_temperature": "160 %",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "16.00 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.44",
+      "medium_temperature": "4.19",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "9.80 kW",
+      "medium_temperature": "9.80 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "5.10",
+      "medium_temperature": "3.80",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "6.00 kW",
+      "medium_temperature": "6.00 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "6.10",
+      "medium_temperature": "4.70",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "5.70 kW",
+      "medium_temperature": "5.60 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.10",
+      "medium_temperature": "5.00",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.97",
+      "medium_temperature": "0.97",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "5.70 kW",
+      "medium_temperature": "5.60 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.60",
+      "medium_temperature": "5.00",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.97",
+      "medium_temperature": "0.97",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "15.40 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.90",
+      "medium_temperature": "2.80",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "15.40 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.90": "1.00",
+      "2.80": "1.00",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "3.90": "65 \u00b0C",
+      "2.80": "65 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "3.90": "2 W",
+      "2.80": "2 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "3.90": "20 W",
+      "2.80": "20 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "3.90": "7 W",
+      "2.80": "7 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "3.90": "30 W",
+      "2.80": "30 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "3.90": "Electricity",
+      "2.80": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "3.90": "0.00 kW",
+      "2.80": "0.00 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "3.90": "7198 kWh",
+      "2.80": "9415 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "3.90": "",
+      "2.80": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "3.90": "",
+      "2.80": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "EN 12102-1 | Warmer Climate",
+      "3.90": "",
+      "2.80": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "43 dB(A)",
+      "medium_temperature": "43 dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "197 %",
+      "medium_temperature": "151 %",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "16.00 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.12",
+      "medium_temperature": "3.98",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "15.40 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.89",
+      "medium_temperature": "2.80",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "10.40 kW",
+      "medium_temperature": "10.40 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "4.93",
+      "medium_temperature": "3.61",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "5.80 kW",
+      "medium_temperature": "5.50 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "6.05",
+      "medium_temperature": "4.92",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.97",
+      "medium_temperature": "0.97",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "15.40 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.89",
+      "medium_temperature": "2.80",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "15.40 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "3.89",
+      "medium_temperature": "2.80",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "2 W",
+      "medium_temperature": "2 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "20 W",
+      "medium_temperature": "20 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "7 W",
+      "medium_temperature": "7 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "30 W",
+      "medium_temperature": "30 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "0.00 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "4150 kWh",
+      "column_2": "5365 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Model alpha innotec WZSV 162(H)(K)3M",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "alpha_innotec_wzsv_162(h)(k)3m": "Heating (medium temp)",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "alpha_innotec_wzsv_162(h)(k)3m": "Indoor",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "alpha_innotec_wzsv_162(h)(k)3m": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "alpha_innotec_wzsv_162(h)(k)3m": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "alpha_innotec_wzsv_162(h)(k)3m": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "alpha_innotec_wzsv_162(h)(k)3m": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "alpha_innotec_wzsv_162(h)(k)3m": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "alpha_innotec_wzsv_162(h)(k)3m": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "Yes",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Brine/Water",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "9.42 kW",
+      "medium_temperature": "9.06 kW",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.91 kW",
+      "medium_temperature": "1.88 kW",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.92",
+      "medium_temperature": "3.22",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "43 dB(A)",
+      "medium_temperature": "43 dB(A)",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "199 %",
+      "medium_temperature": "154 %",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "16.00 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.17",
+      "medium_temperature": "4.05",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "14.20 kW",
+      "medium_temperature": "14.20 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.19",
+      "medium_temperature": "3.00",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "8.70 kW",
+      "medium_temperature": "8.70 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.26",
+      "medium_temperature": "4.10",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "5.70 kW",
+      "medium_temperature": "5.60 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.06",
+      "medium_temperature": "4.90",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "5.80 kW",
+      "medium_temperature": "5.50 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.88": "0.98",
+      "5.00": "0.97",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = Tbiv",
+      "5.88": "15.90 kW",
+      "5.00": "15.40 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = Tbiv",
+      "5.88": "3.90",
+      "5.00": "2.80",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.88": "15.90 kW",
+      "5.00": "15.40 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.88": "3.90",
+      "5.00": "2.80",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.88": "1.00",
+      "5.00": "1.00",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "WTOL",
+      "5.88": "65 \u00b0C",
+      "5.00": "65 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Poff",
+      "5.88": "2 W",
+      "5.00": "2 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PTO",
+      "5.88": "20 W",
+      "5.00": "20 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PSB",
+      "5.88": "7 W",
+      "5.00": "7 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PCK",
+      "5.88": "30 W",
+      "5.00": "30 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.88": "Electricity",
+      "5.00": "Electricity",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: PSUP",
+      "5.88": "0.00 kW",
+      "5.00": "0.00 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Annual energy consumption Qhe",
+      "5.88": "6355 kWh",
+      "5.00": "8154 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "5.88": "",
+      "5.00": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "5.88": "",
+      "5.00": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "EN 12102-1 | Colder Climate",
+      "5.88": "",
+      "5.00": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "43 dB(A)",
+      "medium_temperature": "43 dB(A)",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "210 %",
+      "medium_temperature": "160 %",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "16.00 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.44",
+      "medium_temperature": "4.19",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "9.80 kW",
+      "medium_temperature": "9.80 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "5.10",
+      "medium_temperature": "3.80",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "6.00 kW",
+      "medium_temperature": "6.00 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "6.10",
+      "medium_temperature": "4.70",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "5.70 kW",
+      "medium_temperature": "5.60 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.10",
+      "medium_temperature": "5.00",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.97",
+      "medium_temperature": "0.97",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "5.70 kW",
+      "medium_temperature": "5.60 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.60",
+      "medium_temperature": "5.00",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.97",
+      "medium_temperature": "0.97",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "15.40 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.90",
+      "medium_temperature": "2.80",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "15.40 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.90": "1.00",
+      "2.80": "1.00",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "3.90": "65 \u00b0C",
+      "2.80": "65 \u00b0C",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "3.90": "2 W",
+      "2.80": "2 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "3.90": "20 W",
+      "2.80": "20 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "3.90": "7 W",
+      "2.80": "7 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "3.90": "30 W",
+      "2.80": "30 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "3.90": "Electricity",
+      "2.80": "Electricity",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "3.90": "0.00 kW",
+      "2.80": "0.00 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "3.90": "7198 kWh",
+      "2.80": "9415 kWh",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "3.90": "",
+      "2.80": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "3.90": "",
+      "2.80": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "EN 12102-1 | Warmer Climate",
+      "3.90": "",
+      "2.80": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "43 dB(A)",
+      "medium_temperature": "43 dB(A)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "197 %",
+      "medium_temperature": "151 %",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "16.00 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.12",
+      "medium_temperature": "3.98",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "15.40 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.89",
+      "medium_temperature": "2.80",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "10.40 kW",
+      "medium_temperature": "10.40 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "4.93",
+      "medium_temperature": "3.61",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "5.80 kW",
+      "medium_temperature": "5.50 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "6.05",
+      "medium_temperature": "4.92",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.97",
+      "medium_temperature": "0.97",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "15.40 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.89",
+      "medium_temperature": "2.80",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "15.40 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "3.89",
+      "medium_temperature": "2.80",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "2 W",
+      "medium_temperature": "2 W",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "20 W",
+      "medium_temperature": "20 W",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "7 W",
+      "medium_temperature": "7 W",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "30 W",
+      "medium_temperature": "30 W",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "0.00 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "4150 kWh",
+      "column_2": "5365 kWh",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Model alpha innotec PWZSV 162H3S",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "alpha_innotec_pwzsv_162h3s": "Heating (medium temp)",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "alpha_innotec_pwzsv_162h3s": "Indoor",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "alpha_innotec_pwzsv_162h3s": "n/a",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "alpha_innotec_pwzsv_162h3s": "n/a",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "alpha_innotec_pwzsv_162h3s": "n/a",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "alpha_innotec_pwzsv_162h3s": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "alpha_innotec_pwzsv_162h3s": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "alpha_innotec_pwzsv_162h3s": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "Yes",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Brine/Water",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "9.42 kW",
+      "medium_temperature": "9.06 kW",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.91 kW",
+      "medium_temperature": "1.88 kW",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.92",
+      "medium_temperature": "3.22",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "43 dB(A)",
+      "medium_temperature": "43 dB(A)",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "199 %",
+      "medium_temperature": "154 %",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "16.00 kW",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.17",
+      "medium_temperature": "4.05",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "14.20 kW",
+      "medium_temperature": "14.20 kW",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.19",
+      "medium_temperature": "3.00",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "8.70 kW",
+      "medium_temperature": "8.70 kW",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.26",
+      "medium_temperature": "4.10",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "5.70 kW",
+      "medium_temperature": "5.60 kW",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.06",
+      "medium_temperature": "4.90",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "5.80 kW",
+      "medium_temperature": "5.50 kW",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.88": "0.98",
+      "5.00": "0.97",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = Tbiv",
+      "5.88": "15.90 kW",
+      "5.00": "15.40 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = Tbiv",
+      "5.88": "3.90",
+      "5.00": "2.80",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.88": "15.90 kW",
+      "5.00": "15.40 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.88": "3.90",
+      "5.00": "2.80",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.88": "1.00",
+      "5.00": "1.00",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "WTOL",
+      "5.88": "65 \u00b0C",
+      "5.00": "65 \u00b0C",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Poff",
+      "5.88": "2 W",
+      "5.00": "2 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PTO",
+      "5.88": "20 W",
+      "5.00": "20 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PSB",
+      "5.88": "7 W",
+      "5.00": "7 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PCK",
+      "5.88": "30 W",
+      "5.00": "30 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.88": "Electricity",
+      "5.00": "Electricity",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: PSUP",
+      "5.88": "0.00 kW",
+      "5.00": "0.00 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Annual energy consumption Qhe",
+      "5.88": "6355 kWh",
+      "5.00": "8154 kWh",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "5.88": "",
+      "5.00": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "5.88": "",
+      "5.00": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "EN 12102-1 | Colder Climate",
+      "5.88": "",
+      "5.00": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "43 dB(A)",
+      "medium_temperature": "43 dB(A)",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "210 %",
+      "medium_temperature": "160 %",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "16.00 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.44",
+      "medium_temperature": "4.19",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "9.80 kW",
+      "medium_temperature": "9.80 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "5.10",
+      "medium_temperature": "3.80",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "6.00 kW",
+      "medium_temperature": "6.00 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "6.10",
+      "medium_temperature": "4.70",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "5.70 kW",
+      "medium_temperature": "5.60 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.10",
+      "medium_temperature": "5.00",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.97",
+      "medium_temperature": "0.97",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "5.70 kW",
+      "medium_temperature": "5.60 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.60",
+      "medium_temperature": "5.00",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.97",
+      "medium_temperature": "0.97",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "15.40 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.90",
+      "medium_temperature": "2.80",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "15.40 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 11,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 11,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.90": "1.00",
+      "2.80": "1.00",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "3.90": "65 \u00b0C",
+      "2.80": "65 \u00b0C",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "3.90": "2 W",
+      "2.80": "2 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "3.90": "20 W",
+      "2.80": "20 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "3.90": "7 W",
+      "2.80": "7 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "3.90": "30 W",
+      "2.80": "30 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "3.90": "Electricity",
+      "2.80": "Electricity",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "3.90": "0.00 kW",
+      "2.80": "0.00 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "3.90": "7198 kWh",
+      "2.80": "9415 kWh",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "3.90": "",
+      "2.80": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "3.90": "",
+      "2.80": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "EN 12102-1 | Warmer Climate",
+      "3.90": "",
+      "2.80": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "43 dB(A)",
+      "medium_temperature": "43 dB(A)",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "197 %",
+      "medium_temperature": "151 %",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "16.00 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.12",
+      "medium_temperature": "3.98",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "15.40 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.89",
+      "medium_temperature": "2.80",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "10.40 kW",
+      "medium_temperature": "10.40 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "4.93",
+      "medium_temperature": "3.61",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "5.80 kW",
+      "medium_temperature": "5.50 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "6.05",
+      "medium_temperature": "4.92",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.97",
+      "medium_temperature": "0.97",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "15.40 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.89",
+      "medium_temperature": "2.80",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "15.40 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "3.89",
+      "medium_temperature": "2.80",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "2 W",
+      "medium_temperature": "2 W",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "20 W",
+      "medium_temperature": "20 W",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "7 W",
+      "medium_temperature": "7 W",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "30 W",
+      "medium_temperature": "30 W",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "0.00 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "4150 kWh",
+      "column_2": "5365 kWh",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "": "",
+      "source_page": 14,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Model NOVELAN SICV 16.2(H)(K)3",
+      "source_page": 14,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "novelan_sicv_16.2(h)(k)3": "Heating (medium temp)",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "novelan_sicv_16.2(h)(k)3": "Indoor",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "novelan_sicv_16.2(h)(k)3": "n/a",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "novelan_sicv_16.2(h)(k)3": "n/a",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "novelan_sicv_16.2(h)(k)3": "n/a",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "novelan_sicv_16.2(h)(k)3": "",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "novelan_sicv_16.2(h)(k)3": "",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "novelan_sicv_16.2(h)(k)3": "",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "n/a": "n/a",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "n/a": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "n/a": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Brine/Water",
+      "n/a": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "n/a": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "n/a": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "n/a": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "9.42 kW",
+      "medium_temperature": "9.06 kW",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.91 kW",
+      "medium_temperature": "1.88 kW",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.92",
+      "medium_temperature": "3.22",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "43 dB(A)",
+      "medium_temperature": "43 dB(A)",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "199 %",
+      "medium_temperature": "154 %",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "16.00 kW",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.17",
+      "medium_temperature": "4.05",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "14.20 kW",
+      "medium_temperature": "14.20 kW",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.19",
+      "medium_temperature": "3.00",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "8.70 kW",
+      "medium_temperature": "8.70 kW",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.26",
+      "medium_temperature": "4.10",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "5.70 kW",
+      "medium_temperature": "5.60 kW",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.06",
+      "medium_temperature": "4.90",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "5.80 kW",
+      "medium_temperature": "5.50 kW",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.88": "0.98",
+      "5.00": "0.97",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = Tbiv",
+      "5.88": "15.90 kW",
+      "5.00": "15.40 kW",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = Tbiv",
+      "5.88": "3.90",
+      "5.00": "2.80",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.88": "15.90 kW",
+      "5.00": "15.40 kW",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.88": "3.90",
+      "5.00": "2.80",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.88": "1.00",
+      "5.00": "1.00",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "WTOL",
+      "5.88": "65 \u00b0C",
+      "5.00": "65 \u00b0C",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Poff",
+      "5.88": "2 W",
+      "5.00": "2 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PTO",
+      "5.88": "20 W",
+      "5.00": "20 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PSB",
+      "5.88": "7 W",
+      "5.00": "7 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PCK",
+      "5.88": "30 W",
+      "5.00": "30 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.88": "Electricity",
+      "5.00": "Electricity",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: PSUP",
+      "5.88": "0.00 kW",
+      "5.00": "0.00 kW",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Annual energy consumption Qhe",
+      "5.88": "6355 kWh",
+      "5.00": "8154 kWh",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "5.88": "",
+      "5.00": "",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "5.88": "",
+      "5.00": "",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "EN 12102-1 | Colder Climate",
+      "5.88": "",
+      "5.00": "",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "43 dB(A)",
+      "medium_temperature": "43 dB(A)",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "210 %",
+      "medium_temperature": "160 %",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "16.00 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.44",
+      "medium_temperature": "4.19",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "9.80 kW",
+      "medium_temperature": "9.80 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "5.10",
+      "medium_temperature": "3.80",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "6.00 kW",
+      "medium_temperature": "6.00 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "6.10",
+      "medium_temperature": "4.70",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "5.70 kW",
+      "medium_temperature": "5.60 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.10",
+      "medium_temperature": "5.00",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.97",
+      "medium_temperature": "0.97",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "5.70 kW",
+      "medium_temperature": "5.60 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.60",
+      "medium_temperature": "5.00",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.97",
+      "medium_temperature": "0.97",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "15.40 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.90",
+      "medium_temperature": "2.80",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "15.40 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 15,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 15,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.90": "1.00",
+      "2.80": "1.00",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "3.90": "65 \u00b0C",
+      "2.80": "65 \u00b0C",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "3.90": "2 W",
+      "2.80": "2 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "3.90": "20 W",
+      "2.80": "20 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "3.90": "7 W",
+      "2.80": "7 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "3.90": "30 W",
+      "2.80": "30 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "3.90": "Electricity",
+      "2.80": "Electricity",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "3.90": "0.00 kW",
+      "2.80": "0.00 kW",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "3.90": "7198 kWh",
+      "2.80": "9415 kWh",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "3.90": "",
+      "2.80": "",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "3.90": "",
+      "2.80": "",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "EN 12102-1 | Warmer Climate",
+      "3.90": "",
+      "2.80": "",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "43 dB(A)",
+      "medium_temperature": "43 dB(A)",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "197 %",
+      "medium_temperature": "151 %",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "16.00 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.12",
+      "medium_temperature": "3.98",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "15.40 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.89",
+      "medium_temperature": "2.80",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "10.40 kW",
+      "medium_temperature": "10.40 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "4.93",
+      "medium_temperature": "3.61",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "5.80 kW",
+      "medium_temperature": "5.50 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "6.05",
+      "medium_temperature": "4.92",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.97",
+      "medium_temperature": "0.97",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "15.40 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.89",
+      "medium_temperature": "2.80",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "15.90 kW",
+      "medium_temperature": "15.40 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "3.89",
+      "medium_temperature": "2.80",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "2 W",
+      "medium_temperature": "2 W",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "20 W",
+      "medium_temperature": "20 W",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "7 W",
+      "medium_temperature": "7 W",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "30 W",
+      "medium_temperature": "30 W",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 16,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 16,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "0.00 kW",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "4150 kWh",
+      "column_2": "5365 kWh",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 17,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 17,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_SWCV_162_Inverter_Brine_Water_46"
+    }
+  ]
+}

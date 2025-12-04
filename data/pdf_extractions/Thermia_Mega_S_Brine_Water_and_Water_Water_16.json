@@ -1,0 +1,6621 @@
+{
+  "source_pdf": "Thermia_Mega_S_Brine_Water_and_Water_Water_16.pdf",
+  "extraction_timestamp": "2025-11-17T15:56:17.911501",
+  "total_records": 754,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype Mega S",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "thermia": "Snickaregatan 1",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "thermia": "",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "thermia": "Arvika",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "thermia": "SE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "thermia": "RISE CERT",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "thermia": "Mega S",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "thermia": "012-SC0836-18",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "thermia": "Brine/Water and Water/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "thermia": "R410A",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "thermia": "3.9 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "thermia": "10.04.2019",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "thermia": "EN 14511:2018, EN 14825:2016, EN 12102:2017.",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "thermia": "RISE Research Institutes of Sweden",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "label": "testing_basis_en_14511",
+      "value": "2018, EN 14825:2016, EN 12102:2017.",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Model Thermia Mega S 2020",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "thermia_mega_s_2020": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "thermia_mega_s_2020": "Indoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "thermia_mega_s_2020": "Warmer Climate, Colder Climate",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "thermia_mega_s_2020": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "thermia_mega_s_2020": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "thermia_mega_s_2020": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "thermia_mega_s_2020": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "thermia_mega_s_2020": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Brine/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "20.18 kW",
+      "medium_temperature": "18.93 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "4.26 kW",
+      "medium_temperature": "6.42 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.73",
+      "medium_temperature": "2.95",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "47 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "214 %",
+      "medium_temperature": "159 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.55",
+      "medium_temperature": "4.18",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "29.44 kW",
+      "medium_temperature": "27.54 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.63",
+      "medium_temperature": "3.14",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.999",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "17.92 kW",
+      "medium_temperature": "16.76 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.57",
+      "medium_temperature": "4.21",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "11.52 kW",
+      "medium_temperature": "11.90 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.11",
+      "medium_temperature": "4.83",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "12.52 kW",
+      "medium_temperature": "12.16 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "6.05": "",
+      "5.00": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = Tbiv",
+      "6.05": "33.28 kW",
+      "5.00": "31.13 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = Tbiv",
+      "6.05": "4.26",
+      "5.00": "2.86",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.05": "33.28 kW",
+      "5.00": "31.13 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.05": "4.26",
+      "5.00": "2.86",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.05": "0.990",
+      "5.00": "0.990",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "WTOL",
+      "6.05": "65 \u00b0C",
+      "5.00": "65 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Poff",
+      "6.05": "12 W",
+      "5.00": "12 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PTO",
+      "6.05": "12 W",
+      "5.00": "12 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PSB",
+      "6.05": "12 W",
+      "5.00": "12 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PCK",
+      "6.05": "0 W",
+      "5.00": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "6.05": "n/a",
+      "5.00": "n/a",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: PSUP",
+      "6.05": "0.00 kW",
+      "5.00": "0.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Annual energy consumption Qhe",
+      "6.05": "12358 kWh",
+      "5.00": "15305 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "6.05": "",
+      "5.00": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "6.05": "",
+      "5.00": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "EN 12102-1 | Colder Climate",
+      "6.05": "",
+      "5.00": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "47 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "221 %",
+      "medium_temperature": "165 %",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.72",
+      "medium_temperature": "4.33",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "20.14 kW",
+      "medium_temperature": "18.84 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "5.49",
+      "medium_temperature": "3.99",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "12.26 kW",
+      "medium_temperature": "11.47 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "6.11",
+      "medium_temperature": "4.73",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "12.53 kW",
+      "medium_temperature": "12.14 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.10",
+      "medium_temperature": "4.98",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "12.49 kW",
+      "medium_temperature": "12.22 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.91",
+      "medium_temperature": "5.12",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "4.26",
+      "medium_temperature": "2.86",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "4.26",
+      "medium_temperature": "2.86",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "12 W",
+      "column_2": "12 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "12 W",
+      "column_2": "12 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "12 W",
+      "column_2": "12 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "n/a",
+      "column_2": "n/a",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "0.00 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "14325 kWh",
+      "column_2": "17698 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 12102-1 | Warmer Climate",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "47 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "214 %",
+      "medium_temperature": "160 %",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.54",
+      "medium_temperature": "4.19",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.26",
+      "medium_temperature": "2.86",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "21.39 kW",
+      "medium_temperature": "20.01 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.30",
+      "medium_temperature": "3.78",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "12.51 kW",
+      "medium_temperature": "12.08 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "6.06",
+      "medium_temperature": "4.85",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "4.26",
+      "medium_temperature": "2.86",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "4.26",
+      "medium_temperature": "2.86",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "n/a",
+      "medium_temperature": "n/a",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "0.00 kW",
+      "medium_temperature": "0.00 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qhe",
+      "low_temperature": "7963 kWh",
+      "medium_temperature": "9906 kWh",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Water/Water",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-4 | Heating",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "3.79 kW",
+      "medium_temperature": "9.26 kW",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "6.47",
+      "medium_temperature": "3.77",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "47 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "298 %",
+      "medium_temperature": "214 %",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "7.66",
+      "medium_temperature": "5.54",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "21.69 kW",
+      "medium_temperature": "30.92 kW",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "6.85",
+      "medium_temperature": "4.12",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "15.84 kW",
+      "medium_temperature": "18.82 kW",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "7.75",
+      "medium_temperature": "5.61",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "15.99 kW",
+      "medium_temperature": "15.99 kW",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "8.11",
+      "medium_temperature": "6.32",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "16.15 kW",
+      "medium_temperature": "16.19 kW",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "8.50",
+      "medium_temperature": "6.81",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "6.47",
+      "medium_temperature": "3.77",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "6.47",
+      "medium_temperature": "3.77",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "n/a",
+      "medium_temperature": "n/a",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "0.00 kW",
+      "medium_temperature": "0.00 kW",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qhe",
+      "low_temperature": "6614 kWh",
+      "medium_temperature": "13029 kWh",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "47 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "310 %",
+      "medium_temperature": "222 %",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "7.94",
+      "medium_temperature": "5.74",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "15.93 kW",
+      "medium_temperature": "21.16 kW",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "7.95",
+      "medium_temperature": "5.31",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "16.01 kW",
+      "medium_temperature": "15.95 kW",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "8.15",
+      "medium_temperature": "6.22",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "16.11 kW",
+      "medium_temperature": "16.15 kW",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "8.41",
+      "medium_temperature": "6.70",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "16.11 kW",
+      "medium_temperature": "16.27 kW",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "8.41",
+      "medium_temperature": "7.04",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "6.47",
+      "medium_temperature": "3.77",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "6.47",
+      "medium_temperature": "3.77",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "n/a",
+      "medium_temperature": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "0.00 kW",
+      "medium_temperature": "0.00 kW",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qhe",
+      "low_temperature": "7613 kWh",
+      "medium_temperature": "15016 kWh",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "47 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "302 %",
+      "medium_temperature": "213 %",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "7.76",
+      "medium_temperature": "5.52",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "column_0": "TOL",
+      "column_1": "2 \u00b0C",
+      "column_2": "2 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +2\u00b0C",
+      "column_1": "24.52 kW",
+      "column_2": "34.95 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +2\u00b0C",
+      "column_1": "6.47",
+      "column_2": "3.77",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +7\u00b0C",
+      "column_1": "15.76 kW",
+      "column_2": "22.47 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +7\u00b0C",
+      "column_1": "7.72",
+      "column_2": "4.98",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = 12\u00b0C",
+      "column_1": "16.05 kW",
+      "column_2": "16.06 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = 12\u00b0C",
+      "column_1": "8.25",
+      "column_2": "6.49",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "24.52 kW",
+      "column_2": "34.95 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "6.47",
+      "column_2": "3.77",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "24.52 kW",
+      "column_2": "34.95 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "6.47",
+      "column_2": "3.77",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "1.00",
+      "column_2": "1.00",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "12 W",
+      "column_2": "12 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "12 W",
+      "column_2": "12 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "12 W",
+      "column_2": "12 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "n/a",
+      "column_2": "n/a",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "0.00 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "4223 kWh",
+      "column_2": "8453 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Model Thermia Mega S 3-230 2020",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "thermia_mega_s_3-230_2020": "Heating (medium temp)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "thermia_mega_s_3-230_2020": "Indoor",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "thermia_mega_s_3-230_2020": "Warmer Climate, Colder Climate",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "thermia_mega_s_3-230_2020": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "thermia_mega_s_3-230_2020": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "thermia_mega_s_3-230_2020": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "thermia_mega_s_3-230_2020": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "thermia_mega_s_3-230_2020": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x230v_50hz": "n/a",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Brine/Water",
+      "3x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "20.18 kW",
+      "medium_temperature": "18.93 kW",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "4.26 kW",
+      "medium_temperature": "6.42 kW",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.73",
+      "medium_temperature": "2.95",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "47 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "214 %",
+      "medium_temperature": "159 %",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.55",
+      "medium_temperature": "4.18",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "29.44 kW",
+      "medium_temperature": "27.54 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.63",
+      "medium_temperature": "3.14",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "17.92 kW",
+      "medium_temperature": "16.76 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.57",
+      "medium_temperature": "4.21",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "11.52 kW",
+      "medium_temperature": "11.90 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.11",
+      "medium_temperature": "4.83",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "12.52 kW",
+      "medium_temperature": "12.16 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "6.05": "",
+      "5.00": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = Tbiv",
+      "6.05": "33.28 kW",
+      "5.00": "31.13 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = Tbiv",
+      "6.05": "4.26",
+      "5.00": "2.86",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.05": "33.28 kW",
+      "5.00": "31.13 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.05": "4.26",
+      "5.00": "2.86",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.05": "0.990",
+      "5.00": "0.990",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "WTOL",
+      "6.05": "65 \u00b0C",
+      "5.00": "65 \u00b0C",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Poff",
+      "6.05": "12 W",
+      "5.00": "12 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PTO",
+      "6.05": "12 W",
+      "5.00": "12 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PSB",
+      "6.05": "12 W",
+      "5.00": "12 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PCK",
+      "6.05": "0 W",
+      "5.00": "0 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "6.05": "n/a",
+      "5.00": "n/a",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: PSUP",
+      "6.05": "0.00 kW",
+      "5.00": "0.00 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Annual energy consumption Qhe",
+      "6.05": "12358 kWh",
+      "5.00": "15305 kWh",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "6.05": "",
+      "5.00": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "6.05": "",
+      "5.00": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "EN 12102-1 | Colder Climate",
+      "6.05": "",
+      "5.00": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "47 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "221 %",
+      "medium_temperature": "165 %",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.72",
+      "medium_temperature": "4.33",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "20.14 kW",
+      "medium_temperature": "18.84 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "5.49",
+      "medium_temperature": "3.99",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "12.26 kW",
+      "medium_temperature": "11.47 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "6.11",
+      "medium_temperature": "4.73",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "12.53 kW",
+      "medium_temperature": "12.14 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.10",
+      "medium_temperature": "4.98",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "12.49 kW",
+      "medium_temperature": "12.22 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.91",
+      "medium_temperature": "5.12",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "4.26",
+      "medium_temperature": "2.86",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "4.26",
+      "medium_temperature": "2.86",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "12 W",
+      "column_2": "12 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "12 W",
+      "column_2": "12 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "12 W",
+      "column_2": "12 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "n/a",
+      "column_2": "n/a",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "0.00 kW",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "14325 kWh",
+      "column_2": "17698 kWh",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 12102-1 | Warmer Climate",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "47 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "214 %",
+      "medium_temperature": "160 %",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.54",
+      "medium_temperature": "4.19",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.26",
+      "medium_temperature": "2.86",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "21.39 kW",
+      "medium_temperature": "20.01 kW",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.30",
+      "medium_temperature": "3.78",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "12.51 kW",
+      "medium_temperature": "12.08 kW",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "6.06",
+      "medium_temperature": "4.85",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "4.26",
+      "medium_temperature": "2.86",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "4.26",
+      "medium_temperature": "2.86",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "n/a",
+      "medium_temperature": "n/a",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "0.00 kW",
+      "medium_temperature": "0.00 kW",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qhe",
+      "low_temperature": "7963 kWh",
+      "medium_temperature": "9906 kWh",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Water/Water",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-4 | Heating",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 10,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 10,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 10,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 10,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "3.79 kW",
+      "medium_temperature": "9.26 kW",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "6.47",
+      "medium_temperature": "3.77",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "47 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "298 %",
+      "medium_temperature": "214 %",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "7.66",
+      "medium_temperature": "5.54",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "21.69 kW",
+      "medium_temperature": "30.92 kW",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "6.85",
+      "medium_temperature": "4.12",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "15.84 kW",
+      "medium_temperature": "18.82 kW",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "7.75",
+      "medium_temperature": "5.61",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "15.99 kW",
+      "medium_temperature": "15.99 kW",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "8.11",
+      "medium_temperature": "6.32",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "16.15 kW",
+      "medium_temperature": "16.19 kW",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "8.50",
+      "medium_temperature": "6.81",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "6.47",
+      "medium_temperature": "3.77",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "6.47",
+      "medium_temperature": "3.77",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "n/a",
+      "medium_temperature": "n/a",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "0.00 kW",
+      "medium_temperature": "0.00 kW",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qhe",
+      "low_temperature": "6614 kWh",
+      "medium_temperature": "13029 kWh",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 11,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 11,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "47 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "310 %",
+      "medium_temperature": "222 %",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "7.94",
+      "medium_temperature": "5.74",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "15.93 kW",
+      "medium_temperature": "21.16 kW",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "7.95",
+      "medium_temperature": "5.31",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "16.01 kW",
+      "medium_temperature": "15.95 kW",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "8.15",
+      "medium_temperature": "6.22",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "16.11 kW",
+      "medium_temperature": "16.15 kW",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "8.41",
+      "medium_temperature": "6.70",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "16.11 kW",
+      "medium_temperature": "16.27 kW",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "8.41",
+      "medium_temperature": "7.04",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "6.47",
+      "medium_temperature": "3.77",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "6.47",
+      "medium_temperature": "3.77",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "n/a",
+      "medium_temperature": "n/a",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "0.00 kW",
+      "medium_temperature": "0.00 kW",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qhe",
+      "low_temperature": "7613 kWh",
+      "medium_temperature": "15016 kWh",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "47 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "302 %",
+      "medium_temperature": "213 %",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "7.76",
+      "medium_temperature": "5.52",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "column_0": "TOL",
+      "column_1": "2 \u00b0C",
+      "column_2": "2 \u00b0C",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +2\u00b0C",
+      "column_1": "24.52 kW",
+      "column_2": "34.95 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +2\u00b0C",
+      "column_1": "6.47",
+      "column_2": "3.77",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +7\u00b0C",
+      "column_1": "15.76 kW",
+      "column_2": "22.47 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +7\u00b0C",
+      "column_1": "7.72",
+      "column_2": "4.98",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = 12\u00b0C",
+      "column_1": "16.05 kW",
+      "column_2": "16.06 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = 12\u00b0C",
+      "column_1": "8.25",
+      "column_2": "6.49",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "24.52 kW",
+      "column_2": "34.95 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "6.47",
+      "column_2": "3.77",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "24.52 kW",
+      "column_2": "34.95 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "6.47",
+      "column_2": "3.77",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "1.00",
+      "column_2": "1.00",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "12 W",
+      "column_2": "12 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "12 W",
+      "column_2": "12 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "12 W",
+      "column_2": "12 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "n/a",
+      "column_2": "n/a",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "0.00 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "4223 kWh",
+      "column_2": "8453 kWh",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "": "",
+      "source_page": 14,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Model Thermia Mega S-E 400V",
+      "source_page": 14,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "thermia_mega_s-e_400v": "Heating (medium temp)",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "thermia_mega_s-e_400v": "Indoor",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "thermia_mega_s-e_400v": "Warmer Climate, Colder Climate",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "thermia_mega_s-e_400v": "n/a",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "thermia_mega_s-e_400v": "n/a",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "thermia_mega_s-e_400v": "",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "thermia_mega_s-e_400v": "",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "thermia_mega_s-e_400v": "",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "Yes",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Brine/Water",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "20.18 kW",
+      "medium_temperature": "18.93 kW",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "4.26 kW",
+      "medium_temperature": "6.42 kW",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.73",
+      "medium_temperature": "2.95",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "47 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "214 %",
+      "medium_temperature": "159 %",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.55",
+      "medium_temperature": "4.18",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "29.44 kW",
+      "medium_temperature": "27.54 kW",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.63",
+      "medium_temperature": "3.14",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "17.92 kW",
+      "medium_temperature": "16.76 kW",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.57",
+      "medium_temperature": "4.21",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "11.52 kW",
+      "medium_temperature": "11.90 kW",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.11",
+      "medium_temperature": "4.83",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "12.52 kW",
+      "medium_temperature": "12.16 kW",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "6.05": "",
+      "5.00": "",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = Tbiv",
+      "6.05": "33.28 kW",
+      "5.00": "31.13 kW",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = Tbiv",
+      "6.05": "4.26",
+      "5.00": "2.86",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.05": "33.28 kW",
+      "5.00": "31.13 kW",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.05": "4.26",
+      "5.00": "2.86",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.05": "0.990",
+      "5.00": "0.990",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "WTOL",
+      "6.05": "65 \u00b0C",
+      "5.00": "65 \u00b0C",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Poff",
+      "6.05": "12 W",
+      "5.00": "12 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PTO",
+      "6.05": "12 W",
+      "5.00": "12 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PSB",
+      "6.05": "12 W",
+      "5.00": "12 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PCK",
+      "6.05": "0 W",
+      "5.00": "0 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "6.05": "n/a",
+      "5.00": "n/a",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: PSUP",
+      "6.05": "0.00 kW",
+      "5.00": "0.00 kW",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Annual energy consumption Qhe",
+      "6.05": "12358 kWh",
+      "5.00": "15305 kWh",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "6.05": "",
+      "5.00": "",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "6.05": "",
+      "5.00": "",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "EN 12102-1 | Colder Climate",
+      "6.05": "",
+      "5.00": "",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "47 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "221 %",
+      "medium_temperature": "165 %",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.72",
+      "medium_temperature": "4.33",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "20.14 kW",
+      "medium_temperature": "18.84 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "5.49",
+      "medium_temperature": "3.99",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "12.26 kW",
+      "medium_temperature": "11.47 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "6.11",
+      "medium_temperature": "4.73",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "12.53 kW",
+      "medium_temperature": "12.14 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.10",
+      "medium_temperature": "4.98",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "12.49 kW",
+      "medium_temperature": "12.22 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.91",
+      "medium_temperature": "5.12",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "4.26",
+      "medium_temperature": "2.86",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "4.26",
+      "medium_temperature": "2.86",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 15,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 15,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "12 W",
+      "column_2": "12 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "12 W",
+      "column_2": "12 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "12 W",
+      "column_2": "12 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "n/a",
+      "column_2": "n/a",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "0.00 kW",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "14325 kWh",
+      "column_2": "17698 kWh",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 12102-1 | Warmer Climate",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "47 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "214 %",
+      "medium_temperature": "160 %",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.54",
+      "medium_temperature": "4.19",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.26",
+      "medium_temperature": "2.86",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "21.39 kW",
+      "medium_temperature": "20.01 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.30",
+      "medium_temperature": "3.78",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "12.51 kW",
+      "medium_temperature": "12.08 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "6.06",
+      "medium_temperature": "4.85",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "4.26",
+      "medium_temperature": "2.86",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "33.28 kW",
+      "medium_temperature": "31.13 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "4.26",
+      "medium_temperature": "2.86",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "n/a",
+      "medium_temperature": "n/a",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "0.00 kW",
+      "medium_temperature": "0.00 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qhe",
+      "low_temperature": "7963 kWh",
+      "medium_temperature": "9906 kWh",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Water/Water",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-4 | Heating",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 16,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 16,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 16,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 16,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "3.79 kW",
+      "medium_temperature": "9.26 kW",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "6.47",
+      "medium_temperature": "3.77",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 17,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "47 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 17,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 17,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 17,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 17,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "298 %",
+      "medium_temperature": "214 %",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "7.66",
+      "medium_temperature": "5.54",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "21.69 kW",
+      "medium_temperature": "30.92 kW",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "6.85",
+      "medium_temperature": "4.12",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "15.84 kW",
+      "medium_temperature": "18.82 kW",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "7.75",
+      "medium_temperature": "5.61",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "15.99 kW",
+      "medium_temperature": "15.99 kW",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "8.11",
+      "medium_temperature": "6.32",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "16.15 kW",
+      "medium_temperature": "16.19 kW",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "8.50",
+      "medium_temperature": "6.81",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "6.47",
+      "medium_temperature": "3.77",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "6.47",
+      "medium_temperature": "3.77",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "n/a",
+      "medium_temperature": "n/a",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "0.00 kW",
+      "medium_temperature": "0.00 kW",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qhe",
+      "low_temperature": "6614 kWh",
+      "medium_temperature": "13029 kWh",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 17,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 17,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 17,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "47 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 18,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "310 %",
+      "medium_temperature": "222 %",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "7.94",
+      "medium_temperature": "5.74",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "15.93 kW",
+      "medium_temperature": "21.16 kW",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "7.95",
+      "medium_temperature": "5.31",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "16.01 kW",
+      "medium_temperature": "15.95 kW",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "8.15",
+      "medium_temperature": "6.22",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "16.11 kW",
+      "medium_temperature": "16.15 kW",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "8.41",
+      "medium_temperature": "6.70",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "16.11 kW",
+      "medium_temperature": "16.27 kW",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "8.41",
+      "medium_temperature": "7.04",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "6.47",
+      "medium_temperature": "3.77",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "6.47",
+      "medium_temperature": "3.77",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "12 W",
+      "medium_temperature": "12 W",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "n/a",
+      "medium_temperature": "n/a",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "0.00 kW",
+      "medium_temperature": "0.00 kW",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qhe",
+      "low_temperature": "7613 kWh",
+      "medium_temperature": "15016 kWh",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 18,
+      "source_table": 2,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "47 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 18,
+      "source_table": 3,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "302 %",
+      "medium_temperature": "213 %",
+      "source_page": 18,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "24.52 kW",
+      "medium_temperature": "34.95 kW",
+      "source_page": 18,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "7.76",
+      "medium_temperature": "5.52",
+      "source_page": 18,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 18,
+      "source_table": 4,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 18,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 18,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "column_0": "TOL",
+      "column_1": "2 \u00b0C",
+      "column_2": "2 \u00b0C",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +2\u00b0C",
+      "column_1": "24.52 kW",
+      "column_2": "34.95 kW",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +2\u00b0C",
+      "column_1": "6.47",
+      "column_2": "3.77",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +7\u00b0C",
+      "column_1": "15.76 kW",
+      "column_2": "22.47 kW",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +7\u00b0C",
+      "column_1": "7.72",
+      "column_2": "4.98",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = 12\u00b0C",
+      "column_1": "16.05 kW",
+      "column_2": "16.06 kW",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = 12\u00b0C",
+      "column_1": "8.25",
+      "column_2": "6.49",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "24.52 kW",
+      "column_2": "34.95 kW",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "6.47",
+      "column_2": "3.77",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "24.52 kW",
+      "column_2": "34.95 kW",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "6.47",
+      "column_2": "3.77",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "1.00",
+      "column_2": "1.00",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "12 W",
+      "column_2": "12 W",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "12 W",
+      "column_2": "12 W",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "12 W",
+      "column_2": "12 W",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "n/a",
+      "column_2": "n/a",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "0.00 kW",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "4223 kWh",
+      "column_2": "8453 kWh",
+      "source_page": 19,
+      "source_table": 1,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 19,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 19,
+      "source_table": null,
+      "model_id": "Thermia_Mega_S_Brine_Water_and_Water_Water_16"
+    }
+  ]
+}

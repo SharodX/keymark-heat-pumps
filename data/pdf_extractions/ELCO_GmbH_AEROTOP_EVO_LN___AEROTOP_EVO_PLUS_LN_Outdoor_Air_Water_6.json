@@ -1,0 +1,3137 @@
+{
+  "source_pdf": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6.pdf",
+  "extraction_timestamp": "2025-11-17T15:23:16.782301",
+  "total_records": 369,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype AEROTOP EVO LN / AEROTOP EVO PLUS LN",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "elco_gmbh": "Hohenzollernstrasse 31",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "elco_gmbh": "72379",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "elco_gmbh": "Hechingen",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "elco_gmbh": "DE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "elco_gmbh": "ICIM S.p.A.",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "elco_gmbh": "AEROTOP EVO LN / AEROTOP EVO PLUS LN",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "elco_gmbh": "ICIM-PDC-000245",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "elco_gmbh": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "elco_gmbh": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "elco_gmbh": "7.9 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "elco_gmbh": "21.03.2024",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "elco_gmbh": "HP KEYMARK certification scheme rules rev. no. 7",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Model AEROTOP EVO PLUS LN 24",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "aerotop_evo_plus_ln_24": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "aerotop_evo_plus_ln_24": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "aerotop_evo_plus_ln_24": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "aerotop_evo_plus_ln_24": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "aerotop_evo_plus_ln_24": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "aerotop_evo_plus_ln_24": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aerotop_evo_plus_ln_24": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aerotop_evo_plus_ln_24": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "aerotop_evo_plus_ln_24": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-2 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "21.50 kW",
+      "medium_temperature": "17.60 kW",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "4.76 kW",
+      "medium_temperature": "6.64 kW",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.52",
+      "medium_temperature": "2.62",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "69 dB(A)",
+      "medium_temperature": "69 dB(A)",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "174 %",
+      "medium_temperature": "126 %",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "14.28 kW",
+      "medium_temperature": "14.49 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.41",
+      "medium_temperature": "3.24",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-6 \u00b0C",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "12.63 kW",
+      "medium_temperature": "11.86 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.56",
+      "medium_temperature": "2.02",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.970",
+      "medium_temperature": "0.980",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "10.50 kW",
+      "medium_temperature": "9.50 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.72",
+      "medium_temperature": "3.20",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.970",
+      "medium_temperature": "0.980",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "12.42 kW",
+      "medium_temperature": "11.10 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.65",
+      "medium_temperature": "4.40",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.970",
+      "medium_temperature": "0.980",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "14.75 kW",
+      "medium_temperature": "13.45 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.42",
+      "medium_temperature": "6.15",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.970",
+      "medium_temperature": "0.980",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "12.63 kW",
+      "medium_temperature": "12.26 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "2.56",
+      "medium_temperature": "2.09",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "11.39_kw": "2.33",
+      "8.63_kw": "1.40",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "11.39_kw": "0.970",
+      "8.63_kw": "0.980",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "11.39_kw": "35 \u00b0C",
+      "8.63_kw": "55 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "11.39_kw": "50 W",
+      "8.63_kw": "50 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "11.39_kw": "100 W",
+      "8.63_kw": "100 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "11.39_kw": "50 W",
+      "8.63_kw": "50 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "11.39_kw": "10 W",
+      "8.63_kw": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "11.39_kw": "n/a",
+      "8.63_kw": "n/a",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "11.39_kw": "2.89 kW",
+      "8.63_kw": "5.86 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "11.39_kw": "6681 kWh",
+      "8.63_kw": "9272 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 2.89 kW 5.86 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6"
+    },
+    {
+      "": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Model AEROTOP EVO PLUS LN 27",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "aerotop_evo_plus_ln_27": "Heating (medium temp)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "aerotop_evo_plus_ln_27": "Outdoor",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "aerotop_evo_plus_ln_27": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "aerotop_evo_plus_ln_27": "Yes",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "aerotop_evo_plus_ln_27": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "aerotop_evo_plus_ln_27": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aerotop_evo_plus_ln_27": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aerotop_evo_plus_ln_27": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "aerotop_evo_plus_ln_27": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-2 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "24.30 kW",
+      "medium_temperature": "19.70 kW",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "5.54 kW",
+      "medium_temperature": "7.70 kW",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.40",
+      "medium_temperature": "2.56",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "71 dB(A)",
+      "medium_temperature": "71 dB(A)",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "172 %",
+      "medium_temperature": "126 %",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "17.18 kW",
+      "medium_temperature": "15.92 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.38",
+      "medium_temperature": "3.23",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-6 \u00b0C",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "15.20 kW",
+      "medium_temperature": "13.03 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.50",
+      "medium_temperature": "1.98",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.970",
+      "medium_temperature": "0.980",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "10.57 kW",
+      "medium_temperature": "9.50 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.62",
+      "medium_temperature": "3.20",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.970",
+      "medium_temperature": "0.980",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "12.50 kW",
+      "medium_temperature": "11.47 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "2.60",
+      "medium_temperature": "4.41",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.970",
+      "medium_temperature": "0.980",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "14.82 kW",
+      "medium_temperature": "13.80 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.32",
+      "medium_temperature": "6.14",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.970",
+      "medium_temperature": "0.980",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "15.20 kW",
+      "medium_temperature": "13.47 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "2.50",
+      "medium_temperature": "2.07",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "14.41_kw": "2.39",
+      "9.09_kw": "1.35",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "14.41_kw": "0.970",
+      "9.09_kw": "0.980",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "14.41_kw": "35 \u00b0C",
+      "9.09_kw": "55 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "14.41_kw": "50 W",
+      "9.09_kw": "50 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "14.41_kw": "100 W",
+      "9.09_kw": "100 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "14.41_kw": "50 W",
+      "9.09_kw": "50 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "14.41_kw": "10 W",
+      "9.09_kw": "10 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "14.41_kw": "n/a",
+      "9.09_kw": "n/a",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "14.41_kw": "2.77 kW",
+      "9.09_kw": "6.83 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "14.41_kw": "8100 kWh",
+      "9.09_kw": "10191 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 2.77 kW 6.83 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6"
+    },
+    {
+      "": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Model AEROTOP EVO PLUS LN 32",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "aerotop_evo_plus_ln_32": "Heating (medium temp)",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "aerotop_evo_plus_ln_32": "Outdoor",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "aerotop_evo_plus_ln_32": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "aerotop_evo_plus_ln_32": "Yes",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "aerotop_evo_plus_ln_32": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "aerotop_evo_plus_ln_32": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aerotop_evo_plus_ln_32": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aerotop_evo_plus_ln_32": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "aerotop_evo_plus_ln_32": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-2 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "26.90 kW",
+      "medium_temperature": "21.80 kW",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "6.17 kW",
+      "medium_temperature": "8.27 kW",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.35",
+      "medium_temperature": "2.64",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "72 dB(A)",
+      "medium_temperature": "72 dB(A)",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "171 %",
+      "medium_temperature": "126 %",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "19.55 kW",
+      "medium_temperature": "17.21 kW",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.35",
+      "medium_temperature": "3.22",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-6 \u00b0C",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "17.29 kW",
+      "medium_temperature": "14.09 kW",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.38",
+      "medium_temperature": "1.97",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.970",
+      "medium_temperature": "0.980",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "10.68 kW",
+      "medium_temperature": "9.31 kW",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.59",
+      "medium_temperature": "3.19",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.970",
+      "medium_temperature": "0.980",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "12.52 kW",
+      "medium_temperature": "11.10 kW",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.60",
+      "medium_temperature": "4.40",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.970",
+      "medium_temperature": "0.980",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "14.85 kW",
+      "medium_temperature": "13.45 kW",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.30",
+      "medium_temperature": "6.15",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.970",
+      "medium_temperature": "0.980",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "17.29 kW",
+      "medium_temperature": "14.56 kW",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "2.38",
+      "medium_temperature": "2.00",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "16.06_kw": "2.32",
+      "10.21_kw": "1.40",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "16.06_kw": "0.970",
+      "10.21_kw": "0.980",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "16.06_kw": "35 \u00b0C",
+      "10.21_kw": "55 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "16.06_kw": "50 W",
+      "10.21_kw": "50 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "16.06_kw": "100 W",
+      "10.21_kw": "100 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "16.06_kw": "50 W",
+      "10.21_kw": "50 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "16.06_kw": "10 W",
+      "10.21_kw": "10 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "16.06_kw": "n/a",
+      "10.21_kw": "n/a",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "16.06_kw": "3.49 kW",
+      "10.21_kw": "7.00 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "16.06_kw": "9282 kWh",
+      "10.21_kw": "11062 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 3.49 kW 7.00 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6"
+    },
+    {
+      "": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Model AEROTOP EVO LN 24",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "aerotop_evo_ln_24": "Heating (low temp)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "aerotop_evo_ln_24": "Outdoor",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "aerotop_evo_ln_24": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "aerotop_evo_ln_24": "Yes",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "aerotop_evo_ln_24": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "aerotop_evo_ln_24": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aerotop_evo_ln_24": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aerotop_evo_ln_24": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "aerotop_evo_ln_24": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-2 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "21.10 kW",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "4.86 kW",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.35",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "72 dB(A)",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "72 dB(A)",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "164 %",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "15.95 kW",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.18",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "14.11 kW",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.60",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.980",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "10.50 kW",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.48",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.980",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "12.42 kW",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.30",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.980",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "14.75 kW",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "6.51",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.980",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "14.11 kW",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "2.60": "13.07 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "2.60": "2.50",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "2.60": "0.980",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "WTOL",
+      "2.60": "35 \u00b0C",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Poff",
+      "2.60": "50 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PTO",
+      "2.60": "100 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PSB",
+      "2.60": "50 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PCK",
+      "2.60": "10 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Supplementary Heater: Type of energy\ninput",
+      "2.60": "n/a",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Supplementary Heater: PSUP",
+      "2.60": "2.88 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Annual energy consumption Qhe",
+      "2.60": "7886 kWh",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 2.88 kW",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6"
+    },
+    {
+      "": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Model AEROTOP EVO LN 27",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "aerotop_evo_ln_27": "Heating (low temp)",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "aerotop_evo_ln_27": "Outdoor",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "aerotop_evo_ln_27": "n/a",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "aerotop_evo_ln_27": "Yes",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "aerotop_evo_ln_27": "n/a",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "aerotop_evo_ln_27": "n/a",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aerotop_evo_ln_27": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aerotop_evo_ln_27": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "aerotop_evo_ln_27": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-2 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "24.50 kW",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "5.79 kW",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.24",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "73 dB(A)",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "162 %",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "18.60 kW",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.12",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "16.44 kW",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.43",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.950",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "11.20 kW",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.38",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.950",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "12.42 kW",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.30",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.950",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "14.75 kW",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "6.51",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.950",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "16.44 kW",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "2.43",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "15.36_kw": "2.35",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "15.36_kw": "0.950",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "15.36_kw": "35 \u00b0C",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "15.36_kw": "50 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "15.36_kw": "100 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "15.36_kw": "50 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "15.36_kw": "10 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "15.36_kw": "n/a",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "15.36_kw": "3.22 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "15.36_kw": "9320 kWh",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a",
+      "source_page": 11,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 3.22 kW",
+      "source_page": 11,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6"
+    },
+    {
+      "": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Model AEROTOP EVO LN 32",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "aerotop_evo_ln_32": "Heating (low temp)",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "aerotop_evo_ln_32": "Outdoor",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "aerotop_evo_ln_32": "n/a",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "aerotop_evo_ln_32": "Yes",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "aerotop_evo_ln_32": "n/a",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "aerotop_evo_ln_32": "n/a",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aerotop_evo_ln_32": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aerotop_evo_ln_32": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "aerotop_evo_ln_32": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-2 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "27.50 kW",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "6.51 kW",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.22",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "73 dB(A)",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "159 %",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "20.60 kW",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.05",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "18.20 kW",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.30",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.950",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "12.00 kW",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.28",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.950",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "12.52 kW",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.22",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.950",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "14.85 kW",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "6.51",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.950",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "18.20 kW",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "2.30",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "17.09_kw": "2.28",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "17.09_kw": "0.950",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "17.09_kw": "35 \u00b0C",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "17.09_kw": "50 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "17.09_kw": "100 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "17.09_kw": "50 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "17.09_kw": "10 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "17.09_kw": "n/a",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "17.09_kw": "3.48 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "17.09_kw": "10501 kWh",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 3.48 kW",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_EVO_LN___AEROTOP_EVO_PLUS_LN_Outdoor_Air_Water_6"
+    }
+  ]
+}

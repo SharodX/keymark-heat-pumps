@@ -1,0 +1,2931 @@
+{
+  "source_pdf": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9.pdf",
+  "extraction_timestamp": "2025-11-17T15:54:56.603903",
+  "total_records": 340,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype HA 7-5 OS 230V",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "saunier_duval_brand_group": "SDECCI SAS - 17 rue de la Petite Baratte",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "saunier_duval_brand_group": "44300",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "saunier_duval_brand_group": "Nantes",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "saunier_duval_brand_group": "FR",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "saunier_duval_brand_group": "DIN CERTCO Gesellschaft f\u00fcr Konformit\u00e4tsbewertung mbH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "saunier_duval_brand_group": "HA 7-5 OS 230V",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "saunier_duval_brand_group": "011-1W0763",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "saunier_duval_brand_group": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "saunier_duval_brand_group": "R410A",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "saunier_duval_brand_group": "2.39 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "saunier_duval_brand_group": "27.04.2021",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "saunier_duval_brand_group": "DIN EN 14511-1:2019-07; EN 14511-1:2018; DIN EN\n14511-2:2019-07; EN 14511-2:2018; DIN EN\n14511-3:2019-07; EN 14511-3:2018; DIN EN\n14511-4:2019-07; EN 14511-4:2018; DIN EN\n14825:2019-07; EN 14825:2018; DIN EN\n12102-1:2018-02; EN 12102-1:2017",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "label": "testing_basis_din_en_14511-1",
+      "value": "2019-07; EN 14511-1:2018; DIN EN",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "14511-2",
+      "value": "2019-07; EN 14511-2:2018; DIN EN",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "14511-3",
+      "value": "2019-07; EN 14511-3:2018; DIN EN",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "14511-4",
+      "value": "2019-07; EN 14511-4:2018; DIN EN",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "14825",
+      "value": "2019-07; EN 14825:2018; DIN EN",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "12102-1",
+      "value": "2018-02; EN 12102-1:2017",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9"
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Model HA 7-5 OS 230V + HA 7-5 WSB",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ha_7-5_os_230v_+_ha_7-5_wsb": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ha_7-5_os_230v_+_ha_7-5_wsb": "Indoor, Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ha_7-5_os_230v_+_ha_7-5_wsb": "Warmer Climate, Colder Climate",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "ha_7-5_os_230v_+_ha_7-5_wsb": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ha_7-5_os_230v_+_ha_7-5_wsb": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ha_7-5_os_230v_+_ha_7-5_wsb": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ha_7-5_os_230v_+_ha_7-5_wsb": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ha_7-5_os_230v_+_ha_7-5_wsb": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ha_7-5_os_230v_+_ha_7-5_wsb": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "5.78 kW",
+      "medium_temperature": "4.95 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.26 kW",
+      "medium_temperature": "1.84 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.58",
+      "medium_temperature": "2.69",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "43 dB(A)",
+      "medium_temperature": "43 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "54 dB(A)",
+      "medium_temperature": "54 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "173 %",
+      "medium_temperature": "133 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "7.08 kW",
+      "medium_temperature": "6.36 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.40",
+      "medium_temperature": "3.39",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "6.30 kW",
+      "medium_temperature": "5.62 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.58",
+      "medium_temperature": "2.00",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "3.90 kW",
+      "medium_temperature": "3.31 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.37",
+      "medium_temperature": "3.29",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.990",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = +7\u00b0C",
+      "2.72_kw": "5.86",
+      "2.69_kw": "4.62",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "2.72_kw": "0.980",
+      "2.69_kw": "0.980",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "2.72_kw": "3.28 kW",
+      "2.69_kw": "3.21 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "2.72_kw": "7.54",
+      "2.69_kw": "6.27",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "2.72_kw": "0.980",
+      "2.69_kw": "0.980",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "2.72_kw": "6.26 kW",
+      "2.69_kw": "5.62 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "2.72_kw": "2.57",
+      "2.69_kw": "2.00",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "2.72_kw": "5.66 kW",
+      "2.69_kw": "4.92 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "2.72_kw": "2.38",
+      "2.69_kw": "1.84",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "2.72_kw": "1.000",
+      "2.69_kw": "1.000",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "WTOL",
+      "2.72_kw": "55 \u00b0C",
+      "2.69_kw": "55 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Poff",
+      "2.72_kw": "11 W",
+      "2.69_kw": "11 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PTO",
+      "2.72_kw": "11 W",
+      "2.69_kw": "11 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PSB",
+      "2.72_kw": "11 W",
+      "2.69_kw": "11 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PCK",
+      "2.72_kw": "0 W",
+      "2.69_kw": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "2.72_kw": "Electricity",
+      "2.69_kw": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "2.72_kw": "1.42 kW",
+      "2.69_kw": "1.44 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "2.72_kw": "3324 kWh",
+      "2.69_kw": "3869 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "",
+      "2.72_kw": "",
+      "2.69_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "",
+      "2.72_kw": "",
+      "2.69_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "EN 12102-1 | Colder Climate",
+      "2.72_kw": "",
+      "2.69_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "43 dB(A)",
+      "medium_temperature": "43 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "54 dB(A)",
+      "medium_temperature": "54 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "156 %",
+      "medium_temperature": "117 %",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "6.60 kW",
+      "medium_temperature": "5.36 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.96",
+      "medium_temperature": "3.00",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "3.89 kW",
+      "medium_temperature": "3.55 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.51",
+      "medium_temperature": "2.53",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.990",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "2.31 kW",
+      "medium_temperature": "2.33 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.66",
+      "medium_temperature": "3.78",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.980",
+      "medium_temperature": "0.980",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "2.77 kW",
+      "medium_temperature": "2.77 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.19",
+      "medium_temperature": "6.19",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.980",
+      "medium_temperature": "0.980",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "3.20 kW",
+      "medium_temperature": "3.25 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.55",
+      "medium_temperature": "6.81",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.42 kW 1.44 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9"
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "0.980",
+      "column_2": "0.980",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "5.39 kW",
+      "column_2": "4.37 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "2.48",
+      "column_2": "1.72",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "3.75 kW",
+      "column_2": "4.37 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "2.09",
+      "column_2": "1.72",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "0.990",
+      "column_2": "1.000",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "55 \u00b0C",
+      "column_2": "55 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "11 W",
+      "column_2": "11 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "11 W",
+      "column_2": "11 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "11 W",
+      "column_2": "11 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "6.60 kW",
+      "column_2": "5.36 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "4106 kWh",
+      "column_2": "4401 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = -15\u00b0C (if TOL",
+      "column_1": "3.36",
+      "column_2": "4.37",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = -15\u00b0C (if TOL",
+      "column_1": "1.94",
+      "column_2": "1.72",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = -15 \u00b0C",
+      "column_1": "0.990",
+      "column_2": "1.000",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 12102-1 | Warmer Climate",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "43 dB(A)",
+      "medium_temperature": "43 dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "54 dB(A)",
+      "medium_temperature": "54 dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "239 %",
+      "medium_temperature": "159 %",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "4.51 kW",
+      "medium_temperature": "3.94 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.04",
+      "medium_temperature": "4.05",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.51 kW",
+      "medium_temperature": "3.94 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.68",
+      "medium_temperature": "2.30",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "2.81 kW",
+      "medium_temperature": "2.45 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.55",
+      "medium_temperature": "3.38",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "3.20 kW",
+      "medium_temperature": "3.15 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.35",
+      "medium_temperature": "5.43",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.98",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "4.51 kW",
+      "medium_temperature": "3.94 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.68",
+      "medium_temperature": "2.30",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "4.51 kW",
+      "medium_temperature": "3.94 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 6.60 kW 5.36 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9"
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.68": "0.99",
+      "2.30": "0.99",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "3.68": "55 \u00b0C",
+      "2.30": "55 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "3.68": "11 W",
+      "2.30": "11 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "3.68": "11 W",
+      "2.30": "11 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "3.68": "11 W",
+      "2.30": "11 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "3.68": "0 W",
+      "2.30": "0 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "3.68": "Electricity",
+      "2.30": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "3.68": "0.00 kW",
+      "2.30": "0.00 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "3.68": "997 kWh",
+      "2.30": "1300 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9"
+    },
+    {
+      "": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Model HA 7-5 OS 230V + HA 7-5 STB",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ha_7-5_os_230v_+_ha_7-5_stb": "Heating + DHW + low temp",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ha_7-5_os_230v_+_ha_7-5_stb": "Indoor, Outdoor",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ha_7-5_os_230v_+_ha_7-5_stb": "Warmer Climate, Colder Climate",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "ha_7-5_os_230v_+_ha_7-5_stb": "Yes",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ha_7-5_os_230v_+_ha_7-5_stb": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ha_7-5_os_230v_+_ha_7-5_stb": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ha_7-5_os_230v_+_ha_7-5_stb": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ha_7-5_os_230v_+_ha_7-5_stb": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ha_7-5_os_230v_+_ha_7-5_stb": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "109 %",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.73",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "01:45 h:min",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "80.0 W",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "50.7 \u00b0C",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "246 l",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 16147 | Colder Climate",
+      "xl": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "99 %",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.48",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "02:03 h:min",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "90.0 W",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "46.9 \u00b0C",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "246 l",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 16147 | Warmer Climate",
+      "xl": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "130 %",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "3.26",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "01:28 h:min",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "70.0 W",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "51.2 \u00b0C",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "242 l",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "xl": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_01",
+      "value": "45 h:min",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "heating_up_time_02",
+      "value": "03 h:min",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "heating_up_time_01",
+      "value": "28 h:min",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9"
+    },
+    {
+      "defrost_test": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "defrost_test": "",
+      "passed": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "defrost_test": "",
+      "passed": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "defrost_test": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "5.78 kW",
+      "medium_temperature": "4.95 kW",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.26 kW",
+      "medium_temperature": "1.84 kW",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.58",
+      "medium_temperature": "2.69",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "41 dB(A)",
+      "medium_temperature": "44 dB(A)",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "54 dB(A)",
+      "medium_temperature": "54 dB(A)",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "173 %",
+      "medium_temperature": "133 %",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "7.08 kW",
+      "medium_temperature": "6.36 kW",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.40",
+      "medium_temperature": "3.39",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "6.30 kW",
+      "medium_temperature": "5.62 kW",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.58",
+      "medium_temperature": "2.00",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "3.90 kW",
+      "medium_temperature": "3.31 kW",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.37",
+      "medium_temperature": "3.29",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.990",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "2.72 kW",
+      "medium_temperature": "2.69 kW",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.86",
+      "medium_temperature": "4.62",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.980",
+      "medium_temperature": "0.980",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "3.28 kW",
+      "medium_temperature": "3.21 kW",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.54",
+      "medium_temperature": "6.27",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.980",
+      "medium_temperature": "0.980",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "6.26 kW",
+      "medium_temperature": "5.62 kW",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "2.57",
+      "medium_temperature": "2.00",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "5.66 kW",
+      "medium_temperature": "4.92 kW",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "2.38",
+      "medium_temperature": "1.84",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "55 \u00b0C",
+      "medium_temperature": "55 \u00b0C",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "11 W",
+      "medium_temperature": "11 W",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "11 W",
+      "medium_temperature": "11 W",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "11 W",
+      "medium_temperature": "11 W",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 7,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "1.42 kW",
+      "column_2": "1.44 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "3324 kWh",
+      "column_2": "3869 kWh",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 12102-1 | Colder Climate",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "41 dB(A)",
+      "medium_temperature": "44 dB(A)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "54 dB(A)",
+      "medium_temperature": "54 dB(A)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "156 %",
+      "medium_temperature": "117 %",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "6.60 kW",
+      "medium_temperature": "5.36 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.96",
+      "medium_temperature": "3.00",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "3.89 kW",
+      "medium_temperature": "3.55 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.51",
+      "medium_temperature": "2.53",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.990",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "2.31 kW",
+      "medium_temperature": "2.33 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.66",
+      "medium_temperature": "3.78",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.980",
+      "medium_temperature": "0.980",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "2.77 kW",
+      "medium_temperature": "2.77 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.19",
+      "medium_temperature": "6.19",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.980",
+      "medium_temperature": "0.980",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "3.20 kW",
+      "medium_temperature": "3.25 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.55",
+      "medium_temperature": "6.81",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.980",
+      "medium_temperature": "0.980",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "5.39 kW",
+      "medium_temperature": "4.37 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "2.48",
+      "medium_temperature": "1.72",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "3.75 kW",
+      "medium_temperature": "4.37 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "2.09",
+      "medium_temperature": "1.72",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.990",
+      "medium_temperature": "1.000",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "55 \u00b0C",
+      "medium_temperature": "55 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "11 W",
+      "medium_temperature": "11 W",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "11 W",
+      "medium_temperature": "11 W",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "11 W",
+      "medium_temperature": "11 W",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "Electricity",
+      "medium_temperature": "Electricity",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "6.60 kW",
+      "medium_temperature": "5.36 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qhe",
+      "low_temperature": "4106 kWh",
+      "medium_temperature": "4401 kWh",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -15\u00b0C (if TOL",
+      "low_temperature": "3.36",
+      "medium_temperature": "4.37",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.42 kW 1.44 kW",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 6.60 kW 5.36 kW",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9"
+    },
+    {
+      "cop_tj_=_-15\u00b0c_(if_tol": "Cdh Tj = -15 \u00b0C",
+      "1.94": "0.990",
+      "1.72": "1.000",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-15\u00b0c_(if_tol": "",
+      "1.94": "",
+      "1.72": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-15\u00b0c_(if_tol": "",
+      "1.94": "",
+      "1.72": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_-15\u00b0c_(if_tol": "EN 12102-1 | Warmer Climate",
+      "1.94": "",
+      "1.72": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "41 dB(A)",
+      "medium_temperature": "44 dB(A)",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "54 dB(A)",
+      "medium_temperature": "54 dB(A)",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "239 %",
+      "medium_temperature": "159 %",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "4.51 kW",
+      "medium_temperature": "3.94 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.04",
+      "medium_temperature": "4.05",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.51 kW",
+      "medium_temperature": "3.94 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.68",
+      "medium_temperature": "2.30",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "2.81 kW",
+      "medium_temperature": "2.45 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.55",
+      "medium_temperature": "3.38",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "3.20 kW",
+      "medium_temperature": "3.15 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.35",
+      "medium_temperature": "5.43",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.98",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "4.51 kW",
+      "medium_temperature": "3.94 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.68",
+      "medium_temperature": "2.30",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "4.51 kW",
+      "medium_temperature": "3.94 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "3.68",
+      "medium_temperature": "2.30",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "55 \u00b0C",
+      "medium_temperature": "55 \u00b0C",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "11 W",
+      "medium_temperature": "11 W",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "11 W",
+      "medium_temperature": "11 W",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "11 W",
+      "medium_temperature": "11 W",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "Electricity",
+      "medium_temperature": "Electricity",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "0.00 kW",
+      "medium_temperature": "0.00 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qhe",
+      "low_temperature": "997 kWh",
+      "medium_temperature": "1300 kWh",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Saunier_Duval_Brand_Group_HA_7-5_OS_230V_Outdoor_Air_Water_9"
+    }
+  ]
+}

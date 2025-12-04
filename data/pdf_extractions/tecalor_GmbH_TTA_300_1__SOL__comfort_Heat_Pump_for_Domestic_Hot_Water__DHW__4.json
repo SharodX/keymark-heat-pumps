@@ -1,0 +1,639 @@
+{
+  "source_pdf": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4.pdf",
+  "extraction_timestamp": "2025-11-17T16:02:20.738425",
+  "total_records": 80,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype TTA 300.1 (SOL) comfort",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "tecalor_gmbh": "L\u00fcchtringer Weg 3",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "tecalor_gmbh": "37603",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "tecalor_gmbh": "Holzminden",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "tecalor_gmbh": "DE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "tecalor_gmbh": "DIN CERTCO Gesellschaft f\u00fcr Konformit\u00e4tsbewertung mbH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "tecalor_gmbh": "TTA 300.1 (SOL) comfort",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "tecalor_gmbh": "011-1W0966",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "tecalor_gmbh": "Heat Pump for Domestic Hot Water (DHW)",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "tecalor_gmbh": "R290",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "tecalor_gmbh": "0.152 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "tecalor_gmbh": "14.01.2025",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "tecalor_gmbh": "HP KEYMARK certification scheme rules V14",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "": "Model TTA 300.1 comfort",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "tta_300.1_comfort": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "tta_300.1_comfort": "Indoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "tta_300.1_comfort": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Heat Source",
+      "tta_300.1_comfort": "Indoor Air",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "tta_300.1_comfort": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "tta_300.1_comfort": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "tta_300.1_comfort": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "tta_300.1_comfort": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "tta_300.1_comfort": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "No",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Heat Pump for Domestic Hot Water (DHW)",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Operating test",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "Safety devices checking test",
+      "2": "2",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "Condensate draining",
+      "2": "2",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "",
+      "2": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "",
+      "2": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "EN 12102-2 | Average Climate",
+      "2": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "",
+      "59_db(a)": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "",
+      "59_db(a)": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "EN 16147 | Average Climate",
+      "59_db(a)": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "169 %",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "4.12",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "8:55 h:min",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "19.0 W",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "54.2 \u00b0C",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "436 l",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_8",
+      "value": "55 h:min",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4"
+    },
+    {
+      "": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "": "Model TTA 300.1 SOL comfort",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "tta_300.1_sol_comfort": "n/a",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "tta_300.1_sol_comfort": "Indoor",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "tta_300.1_sol_comfort": "n/a",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Heat Source",
+      "tta_300.1_sol_comfort": "Indoor Air",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "tta_300.1_sol_comfort": "n/a",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "tta_300.1_sol_comfort": "n/a",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "tta_300.1_sol_comfort": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "tta_300.1_sol_comfort": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "tta_300.1_sol_comfort": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "No",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Heat Pump for Domestic Hot Water (DHW)",
+      "1x230v_50hz": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Operating test",
+      "1x230v_50hz": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "Safety devices checking test",
+      "2": "2",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "Condensate draining",
+      "2": "2",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "",
+      "2": "",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "",
+      "2": "",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "temperature_operating_range": "EN 12102-2 | Average Climate",
+      "2": "",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "",
+      "59_db(a)": "",
+      "source_page": 3,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "",
+      "59_db(a)": "",
+      "source_page": 3,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "EN 16147 | Average Climate",
+      "59_db(a)": "",
+      "source_page": 3,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "174 %",
+      "source_page": 3,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "4.26",
+      "source_page": 3,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "8:23 h:min",
+      "source_page": 3,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "18.0 W",
+      "source_page": 3,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "53.8 \u00b0C",
+      "source_page": 3,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "413 l",
+      "source_page": 3,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_8",
+      "value": "23 h:min",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "tecalor_GmbH_TTA_300_1__SOL__comfort_Heat_Pump_for_Domestic_Hot_Water__DHW__4"
+    }
+  ]
+}

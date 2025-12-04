@@ -1,0 +1,969 @@
+{
+  "source_pdf": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93.pdf",
+  "extraction_timestamp": "2025-11-17T15:52:35.592093",
+  "total_records": 122,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype WWK 301 electronic",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "stiebel_eltron_gmbh_&_co_kg": "Dr. Stiebel Stra\u00dfe 33",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "stiebel_eltron_gmbh_&_co_kg": "37603",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "stiebel_eltron_gmbh_&_co_kg": "Holzminden",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "stiebel_eltron_gmbh_&_co_kg": "DE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "stiebel_eltron_gmbh_&_co_kg": "DIN CERTCO Gesellschaft f\u00fcr Konformit\u00e4tsbewertung mbH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "stiebel_eltron_gmbh_&_co_kg": "WWK 301 electronic",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "stiebel_eltron_gmbh_&_co_kg": "011-1W0115",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "stiebel_eltron_gmbh_&_co_kg": "Heat Pump for Domestic Hot Water (DHW)",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "stiebel_eltron_gmbh_&_co_kg": "R134a",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "stiebel_eltron_gmbh_&_co_kg": "0.85 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "": "Model WWK 301 electronic",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "wwk_301_electronic": "Heating + DHW",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "wwk_301_electronic": "Indoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "wwk_301_electronic": "Warmer Climate, Colder Climate",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "wwk_301_electronic": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "wwk_301_electronic": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wwk_301_electronic": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wwk_301_electronic": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "wwk_301_electronic": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "No",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Heat Pump for Domestic Hot Water (DHW)",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 12102-2 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "",
+      "60_db(a)": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "",
+      "60_db(a)": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "EN 16147 | Average Climate",
+      "60_db(a)": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "154 %",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "3.75",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "9:16 h:min",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "58.0 W",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "54.2 \u00b0C",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "422 l",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_9",
+      "value": "16 h:min",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93"
+    },
+    {
+      "": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "": "Model WWK 301 electronic",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "wwk_301_electronic": "Heating + DHW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "wwk_301_electronic": "Indoor, Outdoor",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "wwk_301_electronic": "Warmer Climate, Colder Climate",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "wwk_301_electronic": "n/a",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "wwk_301_electronic": "n/a",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wwk_301_electronic": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wwk_301_electronic": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "wwk_301_electronic": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "No",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Heat Pump for Domestic Hot Water (DHW)",
+      "1x230v_50hz": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 12102-2 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "Sound power level outdoor",
+      "52_db(a)": "48 dB(A)",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "",
+      "52_db(a)": "",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "",
+      "52_db(a)": "",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "EN 16147 | Average Climate",
+      "52_db(a)": "",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "132 %",
+      "source_page": 3,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "3.22",
+      "source_page": 3,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "11:19 h:min",
+      "source_page": 3,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "68.0 W",
+      "source_page": 3,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "54.3 \u00b0C",
+      "source_page": 3,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "422 l",
+      "source_page": 3,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_11",
+      "value": "19 h:min",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93"
+    },
+    {
+      "": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "": "Model WWK 301 electronic SOL",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "wwk_301_electronic_sol": "Heating + DHW",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "wwk_301_electronic_sol": "Indoor",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "wwk_301_electronic_sol": "Warmer Climate, Colder Climate",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "wwk_301_electronic_sol": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "wwk_301_electronic_sol": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wwk_301_electronic_sol": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wwk_301_electronic_sol": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "wwk_301_electronic_sol": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "No",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Heat Pump for Domestic Hot Water (DHW)",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 12102-2 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "",
+      "60_db(a)": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "",
+      "60_db(a)": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "EN 16147 | Average Climate",
+      "60_db(a)": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "154 %",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "3.75",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "9:16 h:min",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "67.0 W",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "54.2 \u00b0C",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "399 l",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_9",
+      "value": "16 h:min",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93"
+    },
+    {
+      "": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "": "Model WWK 301 electronic SOL",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "wwk_301_electronic_sol": "Heating + DHW",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "wwk_301_electronic_sol": "Indoor, Outdoor",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "wwk_301_electronic_sol": "Warmer Climate, Colder Climate",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "wwk_301_electronic_sol": "n/a",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "wwk_301_electronic_sol": "n/a",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wwk_301_electronic_sol": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wwk_301_electronic_sol": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "wwk_301_electronic_sol": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "No",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Heat Pump for Domestic Hot Water (DHW)",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 12102-2 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "Sound power level outdoor",
+      "52_db(a)": "48 dB(A)",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "",
+      "52_db(a)": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "",
+      "52_db(a)": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_indoor": "EN 16147 | Average Climate",
+      "52_db(a)": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "122 %",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.99",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "12:14 h:min",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "69.0 W",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "52.5 \u00b0C",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "394 l",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_12",
+      "value": "14 h:min",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "STIEBEL_ELTRON_GmbH___Co_KG_WWK_301_electronic_Heat_Pump_for_Domestic_Hot_Water__DHW__93"
+    }
+  ]
+}

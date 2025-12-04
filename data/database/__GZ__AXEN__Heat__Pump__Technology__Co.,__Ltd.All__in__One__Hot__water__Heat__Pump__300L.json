@@ -1,0 +1,273 @@
+{
+  "file_metadata": {
+    "Refrigerant": "R290",
+    "Mass of Refrigerant": "0,150 kg",
+    "Date": "29.04.2025",
+    "Manufacturer": "GZ AXEN Heat Pump Technology Co., Ltd.",
+    "Modelname": "All in One Hot water Heat Pump 300L",
+    "Type": "Heat Pump for Domestic Hot Water (DHW)",
+    "Energy": "Electricity"
+  },
+  "heat_pumps": [
+    {
+      "title": "AXHW-16/300L-1",
+      "properties": {
+        "application": "0",
+        "indoor": "1",
+        "outdoor": "0",
+        "coolingMode7c12c": "0",
+        "coolingMode18c23c": "0",
+        "colderClimate": "0",
+        "warmerClimate": "0",
+        "reversibility": "0",
+        "colderForHeating": "0",
+        "warmerForHeating": "0",
+        "en145112Certification": "0",
+        "heatSource": "1",
+        "additionalOutdoorAir": "0",
+        "additionalExhaustAir": "0",
+        "additionalIndoorAir": "1",
+        "additionalNonheatedSpaceAir": "0",
+        "powerSupply": "1",
+        "offPeakProduct": "2"
+      },
+      "measurements": {
+        "EN12102_2_001": {
+          "0_3_0_0": "52"
+        },
+        "EN16147_001": {
+          "0_3_0_0": "XL",
+          "3_8_0_0": "XL"
+        },
+        "EN16147_002": {
+          "0_3_0_0": "138",
+          "3_8_0_0": "168"
+        },
+        "EN16147_003": {
+          "0_3_0_0": "3.37",
+          "3_8_0_0": "4.09"
+        },
+        "EN16147_004": {
+          "0_3_0_0": "9:53",
+          "3_8_0_0": "7:47"
+        },
+        "EN16147_005": {
+          "0_3_0_0": "27.0",
+          "3_8_0_0": "24.0"
+        },
+        "EN16147_006": {
+          "0_3_0_0": "51.2",
+          "3_8_0_0": "51.1"
+        },
+        "EN16147_007": {
+          "0_3_0_0": "335",
+          "3_8_0_0": "336"
+        },
+        "EN16147_008": {
+          "0_5_0_0": "2"
+        },
+        "EN16147_009": {
+          "0_5_0_0": "2"
+        },
+        "EN16147_010": {
+          "0_5_0_0": "2"
+        }
+      }
+    },
+    {
+      "title": "AXHW-16/300L-1B",
+      "properties": {
+        "application": "0",
+        "indoor": "1",
+        "outdoor": "0",
+        "coolingMode7c12c": "0",
+        "coolingMode18c23c": "0",
+        "colderClimate": "0",
+        "warmerClimate": "0",
+        "reversibility": "0",
+        "colderForHeating": "0",
+        "warmerForHeating": "0",
+        "en145112Certification": "0",
+        "heatSource": "1",
+        "additionalOutdoorAir": "0",
+        "additionalExhaustAir": "0",
+        "additionalIndoorAir": "1",
+        "additionalNonheatedSpaceAir": "0",
+        "powerSupply": "1",
+        "offPeakProduct": "2"
+      },
+      "measurements": {
+        "EN12102_2_001": {
+          "0_3_0_0": "52"
+        },
+        "EN16147_001": {
+          "0_3_0_0": "XL",
+          "3_8_0_0": "XL"
+        },
+        "EN16147_002": {
+          "0_3_0_0": "138",
+          "3_8_0_0": "168"
+        },
+        "EN16147_003": {
+          "0_3_0_0": "3.37",
+          "3_8_0_0": "4.09"
+        },
+        "EN16147_004": {
+          "0_3_0_0": "9:53",
+          "3_8_0_0": "7:47"
+        },
+        "EN16147_005": {
+          "0_3_0_0": "27.0",
+          "3_8_0_0": "24.0"
+        },
+        "EN16147_006": {
+          "0_3_0_0": "51.2",
+          "3_8_0_0": "51.1"
+        },
+        "EN16147_007": {
+          "0_3_0_0": "335",
+          "3_8_0_0": "336"
+        },
+        "EN16147_008": {
+          "0_5_0_0": "2"
+        },
+        "EN16147_009": {
+          "0_5_0_0": "2"
+        },
+        "EN16147_010": {
+          "0_5_0_0": "2"
+        }
+      }
+    },
+    {
+      "title": "AXHW-16/300L-1C",
+      "properties": {
+        "application": "0",
+        "indoor": "1",
+        "outdoor": "0",
+        "coolingMode7c12c": "0",
+        "coolingMode18c23c": "0",
+        "colderClimate": "0",
+        "warmerClimate": "0",
+        "reversibility": "0",
+        "colderForHeating": "0",
+        "warmerForHeating": "0",
+        "en145112Certification": "0",
+        "heatSource": "1",
+        "additionalOutdoorAir": "0",
+        "additionalExhaustAir": "0",
+        "additionalIndoorAir": "1",
+        "additionalNonheatedSpaceAir": "0",
+        "powerSupply": "1",
+        "offPeakProduct": "2"
+      },
+      "measurements": {
+        "EN12102_2_001": {
+          "0_3_0_0": "52"
+        },
+        "EN16147_001": {
+          "0_3_0_0": "XL",
+          "3_8_0_0": "XL"
+        },
+        "EN16147_002": {
+          "0_3_0_0": "138",
+          "3_8_0_0": "168"
+        },
+        "EN16147_003": {
+          "0_3_0_0": "3.37",
+          "3_8_0_0": "4.09"
+        },
+        "EN16147_004": {
+          "0_3_0_0": "9:53",
+          "3_8_0_0": "7:47"
+        },
+        "EN16147_005": {
+          "0_3_0_0": "27.0",
+          "3_8_0_0": "24.0"
+        },
+        "EN16147_006": {
+          "0_3_0_0": "51.2",
+          "3_8_0_0": "51.1"
+        },
+        "EN16147_007": {
+          "0_3_0_0": "335",
+          "3_8_0_0": "336"
+        },
+        "EN16147_008": {
+          "0_5_0_0": "2"
+        },
+        "EN16147_009": {
+          "0_5_0_0": "2"
+        },
+        "EN16147_010": {
+          "0_5_0_0": "2"
+        }
+      }
+    },
+    {
+      "title": "AXHW-16/300L-A1",
+      "properties": {
+        "application": "0",
+        "indoor": "1",
+        "outdoor": "0",
+        "coolingMode7c12c": "0",
+        "coolingMode18c23c": "0",
+        "colderClimate": "0",
+        "warmerClimate": "0",
+        "reversibility": "0",
+        "colderForHeating": "0",
+        "warmerForHeating": "0",
+        "en145112Certification": "0",
+        "heatSource": "1",
+        "additionalOutdoorAir": "0",
+        "additionalExhaustAir": "0",
+        "additionalIndoorAir": "1",
+        "additionalNonheatedSpaceAir": "0",
+        "powerSupply": "1",
+        "offPeakProduct": "2"
+      },
+      "measurements": {
+        "EN12102_2_001": {
+          "0_3_0_0": "52"
+        },
+        "EN16147_001": {
+          "0_3_0_0": "XL",
+          "3_8_0_0": "XL"
+        },
+        "EN16147_002": {
+          "0_3_0_0": "138",
+          "3_8_0_0": "168"
+        },
+        "EN16147_003": {
+          "0_3_0_0": "3.37",
+          "3_8_0_0": "4.09"
+        },
+        "EN16147_004": {
+          "0_3_0_0": "9:53",
+          "3_8_0_0": "7:47"
+        },
+        "EN16147_005": {
+          "0_3_0_0": "27.0",
+          "3_8_0_0": "24.0"
+        },
+        "EN16147_006": {
+          "0_3_0_0": "51.2",
+          "3_8_0_0": "51.1"
+        },
+        "EN16147_007": {
+          "0_3_0_0": "335",
+          "3_8_0_0": "336"
+        },
+        "EN16147_008": {
+          "0_5_0_0": "2"
+        },
+        "EN16147_009": {
+          "0_5_0_0": "2"
+        },
+        "EN16147_010": {
+          "0_5_0_0": "2"
+        }
+      }
+    }
+  ]
+}

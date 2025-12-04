@@ -1,0 +1,664 @@
+{
+  "source_pdf": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7.pdf",
+  "extraction_timestamp": "2025-11-17T15:38:31.131917",
+  "total_records": 78,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype AquaMaster Inverter AQ30I-1",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "master_therm_tepelna_cerpadla_s.r.o.": "Vaclavske namesti 819/43",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "master_therm_tepelna_cerpadla_s.r.o.": "110 00",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "master_therm_tepelna_cerpadla_s.r.o.": "Praha",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "master_therm_tepelna_cerpadla_s.r.o.": "CZ",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "master_therm_tepelna_cerpadla_s.r.o.": "SZU - Strojirensky zkusebni ustav (Engineering Test\nInstitute, Public Enterprise)",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "master_therm_tepelna_cerpadla_s.r.o.": "AquaMaster Inverter AQ30I-1",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "master_therm_tepelna_cerpadla_s.r.o.": "037-0204-25",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "master_therm_tepelna_cerpadla_s.r.o.": "Brine/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "master_therm_tepelna_cerpadla_s.r.o.": "R410A",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "master_therm_tepelna_cerpadla_s.r.o.": "1.7 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "master_therm_tepelna_cerpadla_s.r.o.": "09.04.2025",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "master_therm_tepelna_cerpadla_s.r.o.": "HP Keymark certification scheme rules rev. no.14",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "master_therm_tepelna_cerpadla_s.r.o.": "SZU Brno, CZ",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Model AquaMaster Inverter AQ30I-1",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "aquamaster_inverter_aq30i-1": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "aquamaster_inverter_aq30i-1": "Indoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "aquamaster_inverter_aq30i-1": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "aquamaster_inverter_aq30i-1": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "aquamaster_inverter_aq30i-1": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aquamaster_inverter_aq30i-1": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aquamaster_inverter_aq30i-1": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "aquamaster_inverter_aq30i-1": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "No",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Brine/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "7.89 kW",
+      "medium_temperature": "6.97 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.72 kW",
+      "medium_temperature": "2.33 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.59",
+      "medium_temperature": "2.99",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "48 dB(A)",
+      "medium_temperature": "48 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "189 %",
+      "medium_temperature": "145 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "11.43 kW",
+      "medium_temperature": "10.71 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.92",
+      "medium_temperature": "3.82",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "10.10 kW",
+      "medium_temperature": "9.37 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.39",
+      "medium_temperature": "3.09",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "6.25 kW",
+      "medium_temperature": "5.82 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.87",
+      "medium_temperature": "3.78",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.30 kW",
+      "medium_temperature": "3.87 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.41",
+      "medium_temperature": "4.40",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_12\u00b0c": "COP Tj = 12\u00b0C",
+      "1.89_kw": "5.51",
+      "1.82_kw": "4.53",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_12\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "1.89_kw": "0.900",
+      "1.82_kw": "0.971",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_12\u00b0c": "Pdh Tj = Tbiv",
+      "1.89_kw": "11.43 kW",
+      "1.82_kw": "10.71 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_12\u00b0c": "COP Tj = Tbiv",
+      "1.89_kw": "4.30",
+      "1.82_kw": "2.93",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_12\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "1.89_kw": "11.43 kW",
+      "1.82_kw": "10.71 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_12\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "1.89_kw": "4.30",
+      "1.82_kw": "2.93",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_12\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "1.89_kw": "0.900",
+      "1.82_kw": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_12\u00b0c": "WTOL",
+      "1.89_kw": "60 \u00b0C",
+      "1.82_kw": "60 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_12\u00b0c": "Poff",
+      "1.89_kw": "12 W",
+      "1.82_kw": "12 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_12\u00b0c": "PTO",
+      "1.89_kw": "12 W",
+      "1.82_kw": "12 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_12\u00b0c": "PSB",
+      "1.89_kw": "12 W",
+      "1.82_kw": "12 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_12\u00b0c": "PCK",
+      "1.89_kw": "0 W",
+      "1.82_kw": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_12\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "1.89_kw": "n/a",
+      "1.82_kw": "n/a",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_12\u00b0c": "Supplementary Heater: PSUP",
+      "1.89_kw": "0.00 kW",
+      "1.82_kw": "0.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_12\u00b0c": "Annual energy consumption Qhe",
+      "1.89_kw": "4796 kWh",
+      "1.82_kw": "5786 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Master_Therm_tepelna_cerpadla_s_r_o__AquaMaster_Inverter_AQ30I-1_Brine_Water_7"
+    }
+  ]
+}

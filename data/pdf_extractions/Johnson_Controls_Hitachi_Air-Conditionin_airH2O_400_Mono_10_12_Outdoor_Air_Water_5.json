@@ -1,0 +1,3581 @@
+{
+  "source_pdf": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5.pdf",
+  "extraction_timestamp": "2025-11-17T15:36:46.650126",
+  "total_records": 414,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype airH2O 400 Mono 10 12",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "johnson_controls_hitachi_air-conditioning_europe_sas": "Parc Aktiland II \u2013 2, Rue de Lombardie",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "johnson_controls_hitachi_air-conditioning_europe_sas": "69800",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "johnson_controls_hitachi_air-conditioning_europe_sas": "SAINT PRIEST",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "johnson_controls_hitachi_air-conditioning_europe_sas": "FR",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "johnson_controls_hitachi_air-conditioning_europe_sas": "DIN CERTCO Gesellschaft f\u00fcr Konformit\u00e4tsbewertung mbH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "johnson_controls_hitachi_air-conditioning_europe_sas": "airH2O 400 Mono 10 12",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "johnson_controls_hitachi_air-conditioning_europe_sas": "011-1W0845",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "johnson_controls_hitachi_air-conditioning_europe_sas": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "johnson_controls_hitachi_air-conditioning_europe_sas": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "johnson_controls_hitachi_air-conditioning_europe_sas": "1.5 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "johnson_controls_hitachi_air-conditioning_europe_sas": "18.07.2024",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "johnson_controls_hitachi_air-conditioning_europe_sas": "HP KEYMARK certification scheme rules V14",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Model HZKF10KME-Q",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "hzkf10kme-q": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "hzkf10kme-q": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "hzkf10kme-q": "Warmer, Warmer Climate",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "hzkf10kme-q": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "hzkf10kme-q": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "hzkf10kme-q": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hzkf10kme-q": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hzkf10kme-q": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "hzkf10kme-q": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "10.00 kW",
+      "medium_temperature": "9.00 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.96 kW",
+      "medium_temperature": "2.90 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.10",
+      "medium_temperature": "3.10",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "62 dB(A)",
+      "medium_temperature": "62 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "193 %",
+      "medium_temperature": "142 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "9.20 kW",
+      "medium_temperature": "9.20 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.90",
+      "medium_temperature": "3.62",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "8.16 kW",
+      "medium_temperature": "8.18 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.14",
+      "medium_temperature": "2.35",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "5.19 kW",
+      "medium_temperature": "5.15 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.65",
+      "medium_temperature": "3.49",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "3.28 kW",
+      "medium_temperature": "3.36 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "6.59": "0.900",
+      "4.66": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "6.59": "2.75 kW",
+      "4.66": "2.64 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "6.59": "8.48",
+      "4.66": "6.30",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "6.59": "0.900",
+      "4.66": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "6.59": "8.16 kW",
+      "4.66": "8.18 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "6.59": "3.14",
+      "4.66": "2.35",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.59": "9.15 kW",
+      "4.66": "9.05 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.59": "2.64",
+      "4.66": "1.96",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.59": "0.900",
+      "4.66": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "6.59": "60 \u00b0C",
+      "4.66": "60 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "6.59": "10 W",
+      "4.66": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "6.59": "13 W",
+      "4.66": "13 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "6.59": "10 W",
+      "4.66": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "6.59": "0 W",
+      "4.66": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "6.59": "Electricity",
+      "4.66": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "6.59": "0.05 kW",
+      "4.66": "0.15 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "6.59": "3890 kWh",
+      "4.66": "5273 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "6.59": "",
+      "4.66": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "6.59": "",
+      "4.66": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "EN 12102-1 | Warmer Climate",
+      "6.59": "",
+      "4.66": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "62 dB(A)",
+      "medium_temperature": "62 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "265 %",
+      "medium_temperature": "170 %",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "9.70 kW",
+      "medium_temperature": "9.50 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.70",
+      "medium_temperature": "4.34",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "7 \u00b0C",
+      "medium_temperature": "7 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "9.38 kW",
+      "medium_temperature": "9.50 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.78",
+      "medium_temperature": "2.53",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "6.21 kW",
+      "medium_temperature": "6.08 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.67",
+      "medium_temperature": "3.60",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.95 kW",
+      "medium_temperature": "2.74 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "8.85",
+      "medium_temperature": "5.56",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "6.21 kW",
+      "medium_temperature": "6.08 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "5.67",
+      "medium_temperature": "3.60",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "9.38 kW",
+      "medium_temperature": "9.50 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.05 kW 0.15 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5"
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.78": "0.900",
+      "2.53": "0.900",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "3.78": "65 \u00b0C",
+      "2.53": "65 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "3.78": "10 W",
+      "2.53": "10 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "3.78": "13 W",
+      "2.53": "13 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "3.78": "10 W",
+      "2.53": "10 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "3.78": "0 W",
+      "2.53": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "3.78": "Electricity",
+      "2.53": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "3.78": "0.32 kW",
+      "2.53": "0.00 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "3.78": "1926 kWh",
+      "2.53": "2915 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.32 kW 0.00 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5"
+    },
+    {
+      "": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Model HZKF10KMO-Q",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "hzkf10kmo-q": "Heating (medium temp)",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "hzkf10kmo-q": "Outdoor",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "hzkf10kmo-q": "Warmer, Warmer Climate",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "hzkf10kmo-q": "Yes",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "hzkf10kmo-q": "n/a",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "hzkf10kmo-q": "n/a",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hzkf10kmo-q": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hzkf10kmo-q": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "hzkf10kmo-q": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "10.00 kW",
+      "medium_temperature": "9.00 kW",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.96 kW",
+      "medium_temperature": "2.90 kW",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.10",
+      "medium_temperature": "3.10",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "62 dB(A)",
+      "medium_temperature": "62 dB(A)",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "193 %",
+      "medium_temperature": "142 %",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "9.20 kW",
+      "medium_temperature": "9.20 kW",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.90",
+      "medium_temperature": "3.62",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "8.16 kW",
+      "medium_temperature": "8.18 kW",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.14",
+      "medium_temperature": "2.35",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "5.19 kW",
+      "medium_temperature": "5.15 kW",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.65",
+      "medium_temperature": "3.49",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "3.28 kW",
+      "medium_temperature": "3.36 kW",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "6.59": "0.900",
+      "4.66": "0.900",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "6.59": "2.75 kW",
+      "4.66": "2.64 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "6.59": "8.48",
+      "4.66": "6.30",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "6.59": "0.900",
+      "4.66": "0.900",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "6.59": "8.16 kW",
+      "4.66": "8.18 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "6.59": "3.14",
+      "4.66": "2.35",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.59": "9.15 kW",
+      "4.66": "9.05 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.59": "2.64",
+      "4.66": "1.96",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.59": "0.900",
+      "4.66": "0.900",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "6.59": "60 \u00b0C",
+      "4.66": "60 \u00b0C",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "6.59": "10 W",
+      "4.66": "10 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "6.59": "13 W",
+      "4.66": "13 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "6.59": "10 W",
+      "4.66": "10 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "6.59": "0 W",
+      "4.66": "0 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "6.59": "Electricity",
+      "4.66": "Electricity",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "6.59": "0.05 kW",
+      "4.66": "0.15 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "6.59": "3890 kWh",
+      "4.66": "5273 kWh",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "6.59": "",
+      "4.66": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "6.59": "",
+      "4.66": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "EN 12102-1 | Warmer Climate",
+      "6.59": "",
+      "4.66": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "62 dB(A)",
+      "medium_temperature": "62 dB(A)",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "265 %",
+      "medium_temperature": "170 %",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "9.70 kW",
+      "medium_temperature": "9.50 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.70",
+      "medium_temperature": "4.34",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "7 \u00b0C",
+      "medium_temperature": "7 \u00b0C",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "9.38 kW",
+      "medium_temperature": "9.50 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.78",
+      "medium_temperature": "2.53",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "6.21 kW",
+      "medium_temperature": "6.08 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.67",
+      "medium_temperature": "3.60",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.95 kW",
+      "medium_temperature": "2.74 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "8.85",
+      "medium_temperature": "5.56",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "6.21 kW",
+      "medium_temperature": "6.08 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "5.67",
+      "medium_temperature": "3.60",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "9.38 kW",
+      "medium_temperature": "9.50 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.05 kW 0.15 kW",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5"
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.78": "0.900",
+      "2.53": "0.900",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "3.78": "65 \u00b0C",
+      "2.53": "65 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "3.78": "10 W",
+      "2.53": "10 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "3.78": "13 W",
+      "2.53": "13 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "3.78": "10 W",
+      "2.53": "10 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "3.78": "0 W",
+      "2.53": "0 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "3.78": "Electricity",
+      "2.53": "Electricity",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "3.78": "0.32 kW",
+      "2.53": "0.00 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "3.78": "1926 kWh",
+      "2.53": "2915 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.32 kW 0.00 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5"
+    },
+    {
+      "": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Model HZKF12KME-Q",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "hzkf12kme-q": "Heating (medium temp)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "hzkf12kme-q": "Outdoor",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "hzkf12kme-q": "Warmer, Warmer Climate",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "hzkf12kme-q": "Yes",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "hzkf12kme-q": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "hzkf12kme-q": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hzkf12kme-q": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hzkf12kme-q": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "hzkf12kme-q": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "12.00 kW",
+      "medium_temperature": "11.20 kW",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.42 kW",
+      "medium_temperature": "3.67 kW",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.95",
+      "medium_temperature": "3.05",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "64 dB(A)",
+      "medium_temperature": "64 dB(A)",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "192 %",
+      "medium_temperature": "136 %",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "10.20 kW",
+      "medium_temperature": "10.00 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.87",
+      "medium_temperature": "3.47",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "8.98 kW",
+      "medium_temperature": "8.87 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.15",
+      "medium_temperature": "2.32",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "5.61 kW",
+      "medium_temperature": "5.34 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.64",
+      "medium_temperature": "3.22",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "3.57 kW",
+      "medium_temperature": "3.47 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "6.48": "0.900",
+      "4.65": "0.900",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "6.48": "2.77 kW",
+      "4.65": "2.66 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "6.48": "8.11",
+      "4.65": "6.34",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "6.48": "0.900",
+      "4.65": "0.900",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "6.48": "8.98 kW",
+      "4.65": "8.87 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "6.48": "3.15",
+      "4.65": "2.32",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.48": "9.92 kW",
+      "4.65": "10.15 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.48": "2.71",
+      "4.65": "1.89",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.48": "0.900",
+      "4.65": "0.900",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "6.48": "60 \u00b0C",
+      "4.65": "60 \u00b0C",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "6.48": "10 W",
+      "4.65": "10 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "6.48": "13 W",
+      "4.65": "13 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "6.48": "10 W",
+      "4.65": "10 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "6.48": "0 W",
+      "4.65": "0 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "6.48": "Electricity",
+      "4.65": "Electricity",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "6.48": "0.28 kW",
+      "4.65": "0.00 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "6.48": "4309 kWh",
+      "4.65": "5964 kWh",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "6.48": "",
+      "4.65": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "6.48": "",
+      "4.65": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "EN 12102-1 | Warmer Climate",
+      "6.48": "",
+      "4.65": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "64 dB(A)",
+      "medium_temperature": "64 dB(A)",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "259 %",
+      "medium_temperature": "170 %",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "10.50 kW",
+      "medium_temperature": "10.50 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.56",
+      "medium_temperature": "4.33",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "7 \u00b0C",
+      "medium_temperature": "7 \u00b0C",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "10.22 kW",
+      "medium_temperature": "10.10 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.74",
+      "medium_temperature": "2.47",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "6.77 kW",
+      "medium_temperature": "6.75 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.90",
+      "medium_temperature": "3.62",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.94 kW",
+      "medium_temperature": "2.95 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "8.13",
+      "medium_temperature": "5.69",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "6.77 kW",
+      "medium_temperature": "6.75 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "5.90",
+      "medium_temperature": "3.62",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "10.22 kW",
+      "medium_temperature": "10.10 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.28 kW 0.00 kW",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5"
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.74": "0.900",
+      "2.47": "0.900",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "3.74": "65 \u00b0C",
+      "2.47": "65 \u00b0C",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "3.74": "10 W",
+      "2.47": "10 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "3.74": "13 W",
+      "2.47": "13 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "3.74": "10 W",
+      "2.47": "10 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "3.74": "0 W",
+      "2.47": "0 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "3.74": "Electricity",
+      "2.47": "Electricity",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "3.74": "0.28 kW",
+      "2.47": "0.40 kW",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "3.74": "2145 kWh",
+      "2.47": "3243 kWh",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 10,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.28 kW 0.40 kW",
+      "source_page": 10,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5"
+    },
+    {
+      "": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Model HZKF12KMO-Q",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "hzkf12kmo-q": "Heating (medium temp)",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "hzkf12kmo-q": "Outdoor",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "hzkf12kmo-q": "Warmer, Warmer Climate",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "hzkf12kmo-q": "Yes",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "hzkf12kmo-q": "n/a",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "hzkf12kmo-q": "n/a",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hzkf12kmo-q": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hzkf12kmo-q": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "hzkf12kmo-q": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "12.00 kW",
+      "medium_temperature": "11.20 kW",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.42 kW",
+      "medium_temperature": "3.67 kW",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.95",
+      "medium_temperature": "3.05",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "64 dB(A)",
+      "medium_temperature": "64 dB(A)",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "192 %",
+      "medium_temperature": "136 %",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "10.20 kW",
+      "medium_temperature": "10.00 kW",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.87",
+      "medium_temperature": "3.47",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "8.98 kW",
+      "medium_temperature": "8.87 kW",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.15",
+      "medium_temperature": "2.32",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "5.61 kW",
+      "medium_temperature": "5.34 kW",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.64",
+      "medium_temperature": "3.22",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "3.57 kW",
+      "medium_temperature": "3.47 kW",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "6.48": "0.900",
+      "4.65": "0.900",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "6.48": "2.77 kW",
+      "4.65": "2.66 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "6.48": "8.11",
+      "4.65": "6.34",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "6.48": "0.900",
+      "4.65": "0.900",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "6.48": "8.98 kW",
+      "4.65": "8.87 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "6.48": "3.15",
+      "4.65": "2.32",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.48": "9.92 kW",
+      "4.65": "10.15 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.48": "2.71",
+      "4.65": "1.89",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.48": "0.900",
+      "4.65": "0.900",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "6.48": "60 \u00b0C",
+      "4.65": "60 \u00b0C",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "6.48": "10 W",
+      "4.65": "10 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "6.48": "13 W",
+      "4.65": "13 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "6.48": "10 W",
+      "4.65": "10 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "6.48": "0 W",
+      "4.65": "0 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "6.48": "Electricity",
+      "4.65": "Electricity",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "6.48": "0.28 kW",
+      "4.65": "0.00 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "6.48": "4309 kWh",
+      "4.65": "5964 kWh",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "6.48": "",
+      "4.65": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "6.48": "",
+      "4.65": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "EN 12102-1 | Warmer Climate",
+      "6.48": "",
+      "4.65": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "64 dB(A)",
+      "medium_temperature": "64 dB(A)",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "259 %",
+      "medium_temperature": "170 %",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "10.50 kW",
+      "medium_temperature": "10.50 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.56",
+      "medium_temperature": "4.33",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "7 \u00b0C",
+      "medium_temperature": "7 \u00b0C",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "10.22 kW",
+      "medium_temperature": "10.10 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.74",
+      "medium_temperature": "2.47",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "6.77 kW",
+      "medium_temperature": "6.75 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.90",
+      "medium_temperature": "3.62",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.94 kW",
+      "medium_temperature": "2.95 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "8.13",
+      "medium_temperature": "5.69",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "6.77 kW",
+      "medium_temperature": "6.75 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "5.90",
+      "medium_temperature": "3.62",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "10.22 kW",
+      "medium_temperature": "10.10 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.28 kW 0.00 kW",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5"
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.74": "0.900",
+      "2.47": "0.900",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "3.74": "65 \u00b0C",
+      "2.47": "65 \u00b0C",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "3.74": "10 W",
+      "2.47": "10 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "3.74": "13 W",
+      "2.47": "13 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "3.74": "10 W",
+      "2.47": "10 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "3.74": "0 W",
+      "2.47": "0 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "3.74": "Electricity",
+      "2.47": "Electricity",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "3.74": "0.28 kW",
+      "2.47": "0.40 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "3.74": "2145 kWh",
+      "2.47": "3243 kWh",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.28 kW 0.40 kW",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "Johnson_Controls_Hitachi_Air-Conditionin_airH2O_400_Mono_10_12_Outdoor_Air_Water_5"
+    }
+  ]
+}

@@ -1,0 +1,2634 @@
+{
+  "source_pdf": "Vaillant_GmbH_VWF_117_4_Brine_Water_4.pdf",
+  "extraction_timestamp": "2025-11-17T15:57:13.506063",
+  "total_records": 303,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype VWF 117/4",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "vaillant_gmbh": "Berghauser Str. 40",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "vaillant_gmbh": "42859",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "vaillant_gmbh": "Remscheid",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "vaillant_gmbh": "DE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "vaillant_gmbh": "DIN CERTCO Gesellschaft f\u00fcr Konformit\u00e4tsbewertung mbH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "vaillant_gmbh": "VWF 117/4",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "vaillant_gmbh": "011-1W0751",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "vaillant_gmbh": "Brine/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "vaillant_gmbh": "R410A",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "vaillant_gmbh": "2.5 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "vaillant_gmbh": "28.04.2021",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "vaillant_gmbh": "DIN EN 14511-1:2019-07; EN 14511-1:2018 DIN EN\n14511-2:2019-07; EN 14511-2:2018 DIN EN\n14511-3:2019-07; EN 14511-3:2018 DIN EN\n14511-4:2019-07; EN 14511-4:2018 EN 12102-1:2018-02;\nEN 12102-1:2017",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "label": "testing_basis_din_en_14511-1",
+      "value": "2019-07; EN 14511-1:2018 DIN EN",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4"
+    },
+    {
+      "label": "14511-2",
+      "value": "2019-07; EN 14511-2:2018 DIN EN",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4"
+    },
+    {
+      "label": "14511-3",
+      "value": "2019-07; EN 14511-3:2018 DIN EN",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4"
+    },
+    {
+      "label": "14511-4",
+      "value": "2019-07; EN 14511-4:2018 EN 12102-1:2018-02;",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4"
+    },
+    {
+      "label": "en_12102-1",
+      "value": "2017",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4"
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Model VWF 118/4",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "vwf_118/4": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "vwf_118/4": "Indoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "vwf_118/4": "Colder, Warmer",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "vwf_118/4": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "vwf_118/4": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "vwf_118/4": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "vwf_118/4": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "vwf_118/4": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "No",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Brine/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "11.18 kW",
+      "medium_temperature": "11.33 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.34 kW",
+      "medium_temperature": "3.66 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.77",
+      "medium_temperature": "3.10",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "45 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "- dB(A)",
+      "medium_temperature": "- dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "201 %",
+      "medium_temperature": "142 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "11.18 kW",
+      "medium_temperature": "11.33 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.22",
+      "medium_temperature": "3.76",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "11.18 kW",
+      "medium_temperature": "11.32 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.83",
+      "medium_temperature": "3.21",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "11.16 kW",
+      "medium_temperature": "11.26 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.15",
+      "medium_temperature": "3.70",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "11.14 kW",
+      "medium_temperature": "11.23 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "5.49": "1.00",
+      "4.08": "1.00",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "5.49": "11.13 kW",
+      "4.08": "11.19 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "5.49": "5.87",
+      "4.08": "4.56",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.49": "1.00",
+      "4.08": "1.00",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "5.49": "11.18 kW",
+      "4.08": "11.33 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "5.49": "4.77",
+      "4.08": "3.10",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.49": "11.18 kW",
+      "4.08": "11.33 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.49": "4.77",
+      "4.08": "3.10",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.49": "1.00",
+      "4.08": "1.00",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "5.49": "65 \u00b0C",
+      "4.08": "65 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "5.49": "7 W",
+      "4.08": "7 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "5.49": "4 W",
+      "4.08": "4 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "5.49": "7 W",
+      "4.08": "7 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "5.49": "0 W",
+      "4.08": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.49": "Electricity",
+      "4.08": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "5.49": "0.00 kW",
+      "4.08": "0.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "5.49": "4427 kWh",
+      "4.08": "6227 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "5.49": "",
+      "4.08": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "5.49": "",
+      "4.08": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "EN 12102-1 | Colder Climate",
+      "5.49": "",
+      "4.08": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "45 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "- dB(A)",
+      "medium_temperature": "- dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "206 %",
+      "medium_temperature": "145 %",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "11.18 kW",
+      "medium_temperature": "11.33 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.35",
+      "medium_temperature": "3.83",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "11.16 kW",
+      "medium_temperature": "11.27 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "5.21",
+      "medium_temperature": "3.59",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "11.14 kW",
+      "medium_temperature": "11.23 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.51",
+      "medium_temperature": "4.01",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "11.13 kW",
+      "medium_temperature": "11.20 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.75",
+      "medium_temperature": "4.41",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "11.13 kW",
+      "medium_temperature": "11.18 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.82",
+      "medium_temperature": "4.76",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4"
+    },
+    {
+      "pdh_tj_=_tbiv": "COP Tj = Tbiv",
+      "11.18_kw": "4.77",
+      "11.33_kw": "3.10",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "11.18_kw": "11.18 kW",
+      "11.33_kw": "11.33 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "11.18_kw": "4.77",
+      "11.33_kw": "3.10",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "11.18_kw": "1.00",
+      "11.33_kw": "1.00",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "WTOL",
+      "11.18_kw": "65 \u00b0C",
+      "11.33_kw": "65 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Poff",
+      "11.18_kw": "7 W",
+      "11.33_kw": "7 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "PTO",
+      "11.18_kw": "4 W",
+      "11.33_kw": "4 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "PSB",
+      "11.18_kw": "7 W",
+      "11.33_kw": "7 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "PCK",
+      "11.18_kw": "0 W",
+      "11.33_kw": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Supplementary Heater: Type of energy\ninput",
+      "11.18_kw": "Electricity",
+      "11.33_kw": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Supplementary Heater: PSUP",
+      "11.18_kw": "0.00 kW",
+      "11.33_kw": "0.00 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Annual energy consumption Qhe",
+      "11.18_kw": "5147 kWh",
+      "11.33_kw": "7285 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Cdh Tj = -15 \u00b0C",
+      "11.18_kw": "1.00",
+      "11.33_kw": "1.00",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "",
+      "11.18_kw": "",
+      "11.33_kw": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "",
+      "11.18_kw": "",
+      "11.33_kw": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "EN 12102-1 | Warmer Climate",
+      "11.18_kw": "",
+      "11.33_kw": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "45 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "- dB(A)",
+      "medium_temperature": "- dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "204 %",
+      "medium_temperature": "144 %",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "11.18 kW",
+      "medium_temperature": "11.33 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.29",
+      "medium_temperature": "3.79",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "11.18 kW",
+      "medium_temperature": "11.33 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.77",
+      "medium_temperature": "3.10",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "11.16 kW",
+      "medium_temperature": "11.29 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.08",
+      "medium_temperature": "3.47",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "11.14 kW",
+      "medium_temperature": "11.21 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.61",
+      "medium_temperature": "4.24",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "11.18 kW",
+      "medium_temperature": "11.33 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "4.77",
+      "medium_temperature": "3.10",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "11.18 kW",
+      "medium_temperature": "11.33 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "4.77",
+      "medium_temperature": "3.10",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4"
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "1.00",
+      "column_2": "1.00",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "7 W",
+      "column_2": "7 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "4 W",
+      "column_2": "4 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "7 W",
+      "column_2": "7 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "0.00 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "2823 kWh",
+      "column_2": "3994 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4"
+    },
+    {
+      "": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Model VWF 117/4",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "vwf_117/4": "Heating (medium temp)",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "vwf_117/4": "Indoor",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "vwf_117/4": "Colder, Warmer",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "vwf_117/4": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "vwf_117/4": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "vwf_117/4": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "vwf_117/4": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "vwf_117/4": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "No",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Brine/Water",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "11.18 kW",
+      "medium_temperature": "11.33 kW",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.34 kW",
+      "medium_temperature": "3.66 kW",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.77",
+      "medium_temperature": "3.10",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "45 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "- dB(A)",
+      "medium_temperature": "- dB(A)",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "201 %",
+      "medium_temperature": "142 %",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "11.18 kW",
+      "medium_temperature": "11.33 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.22",
+      "medium_temperature": "3.76",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "11.18 kW",
+      "medium_temperature": "11.32 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.83",
+      "medium_temperature": "3.21",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "11.16 kW",
+      "medium_temperature": "11.26 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.15",
+      "medium_temperature": "3.70",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "11.14 kW",
+      "medium_temperature": "11.23 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "5.49": "1.00",
+      "4.08": "1.00",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "5.49": "11.13 kW",
+      "4.08": "11.19 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "5.49": "5.87",
+      "4.08": "4.56",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.49": "1.00",
+      "4.08": "1.00",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "5.49": "11.18 kW",
+      "4.08": "11.33 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "5.49": "4.77",
+      "4.08": "3.10",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.49": "11.18 kW",
+      "4.08": "11.33 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.49": "4.77",
+      "4.08": "3.10",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.49": "1.00",
+      "4.08": "1.00",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "5.49": "65 \u00b0C",
+      "4.08": "65 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "5.49": "7 W",
+      "4.08": "7 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "5.49": "4 W",
+      "4.08": "4 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "5.49": "7 W",
+      "4.08": "7 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "5.49": "0 W",
+      "4.08": "0 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.49": "Electricity",
+      "4.08": "Electricity",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "5.49": "0.00 kW",
+      "4.08": "0.00 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "5.49": "4427 kWh",
+      "4.08": "6227 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "5.49": "",
+      "4.08": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "5.49": "",
+      "4.08": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "EN 12102-1 | Colder Climate",
+      "5.49": "",
+      "4.08": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "45 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "- dB(A)",
+      "medium_temperature": "- dB(A)",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "206 %",
+      "medium_temperature": "145 %",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "11.18 kW",
+      "medium_temperature": "11.33 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.35",
+      "medium_temperature": "3.83",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "11.16 kW",
+      "medium_temperature": "11.27 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "5.21",
+      "medium_temperature": "3.59",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "11.14 kW",
+      "medium_temperature": "11.23 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.51",
+      "medium_temperature": "4.01",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "11.13 kW",
+      "medium_temperature": "11.20 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.75",
+      "medium_temperature": "4.41",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "11.13 kW",
+      "medium_temperature": "11.18 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.82",
+      "medium_temperature": "4.76",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4"
+    },
+    {
+      "pdh_tj_=_tbiv": "COP Tj = Tbiv",
+      "11.18_kw": "4.77",
+      "11.33_kw": "3.10",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "11.18_kw": "11.18 kW",
+      "11.33_kw": "11.33 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "11.18_kw": "4.77",
+      "11.33_kw": "3.10",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "11.18_kw": "1.00",
+      "11.33_kw": "1.00",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "WTOL",
+      "11.18_kw": "65 \u00b0C",
+      "11.33_kw": "65 \u00b0C",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Poff",
+      "11.18_kw": "7 W",
+      "11.33_kw": "7 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "PTO",
+      "11.18_kw": "4 W",
+      "11.33_kw": "4 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "PSB",
+      "11.18_kw": "7 W",
+      "11.33_kw": "7 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "PCK",
+      "11.18_kw": "0 W",
+      "11.33_kw": "0 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Supplementary Heater: Type of energy\ninput",
+      "11.18_kw": "Electricity",
+      "11.33_kw": "Electricity",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Supplementary Heater: PSUP",
+      "11.18_kw": "0.00 kW",
+      "11.33_kw": "0.00 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Annual energy consumption Qhe",
+      "11.18_kw": "5147 kWh",
+      "11.33_kw": "7285 kWh",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Cdh Tj = -15 \u00b0C",
+      "11.18_kw": "1.00",
+      "11.33_kw": "1.00",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "",
+      "11.18_kw": "",
+      "11.33_kw": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "",
+      "11.18_kw": "",
+      "11.33_kw": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "EN 12102-1 | Warmer Climate",
+      "11.18_kw": "",
+      "11.33_kw": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "45 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "- dB(A)",
+      "medium_temperature": "- dB(A)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "204 %",
+      "medium_temperature": "144 %",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "11.18 kW",
+      "medium_temperature": "11.33 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.29",
+      "medium_temperature": "3.79",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "11.18 kW",
+      "medium_temperature": "11.33 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.77",
+      "medium_temperature": "3.10",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "11.16 kW",
+      "medium_temperature": "11.29 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.08",
+      "medium_temperature": "3.47",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "11.14 kW",
+      "medium_temperature": "11.21 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.61",
+      "medium_temperature": "4.24",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "11.18 kW",
+      "medium_temperature": "11.33 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "4.77",
+      "medium_temperature": "3.10",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "11.18 kW",
+      "medium_temperature": "11.33 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "4.77",
+      "medium_temperature": "3.10",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4"
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "1.00",
+      "column_2": "1.00",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "7 W",
+      "column_2": "7 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "4 W",
+      "column_2": "4 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "7 W",
+      "column_2": "7 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "0.00 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "2823 kWh",
+      "column_2": "3994 kWh",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Vaillant_GmbH_VWF_117_4_Brine_Water_4"
+    }
+  ]
+}

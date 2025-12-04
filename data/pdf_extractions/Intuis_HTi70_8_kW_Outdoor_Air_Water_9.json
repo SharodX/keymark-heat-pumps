@@ -1,0 +1,1229 @@
+{
+  "source_pdf": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9.pdf",
+  "extraction_timestamp": "2025-11-17T15:35:37.203271",
+  "total_records": 144,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype HTi70 8 kW",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "intuis": "Rue de la R\u00e9publique",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "intuis": "80210",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "intuis": "Feuqui\u00e8res\u2011en\u2011Vimeu",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "intuis": "FR",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "intuis": "Kiwa Nederland B.V.",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "intuis": "HTi70 8 kW",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "intuis": "007-DP0184",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "intuis": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "intuis": "R290",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "intuis": "0.6 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "intuis": "06.05.2024",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "intuis": "European KEYMARK Scheme for Heat Pumps (v11)",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Model HTi70 8 kW mono",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "hti70_8_kw_mono": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "hti70_8_kw_mono": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "hti70_8_kw_mono": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "hti70_8_kw_mono": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "hti70_8_kw_mono": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hti70_8_kw_mono": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hti70_8_kw_mono": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "hti70_8_kw_mono": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "5.72 kW",
+      "medium_temperature": "5.79 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.18 kW",
+      "medium_temperature": "1.79 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.85",
+      "medium_temperature": "3.23",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "53 dB(A)",
+      "medium_temperature": "53 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "191 %",
+      "medium_temperature": "150 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "7.50 kW",
+      "medium_temperature": "7.54 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.86",
+      "medium_temperature": "3.82",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-5 \u00b0C",
+      "medium_temperature": "-5 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "6.52 kW",
+      "medium_temperature": "6.28 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.11",
+      "medium_temperature": "2.44",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.13 kW",
+      "medium_temperature": "4.12 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.56",
+      "medium_temperature": "3.82",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "2.95 kW",
+      "medium_temperature": "2.93 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "7.52",
+      "medium_temperature": "5.42",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +7 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = 12\u00b0C",
+      "column_1": "1.90 kW",
+      "column_2": "1.79 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = 12\u00b0C",
+      "column_1": "8.89",
+      "column_2": "6.46",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "6.06 kW",
+      "column_2": "6.09 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "3.37",
+      "column_2": "2.52",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "5.93 kW",
+      "column_2": "5.70 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "2.83",
+      "column_2": "2.18",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "70 \u00b0C",
+      "column_2": "70 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "5 W",
+      "column_2": "5 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "8 W",
+      "column_2": "8 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "5 W",
+      "column_2": "5 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "8 W",
+      "column_2": "8 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "1.57 kW",
+      "column_2": "1.84 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "3188 kWh",
+      "column_2": "4083 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.57 kW 1.84 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9"
+    },
+    {
+      "": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Model HTi70 8 kW tri",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "hti70_8_kw_tri": "Heating (medium temp)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "hti70_8_kw_tri": "Outdoor",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "hti70_8_kw_tri": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "hti70_8_kw_tri": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "hti70_8_kw_tri": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hti70_8_kw_tri": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hti70_8_kw_tri": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "hti70_8_kw_tri": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "5.72 kW",
+      "medium_temperature": "5.79 kW",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.18 kW",
+      "medium_temperature": "1.79 kW",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.85",
+      "medium_temperature": "3.23",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "53 dB(A)",
+      "medium_temperature": "53 dB(A)",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "190 %",
+      "medium_temperature": "149 %",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "7.50 kW",
+      "medium_temperature": "7.54 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.82",
+      "medium_temperature": "3.79",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-5 \u00b0C",
+      "medium_temperature": "-5 \u00b0C",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "6.52 kW",
+      "medium_temperature": "6.28 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.11",
+      "medium_temperature": "2.44",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.13 kW",
+      "medium_temperature": "4.12 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.56",
+      "medium_temperature": "3.82",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "2.95 kW",
+      "medium_temperature": "2.93 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "7.52",
+      "medium_temperature": "5.42",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +7 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = 12\u00b0C",
+      "column_1": "1.90 kW",
+      "column_2": "1.79 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = 12\u00b0C",
+      "column_1": "8.89",
+      "column_2": "6.46",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "6.06 kW",
+      "column_2": "6.09 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "3.37",
+      "column_2": "2.52",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "5.93 kW",
+      "column_2": "5.70 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "2.83",
+      "column_2": "2.18",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "70 \u00b0C",
+      "column_2": "70 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "5 W",
+      "column_2": "5 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "14 W",
+      "column_2": "14 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "5 W",
+      "column_2": "5 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "14 W",
+      "column_2": "14 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "1.57 kW",
+      "column_2": "1.84 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "3212 kWh",
+      "column_2": "4107 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.57 kW 1.84 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Intuis_HTi70_8_kW_Outdoor_Air_Water_9"
+    }
+  ]
+}

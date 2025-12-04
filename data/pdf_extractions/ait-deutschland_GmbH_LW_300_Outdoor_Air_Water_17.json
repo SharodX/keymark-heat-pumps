@@ -1,0 +1,4981 @@
+{
+  "source_pdf": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17.pdf",
+  "extraction_timestamp": "2025-11-17T16:01:38.281841",
+  "total_records": 571,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype LW 300",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "ait-deutschland_gmbh": "Industriestr. 3",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "ait-deutschland_gmbh": "95359",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "ait-deutschland_gmbh": "Kasendorf",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "ait-deutschland_gmbh": "DE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "ait-deutschland_gmbh": "BRE Global Limited",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "ait-deutschland_gmbh": "LW 300",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "ait-deutschland_gmbh": "041-K001-42",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "ait-deutschland_gmbh": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "ait-deutschland_gmbh": "R448A",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "ait-deutschland_gmbh": "10 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "ait-deutschland_gmbh": "20.07.2020",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "ait-deutschland_gmbh": "Heat Pump Keymark Scheme Rules Rev 07",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "ait-deutschland_gmbh": "Fraunhofer ISE, DE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Model alpha innotec LW 300A-LUX 2.0",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "alpha_innotec_lw_300a-lux_2.0": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "alpha_innotec_lw_300a-lux_2.0": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "alpha_innotec_lw_300a-lux_2.0": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "alpha_innotec_lw_300a-lux_2.0": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "alpha_innotec_lw_300a-lux_2.0": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "alpha_innotec_lw_300a-lux_2.0": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "alpha_innotec_lw_300a-lux_2.0": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "alpha_innotec_lw_300a-lux_2.0": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "19.78 kW",
+      "medium_temperature": "19.05 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "4.90 kW",
+      "medium_temperature": "6.85 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.04",
+      "medium_temperature": "2.78",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "68 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "138 %",
+      "medium_temperature": "114 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "21.95 kW",
+      "medium_temperature": "23.02 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.53",
+      "medium_temperature": "2.91",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "19.41 kW",
+      "medium_temperature": "20.36 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.65",
+      "medium_temperature": "1.99",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "16.37 kW",
+      "medium_temperature": "16.38 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.59",
+      "medium_temperature": "2.94",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "17.99 kW",
+      "medium_temperature": "18.36 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "4.05",
+      "medium_temperature": "3.51",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = 12\u00b0C",
+      "0.98": "23.01 kW",
+      "0.99": "23.48 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = 12\u00b0C",
+      "0.98": "5.28",
+      "0.99": "4.72",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "0.98": "0.98",
+      "0.99": "0.99",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = Tbiv",
+      "0.98": "21.95 kW",
+      "0.99": "23.02 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = Tbiv",
+      "0.98": "2.45",
+      "0.99": "1.78",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.98": "21.95 kW",
+      "0.99": "23.02 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.98": "2.45",
+      "0.99": "1.78",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "WTOL",
+      "0.98": "60 \u00b0C",
+      "0.99": "60 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Poff",
+      "0.98": "38 W",
+      "0.99": "38 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PTO",
+      "0.98": "24 W",
+      "0.99": "15 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PSB",
+      "0.98": "38 W",
+      "0.99": "38 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PCK",
+      "0.98": "0 W",
+      "0.99": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "0.98": "Electricity",
+      "0.99": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Supplementary Heater: PSUP",
+      "0.98": "0.00 kW",
+      "0.99": "0.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Annual energy consumption Qhe",
+      "0.98": "12861 kWh",
+      "0.99": "16314 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "",
+      "0.98": "",
+      "0.99": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "",
+      "0.98": "",
+      "0.99": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "EN 12102-1 | Colder Climate",
+      "0.98": "",
+      "0.99": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "68 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "125 %",
+      "medium_temperature": "100 %",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "23.69 kW",
+      "medium_temperature": "24.72 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.21",
+      "medium_temperature": "2.57",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "14.34 kW",
+      "medium_temperature": "14.96 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.83",
+      "medium_temperature": "2.28",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "16.68 kW",
+      "medium_temperature": "16.45 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.81",
+      "medium_temperature": "3.18",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "18.04 kW",
+      "medium_temperature": "18.01 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "4.22",
+      "medium_temperature": "3.67",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "23.68 kW",
+      "medium_temperature": "23.53 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.41",
+      "medium_temperature": "4.86",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "19.33 kW",
+      "medium_temperature": "20.16 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "2.27",
+      "medium_temperature": "1.74",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "16.77 kW",
+      "medium_temperature": "20.16 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "1.90": "60 \u00b0C",
+      "1.74": "60 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "1.90": "38 W",
+      "1.74": "38 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "1.90": "24 W",
+      "1.74": "15 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "1.90": "38 W",
+      "1.74": "38 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "1.90": "0 W",
+      "1.74": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "1.90": "Electricity",
+      "1.74": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "1.90": "24.00 kW",
+      "1.74": "25.00 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "1.90": "18202 kWh",
+      "1.74": "23747 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Pdh Tj = -15\u00b0C (if TOL",
+      "1.90": "",
+      "1.74": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "COP Tj = -15\u00b0C (if TOL",
+      "1.90": "",
+      "1.74": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = -15 \u00b0C",
+      "1.90": "",
+      "1.74": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "1.90": "",
+      "1.74": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "1.90": "",
+      "1.74": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "EN 12102-1 | Warmer Climate",
+      "1.90": "",
+      "1.74": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "68 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "166 %",
+      "medium_temperature": "133 %",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "16.37 kW",
+      "medium_temperature": "16.06 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.22",
+      "medium_temperature": "3.40",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "16.37 kW",
+      "medium_temperature": "16.06 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.50",
+      "medium_temperature": "2.35",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "18.83 kW",
+      "medium_temperature": "19.35 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "3.98",
+      "medium_temperature": "3.11",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "23.57 kW",
+      "medium_temperature": "23.17 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.28",
+      "medium_temperature": "4.38",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "16.37 kW",
+      "medium_temperature": "16.06 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.50",
+      "medium_temperature": "2.35",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "16.37 kW",
+      "medium_temperature": "16.06 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "3.50",
+      "medium_temperature": "2.35",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "60 \u00b0C",
+      "medium_temperature": "60 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "38 W",
+      "medium_temperature": "38 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "24 W",
+      "medium_temperature": "15 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "38 W",
+      "medium_temperature": "38 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 24.00 kW 25.00 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "0.00 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "5177 kWh",
+      "column_2": "6306 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Model alpha innotec LW 300 (L)",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "alpha_innotec_lw_300_(l)": "Heating (medium temp)",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "alpha_innotec_lw_300_(l)": "Indoor",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "alpha_innotec_lw_300_(l)": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "alpha_innotec_lw_300_(l)": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "alpha_innotec_lw_300_(l)": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "alpha_innotec_lw_300_(l)": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "alpha_innotec_lw_300_(l)": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "alpha_innotec_lw_300_(l)": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "19.78 kW",
+      "medium_temperature": "19.05 kW",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "4.90 kW",
+      "medium_temperature": "6.85 kW",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.04",
+      "medium_temperature": "2.78",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "68 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "68 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "138 %",
+      "medium_temperature": "114 %",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "21.95 kW",
+      "medium_temperature": "23.02 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.53",
+      "medium_temperature": "2.91",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "19.41 kW",
+      "medium_temperature": "20.36 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.65",
+      "medium_temperature": "1.99",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "16.37 kW",
+      "medium_temperature": "16.38 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.59",
+      "medium_temperature": "2.94",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "17.99 kW",
+      "medium_temperature": "18.36 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "4.05": "0.98",
+      "3.51": "0.99",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "4.05": "23.01 kW",
+      "3.51": "23.48 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "4.05": "5.28",
+      "3.51": "4.72",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "4.05": "0.98",
+      "3.51": "0.99",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "4.05": "21.95 kW",
+      "3.51": "23.02 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "4.05": "2.45",
+      "3.51": "1.78",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.05": "21.95 kW",
+      "3.51": "23.02 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.05": "2.45",
+      "3.51": "1.78",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "4.05": "60 \u00b0C",
+      "3.51": "60 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "4.05": "38 W",
+      "3.51": "38 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "4.05": "24 W",
+      "3.51": "15 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "4.05": "38 W",
+      "3.51": "38 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "4.05": "0 W",
+      "3.51": "0 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "4.05": "Electricity",
+      "3.51": "Electricity",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "4.05": "0.00 kW",
+      "3.51": "0.00 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "4.05": "12861 kWh",
+      "3.51": "16314 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "4.05": "",
+      "3.51": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "4.05": "",
+      "3.51": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "EN 12102-1 | Colder Climate",
+      "4.05": "",
+      "3.51": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "68 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "68 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "125 %",
+      "medium_temperature": "100 %",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "23.69 kW",
+      "medium_temperature": "24.72 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.21",
+      "medium_temperature": "2.57",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "14.34 kW",
+      "medium_temperature": "14.96 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.83",
+      "medium_temperature": "2.28",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "16.68 kW",
+      "medium_temperature": "16.45 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.81",
+      "medium_temperature": "3.18",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "18.04 kW",
+      "medium_temperature": "18.01 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "4.22",
+      "medium_temperature": "3.67",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "23.68 kW",
+      "medium_temperature": "23.53 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.41",
+      "medium_temperature": "4.86",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "19.33 kW",
+      "medium_temperature": "20.16 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "cop_tj_=_tbiv": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "2.27": "16.77 kW",
+      "1.74": "20.16 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "2.27": "1.90",
+      "1.74": "1.74",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "WTOL",
+      "2.27": "60 \u00b0C",
+      "1.74": "60 \u00b0C",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Poff",
+      "2.27": "38 W",
+      "1.74": "38 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PTO",
+      "2.27": "24 W",
+      "1.74": "15 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PSB",
+      "2.27": "38 W",
+      "1.74": "38 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PCK",
+      "2.27": "0 W",
+      "1.74": "0 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Supplementary Heater: Type of energy\ninput",
+      "2.27": "Electricity",
+      "1.74": "Electricity",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Supplementary Heater: PSUP",
+      "2.27": "24.00 kW",
+      "1.74": "25.00 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Annual energy consumption Qhe",
+      "2.27": "18202 kWh",
+      "1.74": "23747 kWh",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Pdh Tj = -15\u00b0C (if TOL",
+      "2.27": "",
+      "1.74": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "COP Tj = -15\u00b0C (if TOL",
+      "2.27": "",
+      "1.74": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Cdh Tj = -15 \u00b0C",
+      "2.27": "",
+      "1.74": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "",
+      "2.27": "",
+      "1.74": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "",
+      "2.27": "",
+      "1.74": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "EN 12102-1 | Warmer Climate",
+      "2.27": "",
+      "1.74": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "68 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "68 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "166 %",
+      "medium_temperature": "133 %",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "16.37 kW",
+      "medium_temperature": "16.06 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.22",
+      "medium_temperature": "3.40",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "16.37 kW",
+      "medium_temperature": "16.06 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.50",
+      "medium_temperature": "2.35",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "18.83 kW",
+      "medium_temperature": "19.35 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "3.98",
+      "medium_temperature": "3.11",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "23.57 kW",
+      "medium_temperature": "23.17 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.28",
+      "medium_temperature": "4.38",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "16.37 kW",
+      "medium_temperature": "16.06 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.50",
+      "medium_temperature": "2.35",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "16.37 kW",
+      "medium_temperature": "16.06 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "3.50",
+      "medium_temperature": "2.35",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "60 \u00b0C",
+      "medium_temperature": "60 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "38 W",
+      "medium_temperature": "38 W",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 24.00 kW 25.00 kW",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "pto": "PSB",
+      "24_w": "38 W",
+      "15_w": "38 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "pto": "PCK",
+      "24_w": "0 W",
+      "15_w": "0 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "pto": "Supplementary Heater: Type of energy\ninput",
+      "24_w": "Electricity",
+      "15_w": "Electricity",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "pto": "Supplementary Heater: PSUP",
+      "24_w": "0.00 kW",
+      "15_w": "0.00 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "pto": "Annual energy consumption Qhe",
+      "24_w": "5177 kWh",
+      "15_w": "6306 kWh",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Model NOVELAN LA 30",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "novelan_la_30": "Heating (medium temp)",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "novelan_la_30": "Outdoor",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "novelan_la_30": "n/a",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "novelan_la_30": "n/a",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "novelan_la_30": "n/a",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "novelan_la_30": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "novelan_la_30": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "novelan_la_30": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "19.78 kW",
+      "medium_temperature": "19.05 kW",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "4.90 kW",
+      "medium_temperature": "6.85 kW",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.04",
+      "medium_temperature": "2.78",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "68 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "138 %",
+      "medium_temperature": "114 %",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "21.95 kW",
+      "medium_temperature": "23.02 kW",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.53",
+      "medium_temperature": "2.91",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "19.41 kW",
+      "medium_temperature": "20.36 kW",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.65",
+      "medium_temperature": "1.99",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "16.37 kW",
+      "medium_temperature": "16.38 kW",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.59",
+      "medium_temperature": "2.94",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "17.99 kW",
+      "medium_temperature": "18.36 kW",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "4.05",
+      "medium_temperature": "3.51",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = 12\u00b0C",
+      "0.98": "23.01 kW",
+      "0.99": "23.48 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = 12\u00b0C",
+      "0.98": "5.28",
+      "0.99": "4.72",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "0.98": "0.98",
+      "0.99": "0.99",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = Tbiv",
+      "0.98": "21.95 kW",
+      "0.99": "23.02 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = Tbiv",
+      "0.98": "2.45",
+      "0.99": "1.78",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.98": "21.95 kW",
+      "0.99": "23.02 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.98": "2.45",
+      "0.99": "1.78",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "WTOL",
+      "0.98": "60 \u00b0C",
+      "0.99": "60 \u00b0C",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Poff",
+      "0.98": "38 W",
+      "0.99": "38 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PTO",
+      "0.98": "24 W",
+      "0.99": "15 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PSB",
+      "0.98": "38 W",
+      "0.99": "38 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PCK",
+      "0.98": "0 W",
+      "0.99": "0 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "0.98": "Electricity",
+      "0.99": "Electricity",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Supplementary Heater: PSUP",
+      "0.98": "0.00 kW",
+      "0.99": "0.00 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Annual energy consumption Qhe",
+      "0.98": "12861 kWh",
+      "0.99": "16314 kWh",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "",
+      "0.98": "",
+      "0.99": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "",
+      "0.98": "",
+      "0.99": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "EN 12102-1 | Colder Climate",
+      "0.98": "",
+      "0.99": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "68 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "125 %",
+      "medium_temperature": "100 %",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "23.69 kW",
+      "medium_temperature": "24.72 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.21",
+      "medium_temperature": "2.57",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "14.34 kW",
+      "medium_temperature": "14.96 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.83",
+      "medium_temperature": "2.28",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "16.68 kW",
+      "medium_temperature": "16.45 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.81",
+      "medium_temperature": "3.18",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "18.04 kW",
+      "medium_temperature": "18.01 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "4.22",
+      "medium_temperature": "3.67",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "23.68 kW",
+      "medium_temperature": "23.53 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.41",
+      "medium_temperature": "4.86",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "19.33 kW",
+      "medium_temperature": "20.16 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "2.27",
+      "medium_temperature": "1.74",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "16.77 kW",
+      "medium_temperature": "20.16 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 11,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 11,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "1.90": "60 \u00b0C",
+      "1.74": "60 \u00b0C",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "1.90": "38 W",
+      "1.74": "38 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "1.90": "24 W",
+      "1.74": "15 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "1.90": "38 W",
+      "1.74": "38 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "1.90": "0 W",
+      "1.74": "0 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "1.90": "Electricity",
+      "1.74": "Electricity",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "1.90": "24.00 kW",
+      "1.74": "25.00 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "1.90": "18202 kWh",
+      "1.74": "23747 kWh",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Pdh Tj = -15\u00b0C (if TOL",
+      "1.90": "",
+      "1.74": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "COP Tj = -15\u00b0C (if TOL",
+      "1.90": "",
+      "1.74": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = -15 \u00b0C",
+      "1.90": "",
+      "1.74": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "1.90": "",
+      "1.74": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "1.90": "",
+      "1.74": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "EN 12102-1 | Warmer Climate",
+      "1.90": "",
+      "1.74": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "68 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "166 %",
+      "medium_temperature": "133 %",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "16.37 kW",
+      "medium_temperature": "16.06 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.22",
+      "medium_temperature": "3.40",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "16.37 kW",
+      "medium_temperature": "16.06 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.50",
+      "medium_temperature": "2.35",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "18.83 kW",
+      "medium_temperature": "19.35 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "3.98",
+      "medium_temperature": "3.11",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "23.57 kW",
+      "medium_temperature": "23.17 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.28",
+      "medium_temperature": "4.38",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "16.37 kW",
+      "medium_temperature": "16.06 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.50",
+      "medium_temperature": "2.35",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "16.37 kW",
+      "medium_temperature": "16.06 kW",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "3.50",
+      "medium_temperature": "2.35",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "60 \u00b0C",
+      "medium_temperature": "60 \u00b0C",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "38 W",
+      "medium_temperature": "38 W",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "24 W",
+      "medium_temperature": "15 W",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "38 W",
+      "medium_temperature": "38 W",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 24.00 kW 25.00 kW",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "0.00 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "5177 kWh",
+      "column_2": "6306 kWh",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "": "",
+      "source_page": 14,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Model NOVELAN LI 30 (L)",
+      "source_page": 14,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "novelan_li_30_(l)": "Heating (medium temp)",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "novelan_li_30_(l)": "Indoor",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "novelan_li_30_(l)": "n/a",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "novelan_li_30_(l)": "n/a",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "novelan_li_30_(l)": "n/a",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "novelan_li_30_(l)": "",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "novelan_li_30_(l)": "",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "novelan_li_30_(l)": "",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "19.78 kW",
+      "medium_temperature": "19.05 kW",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "4.90 kW",
+      "medium_temperature": "6.85 kW",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.04",
+      "medium_temperature": "2.78",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "68 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "68 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "138 %",
+      "medium_temperature": "114 %",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "21.95 kW",
+      "medium_temperature": "23.02 kW",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.53",
+      "medium_temperature": "2.91",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "19.41 kW",
+      "medium_temperature": "20.36 kW",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.65",
+      "medium_temperature": "1.99",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "16.37 kW",
+      "medium_temperature": "16.38 kW",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.59",
+      "medium_temperature": "2.94",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "17.99 kW",
+      "medium_temperature": "18.36 kW",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "4.05": "0.98",
+      "3.51": "0.99",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "4.05": "23.01 kW",
+      "3.51": "23.48 kW",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "4.05": "5.28",
+      "3.51": "4.72",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "4.05": "0.98",
+      "3.51": "0.99",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "4.05": "21.95 kW",
+      "3.51": "23.02 kW",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "4.05": "2.45",
+      "3.51": "1.78",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.05": "21.95 kW",
+      "3.51": "23.02 kW",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.05": "2.45",
+      "3.51": "1.78",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "4.05": "60 \u00b0C",
+      "3.51": "60 \u00b0C",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "4.05": "38 W",
+      "3.51": "38 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "4.05": "24 W",
+      "3.51": "15 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "4.05": "38 W",
+      "3.51": "38 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "4.05": "0 W",
+      "3.51": "0 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "4.05": "Electricity",
+      "3.51": "Electricity",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "4.05": "0.00 kW",
+      "3.51": "0.00 kW",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "4.05": "12861 kWh",
+      "3.51": "16314 kWh",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "4.05": "",
+      "3.51": "",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "4.05": "",
+      "3.51": "",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "EN 12102-1 | Colder Climate",
+      "4.05": "",
+      "3.51": "",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "68 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "68 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 15,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "125 %",
+      "medium_temperature": "100 %",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "23.69 kW",
+      "medium_temperature": "24.72 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.21",
+      "medium_temperature": "2.57",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "14.34 kW",
+      "medium_temperature": "14.96 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.83",
+      "medium_temperature": "2.28",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "16.68 kW",
+      "medium_temperature": "16.45 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.81",
+      "medium_temperature": "3.18",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "18.04 kW",
+      "medium_temperature": "18.01 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "4.22",
+      "medium_temperature": "3.67",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "23.68 kW",
+      "medium_temperature": "23.53 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.41",
+      "medium_temperature": "4.86",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "19.33 kW",
+      "medium_temperature": "20.16 kW",
+      "source_page": 15,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 15,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 15,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "cop_tj_=_tbiv": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "2.27": "16.77 kW",
+      "1.74": "20.16 kW",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "2.27": "1.90",
+      "1.74": "1.74",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "WTOL",
+      "2.27": "60 \u00b0C",
+      "1.74": "60 \u00b0C",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Poff",
+      "2.27": "38 W",
+      "1.74": "38 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PTO",
+      "2.27": "24 W",
+      "1.74": "15 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PSB",
+      "2.27": "38 W",
+      "1.74": "38 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PCK",
+      "2.27": "0 W",
+      "1.74": "0 W",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Supplementary Heater: Type of energy\ninput",
+      "2.27": "Electricity",
+      "1.74": "Electricity",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Supplementary Heater: PSUP",
+      "2.27": "24.00 kW",
+      "1.74": "25.00 kW",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Annual energy consumption Qhe",
+      "2.27": "18202 kWh",
+      "1.74": "23747 kWh",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Pdh Tj = -15\u00b0C (if TOL",
+      "2.27": "",
+      "1.74": "",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "COP Tj = -15\u00b0C (if TOL",
+      "2.27": "",
+      "1.74": "",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Cdh Tj = -15 \u00b0C",
+      "2.27": "",
+      "1.74": "",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "",
+      "2.27": "",
+      "1.74": "",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "",
+      "2.27": "",
+      "1.74": "",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "EN 12102-1 | Warmer Climate",
+      "2.27": "",
+      "1.74": "",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "68 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "68 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "166 %",
+      "medium_temperature": "133 %",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "16.37 kW",
+      "medium_temperature": "16.06 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.22",
+      "medium_temperature": "3.40",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "16.37 kW",
+      "medium_temperature": "16.06 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.50",
+      "medium_temperature": "2.35",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.00",
+      "medium_temperature": "1.00",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "18.83 kW",
+      "medium_temperature": "19.35 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "3.98",
+      "medium_temperature": "3.11",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.99",
+      "medium_temperature": "0.99",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "23.57 kW",
+      "medium_temperature": "23.17 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.28",
+      "medium_temperature": "4.38",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "16.37 kW",
+      "medium_temperature": "16.06 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.50",
+      "medium_temperature": "2.35",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "16.37 kW",
+      "medium_temperature": "16.06 kW",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "3.50",
+      "medium_temperature": "2.35",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "60 \u00b0C",
+      "medium_temperature": "60 \u00b0C",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "38 W",
+      "medium_temperature": "38 W",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 16,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 24.00 kW 25.00 kW",
+      "source_page": 16,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "pto": "PSB",
+      "24_w": "38 W",
+      "15_w": "38 W",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "pto": "PCK",
+      "24_w": "0 W",
+      "15_w": "0 W",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "pto": "Supplementary Heater: Type of energy\ninput",
+      "24_w": "Electricity",
+      "15_w": "Electricity",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "pto": "Supplementary Heater: PSUP",
+      "24_w": "0.00 kW",
+      "15_w": "0.00 kW",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "pto": "Annual energy consumption Qhe",
+      "24_w": "5177 kWh",
+      "15_w": "6306 kWh",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 17,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 17,
+      "source_table": null,
+      "model_id": "ait-deutschland_GmbH_LW_300_Outdoor_Air_Water_17"
+    }
+  ]
+}

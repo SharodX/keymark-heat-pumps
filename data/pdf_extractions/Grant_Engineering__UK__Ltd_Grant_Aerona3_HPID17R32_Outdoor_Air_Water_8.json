@@ -1,0 +1,751 @@
+{
+  "source_pdf": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8.pdf",
+  "extraction_timestamp": "2025-11-17T15:30:28.497344",
+  "total_records": 89,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype Grant Aerona3 HPID17R32",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "grant_engineering_(uk)_ltd": "Frankland Road Blagrove",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "grant_engineering_(uk)_ltd": "SN5 8YG",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "grant_engineering_(uk)_ltd": "Swindon",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "grant_engineering_(uk)_ltd": "GB",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "grant_engineering_(uk)_ltd": "BRE Global Limited",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "grant_engineering_(uk)_ltd": "Grant Aerona3 HPID17R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "grant_engineering_(uk)_ltd": "041-K006-04",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "grant_engineering_(uk)_ltd": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "grant_engineering_(uk)_ltd": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "grant_engineering_(uk)_ltd": "2.8 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "grant_engineering_(uk)_ltd": "01.03.2022",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "grant_engineering_(uk)_ltd": "Heat Pump Keymark Scheme Rules Rev 09",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "grant_engineering_(uk)_ltd": "BRE Limited, UK",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Model HPID17R32",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "hpid17r32": "Heating + DHW + low temp",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "hpid17r32": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "hpid17r32": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "hpid17r32": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "hpid17r32": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hpid17r32": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hpid17r32": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "hpid17r32": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "l": "99 %",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "l": "2.4",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "l": "00:49 h:min",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "l": "27.5 W",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "l": "49.42 \u00b0C",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "l": "279.21 l",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "l": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "l": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "l": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "18 kW",
+      "medium_temperature": "15.3 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "3.77 kW",
+      "medium_temperature": "4.86 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.79",
+      "medium_temperature": "3.15",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "61.6 dB(A)",
+      "medium_temperature": "61.6 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "181 %",
+      "medium_temperature": "142 %",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12.80 kW",
+      "medium_temperature": "12.20 kW",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.61",
+      "medium_temperature": "3.64",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_00",
+      "value": "49 h:min",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8"
+    },
+    {
+      "tbiv": "TOL",
+      "-9_\u00b0c": "-10 \u00b0C",
+      "-8_\u00b0c": "-10 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "Pdh Tj = -7\u00b0C",
+      "-9_\u00b0c": "12.00 kW",
+      "-8_\u00b0c": "12.80 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "COP Tj = -7\u00b0C",
+      "-9_\u00b0c": "3.06",
+      "-8_\u00b0c": "2.34",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "Cdh Tj = -7 \u00b0C",
+      "-9_\u00b0c": "0.990",
+      "-8_\u00b0c": "0.990",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "Pdh Tj = +2\u00b0C",
+      "-9_\u00b0c": "7.70 kW",
+      "-8_\u00b0c": "7.43 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "COP Tj = +2\u00b0C",
+      "-9_\u00b0c": "4.61",
+      "-8_\u00b0c": "3.61",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "Cdh Tj = +2 \u00b0C",
+      "-9_\u00b0c": "0.990",
+      "-8_\u00b0c": "0.990",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "Pdh Tj = +7\u00b0C",
+      "-9_\u00b0c": "9.20 kW",
+      "-8_\u00b0c": "9.11 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "COP Tj = +7\u00b0C",
+      "-9_\u00b0c": "6.75",
+      "-8_\u00b0c": "5.21",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "Cdh Tj = +7 \u00b0C",
+      "-9_\u00b0c": "0.990",
+      "-8_\u00b0c": "0.990",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "Pdh Tj = 12\u00b0C",
+      "-9_\u00b0c": "6.20 kW",
+      "-8_\u00b0c": "6.10 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "COP Tj = 12\u00b0C",
+      "-9_\u00b0c": "9.64",
+      "-8_\u00b0c": "8.12",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "Cdh Tj = +12 \u00b0C",
+      "-9_\u00b0c": "0.990",
+      "-8_\u00b0c": "0.990",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "Pdh Tj = Tbiv",
+      "-9_\u00b0c": "11.64 kW",
+      "-8_\u00b0c": "10.76 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "COP Tj = Tbiv",
+      "-9_\u00b0c": "3.08",
+      "-8_\u00b0c": "2.12",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "-9_\u00b0c": "11.40 kW",
+      "-8_\u00b0c": "9.57 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "-9_\u00b0c": "3.24",
+      "-8_\u00b0c": "2.15",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "-9_\u00b0c": "0.990",
+      "-8_\u00b0c": "0.990",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "WTOL",
+      "-9_\u00b0c": "60 \u00b0C",
+      "-8_\u00b0c": "60 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "Poff",
+      "-9_\u00b0c": "100 W",
+      "-8_\u00b0c": "100 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "PTO",
+      "-9_\u00b0c": "40 W",
+      "-8_\u00b0c": "40 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "PSB",
+      "-9_\u00b0c": "100 W",
+      "-8_\u00b0c": "100 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "PCK",
+      "-9_\u00b0c": "0 W",
+      "-8_\u00b0c": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "Supplementary Heater: Type of energy\ninput",
+      "-9_\u00b0c": "Electricity",
+      "-8_\u00b0c": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "Supplementary Heater: PSUP",
+      "-9_\u00b0c": "1.40 kW",
+      "-8_\u00b0c": "2.63 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "tbiv": "Annual energy consumption Qhe",
+      "-9_\u00b0c": "5731 kWh",
+      "-8_\u00b0c": "6931 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.40 kW 2.63 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Grant_Engineering__UK__Ltd_Grant_Aerona3_HPID17R32_Outdoor_Air_Water_8"
+    }
+  ]
+}

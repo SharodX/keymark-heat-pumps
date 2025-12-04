@@ -1,0 +1,1322 @@
+{
+  "source_pdf": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235.pdf",
+  "extraction_timestamp": "2025-11-17T15:33:14.543703",
+  "total_records": 156,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype THERMOR AEROLIA TRI 16 2024",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "groupe_atlantic": "Rue des Fondeurs BP 64",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "groupe_atlantic": "59660",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "groupe_atlantic": "Merville",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "groupe_atlantic": "FR",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "groupe_atlantic": "RISE CERT",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "groupe_atlantic": "THERMOR AEROLIA TRI 16 2024",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "groupe_atlantic": "012-C700297",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "groupe_atlantic": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "groupe_atlantic": "R410A",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "groupe_atlantic": "2.5 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "groupe_atlantic": "16.04.2024",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "groupe_atlantic": "EN 14511:2022, EN 14825:2022, EN 16147:2017, EN\n12102:2022",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "label": "testing_basis_en_14511",
+      "value": "2022, EN 14825:2022, EN 16147:2017, EN",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235"
+    },
+    {
+      "label": "12102",
+      "value": "2022",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235"
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "Model THERMOR AEROLIA TRI 16 2024",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "thermor_aerolia_tri_16_2024": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "thermor_aerolia_tri_16_2024": "Indoor, Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "thermor_aerolia_tri_16_2024": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "thermor_aerolia_tri_16_2024": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "thermor_aerolia_tri_16_2024": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "thermor_aerolia_tri_16_2024": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "thermor_aerolia_tri_16_2024": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "thermor_aerolia_tri_16_2024": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "15.20 kW",
+      "medium_temperature": "12.30 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "3.71 kW",
+      "medium_temperature": "4.96 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.10",
+      "medium_temperature": "2.48",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "40 dB(A)",
+      "medium_temperature": "40 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "67 dB(A)",
+      "medium_temperature": "67 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "155 %",
+      "medium_temperature": "125 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "14.00 kW",
+      "medium_temperature": "13.00 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.95",
+      "medium_temperature": "3.20",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "12.40 kW",
+      "medium_temperature": "11.50 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.51",
+      "medium_temperature": "1.87",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "7.50 kW",
+      "medium_temperature": "7.00 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.69",
+      "medium_temperature": "3.08",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.990",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "6.30 kW",
+      "medium_temperature": "5.60 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "5.62": "0.980",
+      "4.50": "0.980",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "5.62": "7.40 kW",
+      "4.50": "6.90 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "5.62": "7.32",
+      "4.50": "6.09",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.62": "0.980",
+      "4.50": "0.980",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "5.62": "12.40 kW",
+      "4.50": "11.50 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "5.62": "2.51",
+      "4.50": "1.87",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.62": "11.60 kW",
+      "4.50": "10.30 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.62": "2.34",
+      "4.50": "1.67",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.62": "1.000",
+      "4.50": "1.000",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "5.62": "60 \u00b0C",
+      "4.50": "60 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "5.62": "10 W",
+      "4.50": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "5.62": "24 W",
+      "4.50": "24 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "5.62": "14 W",
+      "4.50": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "5.62": "0 W",
+      "4.50": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.62": "Electricity",
+      "4.50": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "5.62": "2.40 kW",
+      "4.50": "2.70 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "5.62": "7317 kWh",
+      "4.50": "8395 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 2.40 kW 2.70 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235"
+    },
+    {
+      "": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "Model THERMOR AEROLIA DUO TRI 16 2024",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "thermor_aerolia_duo_tri_16_2024": "Heating + DHW + low temp",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "thermor_aerolia_duo_tri_16_2024": "Indoor, Outdoor",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "thermor_aerolia_duo_tri_16_2024": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "thermor_aerolia_duo_tri_16_2024": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "thermor_aerolia_duo_tri_16_2024": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "thermor_aerolia_duo_tri_16_2024": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "thermor_aerolia_duo_tri_16_2024": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "thermor_aerolia_duo_tri_16_2024": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "l": "100 %",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "l": "2.50",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "l": "0:50 h:min",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "l": "40.0 W",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "l": "54.2 \u00b0C",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "l": "250 l",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "l": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "l": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "l": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "15.20 kW",
+      "medium_temperature": "12.30 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "3.71 kW",
+      "medium_temperature": "4.96 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.10",
+      "medium_temperature": "2.48",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "40 dB(A)",
+      "medium_temperature": "40 dB(A)",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "67 dB(A)",
+      "medium_temperature": "67 dB(A)",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "155 %",
+      "medium_temperature": "125 %",
+      "source_page": 4,
+      "source_table": 8,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "14.00 kW",
+      "medium_temperature": "13.00 kW",
+      "source_page": 4,
+      "source_table": 8,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_0",
+      "value": "50 h:min",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235"
+    },
+    {
+      "scop": "Tbiv",
+      "3.95": "-7 \u00b0C",
+      "3.20": "-7 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "TOL",
+      "3.95": "-10 \u00b0C",
+      "3.20": "-10 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = -7\u00b0C",
+      "3.95": "12.40 kW",
+      "3.20": "11.50 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = -7\u00b0C",
+      "3.95": "2.51",
+      "3.20": "1.87",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = -7 \u00b0C",
+      "3.95": "1.000",
+      "3.20": "1.000",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +2\u00b0C",
+      "3.95": "7.50 kW",
+      "3.20": "7.00 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +2\u00b0C",
+      "3.95": "3.69",
+      "3.20": "3.08",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +2 \u00b0C",
+      "3.95": "0.990",
+      "3.20": "0.990",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +7\u00b0C",
+      "3.95": "6.30 kW",
+      "3.20": "5.60 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +7\u00b0C",
+      "3.95": "5.62",
+      "3.20": "4.50",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +7 \u00b0C",
+      "3.95": "0.980",
+      "3.20": "0.980",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = 12\u00b0C",
+      "3.95": "7.40 kW",
+      "3.20": "6.90 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = 12\u00b0C",
+      "3.95": "7.32",
+      "3.20": "6.09",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +12 \u00b0C",
+      "3.95": "0.980",
+      "3.20": "0.980",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = Tbiv",
+      "3.95": "12.40 kW",
+      "3.20": "11.50 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = Tbiv",
+      "3.95": "2.51",
+      "3.20": "1.87",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.95": "11.60 kW",
+      "3.20": "10.30 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.95": "2.34",
+      "3.20": "1.67",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.95": "1.000",
+      "3.20": "1.000",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "WTOL",
+      "3.95": "60 \u00b0C",
+      "3.20": "60 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "Poff",
+      "3.95": "10 W",
+      "3.20": "10 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "PTO",
+      "3.95": "24 W",
+      "3.20": "24 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "PSB",
+      "3.95": "14 W",
+      "3.20": "10 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "PCK",
+      "3.95": "0 W",
+      "3.20": "0 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: Type of energy\ninput",
+      "3.95": "Electricity",
+      "3.20": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: PSUP",
+      "3.95": "2.40 kW",
+      "3.20": "2.70 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "scop": "Annual energy consumption Qhe",
+      "3.95": "7317 kWh",
+      "3.20": "8395 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 2.40 kW 2.70 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERMOR_AEROLIA_TRI_16_2024_Outdoor_Air_Water_235"
+    }
+  ]
+}

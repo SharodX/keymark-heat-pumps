@@ -1,0 +1,680 @@
+{
+  "source_pdf": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4.pdf",
+  "extraction_timestamp": "2025-11-17T15:38:25.708118",
+  "total_records": 80,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype DC Inverter Air Source Heat Pump 12 - R290",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "mycond_limited": "42-44 Bishopsgate",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "mycond_limited": "EC2N 4AH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "mycond_limited": "London",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "mycond_limited": "GB",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "mycond_limited": "BRE Global Limited",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "mycond_limited": "DC Inverter Air Source Heat Pump 12 - R290",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "mycond_limited": "041-K088-14",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "mycond_limited": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "mycond_limited": "R290",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "mycond_limited": "1.05 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "mycond_limited": "03.04.2024",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "mycond_limited": "Heat Pump Keymark Scheme Rules Rev 13",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "mycond_limited": "T\u00dcV S\u00dcD Certification and Testing Co., Ltd. Guangzhou\nBranch, CN",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Model BeeECO MHCM 12 SU3A",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "beeeco_mhcm_12_su3a": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "beeeco_mhcm_12_su3a": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "beeeco_mhcm_12_su3a": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "beeeco_mhcm_12_su3a": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "beeeco_mhcm_12_su3a": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "beeeco_mhcm_12_su3a": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "beeeco_mhcm_12_su3a": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "beeeco_mhcm_12_su3a": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "beeeco_mhcm_12_su3a": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "12.09 kW",
+      "medium_temperature": "12.49 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.67 kW",
+      "medium_temperature": "4.26 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.53",
+      "medium_temperature": "2.93",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "67 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "187 %",
+      "medium_temperature": "145 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "9.88 kW",
+      "medium_temperature": "9.93 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.74",
+      "medium_temperature": "3.70",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "8.74 kW",
+      "medium_temperature": "8.79 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.18",
+      "medium_temperature": "2.35",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "5.54 kW",
+      "medium_temperature": "5.38 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.60",
+      "medium_temperature": "3.61",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "3.50 kW",
+      "medium_temperature": "3.45 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "6.10": "0.900",
+      "4.83": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "6.10": "4.10 kW",
+      "4.83": "3.94 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "6.10": "8.18",
+      "4.83": "6.57",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "6.10": "0.900",
+      "4.83": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "6.10": "8.74 kW",
+      "4.83": "8.79 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "6.10": "3.18",
+      "4.83": "2.35",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.10": "9.83 kW",
+      "4.83": "9.92 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.10": "2.70",
+      "4.83": "2.03",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.10": "0.900",
+      "4.83": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "6.10": "65 \u00b0C",
+      "4.83": "65 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "6.10": "13 W",
+      "4.83": "13 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "6.10": "38 W",
+      "4.83": "38 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "6.10": "13 W",
+      "4.83": "13 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "6.10": "83 W",
+      "4.83": "83 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "6.10": "Electricity",
+      "4.83": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "6.10": "0.05 kW",
+      "4.83": "0.01 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "6.10": "4300 kWh",
+      "4.83": "5547 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.05 kW 0.01 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "MYCOND_Limited_DC_Inverter_Air_Source_Heat_Pump_12_-_R290_Outdoor_Air_Water_4"
+    }
+  ]
+}

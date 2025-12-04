@@ -1,0 +1,959 @@
+{
+  "source_pdf": "Nibe_AB_F1345-40_Brine_Water_4.pdf",
+  "extraction_timestamp": "2025-11-17T15:43:04.537467",
+  "total_records": 111,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype F1345-40",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "nibe_ab": "Box 14",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "nibe_ab": "S-28521",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "nibe_ab": "Markaryd",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "nibe_ab": "SE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "nibe_ab": "RISE CERT",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "nibe_ab": "F1345-40",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "nibe_ab": "012-052",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "nibe_ab": "Brine/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "nibe_ab": "R407c",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "nibe_ab": "3.4 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "nibe_ab": "15.06.2017",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "nibe_ab": "Austrian Institute of Technology (AIT)",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Model F1345-40",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "f1345-40": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "f1345-40": "Indoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "f1345-40": "Colder Climate",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "f1345-40": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "f1345-40": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "f1345-40": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "f1345-40": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "f1345-40": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "No",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Brine/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "39.94 kW",
+      "medium_temperature": "37.80 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "8.90 kW",
+      "medium_temperature": "11.90 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.49",
+      "medium_temperature": "3.18",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "47 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "182 %",
+      "medium_temperature": "143 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "46.00 kW",
+      "medium_temperature": "46.00 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.75",
+      "medium_temperature": "3.78",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-6 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "40.10 kW",
+      "medium_temperature": "38.20 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.62",
+      "medium_temperature": "3.33",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "40.30 kW",
+      "medium_temperature": "39.10 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.78",
+      "medium_temperature": "3.79",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "20.30 kW",
+      "medium_temperature": "19.90 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.11",
+      "medium_temperature": "4.21",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "20.40 kW",
+      "medium_temperature": "20.10 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.09": "",
+      "4.51": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = Tbiv",
+      "5.09": "40.10 kW",
+      "4.51": "38.40 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = Tbiv",
+      "5.09": "4.63",
+      "4.51": "3.41",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.09": "40.00 kW",
+      "4.51": "37.80 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.09": "4.50",
+      "4.51": "3.19",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.09": "0.980",
+      "4.51": "0.990",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "WTOL",
+      "5.09": "65 \u00b0C",
+      "4.51": "65 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Poff",
+      "5.09": "2 W",
+      "4.51": "2 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PTO",
+      "5.09": "100 W",
+      "4.51": "100 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PSB",
+      "5.09": "7 W",
+      "4.51": "7 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PCK",
+      "5.09": "80 W",
+      "4.51": "80 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.09": "Electricity",
+      "4.51": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: PSUP",
+      "5.09": "6.00 kW",
+      "4.51": "8.20 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Annual energy consumption Qhe",
+      "5.09": "19996 kWh",
+      "4.51": "25093 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "5.09": "",
+      "4.51": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "5.09": "",
+      "4.51": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "EN 12102-1 | Colder Climate",
+      "5.09": "",
+      "4.51": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "47 dB(A)",
+      "medium_temperature": "47 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "190 %",
+      "medium_temperature": "149 %",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "46.00 kW",
+      "medium_temperature": "46.00 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.95",
+      "medium_temperature": "3.93",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-17 \u00b0C",
+      "medium_temperature": "-16 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "40.40 kW",
+      "medium_temperature": "39.00 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.86",
+      "medium_temperature": "3.70",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "20.30 kW",
+      "medium_temperature": "19.80 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.16",
+      "medium_temperature": "4.19",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "20.40 kW",
+      "medium_temperature": "20.00 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.22",
+      "medium_temperature": "4.50",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "20.40 kW",
+      "medium_temperature": "20.20 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "4.95",
+      "medium_temperature": "4.65",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "40.20 kW",
+      "medium_temperature": "38.40 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "4.67",
+      "medium_temperature": "3.43",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "40.00 kW",
+      "medium_temperature": "37.80 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "4.50",
+      "medium_temperature": "3.19",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 6.00 kW 8.20 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4"
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "2 W",
+      "column_2": "2 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "100 W",
+      "column_2": "100 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "7 W",
+      "column_2": "7 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "80 W",
+      "column_2": "80 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "6.00 kW",
+      "column_2": "8.20 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "22939 kWh",
+      "column_2": "28857 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 6.00 kW 8.20 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Nibe_AB_F1345-40_Brine_Water_4"
+    }
+  ]
+}

@@ -1,0 +1,1227 @@
+{
+  "source_pdf": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61.pdf",
+  "extraction_timestamp": "2025-11-17T16:03:04.204701",
+  "total_records": 144,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype TTL 9.6/12.6 AC",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "tecalor_gmbh": "L\u00fcchtringer Weg 3",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "tecalor_gmbh": "37603",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "tecalor_gmbh": "Holzminden",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "tecalor_gmbh": "DE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "tecalor_gmbh": "DIN CERTCO Gesellschaft f\u00fcr Konformit\u00e4tsbewertung mbH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "tecalor_gmbh": "TTL 9.6/12.6 AC",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "tecalor_gmbh": "011-1W0648",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "tecalor_gmbh": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "tecalor_gmbh": "R452B",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "tecalor_gmbh": "5 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "tecalor_gmbh": "22.06.2023",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "tecalor_gmbh": "European KEYMARK Scheme for Heat Pumps Rev. 12 (as of\n2023-04)",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "Model TTL 9.6 AC",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ttl_9.6_ac": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ttl_9.6_ac": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ttl_9.6_ac": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "ttl_9.6_ac": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ttl_9.6_ac": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ttl_9.6_ac": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ttl_9.6_ac": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ttl_9.6_ac": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ttl_9.6_ac": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "8.24 kW",
+      "medium_temperature": "9.03 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.79 kW",
+      "medium_temperature": "2.88 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.61",
+      "medium_temperature": "3.14",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "55 dB(A)",
+      "medium_temperature": "55 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "169 %",
+      "medium_temperature": "135 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "11.20 kW",
+      "medium_temperature": "11.60 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.31",
+      "medium_temperature": "3.44",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "9.89 kW",
+      "medium_temperature": "10.22 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.36",
+      "medium_temperature": "2.59",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "7.12 kW",
+      "medium_temperature": "7.06 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.17",
+      "medium_temperature": "3.28",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.980",
+      "medium_temperature": "0.990",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "8.31 kW",
+      "medium_temperature": "8.01 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "5.24": "0.980",
+      "4.25": "0.990",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "5.24": "9.57 kW",
+      "4.25": "9.28 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "5.24": "6.41",
+      "4.25": "5.25",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.24": "0.980",
+      "4.25": "0.980",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "5.24": "9.89 kW",
+      "4.25": "10.22 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "5.24": "3.36",
+      "4.25": "2.59",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.24": "9.25 kW",
+      "4.25": "10.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.24": "3.11",
+      "4.25": "2.32",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.24": "",
+      "4.25": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "5.24": "65 \u00b0C",
+      "4.25": "65 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "5.24": "10 W",
+      "4.25": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "5.24": "10 W",
+      "4.25": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "5.24": "10 W",
+      "4.25": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "5.24": "38 W",
+      "4.25": "38 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.24": "Electricity",
+      "4.25": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "5.24": "1.95 kW",
+      "4.25": "1.60 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "5.24": "5368 kWh",
+      "4.25": "6969 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.95 kW 1.60 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61"
+    },
+    {
+      "": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "Model TTL 12.6 AC",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ttl_12.6_ac": "Heating (medium temp)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ttl_12.6_ac": "Outdoor",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ttl_12.6_ac": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "ttl_12.6_ac": "Yes",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ttl_12.6_ac": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ttl_12.6_ac": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ttl_12.6_ac": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ttl_12.6_ac": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ttl_12.6_ac": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "8.24 kW",
+      "medium_temperature": "9.03 kW",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.79 kW",
+      "medium_temperature": "2.88 kW",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.61",
+      "medium_temperature": "3.14",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "55 dB(A)",
+      "medium_temperature": "55 dB(A)",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "171 %",
+      "medium_temperature": "139 %",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "14.00 kW",
+      "medium_temperature": "14.80 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.35",
+      "medium_temperature": "3.54",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "12.34 kW",
+      "medium_temperature": "13.11 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.00",
+      "medium_temperature": "2.41",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "7.70 kW",
+      "medium_temperature": "8.08 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.31",
+      "medium_temperature": "3.48",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.980",
+      "medium_temperature": "0.990",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "8.28 kW",
+      "medium_temperature": "8.00 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "5.31": "0.980",
+      "4.37": "0.990",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "5.31": "9.52 kW",
+      "4.37": "9.23 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "5.31": "6.43",
+      "4.37": "5.28",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.31": "0.980",
+      "4.37": "0.980",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "5.31": "12.34 kW",
+      "4.37": "13.11 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "5.31": "3.00",
+      "4.37": "2.41",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.31": "12.63 kW",
+      "4.37": "13.48 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.31": "2.93",
+      "4.37": "2.27",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.31": "",
+      "4.37": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "5.31": "65 \u00b0C",
+      "4.37": "65 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "5.31": "10 W",
+      "4.37": "10 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "5.31": "10 W",
+      "4.37": "10 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "5.31": "10 W",
+      "4.37": "10 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "5.31": "38 W",
+      "4.37": "38 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.31": "Electricity",
+      "4.37": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "5.31": "1.37 kW",
+      "4.37": "1.32 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "5.31": "6657 kWh",
+      "4.37": "8643 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.37 kW 1.32 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "tecalor_GmbH_TTL_9_6_12_6_AC_Outdoor_Air_Water_61"
+    }
+  ]
+}

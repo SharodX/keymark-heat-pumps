@@ -1,0 +1,1095 @@
+{
+  "source_pdf": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76.pdf",
+  "extraction_timestamp": "2025-11-17T15:31:41.459086",
+  "total_records": 127,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype ATLANTIC GEOLIA 7",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "groupe_atlantic": "Rue des Fondeurs BP 64",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "groupe_atlantic": "59660",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "groupe_atlantic": "Merville",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "groupe_atlantic": "FR",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "groupe_atlantic": "RISE CERT",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "groupe_atlantic": "ATLANTIC GEOLIA 7",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "groupe_atlantic": "012-C700080",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "groupe_atlantic": "Brine/Water and Water/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "groupe_atlantic": "R410A",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "groupe_atlantic": "0.95 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "groupe_atlantic": "16.10.2020",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "groupe_atlantic": "HP Keymark Scheme Rules rev 8",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "Model ATLANTIC GEOLIA 7",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "atlantic_geolia_7": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "atlantic_geolia_7": "Indoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "atlantic_geolia_7": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "atlantic_geolia_7": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "atlantic_geolia_7": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "atlantic_geolia_7": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "atlantic_geolia_7": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "atlantic_geolia_7": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "No",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Brine/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "7.02 kW",
+      "medium_temperature": "kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.82 kW",
+      "medium_temperature": "kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "3.86",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "57 dB(A)",
+      "medium_temperature": "57 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "153 %",
+      "medium_temperature": "%",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "8.00 kW",
+      "medium_temperature": "kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.03",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "\u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "\u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "7.00 kW",
+      "medium_temperature": "kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.87",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "7.20 kW",
+      "medium_temperature": "kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.05",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "7.20 kW",
+      "medium_temperature": "kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "4.22",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = 12\u00b0C",
+      "0.990": "7.30 kW",
+      "": "kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = 12\u00b0C",
+      "0.990": "4.39",
+      "": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "0.990": "0.990",
+      "": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = Tbiv",
+      "0.990": "7.00 kW",
+      "": "kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = Tbiv",
+      "0.990": "3.87",
+      "": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.990": "7.00 kW",
+      "": "kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.990": "3.78",
+      "": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.990": "",
+      "": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "WTOL",
+      "0.990": "50 \u00b0C",
+      "": "\u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Poff",
+      "0.990": "2 W",
+      "": "W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PTO",
+      "0.990": "14 W",
+      "": "W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PSB",
+      "0.990": "4 W",
+      "": "W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PCK",
+      "0.990": "0 W",
+      "": "W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "0.990": "Electricity",
+      "": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Supplementary Heater: PSUP",
+      "0.990": "1.00 kW",
+      "": "kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Annual energy consumption Qhe",
+      "0.990": "4074 kWh",
+      "": "kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "",
+      "0.990": "",
+      "": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "",
+      "0.990": "",
+      "": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Water/Water",
+      "0.990": "",
+      "": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "",
+      "0.990": "",
+      "": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "",
+      "0.990": "",
+      "": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "EN 14511-4 | Heating",
+      "0.990": "",
+      "": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "9.35 kW",
+      "medium_temperature": "8.72 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.83 kW",
+      "medium_temperature": "3.04 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.10",
+      "medium_temperature": "2.87",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "194 %",
+      "medium_temperature": "149 %",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "10.60 kW",
+      "medium_temperature": "9.60 kW",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.06",
+      "medium_temperature": "3.90",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "9.40 kW",
+      "medium_temperature": "8.50 kW",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.80",
+      "medium_temperature": "3.30",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.990",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.00 kW kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76"
+    },
+    {
+      "pdh_tj_=_+2\u00b0c": "COP Tj = +2\u00b0C",
+      "9.50_kw": "5.10",
+      "8.80_kw": "3.90",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+2\u00b0c": "Cdh Tj = +2 \u00b0C",
+      "9.50_kw": "0.990",
+      "8.80_kw": "0.990",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+2\u00b0c": "Pdh Tj = +7\u00b0C",
+      "9.50_kw": "9.60 kW",
+      "8.80_kw": "9.00 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+2\u00b0c": "COP Tj = +7\u00b0C",
+      "9.50_kw": "5.30",
+      "8.80_kw": "4.30",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+2\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "9.50_kw": "0.990",
+      "8.80_kw": "0.990",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+2\u00b0c": "Pdh Tj = 12\u00b0C",
+      "9.50_kw": "9.70 kW",
+      "8.80_kw": "9.20 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+2\u00b0c": "COP Tj = 12\u00b0C",
+      "9.50_kw": "5.60",
+      "8.80_kw": "4.80",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+2\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "9.50_kw": "0.990",
+      "8.80_kw": "0.990",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+2\u00b0c": "Pdh Tj = Tbiv",
+      "9.50_kw": "9.40 kW",
+      "8.80_kw": "8.50 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+2\u00b0c": "COP Tj = Tbiv",
+      "9.50_kw": "4.80",
+      "8.80_kw": "3.30",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+2\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "9.50_kw": "9.40 kW",
+      "8.80_kw": "8.30 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+2\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "9.50_kw": "4.70",
+      "8.80_kw": "3.00",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+2\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "9.50_kw": "",
+      "8.80_kw": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+2\u00b0c": "WTOL",
+      "9.50_kw": "55 \u00b0C",
+      "8.80_kw": "55 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+2\u00b0c": "Poff",
+      "9.50_kw": "2 W",
+      "8.80_kw": "2 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+2\u00b0c": "PTO",
+      "9.50_kw": "14 W",
+      "8.80_kw": "14 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+2\u00b0c": "PSB",
+      "9.50_kw": "4 W",
+      "8.80_kw": "4 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+2\u00b0c": "PCK",
+      "9.50_kw": "0 W",
+      "8.80_kw": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+2\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "9.50_kw": "Electricity",
+      "8.80_kw": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+2\u00b0c": "Supplementary Heater: PSUP",
+      "9.50_kw": "1.20 kW",
+      "8.80_kw": "1.30 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+2\u00b0c": "Annual energy consumption Qhe",
+      "9.50_kw": "4323 kWh",
+      "8.80_kw": "4997 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.20 kW 1.30 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_ATLANTIC_GEOLIA_7_Brine_Water_and_Water_Water_76"
+    }
+  ]
+}

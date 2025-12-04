@@ -1,0 +1,2823 @@
+{
+  "source_pdf": "CTC_AB_CTC_GSi_612_Brine_Water_31.pdf",
+  "extraction_timestamp": "2025-11-17T15:17:34.379307",
+  "total_records": 328,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype CTC GSi 612",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "ctc_ab": "Box 309, N\u00e4sv\u00e4gen",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "ctc_ab": "SE-341 26",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "ctc_ab": "Ljungby",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "ctc_ab": "SE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "ctc_ab": "RISE CERT",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "ctc_ab": "CTC GSi 612",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "ctc_ab": "012-C700087",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "ctc_ab": "Brine/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "ctc_ab": "R407c",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "ctc_ab": "2.4 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "ctc_ab": "11.12.2023",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "ctc_ab": "EN 14511:2013, EN 14825:2013, EN 12102:2013, EN\n16147:2011",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "ctc_ab": "RISE Research Institutes of Sweden",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "label": "testing_basis_en_14511",
+      "value": "2013, EN 14825:2013, EN 12102:2013, EN",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31"
+    },
+    {
+      "label": "16147",
+      "value": "2011",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31"
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Model CTC GSi 612",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ctc_gsi_612": "Heating + DHW + low temp",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ctc_gsi_612": "Indoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ctc_gsi_612": "Colder Climate",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ctc_gsi_612": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ctc_gsi_612": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ctc_gsi_612": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ctc_gsi_612": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ctc_gsi_612": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "No",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Brine/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "100 %",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.50",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "1:45 h:min",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "59.0 W",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "49.5 \u00b0C",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "235 l",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 16147 | Colder Climate",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "100 %",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.50",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "1:45 h:min",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "59.0 W",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "49.5 \u00b0C",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "235 l",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "6.08 kW",
+      "medium_temperature": "5.24 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.27 kW",
+      "medium_temperature": "1.78 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.78",
+      "medium_temperature": "2.95",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_1",
+      "value": "45 h:min",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31"
+    },
+    {
+      "label": "heating_up_time_1",
+      "value": "45 h:min",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31"
+    },
+    {
+      "column_0": "Sound power level indoor",
+      "column_1": "39 dB(A)",
+      "column_2": "39 dB(A)",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 14825 | Average Climate",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "208 %",
+      "medium_temperature": "155 %",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "9.81 kW",
+      "medium_temperature": "6.80 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.40",
+      "medium_temperature": "4.10",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "8.80 kW",
+      "medium_temperature": "6.00 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.59",
+      "medium_temperature": "3.25",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "5.40 kW",
+      "medium_temperature": "3.70 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.60",
+      "medium_temperature": "4.18",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "3.50 kW",
+      "medium_temperature": "2.40 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.05",
+      "medium_temperature": "4.70",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.40 kW",
+      "medium_temperature": "2.40 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "6.03",
+      "medium_temperature": "5.34",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "9.80 kW",
+      "medium_temperature": "6.70 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "4.30",
+      "medium_temperature": "3.00",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "9.94 kW",
+      "medium_temperature": "6.66 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "4.28",
+      "medium_temperature": "2.99",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.970",
+      "medium_temperature": "0.980",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "23 W",
+      "medium_temperature": "23 W",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "0 W",
+      "medium_temperature": "6 W",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "Electricity",
+      "medium_temperature": "Electricity",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "0.00 kW",
+      "medium_temperature": "0.00 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qhe",
+      "low_temperature": "3800 kWh",
+      "medium_temperature": "3444 kWh",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "39 dB(A)",
+      "medium_temperature": "39 dB(A)",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "208 %",
+      "medium_temperature": "155 %",
+      "source_page": 3,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31"
+    },
+    {
+      "prated": "SCOP",
+      "11.40_kw": "5.50",
+      "7.20_kw": "4.30",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "Tbiv",
+      "11.40_kw": "-22 \u00b0C",
+      "7.20_kw": "-22 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "TOL",
+      "11.40_kw": "-22 \u00b0C",
+      "7.20_kw": "-22 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = -7\u00b0C",
+      "11.40_kw": "7.00 kW",
+      "7.20_kw": "4.46 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = -7\u00b0C",
+      "11.40_kw": "5.33",
+      "7.20_kw": "4.01",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = +2\u00b0C",
+      "11.40_kw": "4.20 kW",
+      "7.20_kw": "2.70 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = +2\u00b0C",
+      "11.40_kw": "5.90",
+      "7.20_kw": "4.66",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = +7\u00b0C",
+      "11.40_kw": "2.80 kW",
+      "7.20_kw": "2.40 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = +7\u00b0C",
+      "11.40_kw": "5.95",
+      "7.20_kw": "5.17",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = 12\u00b0C",
+      "11.40_kw": "2.40 kW",
+      "7.20_kw": "2.40 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = 12\u00b0C",
+      "11.40_kw": "5.74",
+      "7.20_kw": "5.51",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = Tbiv",
+      "11.40_kw": "11.50 kW",
+      "7.20_kw": "7.50 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = Tbiv",
+      "11.40_kw": "3.93",
+      "7.20_kw": "2.86",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "11.40_kw": "11.45 kW",
+      "7.20_kw": "7.54 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "11.40_kw": "3.93",
+      "7.20_kw": "2.86",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "11.40_kw": "0.96",
+      "7.20_kw": "0.98",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "WTOL",
+      "11.40_kw": "65 \u00b0C",
+      "7.20_kw": "65 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "Poff",
+      "11.40_kw": "13 W",
+      "7.20_kw": "23 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "PTO",
+      "11.40_kw": "34 W",
+      "7.20_kw": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "PSB",
+      "11.40_kw": "0 W",
+      "7.20_kw": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "PCK",
+      "11.40_kw": "0 W",
+      "7.20_kw": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "Supplementary Heater: Type of energy\ninput",
+      "11.40_kw": "Electricity",
+      "7.20_kw": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "Supplementary Heater: PSUP",
+      "11.40_kw": "0.00 kW",
+      "7.20_kw": "0.00 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "prated": "Annual energy consumption Qhe",
+      "11.40_kw": "3800 kWh",
+      "7.20_kw": "3444 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31"
+    },
+    {
+      "": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Model CTC EcoPart 612M",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ctc_ecopart_612m": "Heating (medium temp)",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ctc_ecopart_612m": "Indoor",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ctc_ecopart_612m": "Colder Climate",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ctc_ecopart_612m": "n/a",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ctc_ecopart_612m": "n/a",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ctc_ecopart_612m": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ctc_ecopart_612m": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ctc_ecopart_612m": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "No",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Brine/Water",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "6.08 kW",
+      "medium_temperature": "5.24 kW",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.27 kW",
+      "medium_temperature": "1.78 kW",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.78",
+      "medium_temperature": "2.95",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "39 dB(A)",
+      "medium_temperature": "39 dB(A)",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "208 %",
+      "medium_temperature": "155 %",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "9.81 kW",
+      "medium_temperature": "6.80 kW",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.40",
+      "medium_temperature": "4.10",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "8.80 kW",
+      "medium_temperature": "6.00 kW",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.59",
+      "medium_temperature": "3.25",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "5.40 kW",
+      "medium_temperature": "3.70 kW",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.60",
+      "medium_temperature": "4.18",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "3.50 kW",
+      "medium_temperature": "2.40 kW",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.05",
+      "medium_temperature": "4.70",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.40 kW",
+      "medium_temperature": "2.40 kW",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "6.03": "",
+      "5.34": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = Tbiv",
+      "6.03": "9.80 kW",
+      "5.34": "6.70 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = Tbiv",
+      "6.03": "4.30",
+      "5.34": "3.00",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.03": "9.94 kW",
+      "5.34": "6.66 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.03": "4.28",
+      "5.34": "2.99",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.03": "0.970",
+      "5.34": "0.980",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "WTOL",
+      "6.03": "65 \u00b0C",
+      "5.34": "65 \u00b0C",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Poff",
+      "6.03": "23 W",
+      "5.34": "23 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PTO",
+      "6.03": "0 W",
+      "5.34": "6 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PSB",
+      "6.03": "0 W",
+      "5.34": "0 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PCK",
+      "6.03": "0 W",
+      "5.34": "0 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "6.03": "Electricity",
+      "5.34": "Electricity",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: PSUP",
+      "6.03": "0.00 kW",
+      "5.34": "0.00 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Annual energy consumption Qhe",
+      "6.03": "3800 kWh",
+      "5.34": "3444 kWh",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "6.03": "",
+      "5.34": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "6.03": "",
+      "5.34": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "EN 12102-1 | Colder Climate",
+      "6.03": "",
+      "5.34": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "39 dB(A)",
+      "medium_temperature": "39 dB(A)",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "208 %",
+      "medium_temperature": "155 %",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "11.40 kW",
+      "medium_temperature": "7.20 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.50",
+      "medium_temperature": "4.30",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "7.00 kW",
+      "medium_temperature": "4.46 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "5.33",
+      "medium_temperature": "4.01",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.20 kW",
+      "medium_temperature": "2.70 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.90",
+      "medium_temperature": "4.66",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "2.80 kW",
+      "medium_temperature": "2.40 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.95",
+      "medium_temperature": "5.17",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.40 kW",
+      "medium_temperature": "2.40 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.74",
+      "medium_temperature": "5.51",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "11.50 kW",
+      "medium_temperature": "7.50 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.93",
+      "medium_temperature": "2.86",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "11.45 kW",
+      "medium_temperature": "7.54 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "3.93",
+      "medium_temperature": "2.86",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.96",
+      "medium_temperature": "0.98",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31"
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "13 W",
+      "column_2": "23 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "34 W",
+      "column_2": "0 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "0.00 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "3800 kWh",
+      "column_2": "3444 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31"
+    },
+    {
+      "": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Model CTC EcoPart i612M",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ctc_ecopart_i612m": "Heating (medium temp)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ctc_ecopart_i612m": "Indoor",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ctc_ecopart_i612m": "Colder Climate",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ctc_ecopart_i612m": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ctc_ecopart_i612m": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ctc_ecopart_i612m": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ctc_ecopart_i612m": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ctc_ecopart_i612m": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "No",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Brine/Water",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "6.08 kW",
+      "medium_temperature": "5.24 kW",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.27 kW",
+      "medium_temperature": "1.78 kW",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.78",
+      "medium_temperature": "2.95",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "39 dB(A)",
+      "medium_temperature": "39 dB(A)",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "208 %",
+      "medium_temperature": "155 %",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "9.81 kW",
+      "medium_temperature": "6.80 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.40",
+      "medium_temperature": "4.10",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "8.80 kW",
+      "medium_temperature": "6.00 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.59",
+      "medium_temperature": "3.25",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "5.40 kW",
+      "medium_temperature": "3.70 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.60",
+      "medium_temperature": "4.18",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "3.50 kW",
+      "medium_temperature": "2.40 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.05",
+      "medium_temperature": "4.70",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.40 kW",
+      "medium_temperature": "2.40 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "6.03": "",
+      "5.34": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = Tbiv",
+      "6.03": "9.80 kW",
+      "5.34": "6.70 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = Tbiv",
+      "6.03": "4.30",
+      "5.34": "3.00",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.03": "9.94 kW",
+      "5.34": "6.66 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.03": "4.28",
+      "5.34": "2.99",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.03": "0.970",
+      "5.34": "0.980",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "WTOL",
+      "6.03": "65 \u00b0C",
+      "5.34": "65 \u00b0C",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Poff",
+      "6.03": "23 W",
+      "5.34": "23 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PTO",
+      "6.03": "0 W",
+      "5.34": "6 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PSB",
+      "6.03": "0 W",
+      "5.34": "0 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PCK",
+      "6.03": "0 W",
+      "5.34": "0 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "6.03": "Electricity",
+      "5.34": "Electricity",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: PSUP",
+      "6.03": "0.00 kW",
+      "5.34": "0.00 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Annual energy consumption Qhe",
+      "6.03": "3800 kWh",
+      "5.34": "3444 kWh",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "6.03": "",
+      "5.34": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "6.03": "",
+      "5.34": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "EN 12102-1 | Colder Climate",
+      "6.03": "",
+      "5.34": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "39 dB(A)",
+      "medium_temperature": "39 dB(A)",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "208 %",
+      "medium_temperature": "155 %",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "11.40 kW",
+      "medium_temperature": "7.20 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.50",
+      "medium_temperature": "4.30",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "7.00 kW",
+      "medium_temperature": "4.46 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "5.33",
+      "medium_temperature": "4.01",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.20 kW",
+      "medium_temperature": "2.70 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.90",
+      "medium_temperature": "4.66",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "2.80 kW",
+      "medium_temperature": "2.40 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.95",
+      "medium_temperature": "5.17",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "2.40 kW",
+      "medium_temperature": "2.40 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.74",
+      "medium_temperature": "5.51",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "11.50 kW",
+      "medium_temperature": "7.50 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.93",
+      "medium_temperature": "2.86",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "11.45 kW",
+      "medium_temperature": "7.54 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "3.93",
+      "medium_temperature": "2.86",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.96",
+      "medium_temperature": "0.98",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31"
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "13 W",
+      "column_2": "23 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "34 W",
+      "column_2": "0 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "0.00 kW",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "3800 kWh",
+      "column_2": "3444 kWh",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 10,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 10,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_GSi_612_Brine_Water_31"
+    }
+  ]
+}

@@ -1,0 +1,2625 @@
+{
+  "source_pdf": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5.pdf",
+  "extraction_timestamp": "2025-11-17T15:24:30.811086",
+  "total_records": 301,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype ecoAIR EVI 4-20 kW",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "ecoforest_geotermia_s.l.": "R\u00faa das Pontes, 25",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "ecoforest_geotermia_s.l.": "36350",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "ecoforest_geotermia_s.l.": "Nigr\u00e1n (Pontevedra)",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "ecoforest_geotermia_s.l.": "ES",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "ecoforest_geotermia_s.l.": "DIN CERTCO Gesellschaft f\u00fcr Konformit\u00e4tsbewertung mbH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "ecoforest_geotermia_s.l.": "ecoAIR EVI 4-20 kW",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "ecoforest_geotermia_s.l.": "011-1W0196",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "ecoforest_geotermia_s.l.": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "ecoforest_geotermia_s.l.": "R410A",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "ecoforest_geotermia_s.l.": "3.5 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "ecoforest_geotermia_s.l.": "06.01.2020",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Model ECOAIR EVI 4-20kW",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ecoair_evi_4-20kw": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ecoair_evi_4-20kw": "Indoor, Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ecoair_evi_4-20kw": "Warmer Climate, Colder Climate",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "ecoair_evi_4-20kw": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ecoair_evi_4-20kw": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ecoair_evi_4-20kw": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ecoair_evi_4-20kw": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ecoair_evi_4-20kw": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ecoair_evi_4-20kw": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "9.22 kW",
+      "medium_temperature": "9.37 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.85 kW",
+      "medium_temperature": "2.82 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.97",
+      "medium_temperature": "3.33",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "0 dB(A)",
+      "medium_temperature": "0 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "63 dB(A)",
+      "medium_temperature": "63 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "179 %",
+      "medium_temperature": "151 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12.00 kW",
+      "medium_temperature": "13.88 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.54",
+      "medium_temperature": "3.84",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "12.26 kW",
+      "medium_temperature": "11.95 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.34",
+      "medium_temperature": "2.66",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.990",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "7.62 kW",
+      "medium_temperature": "7.85 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.79",
+      "medium_temperature": "4.06",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.980",
+      "medium_temperature": "0.990",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = +7\u00b0C",
+      "5.38_kw": "5.14",
+      "5.32_kw": "4.16",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "5.38_kw": "0.980",
+      "5.32_kw": "0.980",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "5.38_kw": "4.50 kW",
+      "5.32_kw": "4.56 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "5.38_kw": "7.57",
+      "5.32_kw": "7.09",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.38_kw": "0.960",
+      "5.32_kw": "0.960",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "5.38_kw": "11.97 kW",
+      "5.32_kw": "13.88 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "5.38_kw": "2.64",
+      "5.32_kw": "2.14",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.38_kw": "11.97 kW",
+      "5.32_kw": "13.88 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.38_kw": "2.64",
+      "5.32_kw": "2.14",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.38_kw": "1.000",
+      "5.32_kw": "1.000",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "WTOL",
+      "5.38_kw": "60 \u00b0C",
+      "5.32_kw": "60 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Poff",
+      "5.38_kw": "28 W",
+      "5.32_kw": "25 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PTO",
+      "5.38_kw": "24 W",
+      "5.32_kw": "24 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PSB",
+      "5.38_kw": "24 W",
+      "5.32_kw": "24 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PCK",
+      "5.38_kw": "24 W",
+      "5.32_kw": "24 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.38_kw": "Electricity",
+      "5.32_kw": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "5.38_kw": "0.00 kW",
+      "5.32_kw": "0.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "5.38_kw": "5463 kWh",
+      "5.32_kw": "7465 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "",
+      "5.38_kw": "",
+      "5.32_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "",
+      "5.38_kw": "",
+      "5.32_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "EN 12102-1 | Colder Climate",
+      "5.38_kw": "",
+      "5.32_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "0 dB(A)",
+      "medium_temperature": "0 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "63 dB(A)",
+      "medium_temperature": "63 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "167 %",
+      "medium_temperature": "157 %",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12.00 kW",
+      "medium_temperature": "12.50 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.25",
+      "medium_temperature": "4.00",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "7.19 kW",
+      "medium_temperature": "7.67 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.15",
+      "medium_temperature": "3.33",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.990",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.66 kW",
+      "medium_temperature": "4.29 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.86",
+      "medium_temperature": "5.94",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.970",
+      "medium_temperature": "0.970",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.15 kW",
+      "medium_temperature": "4.07 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "7.39",
+      "medium_temperature": "8.27",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.960",
+      "medium_temperature": "0.950",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "4.54 kW",
+      "medium_temperature": "4.58 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "9.85",
+      "medium_temperature": "12.83",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5"
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Pdh Tj = Tbiv",
+      "0.950": "10.21 kW",
+      "0.930": "10.05 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "COP Tj = Tbiv",
+      "0.950": "2.63",
+      "0.930": "2.15",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.950": "10.21 kW",
+      "0.930": "10.05 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.950": "2.63",
+      "0.930": "2.15",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.950": "0.990",
+      "0.930": "0.990",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "WTOL",
+      "0.950": "60 \u00b0C",
+      "0.930": "60 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Poff",
+      "0.950": "28 W",
+      "0.930": "25 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "PTO",
+      "0.950": "24 W",
+      "0.930": "24 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "PSB",
+      "0.950": "24 W",
+      "0.930": "24 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "PCK",
+      "0.950": "24 W",
+      "0.930": "24 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "0.950": "Electricity",
+      "0.930": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Supplementary Heater: PSUP",
+      "0.950": "12.00 kW",
+      "0.930": "12.50 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Annual energy consumption Qhe",
+      "0.950": "6963 kWh",
+      "0.930": "7705 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Pdh Tj = -15\u00b0C (if TOL",
+      "0.950": "10.21",
+      "0.930": "10.05",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "COP Tj = -15\u00b0C (if TOL",
+      "0.950": "2.63",
+      "0.930": "2.15",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Cdh Tj = -15 \u00b0C",
+      "0.950": "0.990",
+      "0.930": "0.990",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "",
+      "0.950": "",
+      "0.930": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "",
+      "0.950": "",
+      "0.930": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "EN 12102-1 | Warmer Climate",
+      "0.950": "",
+      "0.930": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "0 dB(A)",
+      "medium_temperature": "0 dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "63 dB(A)",
+      "medium_temperature": "63 dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "207 %",
+      "medium_temperature": "159 %",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "13.70 kW",
+      "medium_temperature": "15.16 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.24",
+      "medium_temperature": "4.06",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "13.70 kW",
+      "medium_temperature": "15.16 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.11",
+      "medium_temperature": "2.42",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "1.000",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "9.67 kW",
+      "medium_temperature": "10.03 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.11",
+      "medium_temperature": "3.78",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.990",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "4.57 kW",
+      "medium_temperature": "4.65 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "6.78",
+      "medium_temperature": "5.18",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.960",
+      "medium_temperature": "0.970",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "13.70 kW",
+      "medium_temperature": "15.16 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.11",
+      "medium_temperature": "2.42",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "13.70 kW",
+      "medium_temperature": "15.16 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 12.00 kW 12.50 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5"
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.11": "0.990",
+      "2.42": "1.000",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "3.11": "60 \u00b0C",
+      "2.42": "60 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "3.11": "28 W",
+      "2.42": "25 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "3.11": "24 W",
+      "2.42": "24 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "3.11": "24 W",
+      "2.42": "24 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "3.11": "24 W",
+      "2.42": "24 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "3.11": "Electricity",
+      "2.42": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "3.11": "0.00 kW",
+      "2.42": "0.00 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "3.11": "3493 kWh",
+      "2.42": "4994 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5"
+    },
+    {
+      "": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Model ECOAIR EVI T 4-20kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ecoair_evi_t_4-20kw": "Heating (medium temp)",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ecoair_evi_t_4-20kw": "Indoor, Outdoor",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ecoair_evi_t_4-20kw": "Warmer Climate, Colder Climate",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "ecoair_evi_t_4-20kw": "Yes",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ecoair_evi_t_4-20kw": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ecoair_evi_t_4-20kw": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ecoair_evi_t_4-20kw": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ecoair_evi_t_4-20kw": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ecoair_evi_t_4-20kw": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "9.22 kW",
+      "medium_temperature": "9.37 kW",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.85 kW",
+      "medium_temperature": "2.82 kW",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.97",
+      "medium_temperature": "3.33",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "0 dB(A)",
+      "medium_temperature": "0 dB(A)",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "63 dB(A)",
+      "medium_temperature": "63 dB(A)",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "179 %",
+      "medium_temperature": "151 %",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12.00 kW",
+      "medium_temperature": "13.88 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.54",
+      "medium_temperature": "3.84",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "12.26 kW",
+      "medium_temperature": "11.95 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.34",
+      "medium_temperature": "2.66",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.990",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "7.62 kW",
+      "medium_temperature": "7.85 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.79",
+      "medium_temperature": "4.06",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.980",
+      "medium_temperature": "0.990",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = +7\u00b0C",
+      "5.38_kw": "5.14",
+      "5.32_kw": "4.16",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "5.38_kw": "0.980",
+      "5.32_kw": "0.980",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "5.38_kw": "4.50 kW",
+      "5.32_kw": "4.56 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "5.38_kw": "7.57",
+      "5.32_kw": "7.09",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.38_kw": "0.960",
+      "5.32_kw": "0.960",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "5.38_kw": "11.97 kW",
+      "5.32_kw": "13.88 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "5.38_kw": "2.64",
+      "5.32_kw": "2.14",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.38_kw": "11.97 kW",
+      "5.32_kw": "13.88 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.38_kw": "2.64",
+      "5.32_kw": "2.14",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.38_kw": "1.000",
+      "5.32_kw": "1.000",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "WTOL",
+      "5.38_kw": "60 \u00b0C",
+      "5.32_kw": "60 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Poff",
+      "5.38_kw": "28 W",
+      "5.32_kw": "25 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PTO",
+      "5.38_kw": "24 W",
+      "5.32_kw": "24 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PSB",
+      "5.38_kw": "24 W",
+      "5.32_kw": "24 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "PCK",
+      "5.38_kw": "24 W",
+      "5.32_kw": "24 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.38_kw": "Electricity",
+      "5.32_kw": "Electricity",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "5.38_kw": "0.00 kW",
+      "5.32_kw": "0.00 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "5.38_kw": "5463 kWh",
+      "5.32_kw": "7465 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "",
+      "5.38_kw": "",
+      "5.32_kw": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "",
+      "5.38_kw": "",
+      "5.32_kw": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_+7\u00b0c": "EN 12102-1 | Colder Climate",
+      "5.38_kw": "",
+      "5.32_kw": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "0 dB(A)",
+      "medium_temperature": "0 dB(A)",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "63 dB(A)",
+      "medium_temperature": "63 dB(A)",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "167 %",
+      "medium_temperature": "157 %",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12.00 kW",
+      "medium_temperature": "12.50 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.25",
+      "medium_temperature": "4.00",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "7.19 kW",
+      "medium_temperature": "7.67 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.15",
+      "medium_temperature": "3.33",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.990",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.66 kW",
+      "medium_temperature": "4.29 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.86",
+      "medium_temperature": "5.94",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.970",
+      "medium_temperature": "0.970",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.15 kW",
+      "medium_temperature": "4.07 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "7.39",
+      "medium_temperature": "8.27",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.960",
+      "medium_temperature": "0.950",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "4.54 kW",
+      "medium_temperature": "4.58 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "9.85",
+      "medium_temperature": "12.83",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5"
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Pdh Tj = Tbiv",
+      "0.950": "10.21 kW",
+      "0.930": "10.05 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "COP Tj = Tbiv",
+      "0.950": "2.63",
+      "0.930": "2.15",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.950": "10.21 kW",
+      "0.930": "10.05 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.950": "2.63",
+      "0.930": "2.15",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.950": "0.990",
+      "0.930": "0.990",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "WTOL",
+      "0.950": "60 \u00b0C",
+      "0.930": "60 \u00b0C",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Poff",
+      "0.950": "28 W",
+      "0.930": "25 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "PTO",
+      "0.950": "24 W",
+      "0.930": "24 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "PSB",
+      "0.950": "24 W",
+      "0.930": "24 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "PCK",
+      "0.950": "24 W",
+      "0.930": "24 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "0.950": "Electricity",
+      "0.930": "Electricity",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Supplementary Heater: PSUP",
+      "0.950": "12.00 kW",
+      "0.930": "12.50 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Annual energy consumption Qhe",
+      "0.950": "6963 kWh",
+      "0.930": "7705 kWh",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Pdh Tj = -15\u00b0C (if TOL",
+      "0.950": "10.21",
+      "0.930": "10.05",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "COP Tj = -15\u00b0C (if TOL",
+      "0.950": "2.63",
+      "0.930": "2.15",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "Cdh Tj = -15 \u00b0C",
+      "0.950": "0.990",
+      "0.930": "0.990",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "",
+      "0.950": "",
+      "0.930": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "",
+      "0.950": "",
+      "0.930": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+12_\u00b0c": "EN 12102-1 | Warmer Climate",
+      "0.950": "",
+      "0.930": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "0 dB(A)",
+      "medium_temperature": "0 dB(A)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "63 dB(A)",
+      "medium_temperature": "63 dB(A)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "207 %",
+      "medium_temperature": "159 %",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "13.70 kW",
+      "medium_temperature": "15.16 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.24",
+      "medium_temperature": "4.06",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "13.70 kW",
+      "medium_temperature": "15.16 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.11",
+      "medium_temperature": "2.42",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "1.000",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "9.67 kW",
+      "medium_temperature": "10.03 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.11",
+      "medium_temperature": "3.78",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.990",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "4.57 kW",
+      "medium_temperature": "4.65 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "6.78",
+      "medium_temperature": "5.18",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.960",
+      "medium_temperature": "0.970",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "13.70 kW",
+      "medium_temperature": "15.16 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.11",
+      "medium_temperature": "2.42",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "13.70 kW",
+      "medium_temperature": "15.16 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 12.00 kW 12.50 kW",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5"
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.11": "0.990",
+      "2.42": "1.000",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "3.11": "60 \u00b0C",
+      "2.42": "60 \u00b0C",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "3.11": "28 W",
+      "2.42": "25 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "3.11": "24 W",
+      "2.42": "24 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "3.11": "24 W",
+      "2.42": "24 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "3.11": "24 W",
+      "2.42": "24 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "3.11": "Electricity",
+      "2.42": "Electricity",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "3.11": "0.00 kW",
+      "2.42": "0.00 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "3.11": "3493 kWh",
+      "2.42": "4994 kWh",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Ecoforest_Geotermia_S_L__ecoAIR_EVI_4-20_kW_Outdoor_Air_Water_5"
+    }
+  ]
+}

@@ -1,0 +1,3297 @@
+{
+  "source_pdf": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12.pdf",
+  "extraction_timestamp": "2025-11-17T15:02:54.688203",
+  "total_records": 382,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype i-32V514",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "advantix_s.p.a.": "Via San Giuseppe Lavoratore, 24",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "advantix_s.p.a.": "37040",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "advantix_s.p.a.": "Arcole Verona",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "advantix_s.p.a.": "IT",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "advantix_s.p.a.": "ICIM S.p.A.",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "advantix_s.p.a.": "i-32V514",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "advantix_s.p.a.": "ICIM-PDC-000075-00",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "advantix_s.p.a.": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "advantix_s.p.a.": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "advantix_s.p.a.": "3.6 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "advantix_s.p.a.": "26.05.2020",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "advantix_s.p.a.": "HP KEYMARK certification scheme rules rev. no. 7",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Model i-32V514",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "i-32v514": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "i-32v514": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "i-32v514": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "i-32v514": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "i-32v514": "+7\u00b0C/12\u00b0C",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "i-32v514": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "i-32v514": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "i-32v514": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "i-32v514": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "14.10 kW",
+      "medium_temperature": "13.44 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.91 kW",
+      "medium_temperature": "4.35 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.85",
+      "medium_temperature": "3.09",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-2 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "+7\u00b0c/+12\u00b0c": "3.53 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Cooling capacity",
+      "+7\u00b0c/+12\u00b0c": "11.48",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EER",
+      "+7\u00b0c/+12\u00b0c": "3.25",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "dB(A)",
+      "medium_temperature": "dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "66 dB(A)",
+      "medium_temperature": "66 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "176 %",
+      "medium_temperature": "130 %",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12.00 kW",
+      "medium_temperature": "12.00 kW",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.48",
+      "medium_temperature": "3.31",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = -7\u00b0C",
+      "-20_\u00b0c": "10.70 kW",
+      "-15_\u00b0c": "10.30 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = -7\u00b0C",
+      "-20_\u00b0c": "2.98",
+      "-15_\u00b0c": "2.10",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Cdh Tj = -7 \u00b0C",
+      "-20_\u00b0c": "1.000",
+      "-15_\u00b0c": "1.000",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = +2\u00b0C",
+      "-20_\u00b0c": "6.50 kW",
+      "-15_\u00b0c": "6.20 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = +2\u00b0C",
+      "-20_\u00b0c": "4.20",
+      "-15_\u00b0c": "3.21",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Cdh Tj = +2 \u00b0C",
+      "-20_\u00b0c": "1.000",
+      "-15_\u00b0c": "1.000",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = +7\u00b0C",
+      "-20_\u00b0c": "5.80 kW",
+      "-15_\u00b0c": "5.70 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = +7\u00b0C",
+      "-20_\u00b0c": "5.98",
+      "-15_\u00b0c": "4.19",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Cdh Tj = +7 \u00b0C",
+      "-20_\u00b0c": "0.980",
+      "-15_\u00b0c": "0.986",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = 12\u00b0C",
+      "-20_\u00b0c": "6.70 kW",
+      "-15_\u00b0c": "6.60 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = 12\u00b0C",
+      "-20_\u00b0c": "8.16",
+      "-15_\u00b0c": "6.17",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Cdh Tj = +12 \u00b0C",
+      "-20_\u00b0c": "0.977",
+      "-15_\u00b0c": "0.982",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = Tbiv",
+      "-20_\u00b0c": "10.70 kW",
+      "-15_\u00b0c": "10.30 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = Tbiv",
+      "-20_\u00b0c": "2.98",
+      "-15_\u00b0c": "2.10",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "-20_\u00b0c": "10.50 kW",
+      "-15_\u00b0c": "10.20 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "-20_\u00b0c": "2.69",
+      "-15_\u00b0c": "1.96",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "-20_\u00b0c": "1.000",
+      "-15_\u00b0c": "1.000",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "WTOL",
+      "-20_\u00b0c": "60 \u00b0C",
+      "-15_\u00b0c": "60 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Poff",
+      "-20_\u00b0c": "22 W",
+      "-15_\u00b0c": "22 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "PTO",
+      "-20_\u00b0c": "22 W",
+      "-15_\u00b0c": "22 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "PSB",
+      "-20_\u00b0c": "22 W",
+      "-15_\u00b0c": "22 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "PCK",
+      "-20_\u00b0c": "0 W",
+      "-15_\u00b0c": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Supplementary Heater: Type of energy\ninput",
+      "-20_\u00b0c": "n/a",
+      "-15_\u00b0c": "n/a",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Supplementary Heater: PSUP",
+      "-20_\u00b0c": "1.50 kW",
+      "-15_\u00b0c": "1.80 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Annual energy consumption Qhe",
+      "-20_\u00b0c": "5583 kWh",
+      "-15_\u00b0c": "7259 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "",
+      "-20_\u00b0c": "",
+      "-15_\u00b0c": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "",
+      "-20_\u00b0c": "",
+      "-15_\u00b0c": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "EN 14825 | Cooling",
+      "-20_\u00b0c": "",
+      "-15_\u00b0c": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignc",
+      "+7\u00b0c/+12\u00b0c": "11.48 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "SEER",
+      "+7\u00b0c/+12\u00b0c": "4.77",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "11.48 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.25",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "8.47 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.31",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 30 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "1.000",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "5.41 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.91",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 25 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.983",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "5.53 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.72",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 20 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.977",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "+7\u00b0c/+12\u00b0c": "22 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.50 kW 1.80 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12"
+    },
+    {
+      "pto": "PSB",
+      "0_w": "28 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "pto": "PCK",
+      "0_w": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "pto": "Annual energy consumption Qce",
+      "0_w": "1444 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Model i-32V514T",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "i-32v514t": "Heating (medium temp)",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "i-32v514t": "Outdoor",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "i-32v514t": "n/a",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "i-32v514t": "Yes",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "i-32v514t": "+7\u00b0C/12\u00b0C",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "i-32v514t": "n/a",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "i-32v514t": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "i-32v514t": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "i-32v514t": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "14.10 kW",
+      "medium_temperature": "13.44 kW",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.91 kW",
+      "medium_temperature": "4.35 kW",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.85",
+      "medium_temperature": "3.09",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-2 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "+7\u00b0c/+12\u00b0c": "3.53 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Cooling capacity",
+      "+7\u00b0c/+12\u00b0c": "11.48",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EER",
+      "+7\u00b0c/+12\u00b0c": "3.25",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 5,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "dB(A)",
+      "medium_temperature": "dB(A)",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "66 dB(A)",
+      "medium_temperature": "66 dB(A)",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 7,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "176 %",
+      "medium_temperature": "130 %",
+      "source_page": 5,
+      "source_table": 8,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12.00 kW",
+      "medium_temperature": "12.00 kW",
+      "source_page": 5,
+      "source_table": 8,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.48",
+      "medium_temperature": "3.31",
+      "source_page": 5,
+      "source_table": 8,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 5,
+      "source_table": 8,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = -7\u00b0C",
+      "-20_\u00b0c": "10.70 kW",
+      "-15_\u00b0c": "10.30 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = -7\u00b0C",
+      "-20_\u00b0c": "2.98",
+      "-15_\u00b0c": "2.10",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Cdh Tj = -7 \u00b0C",
+      "-20_\u00b0c": "1.000",
+      "-15_\u00b0c": "1.000",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = +2\u00b0C",
+      "-20_\u00b0c": "6.50 kW",
+      "-15_\u00b0c": "6.20 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = +2\u00b0C",
+      "-20_\u00b0c": "4.20",
+      "-15_\u00b0c": "3.21",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Cdh Tj = +2 \u00b0C",
+      "-20_\u00b0c": "1.000",
+      "-15_\u00b0c": "1.000",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = +7\u00b0C",
+      "-20_\u00b0c": "5.80 kW",
+      "-15_\u00b0c": "5.70 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = +7\u00b0C",
+      "-20_\u00b0c": "5.98",
+      "-15_\u00b0c": "4.19",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Cdh Tj = +7 \u00b0C",
+      "-20_\u00b0c": "0.980",
+      "-15_\u00b0c": "0.986",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = 12\u00b0C",
+      "-20_\u00b0c": "6.70 kW",
+      "-15_\u00b0c": "6.60 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = 12\u00b0C",
+      "-20_\u00b0c": "8.16",
+      "-15_\u00b0c": "6.17",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Cdh Tj = +12 \u00b0C",
+      "-20_\u00b0c": "0.977",
+      "-15_\u00b0c": "0.982",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = Tbiv",
+      "-20_\u00b0c": "10.70 kW",
+      "-15_\u00b0c": "10.30 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = Tbiv",
+      "-20_\u00b0c": "2.98",
+      "-15_\u00b0c": "2.10",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "-20_\u00b0c": "10.50 kW",
+      "-15_\u00b0c": "10.20 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "-20_\u00b0c": "2.69",
+      "-15_\u00b0c": "1.96",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "-20_\u00b0c": "1.000",
+      "-15_\u00b0c": "1.000",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "WTOL",
+      "-20_\u00b0c": "60 \u00b0C",
+      "-15_\u00b0c": "60 \u00b0C",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Poff",
+      "-20_\u00b0c": "22 W",
+      "-15_\u00b0c": "22 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "PTO",
+      "-20_\u00b0c": "22 W",
+      "-15_\u00b0c": "22 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "PSB",
+      "-20_\u00b0c": "22 W",
+      "-15_\u00b0c": "22 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "PCK",
+      "-20_\u00b0c": "0 W",
+      "-15_\u00b0c": "0 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Supplementary Heater: Type of energy\ninput",
+      "-20_\u00b0c": "n/a",
+      "-15_\u00b0c": "n/a",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Supplementary Heater: PSUP",
+      "-20_\u00b0c": "1.50 kW",
+      "-15_\u00b0c": "1.80 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Annual energy consumption Qhe",
+      "-20_\u00b0c": "5583 kWh",
+      "-15_\u00b0c": "7259 kWh",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "",
+      "-20_\u00b0c": "",
+      "-15_\u00b0c": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "",
+      "-20_\u00b0c": "",
+      "-15_\u00b0c": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "EN 14825 | Cooling",
+      "-20_\u00b0c": "",
+      "-15_\u00b0c": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignc",
+      "+7\u00b0c/+12\u00b0c": "11.48 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "SEER",
+      "+7\u00b0c/+12\u00b0c": "4.77",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "11.48 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.25",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "8.47 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.31",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 30 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "1.000",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "5.41 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.91",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 25 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.983",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "5.53 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.72",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 20 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.977",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "+7\u00b0c/+12\u00b0c": "22 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.50 kW 1.80 kW",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12"
+    },
+    {
+      "pto": "PSB",
+      "0_w": "28 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "pto": "PCK",
+      "0_w": "0 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "pto": "Annual energy consumption Qce",
+      "0_w": "1444 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Model i-32V5/KA/14",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "i-32v5/ka/14": "Heating (medium temp)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "i-32v5/ka/14": "Outdoor",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "i-32v5/ka/14": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "i-32v5/ka/14": "Yes",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "i-32v5/ka/14": "+7\u00b0C/12\u00b0C",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "i-32v5/ka/14": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "i-32v5/ka/14": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "i-32v5/ka/14": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "i-32v5/ka/14": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "14.10 kW",
+      "medium_temperature": "13.44 kW",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.91 kW",
+      "medium_temperature": "4.35 kW",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.85",
+      "medium_temperature": "3.09",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-2 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "+7\u00b0c/+12\u00b0c": "3.53 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Cooling capacity",
+      "+7\u00b0c/+12\u00b0c": "11.48",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EER",
+      "+7\u00b0c/+12\u00b0c": "3.25",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "dB(A)",
+      "medium_temperature": "dB(A)",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "66 dB(A)",
+      "medium_temperature": "66 dB(A)",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "176 %",
+      "medium_temperature": "130 %",
+      "source_page": 8,
+      "source_table": 8,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12.00 kW",
+      "medium_temperature": "12.00 kW",
+      "source_page": 8,
+      "source_table": 8,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.48",
+      "medium_temperature": "3.31",
+      "source_page": 8,
+      "source_table": 8,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 8,
+      "source_table": 8,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = -7\u00b0C",
+      "-20_\u00b0c": "10.70 kW",
+      "-15_\u00b0c": "10.30 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = -7\u00b0C",
+      "-20_\u00b0c": "2.98",
+      "-15_\u00b0c": "2.10",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Cdh Tj = -7 \u00b0C",
+      "-20_\u00b0c": "1.000",
+      "-15_\u00b0c": "1.000",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = +2\u00b0C",
+      "-20_\u00b0c": "6.50 kW",
+      "-15_\u00b0c": "6.20 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = +2\u00b0C",
+      "-20_\u00b0c": "4.20",
+      "-15_\u00b0c": "3.21",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Cdh Tj = +2 \u00b0C",
+      "-20_\u00b0c": "1.000",
+      "-15_\u00b0c": "1.000",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = +7\u00b0C",
+      "-20_\u00b0c": "5.80 kW",
+      "-15_\u00b0c": "5.70 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = +7\u00b0C",
+      "-20_\u00b0c": "5.98",
+      "-15_\u00b0c": "4.19",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Cdh Tj = +7 \u00b0C",
+      "-20_\u00b0c": "0.980",
+      "-15_\u00b0c": "0.986",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = 12\u00b0C",
+      "-20_\u00b0c": "6.70 kW",
+      "-15_\u00b0c": "6.60 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = 12\u00b0C",
+      "-20_\u00b0c": "8.16",
+      "-15_\u00b0c": "6.17",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Cdh Tj = +12 \u00b0C",
+      "-20_\u00b0c": "0.977",
+      "-15_\u00b0c": "0.982",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = Tbiv",
+      "-20_\u00b0c": "10.70 kW",
+      "-15_\u00b0c": "10.30 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = Tbiv",
+      "-20_\u00b0c": "2.98",
+      "-15_\u00b0c": "2.10",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "-20_\u00b0c": "10.50 kW",
+      "-15_\u00b0c": "10.20 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "-20_\u00b0c": "2.69",
+      "-15_\u00b0c": "1.96",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "-20_\u00b0c": "1.000",
+      "-15_\u00b0c": "1.000",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "WTOL",
+      "-20_\u00b0c": "60 \u00b0C",
+      "-15_\u00b0c": "60 \u00b0C",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Poff",
+      "-20_\u00b0c": "22 W",
+      "-15_\u00b0c": "22 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "PTO",
+      "-20_\u00b0c": "22 W",
+      "-15_\u00b0c": "22 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "PSB",
+      "-20_\u00b0c": "22 W",
+      "-15_\u00b0c": "22 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "PCK",
+      "-20_\u00b0c": "0 W",
+      "-15_\u00b0c": "0 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Supplementary Heater: Type of energy\ninput",
+      "-20_\u00b0c": "n/a",
+      "-15_\u00b0c": "n/a",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Supplementary Heater: PSUP",
+      "-20_\u00b0c": "1.50 kW",
+      "-15_\u00b0c": "1.80 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Annual energy consumption Qhe",
+      "-20_\u00b0c": "5583 kWh",
+      "-15_\u00b0c": "7259 kWh",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "",
+      "-20_\u00b0c": "",
+      "-15_\u00b0c": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "",
+      "-20_\u00b0c": "",
+      "-15_\u00b0c": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "EN 14825 | Cooling",
+      "-20_\u00b0c": "",
+      "-15_\u00b0c": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignc",
+      "+7\u00b0c/+12\u00b0c": "11.48 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "SEER",
+      "+7\u00b0c/+12\u00b0c": "4.77",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "11.48 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.25",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "8.47 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.31",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 30 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "1.000",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "5.41 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.91",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 25 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.983",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "5.53 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.72",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 20 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.977",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "+7\u00b0c/+12\u00b0c": "22 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.50 kW 1.80 kW",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12"
+    },
+    {
+      "pto": "PSB",
+      "0_w": "28 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "pto": "PCK",
+      "0_w": "0 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "pto": "Annual energy consumption Qce",
+      "0_w": "1444 kWh",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Model i-32V5/KA/14T",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "i-32v5/ka/14t": "Heating (medium temp)",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "i-32v5/ka/14t": "Outdoor",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "i-32v5/ka/14t": "n/a",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "i-32v5/ka/14t": "Yes",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "i-32v5/ka/14t": "+7\u00b0C/12\u00b0C",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "i-32v5/ka/14t": "n/a",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "i-32v5/ka/14t": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "i-32v5/ka/14t": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "i-32v5/ka/14t": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "14.10 kW",
+      "medium_temperature": "13.44 kW",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.91 kW",
+      "medium_temperature": "4.35 kW",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.85",
+      "medium_temperature": "3.09",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-2 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 5,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "+7\u00b0c/+12\u00b0c": "3.53 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Cooling capacity",
+      "+7\u00b0c/+12\u00b0c": "11.48",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EER",
+      "+7\u00b0c/+12\u00b0c": "3.25",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 11,
+      "source_table": 6,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "dB(A)",
+      "medium_temperature": "dB(A)",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "66 dB(A)",
+      "medium_temperature": "66 dB(A)",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 7,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "176 %",
+      "medium_temperature": "130 %",
+      "source_page": 11,
+      "source_table": 8,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12.00 kW",
+      "medium_temperature": "12.00 kW",
+      "source_page": 11,
+      "source_table": 8,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.48",
+      "medium_temperature": "3.31",
+      "source_page": 11,
+      "source_table": 8,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 11,
+      "source_table": 8,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = -7\u00b0C",
+      "-20_\u00b0c": "10.70 kW",
+      "-15_\u00b0c": "10.30 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = -7\u00b0C",
+      "-20_\u00b0c": "2.98",
+      "-15_\u00b0c": "2.10",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Cdh Tj = -7 \u00b0C",
+      "-20_\u00b0c": "1.000",
+      "-15_\u00b0c": "1.000",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = +2\u00b0C",
+      "-20_\u00b0c": "6.50 kW",
+      "-15_\u00b0c": "6.20 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = +2\u00b0C",
+      "-20_\u00b0c": "4.20",
+      "-15_\u00b0c": "3.21",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Cdh Tj = +2 \u00b0C",
+      "-20_\u00b0c": "1.000",
+      "-15_\u00b0c": "1.000",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = +7\u00b0C",
+      "-20_\u00b0c": "5.80 kW",
+      "-15_\u00b0c": "5.70 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = +7\u00b0C",
+      "-20_\u00b0c": "5.98",
+      "-15_\u00b0c": "4.19",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Cdh Tj = +7 \u00b0C",
+      "-20_\u00b0c": "0.980",
+      "-15_\u00b0c": "0.986",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = 12\u00b0C",
+      "-20_\u00b0c": "6.70 kW",
+      "-15_\u00b0c": "6.60 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = 12\u00b0C",
+      "-20_\u00b0c": "8.16",
+      "-15_\u00b0c": "6.17",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Cdh Tj = +12 \u00b0C",
+      "-20_\u00b0c": "0.977",
+      "-15_\u00b0c": "0.982",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = Tbiv",
+      "-20_\u00b0c": "10.70 kW",
+      "-15_\u00b0c": "10.30 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = Tbiv",
+      "-20_\u00b0c": "2.98",
+      "-15_\u00b0c": "2.10",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "-20_\u00b0c": "10.50 kW",
+      "-15_\u00b0c": "10.20 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "-20_\u00b0c": "2.69",
+      "-15_\u00b0c": "1.96",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "-20_\u00b0c": "1.000",
+      "-15_\u00b0c": "1.000",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "WTOL",
+      "-20_\u00b0c": "60 \u00b0C",
+      "-15_\u00b0c": "60 \u00b0C",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Poff",
+      "-20_\u00b0c": "22 W",
+      "-15_\u00b0c": "22 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "PTO",
+      "-20_\u00b0c": "22 W",
+      "-15_\u00b0c": "22 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "PSB",
+      "-20_\u00b0c": "22 W",
+      "-15_\u00b0c": "22 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "PCK",
+      "-20_\u00b0c": "0 W",
+      "-15_\u00b0c": "0 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Supplementary Heater: Type of energy\ninput",
+      "-20_\u00b0c": "n/a",
+      "-15_\u00b0c": "n/a",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Supplementary Heater: PSUP",
+      "-20_\u00b0c": "1.50 kW",
+      "-15_\u00b0c": "1.80 kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "Annual energy consumption Qhe",
+      "-20_\u00b0c": "5583 kWh",
+      "-15_\u00b0c": "7259 kWh",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "",
+      "-20_\u00b0c": "",
+      "-15_\u00b0c": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "",
+      "-20_\u00b0c": "",
+      "-15_\u00b0c": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "tol": "EN 14825 | Cooling",
+      "-20_\u00b0c": "",
+      "-15_\u00b0c": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignc",
+      "+7\u00b0c/+12\u00b0c": "11.48 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "SEER",
+      "+7\u00b0c/+12\u00b0c": "4.77",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "11.48 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.25",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "8.47 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.31",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 30 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "1.000",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "5.41 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "4.91",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 25 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.983",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "5.53 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.72",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 20 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.977",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "+7\u00b0c/+12\u00b0c": "22 W",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.50 kW 1.80 kW",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12"
+    },
+    {
+      "pto": "PSB",
+      "0_w": "28 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "pto": "PCK",
+      "0_w": "0 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "pto": "Annual energy consumption Qce",
+      "0_w": "1444 kWh",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Advantix_S_p_A__i-32V514_Outdoor_Air_Water_12",
+      "submodel_id": null
+    }
+  ]
+}

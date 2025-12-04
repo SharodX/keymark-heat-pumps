@@ -1,0 +1,1323 @@
+{
+  "source_pdf": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247.pdf",
+  "extraction_timestamp": "2025-11-17T15:33:32.531499",
+  "total_records": 156,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype THERMOR Alf\u00e9a Extensa A.I. 6 R32",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "groupe_atlantic": "Rue des Fondeurs BP 64",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "groupe_atlantic": "59660",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "groupe_atlantic": "Merville",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "groupe_atlantic": "FR",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "groupe_atlantic": "RISE CERT",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "groupe_atlantic": "THERMOR Alf\u00e9a Extensa A.I. 6 R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "groupe_atlantic": "012-C700010",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "groupe_atlantic": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "groupe_atlantic": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "groupe_atlantic": "0.97 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "groupe_atlantic": "04.03.2020",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "groupe_atlantic": "EN 14511:2018, EN 16147:2017, EN 14825:2016, EN\n12102:2017",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "groupe_atlantic": "CETIAT, FR",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "label": "testing_basis_en_14511",
+      "value": "2018, EN 16147:2017, EN 14825:2016, EN",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247"
+    },
+    {
+      "label": "12102",
+      "value": "2017",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247"
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "Model THERMOR Alf\u00e9a Extensa A.I. 6 R32",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "thermor_alf\u00e9a_extensa_a.i._6_r32": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "thermor_alf\u00e9a_extensa_a.i._6_r32": "Indoor, Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "thermor_alf\u00e9a_extensa_a.i._6_r32": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "thermor_alf\u00e9a_extensa_a.i._6_r32": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "thermor_alf\u00e9a_extensa_a.i._6_r32": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "thermor_alf\u00e9a_extensa_a.i._6_r32": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "thermor_alf\u00e9a_extensa_a.i._6_r32": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "thermor_alf\u00e9a_extensa_a.i._6_r32": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "5.50 kW",
+      "medium_temperature": "5.50 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.18 kW",
+      "medium_temperature": "2.06 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.65",
+      "medium_temperature": "2.67",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "40 dB(A)",
+      "medium_temperature": "40 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "57 dB(A)",
+      "medium_temperature": "57 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "175 %",
+      "medium_temperature": "125 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5.60 kW",
+      "medium_temperature": "5.30 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.46",
+      "medium_temperature": "3.21",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "5.00 kW",
+      "medium_temperature": "4.70 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.74",
+      "medium_temperature": "1.97",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.960",
+      "medium_temperature": "0.970",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "3.00 kW",
+      "medium_temperature": "2.90 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.38",
+      "medium_temperature": "3.11",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.960",
+      "medium_temperature": "0.970",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "2.10 kW",
+      "medium_temperature": "1.80 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.04",
+      "medium_temperature": "4.29",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = 12\u00b0C",
+      "0.960": "2.40 kW",
+      "0.970": "2.30 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = 12\u00b0C",
+      "0.960": "7.43",
+      "0.970": "6.06",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "0.960": "0.960",
+      "0.970": "0.970",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = Tbiv",
+      "0.960": "5.00 kW",
+      "0.970": "4.70 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = Tbiv",
+      "0.960": "2.74",
+      "0.970": "1.97",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.960": "4.50 kW",
+      "0.970": "4.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.960": "2.67",
+      "0.970": "1.73",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.960": "",
+      "0.970": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "WTOL",
+      "0.960": "55 \u00b0C",
+      "0.970": "55 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Poff",
+      "0.960": "4 W",
+      "0.970": "4 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PTO",
+      "0.960": "12 W",
+      "0.970": "13 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PSB",
+      "0.960": "10 W",
+      "0.970": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PCK",
+      "0.960": "0 W",
+      "0.970": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "0.960": "Electricity",
+      "0.970": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Supplementary Heater: PSUP",
+      "0.960": "1.10 kW",
+      "0.970": "1.30 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Annual energy consumption Qhe",
+      "0.960": "2594 kWh",
+      "0.970": "3411 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.10 kW 1.30 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247"
+    },
+    {
+      "": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "Model THERMOR Alf\u00e9a Extensa A.I. Duo 6 R32",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "thermor_alf\u00e9a_extensa_a.i._duo_6_r32": "Heating + DHW + low temp",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "thermor_alf\u00e9a_extensa_a.i._duo_6_r32": "Indoor, Outdoor",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "thermor_alf\u00e9a_extensa_a.i._duo_6_r32": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "thermor_alf\u00e9a_extensa_a.i._duo_6_r32": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "thermor_alf\u00e9a_extensa_a.i._duo_6_r32": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "thermor_alf\u00e9a_extensa_a.i._duo_6_r32": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "thermor_alf\u00e9a_extensa_a.i._duo_6_r32": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "thermor_alf\u00e9a_extensa_a.i._duo_6_r32": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "No",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "l": "130 %",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "l": "3.10",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "l": "1:35 h:min",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "l": "30.0 W",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "l": "54.0 \u00b0C",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "l": "245 l",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "l": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "l": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "l": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "5.50 kW",
+      "medium_temperature": "5.50 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.18 kW",
+      "medium_temperature": "2.06 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.65",
+      "medium_temperature": "2.67",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "40 dB(A)",
+      "medium_temperature": "40 dB(A)",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "57 dB(A)",
+      "medium_temperature": "57 dB(A)",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "175 %",
+      "medium_temperature": "125 %",
+      "source_page": 4,
+      "source_table": 8,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5.60 kW",
+      "medium_temperature": "5.30 kW",
+      "source_page": 4,
+      "source_table": 8,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.46",
+      "medium_temperature": "3.21",
+      "source_page": 4,
+      "source_table": 8,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_1",
+      "value": "35 h:min",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247"
+    },
+    {
+      "column_0": "Tbiv",
+      "column_1": "-7 \u00b0C",
+      "column_2": "-7 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "TOL",
+      "column_1": "-10 \u00b0C",
+      "column_2": "-10 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = -7\u00b0C",
+      "column_1": "5.00 kW",
+      "column_2": "4.70 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = -7\u00b0C",
+      "column_1": "2.74",
+      "column_2": "1.97",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = -7 \u00b0C",
+      "column_1": "0.960",
+      "column_2": "0.970",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +2\u00b0C",
+      "column_1": "3.00 kW",
+      "column_2": "2.90 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +2\u00b0C",
+      "column_1": "4.38",
+      "column_2": "3.11",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +2 \u00b0C",
+      "column_1": "0.960",
+      "column_2": "0.970",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +7\u00b0C",
+      "column_1": "2.10 kW",
+      "column_2": "1.80 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +7\u00b0C",
+      "column_1": "6.04",
+      "column_2": "4.29",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +7 \u00b0C",
+      "column_1": "0.960",
+      "column_2": "0.970",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = 12\u00b0C",
+      "column_1": "2.40 kW",
+      "column_2": "2.30 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = 12\u00b0C",
+      "column_1": "7.43",
+      "column_2": "6.06",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "0.960",
+      "column_2": "0.970",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "5.00 kW",
+      "column_2": "4.70 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "2.74",
+      "column_2": "1.97",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "4.50 kW",
+      "column_2": "4.00 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "2.67",
+      "column_2": "1.73",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "55 \u00b0C",
+      "column_2": "55 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "4 W",
+      "column_2": "4 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "12 W",
+      "column_2": "13 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "10 W",
+      "column_2": "10 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "1.10 kW",
+      "column_2": "1.30 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "2594 kWh",
+      "column_2": "3411 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.10 kW 1.30 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERMOR_Alf\u00e9a_Extensa_A_I__6_R32_Outdoor_Air_Water_247"
+    }
+  ]
+}

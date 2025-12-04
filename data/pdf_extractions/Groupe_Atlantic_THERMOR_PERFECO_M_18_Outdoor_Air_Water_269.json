@@ -1,0 +1,1226 @@
+{
+  "source_pdf": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269.pdf",
+  "extraction_timestamp": "2025-11-17T15:33:38.534773",
+  "total_records": 144,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype THERMOR PERFECO M 18",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "groupe_atlantic": "Rue des Fondeurs BP 64",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "groupe_atlantic": "59660",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "groupe_atlantic": "Merville",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "groupe_atlantic": "FR",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "groupe_atlantic": "RISE CERT",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "groupe_atlantic": "THERMOR PERFECO M 18",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "groupe_atlantic": "012-C700420",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "groupe_atlantic": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "groupe_atlantic": "R290",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "groupe_atlantic": "1.25 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "groupe_atlantic": "16.09.2025",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "groupe_atlantic": "EN 14511:2022, EN 14825:2022, EN 12102:2022",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "groupe_atlantic": "CETIAT, FR",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "label": "testing_basis_en_14511",
+      "value": "2022, EN 14825:2022, EN 12102:2022",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269"
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "Model THERMOR PERFECO M 18",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "thermor_perfeco_m_18": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "thermor_perfeco_m_18": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "thermor_perfeco_m_18": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "thermor_perfeco_m_18": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "thermor_perfeco_m_18": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "thermor_perfeco_m_18": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "thermor_perfeco_m_18": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "thermor_perfeco_m_18": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "16.13 kW",
+      "medium_temperature": "15.44 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "3.59 kW",
+      "medium_temperature": "5.36 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.49",
+      "medium_temperature": "2.88",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "59 dB(A)",
+      "medium_temperature": "59 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "175 %",
+      "medium_temperature": "141 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "14.80 kW",
+      "medium_temperature": "14.20 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.45",
+      "medium_temperature": "3.61",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "13.10 kW",
+      "medium_temperature": "12.60 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.05",
+      "medium_temperature": "2.23",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.990",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "8.00 kW",
+      "medium_temperature": "7.60 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.30",
+      "medium_temperature": "3.56",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.990",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "5.70 kW",
+      "medium_temperature": "5.60 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.06",
+      "medium_temperature": "4.76",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = 12\u00b0C",
+      "0.980": "6.10 kW",
+      "0.990": "6.10 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = 12\u00b0C",
+      "0.980": "6.90",
+      "0.990": "5.64",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "0.980": "0.980",
+      "0.990": "0.990",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = Tbiv",
+      "0.980": "13.10 kW",
+      "0.990": "12.60 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = Tbiv",
+      "0.980": "3.05",
+      "0.990": "2.23",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.980": "8.40 kW",
+      "0.990": "11.60 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.980": "2.14",
+      "0.990": "1.98",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.980": "0.990",
+      "0.990": "0.990",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "WTOL",
+      "0.980": "75 \u00b0C",
+      "0.990": "75 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Poff",
+      "0.980": "6 W",
+      "0.990": "6 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PTO",
+      "0.980": "10 W",
+      "0.990": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PSB",
+      "0.980": "6 W",
+      "0.990": "6 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PCK",
+      "0.980": "0 W",
+      "0.990": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "0.980": "Electricity",
+      "0.990": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Supplementary Heater: PSUP",
+      "0.980": "6.40 kW",
+      "0.990": "2.60 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Annual energy consumption Qhe",
+      "0.980": "6866 kWh",
+      "0.990": "8128 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 6.40 kW 2.60 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269"
+    },
+    {
+      "": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "Model THERMOR PERFECO M 18 TRI",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "thermor_perfeco_m_18_tri": "Heating (medium temp)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "thermor_perfeco_m_18_tri": "Outdoor",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "thermor_perfeco_m_18_tri": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "thermor_perfeco_m_18_tri": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "thermor_perfeco_m_18_tri": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "thermor_perfeco_m_18_tri": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "thermor_perfeco_m_18_tri": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "thermor_perfeco_m_18_tri": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "16.13 kW",
+      "medium_temperature": "15.44 kW",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "3.59 kW",
+      "medium_temperature": "5.36 kW",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.49",
+      "medium_temperature": "2.88",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "59 dB(A)",
+      "medium_temperature": "59 dB(A)",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "175 %",
+      "medium_temperature": "141 %",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "14.80 kW",
+      "medium_temperature": "14.20 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.45",
+      "medium_temperature": "3.61",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "13.10 kW",
+      "medium_temperature": "12.60 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.05",
+      "medium_temperature": "2.23",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.990",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "8.00 kW",
+      "medium_temperature": "7.60 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.30",
+      "medium_temperature": "3.56",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.990",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "5.70 kW",
+      "medium_temperature": "5.60 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.06",
+      "medium_temperature": "4.76",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = 12\u00b0C",
+      "0.980": "6.10 kW",
+      "0.990": "6.10 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = 12\u00b0C",
+      "0.980": "6.90",
+      "0.990": "5.64",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "0.980": "0.980",
+      "0.990": "0.990",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = Tbiv",
+      "0.980": "13.10 kW",
+      "0.990": "12.60 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = Tbiv",
+      "0.980": "3.05",
+      "0.990": "2.23",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.980": "8.40 kW",
+      "0.990": "11.60 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.980": "2.14",
+      "0.990": "1.98",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.980": "0.990",
+      "0.990": "0.990",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "WTOL",
+      "0.980": "75 \u00b0C",
+      "0.990": "75 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Poff",
+      "0.980": "6 W",
+      "0.990": "6 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PTO",
+      "0.980": "10 W",
+      "0.990": "10 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PSB",
+      "0.980": "6 W",
+      "0.990": "6 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PCK",
+      "0.980": "0 W",
+      "0.990": "0 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "0.980": "Electricity",
+      "0.990": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Supplementary Heater: PSUP",
+      "0.980": "6.40 kW",
+      "0.990": "2.60 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Annual energy consumption Qhe",
+      "0.980": "6866 kWh",
+      "0.990": "8128 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 6.40 kW 2.60 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Groupe_Atlantic_THERMOR_PERFECO_M_18_Outdoor_Air_Water_269"
+    }
+  ]
+}

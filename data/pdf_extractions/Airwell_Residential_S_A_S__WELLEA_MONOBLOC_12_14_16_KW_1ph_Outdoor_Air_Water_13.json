@@ -1,0 +1,1762 @@
+{
+  "source_pdf": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13.pdf",
+  "extraction_timestamp": "2025-11-17T15:03:08.006087",
+  "total_records": 207,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype WELLEA MONOBLOC 12/14/16 KW 1ph",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "airwell_residential_s.a.s.": "10, rue du Fort de Saint Cyr",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "airwell_residential_s.a.s.": "78180",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "airwell_residential_s.a.s.": "Montigny le Bretonneux",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "airwell_residential_s.a.s.": "FR",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "airwell_residential_s.a.s.": "ICIM S.p.A.",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "airwell_residential_s.a.s.": "WELLEA MONOBLOC 12/14/16 KW 1ph",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "airwell_residential_s.a.s.": "ICIM-PDC-000055-00",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "airwell_residential_s.a.s.": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "airwell_residential_s.a.s.": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "airwell_residential_s.a.s.": "2.8 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "airwell_residential_s.a.s.": "17.01.2020",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "airwell_residential_s.a.s.": "EN 14511:2013, EN 14825:2016, EN 12102:2013",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "label": "testing_basis_en_14511",
+      "value": "2013, EN 14825:2016, EN 12102:2013",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13"
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Model WELLEA MONOBLOC 12 KW 1PH",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "wellea_monobloc_12_kw_1ph": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "wellea_monobloc_12_kw_1ph": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "wellea_monobloc_12_kw_1ph": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "wellea_monobloc_12_kw_1ph": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "wellea_monobloc_12_kw_1ph": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "wellea_monobloc_12_kw_1ph": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wellea_monobloc_12_kw_1ph": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wellea_monobloc_12_kw_1ph": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "wellea_monobloc_12_kw_1ph": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "12.30 kW",
+      "medium_temperature": "11.90 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.56 kW",
+      "medium_temperature": "4.28 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.81",
+      "medium_temperature": "0.78",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "68 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "169 %",
+      "medium_temperature": "126 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12.00 kW",
+      "medium_temperature": "13.00 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.29",
+      "medium_temperature": "3.23",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "10.52 kW",
+      "medium_temperature": "11.29 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.88",
+      "medium_temperature": "2.05",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "6.50 kW",
+      "medium_temperature": "7.31 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.15",
+      "medium_temperature": "3.14",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.12 kW",
+      "medium_temperature": "4.96 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "5.74": "0.90",
+      "4.25": "0.90",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "5.74": "2.23 kW",
+      "4.25": "2.37 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "5.74": "5.40",
+      "4.25": "4.94",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.74": "0.90",
+      "4.25": "0.90",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "5.74": "10.52 kW",
+      "4.25": "11.29 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "5.74": "2.88",
+      "4.25": "2.05",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.74": "12.01 kW",
+      "4.25": "11.88 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.74": "2.60",
+      "4.25": "1.79",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "5.74": "60 \u00b0C",
+      "4.25": "60 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "5.74": "9 W",
+      "4.25": "9 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "5.74": "15 W",
+      "4.25": "15 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "5.74": "9 W",
+      "4.25": "9 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "5.74": "0 W",
+      "4.25": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.74": "Electricity",
+      "4.25": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "5.74": "0.00 kW",
+      "4.25": "0.90 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "5.74": "5726 kWh",
+      "4.25": "8164 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.90 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13"
+    },
+    {
+      "": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Model WELLEA MONOBLOC 14 KW 1PH",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "wellea_monobloc_14_kw_1ph": "Heating (medium temp)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "wellea_monobloc_14_kw_1ph": "Outdoor",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "wellea_monobloc_14_kw_1ph": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "wellea_monobloc_14_kw_1ph": "Yes",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "wellea_monobloc_14_kw_1ph": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "wellea_monobloc_14_kw_1ph": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wellea_monobloc_14_kw_1ph": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wellea_monobloc_14_kw_1ph": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "wellea_monobloc_14_kw_1ph": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "14.10 kW",
+      "medium_temperature": "14.20 kW",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "3.07 kW",
+      "medium_temperature": "5.16 kW",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.60",
+      "medium_temperature": "2.75",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "71 dB(A)",
+      "medium_temperature": "71 dB(A)",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "168 %",
+      "medium_temperature": "128 %",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "14.00 kW",
+      "medium_temperature": "14.00 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.27",
+      "medium_temperature": "3.26",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "12.47 kW",
+      "medium_temperature": "12.18 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.84",
+      "medium_temperature": "2.05",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "7.48 kW",
+      "medium_temperature": "7.84 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.19",
+      "medium_temperature": "3.18",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "5.04 kW",
+      "medium_temperature": "5.21 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "5.99": "0.90",
+      "4.29": "0.90",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "5.99": "2.23 kW",
+      "4.29": "2.57 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "5.99": "5.30",
+      "4.29": "5.14",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.99": "0.90",
+      "4.29": "0.90",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "5.99": "12.47 kW",
+      "4.29": "12.18 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "5.99": "2.84",
+      "4.29": "2.05",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.99": "12.72 kW",
+      "4.29": "11.68 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.99": "2.51",
+      "4.29": "1.74",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "5.99": "60 \u00b0C",
+      "4.29": "60 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "5.99": "9 W",
+      "4.29": "9 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "5.99": "26 W",
+      "4.29": "26 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "5.99": "9 W",
+      "4.29": "9 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "5.99": "0 W",
+      "4.29": "0 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.99": "Electricity",
+      "4.29": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "5.99": "1.40 kW",
+      "4.29": "2.10 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "5.99": "6819 kWh",
+      "4.29": "8724 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.40 kW 2.10 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13"
+    },
+    {
+      "": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Model WELLEA MONOBLOC 16 KW 1PH",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "wellea_monobloc_16_kw_1ph": "Heating (medium temp)",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "wellea_monobloc_16_kw_1ph": "Outdoor",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "wellea_monobloc_16_kw_1ph": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "wellea_monobloc_16_kw_1ph": "Yes",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "wellea_monobloc_16_kw_1ph": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "wellea_monobloc_16_kw_1ph": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wellea_monobloc_16_kw_1ph": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "wellea_monobloc_16_kw_1ph": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "wellea_monobloc_16_kw_1ph": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "16.30 kW",
+      "medium_temperature": "16.10 kW",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "3.66 kW",
+      "medium_temperature": "5.90 kW",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.45",
+      "medium_temperature": "2.73",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "71 dB(A)",
+      "medium_temperature": "71 dB(A)",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "169 %",
+      "medium_temperature": "128 %",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "16.00 kW",
+      "medium_temperature": "15.00 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.30",
+      "medium_temperature": "3.27",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "14.15 kW",
+      "medium_temperature": "12.90 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.72",
+      "medium_temperature": "2.04",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "8.92 kW",
+      "medium_temperature": "8.25 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.17",
+      "medium_temperature": "3.21",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "5.64 kW",
+      "medium_temperature": "5.45 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "5.86": "0.90",
+      "4.32": "0.90",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "5.86": "2.47 kW",
+      "4.32": "2.57 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "5.86": "6.28",
+      "4.32": "5.12",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.86": "0.90",
+      "4.32": "0.90",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "5.86": "14.15 kW",
+      "4.32": "12.90 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "5.86": "2.72",
+      "4.32": "2.04",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.86": "12.93 kW",
+      "4.32": "11.16 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.86": "2.41",
+      "4.32": "1.65",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "5.86": "60 \u00b0C",
+      "4.32": "60 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "5.86": "9 W",
+      "4.32": "9 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "5.86": "41 W",
+      "4.32": "41 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "5.86": "9 W",
+      "4.32": "9 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "5.86": "0 W",
+      "4.32": "0 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.86": "Electricity",
+      "4.32": "Electricity",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "5.86": "3.10 kW",
+      "4.32": "3.40 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "5.86": "7687 kWh",
+      "4.32": "9216 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 3.10 kW 3.40 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "Airwell_Residential_S_A_S__WELLEA_MONOBLOC_12_14_16_KW_1ph_Outdoor_Air_Water_13"
+    }
+  ]
+}

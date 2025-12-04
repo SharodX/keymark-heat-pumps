@@ -1,0 +1,673 @@
+{
+  "source_pdf": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3.pdf",
+  "extraction_timestamp": "2025-11-17T15:35:34.910887",
+  "total_records": 79,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype HRC70 25 kW",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "intuis": "Rue de la R\u00e9publique",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "intuis": "80210",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "intuis": "Feuqui\u00e8res\u2011en\u2011Vimeu",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "intuis": "FR",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "intuis": "Kiwa Nederland B.V.",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "intuis": "HRC70 25 kW",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "intuis": "007-DP0189",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "intuis": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "intuis": "R290",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "intuis": "0.9 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "intuis": "26.04.2024",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "intuis": "European KEYMARK Scheme for Heat Pumps (v11)",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Model HRC70 25 kW /3 tri",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "hrc70_25_kw_/3_tri": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "hrc70_25_kw_/3_tri": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "hrc70_25_kw_/3_tri": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "hrc70_25_kw_/3_tri": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "hrc70_25_kw_/3_tri": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hrc70_25_kw_/3_tri": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hrc70_25_kw_/3_tri": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "hrc70_25_kw_/3_tri": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "10.90 kW",
+      "medium_temperature": "10.10 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.37 kW",
+      "medium_temperature": "3.16 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.60",
+      "medium_temperature": "3.20",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "60 dB(A)",
+      "medium_temperature": "60 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "150 %",
+      "medium_temperature": "116 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "21.00 kW",
+      "medium_temperature": "18.00 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.83",
+      "medium_temperature": "2.97",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-6 \u00b0C",
+      "medium_temperature": "-6 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "17.10 kW",
+      "medium_temperature": "14.70 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.58",
+      "medium_temperature": "1.97",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "11.12 kW",
+      "medium_temperature": "11.22 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.79",
+      "medium_temperature": "2.99",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "11.12 kW",
+      "medium_temperature": "10.90 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.61",
+      "medium_temperature": "4.51",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +7 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = 12\u00b0C",
+      "column_1": "12.45 kW",
+      "column_2": "12.21 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = 12\u00b0C",
+      "column_1": "5.84",
+      "column_2": "4.81",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "17.36 kW",
+      "column_2": "14.92 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "2.66",
+      "column_2": "1.95",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "16.25 kW",
+      "column_2": "13.97 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "2.40",
+      "column_2": "1.92",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "0.900",
+      "column_2": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "70 \u00b0C",
+      "column_2": "70 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "7 W",
+      "column_2": "7 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "10 W",
+      "column_2": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "7 W",
+      "column_2": "7 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "10 W",
+      "column_2": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "4.75 kW",
+      "column_2": "4.03 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "11314 kWh",
+      "column_2": "12525 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 4.75 kW 4.03 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Intuis_HRC70_25_kW_Outdoor_Air_Water_3"
+    }
+  ]
+}

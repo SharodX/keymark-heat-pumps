@@ -1,0 +1,802 @@
+{
+  "source_pdf": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16.pdf",
+  "extraction_timestamp": "2025-11-17T15:55:17.768304",
+  "total_records": 100,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype SDH1-070MNA3O",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "saunier_duval_brand_group": "SDECCI SAS - 17 rue de la Petite Baratte",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "saunier_duval_brand_group": "44300",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "saunier_duval_brand_group": "Nantes",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "saunier_duval_brand_group": "FR",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "saunier_duval_brand_group": "DIN CERTCO Gesellschaft f\u00fcr Konformit\u00e4tsbewertung mbH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "saunier_duval_brand_group": "SDH1-070MNA3O",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "saunier_duval_brand_group": "011-1W0891",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "saunier_duval_brand_group": "Air/Air Multi Split",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "saunier_duval_brand_group": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "saunier_duval_brand_group": "1.7 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "saunier_duval_brand_group": "20.09.2024",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "saunier_duval_brand_group": "European KEYMARK Scheme for Heat Pumps V.14\n(2024-04)",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Model SDH1-070MNA3O + SDHB1-025SNWI + SDHB1-025SNWI + SDHB1-025SNWI",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "sdh1-070mna3o_+_sdhb1-025snwi_+_sdhb1-025snwi_+_sdhb1-025snwi": "Heating + Cooling",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "sdh1-070mna3o_+_sdhb1-025snwi_+_sdhb1-025snwi_+_sdhb1-025snwi": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "sdh1-070mna3o_+_sdhb1-025snwi_+_sdhb1-025snwi_+_sdhb1-025snwi": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "sdh1-070mna3o_+_sdhb1-025snwi_+_sdhb1-025snwi_+_sdhb1-025snwi": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "sdh1-070mna3o_+_sdhb1-025snwi_+_sdhb1-025snwi_+_sdhb1-025snwi": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "sdh1-070mna3o_+_sdhb1-025snwi_+_sdhb1-025snwi_+_sdhb1-025snwi": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "sdh1-070mna3o_+_sdhb1-025snwi_+_sdhb1-025snwi_+_sdhb1-025snwi": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "sdh1-070mna3o_+_sdhb1-025snwi_+_sdhb1-025snwi_+_sdhb1-025snwi": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Air/Air Multi Split",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Cooling",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Heating capacity",
+      "a7/a20": "8.71",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "a7/a20": "2.22 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "a7/a20": "3.91",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "a7/a20": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "a7/a20": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-2 | Cooling",
+      "a7/a20": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "a35/a27": "2.09 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cooling capacity",
+      "a35/a27": "7.22",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "EER",
+      "a35/a27": "3.45",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "a35/a27": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "a35/a27": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Cooling",
+      "a35/a27": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_outdoor": "",
+      "63_db(a)": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_outdoor": "",
+      "63_db(a)": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "sound_power_level_outdoor": "EN 14825 | Cooling",
+      "63_db(a)": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignc",
+      "indoor_dry(wet)_bulb_temperature_27(19)\u00b0c": "7.10 kW",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "SEER",
+      "indoor_dry(wet)_bulb_temperature_27(19)\u00b0c": "6.50",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 35\u00b0C",
+      "indoor_dry(wet)_bulb_temperature_27(19)\u00b0c": "7.22 kW",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 35\u00b0C",
+      "indoor_dry(wet)_bulb_temperature_27(19)\u00b0c": "3.45",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 35 \u00b0C",
+      "indoor_dry(wet)_bulb_temperature_27(19)\u00b0c": "0.250",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 30\u00b0C",
+      "indoor_dry(wet)_bulb_temperature_27(19)\u00b0c": "5.35 kW",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 30\u00b0C",
+      "indoor_dry(wet)_bulb_temperature_27(19)\u00b0c": "4.97",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 30 \u00b0C",
+      "indoor_dry(wet)_bulb_temperature_27(19)\u00b0c": "0.250",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_25\u00b0c": "EER Tj = 25\u00b0C",
+      "3.44_kw": "7.52",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_25\u00b0c": "Cdc Tj = 25 \u00b0C",
+      "3.44_kw": "0.250",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_25\u00b0c": "Pdc Tj = 20\u00b0C",
+      "3.44_kw": "1.96 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_25\u00b0c": "EER Tj = 20\u00b0C",
+      "3.44_kw": "10.12",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_25\u00b0c": "Cdc Tj = 20 \u00b0C",
+      "3.44_kw": "0.250",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_25\u00b0c": "Poff",
+      "3.44_kw": "1 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_25\u00b0c": "PTO",
+      "3.44_kw": "8 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_25\u00b0c": "PSB",
+      "3.44_kw": "1 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_25\u00b0c": "PCK",
+      "3.44_kw": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_25\u00b0c": "Annual energy consumption Qce",
+      "3.44_kw": "382 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_25\u00b0c": "",
+      "3.44_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_25\u00b0c": "",
+      "3.44_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "pdc_tj_=_25\u00b0c": "EN 14825 | Average Climate",
+      "3.44_kw": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignh",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "6.10 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "3.80",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "-7 \u00b0C",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "-10 \u00b0C",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "5.64 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "2.42",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "0.250",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "3.43 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "4.01",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "0.250",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "2.19 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "4.51",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "0.250",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "2.15 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "5.44",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "0.250",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "5.64 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "2.42",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "5.14 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "2.36",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "0.250",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "1 W",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "33 W",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "1 W",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "0 W",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Backup Heater",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "0.00 kW",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qhe",
+      "indoor_dry_bulb_temperature:_20\u00b0c": "2246 kWh",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16",
+      "submodel_id": null
+    },
+    {
+      "label": "indoor_dry_bulb_temperature",
+      "value": "20\u00b0C",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Saunier_Duval_Brand_Group_SDH1-070MNA3O_Air_Air_Multi_Split_16"
+    }
+  ]
+}

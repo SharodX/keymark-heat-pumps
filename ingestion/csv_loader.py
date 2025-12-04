@@ -10,8 +10,10 @@ from . import IngestionMetrics, logger
 
 def normalize_header(header: str) -> str:
     """Normalize a CSV header by lower-casing and replacing whitespace with underscores."""
-
-    return "_".join(header.strip().lower().split())
+    
+    if header is None:
+        return "unnamed"
+    return "_".join(str(header).strip().lower().split())
 
 
 def load_csv_records(
@@ -36,6 +38,8 @@ def load_csv_records(
 
     logger.info("Loading CSV file: %s", csv_path)
     with csv_path.open(newline="", encoding="utf-8") as handle:
+        # Increase field size limit to handle large fields in some CSVs
+        csv.field_size_limit(10_000_000)
         reader = csv.DictReader(handle)
         field_map = {normalize_header(h): h for h in reader.fieldnames or []}
         for row in reader:

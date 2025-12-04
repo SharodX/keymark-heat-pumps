@@ -1,0 +1,777 @@
+{
+  "source_pdf": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98.pdf",
+  "extraction_timestamp": "2025-11-17T15:42:56.944813",
+  "total_records": 92,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype Hydrodan 10",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "Nettlehill Road, Houston Industrial Estate",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "EH54 5EQ",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "Livingston",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "GB",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "SZU - Strojirensky zkusebni ustav (Engineering Test\nInstitute, Public Enterprise)",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "Hydrodan 10",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "037-0101-22",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "Water/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "0.9 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "03.11.2022",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "HP Keymark scheme rules rev. no. 9",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "SZU Brno, CZ",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "": "Model EHWT17D-MHEDW",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ehwt17d-mhedw": "Heating + DHW + low temp",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ehwt17d-mhedw": "Indoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ehwt17d-mhedw": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Heat Source",
+      "ehwt17d-mhedw": "Water",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ehwt17d-mhedw": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ehwt17d-mhedw": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ehwt17d-mhedw": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ehwt17d-mhedw": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ehwt17d-mhedw": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Water/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "l": "171 %",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "l": "3.9",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "l": "2:12 h:min",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "l": "29 W",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "l": "55.5 \u00b0C",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "l": "236 l",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "l": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "l": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "l": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "3.9 kW",
+      "medium_temperature": "4.6 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "0.67 kW",
+      "medium_temperature": "1.53 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.8",
+      "medium_temperature": "3",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "38 dB(A)",
+      "medium_temperature": "38 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "0 dB(A)",
+      "medium_temperature": "0 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "267 %",
+      "medium_temperature": "180 %",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_2",
+      "value": "12 h:min",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98"
+    },
+    {
+      "column_0": "Prated",
+      "column_1": "7 kW",
+      "column_2": "7 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "SCOP",
+      "column_1": "6.87",
+      "column_2": "4.69",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Tbiv",
+      "column_1": "-7 \u00b0C",
+      "column_2": "-7 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "TOL",
+      "column_1": "-10 \u00b0C",
+      "column_2": "-10 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = -7\u00b0C",
+      "column_1": "6.19 kW",
+      "column_2": "6.19 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = -7\u00b0C",
+      "column_1": "6.15",
+      "column_2": "3.75",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = -7 \u00b0C",
+      "column_1": "0.985",
+      "column_2": "0.991",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +2\u00b0C",
+      "column_1": "3.81 kW",
+      "column_2": "3.8 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +2\u00b0C",
+      "column_1": "7.15",
+      "column_2": "4.82",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +2 \u00b0C",
+      "column_1": "0.972",
+      "column_2": "0.981",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +7\u00b0C",
+      "column_1": "2.4 kW",
+      "column_2": "2.4 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +7\u00b0C",
+      "column_1": "7.73",
+      "column_2": "5.48",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +7 \u00b0C",
+      "column_1": "0.952",
+      "column_2": "0.966",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = 12\u00b0C",
+      "column_1": "1.21 kW",
+      "column_2": "1.12 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = 12\u00b0C",
+      "column_1": "7.37",
+      "column_2": "5.3",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "0.909",
+      "column_2": "0.929",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "6.19 kW",
+      "column_2": "6.19 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "6.15",
+      "column_2": "3.75",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "6.26 kW",
+      "column_2": "6.21 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "5.94",
+      "column_2": "3.43",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "0.986",
+      "column_2": "0.992",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "60 \u00b0C",
+      "column_2": "60 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "15 W",
+      "column_2": "15 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "15 W",
+      "column_2": "15 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "15 W",
+      "column_2": "15 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.74 kW",
+      "column_2": "0.79 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "2104 kWh",
+      "column_2": "3082 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.74 kW 0.79 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Hydrodan_10_Water_Water_98"
+    }
+  ]
+}

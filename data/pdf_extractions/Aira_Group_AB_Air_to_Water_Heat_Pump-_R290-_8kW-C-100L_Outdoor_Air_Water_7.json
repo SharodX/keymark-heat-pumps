@@ -1,0 +1,782 @@
+{
+  "source_pdf": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7.pdf",
+  "extraction_timestamp": "2025-11-17T15:03:05.967576",
+  "total_records": 93,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype Air to Water Heat Pump- R290- 8kW-C-100L",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "aira_group_ab": "Norra Stationsgatan 93C",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "aira_group_ab": "11364",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "aira_group_ab": "Stockholm",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "aira_group_ab": "SE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "aira_group_ab": "BRE Global Limited",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "aira_group_ab": "Air to Water Heat Pump- R290- 8kW-C-100L",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "aira_group_ab": "041-K087-03",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "aira_group_ab": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "aira_group_ab": "R290",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "aira_group_ab": "0.9 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "aira_group_ab": "11.03.2024",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "aira_group_ab": "Heat Pump Keymark Scheme Rules Rev 13",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "aira_group_ab": "T\u00dcV S\u00dcD Certification and Testing Co., Ltd. Guangzhou\nBranch, CN",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Model Indoor unit: HPI-AO-100-1.0, Outdoor unit: HPO-AW-8-230V-1.0",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "indoor_unit:_hpi-ao-100-1.0,_outdoor_unit:_hpo-_aw-8-230v-1.0": "Heating + DHW + low temp",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "indoor_unit:_hpi-ao-100-1.0,_outdoor_unit:_hpo-_aw-8-230v-1.0": "Indoor, Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "indoor_unit:_hpi-ao-100-1.0,_outdoor_unit:_hpo-_aw-8-230v-1.0": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "indoor_unit:_hpi-ao-100-1.0,_outdoor_unit:_hpo-_aw-8-230v-1.0": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "indoor_unit:_hpi-ao-100-1.0,_outdoor_unit:_hpo-_aw-8-230v-1.0": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "indoor_unit:_hpi-ao-100-1.0,_outdoor_unit:_hpo-_aw-8-230v-1.0": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "indoor_unit:_hpi-ao-100-1.0,_outdoor_unit:_hpo-_aw-8-230v-1.0": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "indoor_unit:_hpi-ao-100-1.0,_outdoor_unit:_hpo-_aw-8-230v-1.0": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "indoor_unit:_hpi-ao-100-1.0,_outdoor_unit:_hpo-_aw-8-230v-1.0": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "m": "76 %",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "m": "1.73",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "m": "1:7:32 h:min",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "m": "53.0 W",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "m": "48.5 \u00b0C",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "m": "106 l",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "m": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "m": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "m": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "8.81 kW",
+      "medium_temperature": "9.21 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.95 kW",
+      "medium_temperature": "3.05 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.52",
+      "medium_temperature": "3.02",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "44 dB(A)",
+      "medium_temperature": "45 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "55 dB(A)",
+      "medium_temperature": "58 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "185 %",
+      "medium_temperature": "141 %",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "label": "model_indoor_unit",
+      "value": "HPI-AO-100-1.0, Outdoor unit: HPO-AW-8-230V-1.0",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7"
+    },
+    {
+      "label": "model_name_indoor_unit",
+      "value": "HPI-AO-100-1.0, Outdoor unit: HPO-",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7"
+    },
+    {
+      "label": "heating_up_time_1",
+      "value": "7:32 h:min",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7"
+    },
+    {
+      "prated": "SCOP",
+      "8.77_kw": "4.70",
+      "8.65_kw": "3.61",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "Tbiv",
+      "8.77_kw": "-7 \u00b0C",
+      "8.65_kw": "-7 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "TOL",
+      "8.77_kw": "-10 \u00b0C",
+      "8.65_kw": "-10 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = -7\u00b0C",
+      "8.77_kw": "7.75 kW",
+      "8.65_kw": "7.65 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = -7\u00b0C",
+      "8.77_kw": "2.85",
+      "8.65_kw": "2.40",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = -7 \u00b0C",
+      "8.77_kw": "0.900",
+      "8.65_kw": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = +2\u00b0C",
+      "8.77_kw": "4.88 kW",
+      "8.65_kw": "4.85 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = +2\u00b0C",
+      "8.77_kw": "4.76",
+      "8.65_kw": "3.58",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = +2 \u00b0C",
+      "8.77_kw": "0.900",
+      "8.65_kw": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = +7\u00b0C",
+      "8.77_kw": "4.23 kW",
+      "8.65_kw": "4.10 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = +7\u00b0C",
+      "8.77_kw": "6.38",
+      "8.65_kw": "4.73",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = +7 \u00b0C",
+      "8.77_kw": "0.900",
+      "8.65_kw": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = 12\u00b0C",
+      "8.77_kw": "5.03 kW",
+      "8.65_kw": "4.93 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = 12\u00b0C",
+      "8.77_kw": "8.45",
+      "8.65_kw": "6.46",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = +12 \u00b0C",
+      "8.77_kw": "0.900",
+      "8.65_kw": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = Tbiv",
+      "8.77_kw": "7.75 kW",
+      "8.65_kw": "7.65 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = Tbiv",
+      "8.77_kw": "2.85",
+      "8.65_kw": "2.40",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "8.77_kw": "7.22 kW",
+      "8.65_kw": "6.62 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "8.77_kw": "2.73",
+      "8.65_kw": "2.03",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "8.77_kw": "0.900",
+      "8.65_kw": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "WTOL",
+      "8.77_kw": "70 \u00b0C",
+      "8.65_kw": "70 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "Poff",
+      "8.77_kw": "11 W",
+      "8.65_kw": "11 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "PTO",
+      "8.77_kw": "46 W",
+      "8.65_kw": "46 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "PSB",
+      "8.77_kw": "11 W",
+      "8.65_kw": "11 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "PCK",
+      "8.77_kw": "30 W",
+      "8.65_kw": "30 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "Supplementary Heater: Type of energy\ninput",
+      "8.77_kw": "Electricity",
+      "8.65_kw": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "Supplementary Heater: PSUP",
+      "8.77_kw": "1.55 kW",
+      "8.65_kw": "2.03 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "prated": "Annual energy consumption Qhe",
+      "8.77_kw": "3851 kWh",
+      "8.65_kw": "4955 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.55 kW 2.03 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Aira_Group_AB_Air_to_Water_Heat_Pump-_R290-_8kW-C-100L_Outdoor_Air_Water_7"
+    }
+  ]
+}

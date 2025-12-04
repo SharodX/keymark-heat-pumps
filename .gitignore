@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+data/full_pdf_index.sqlite
+data/keymark.duckdb
+staging/_Ariston_Thermo_GroupNIMBUS_ARIANEXT_AEROTOP_ENERGION_120_150_M_-_COMPACT.jsonl

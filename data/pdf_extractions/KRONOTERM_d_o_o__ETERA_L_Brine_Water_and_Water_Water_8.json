@@ -1,0 +1,4545 @@
+{
+  "source_pdf": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8.pdf",
+  "extraction_timestamp": "2025-11-17T15:37:13.924726",
+  "total_records": 518,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype ETERA L",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "kronoterm_d.o.o.": "Trnava 5e",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "kronoterm_d.o.o.": "3303",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "kronoterm_d.o.o.": "Gomilsko",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "kronoterm_d.o.o.": "SI",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "kronoterm_d.o.o.": "DIN CERTCO Gesellschaft f\u00fcr Konformit\u00e4tsbewertung mbH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "kronoterm_d.o.o.": "ETERA L",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "kronoterm_d.o.o.": "011-1W0887",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "kronoterm_d.o.o.": "Brine/Water and Water/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "kronoterm_d.o.o.": "R452B",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "kronoterm_d.o.o.": "1.7 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "kronoterm_d.o.o.": "26.09.2024",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "kronoterm_d.o.o.": "HP KEYMARK certification scheme rules V14",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Model ETERA L-1 HT / HK 3F E",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "etera_l-1_ht_/_hk_3f_e": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "etera_l-1_ht_/_hk_3f_e": "Indoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "etera_l-1_ht_/_hk_3f_e": "Colder, Warmer, Warmer Climate, Colder Climate",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "etera_l-1_ht_/_hk_3f_e": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "etera_l-1_ht_/_hk_3f_e": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "etera_l-1_ht_/_hk_3f_e": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "etera_l-1_ht_/_hk_3f_e": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "etera_l-1_ht_/_hk_3f_e": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "etera_l-1_ht_/_hk_3f_e": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "Yes",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Brine/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "9.11 kW",
+      "medium_temperature": "11.94 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.79 kW",
+      "medium_temperature": "3.85 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.08",
+      "medium_temperature": "3.10",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "35 dB(A)",
+      "medium_temperature": "37 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "230 %",
+      "medium_temperature": "166 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "18.20 kW",
+      "medium_temperature": "18.10 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.95",
+      "medium_temperature": "4.35",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "16.19 kW",
+      "medium_temperature": "16.07 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "5.04",
+      "medium_temperature": "3.37",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.997",
+      "medium_temperature": "0.998",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "10.20 kW",
+      "medium_temperature": "9.99 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.86",
+      "medium_temperature": "4.26",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.994",
+      "medium_temperature": "0.996",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "6.62 kW",
+      "medium_temperature": "6.46 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.57",
+      "medium_temperature": "4.96",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = 12\u00b0C",
+      "0.991": "6.06 kW",
+      "0.992": "6.15 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = 12\u00b0C",
+      "0.991": "6.83",
+      "0.992": "5.64",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "0.991": "0.989",
+      "0.992": "0.991",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = Tbiv",
+      "0.991": "18.17 kW",
+      "0.992": "18.07 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = Tbiv",
+      "0.991": "4.72",
+      "0.992": "3.16",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.991": "18.17 kW",
+      "0.992": "18.07 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.991": "4.72",
+      "0.992": "3.16",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.991": "0.997",
+      "0.992": "0.998",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "WTOL",
+      "0.991": "67 \u00b0C",
+      "0.992": "67 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Poff",
+      "0.991": "10 W",
+      "0.992": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PTO",
+      "0.991": "10 W",
+      "0.992": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PSB",
+      "0.991": "10 W",
+      "0.992": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PCK",
+      "0.991": "10 W",
+      "0.992": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "0.991": "Electricity",
+      "0.992": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Supplementary Heater: PSUP",
+      "0.991": "kW",
+      "0.992": "kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Annual energy consumption Qhe",
+      "0.991": "6320 kWh",
+      "0.992": "8602 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "",
+      "0.991": "",
+      "0.992": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "",
+      "0.991": "",
+      "0.992": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "EN 12102-1 | Colder Climate",
+      "0.991": "",
+      "0.992": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "35 dB(A)",
+      "medium_temperature": "37 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "241 %",
+      "medium_temperature": "172 %",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "18.20 kW",
+      "medium_temperature": "18.10 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.22",
+      "medium_temperature": "4.49",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "11.39 kW",
+      "medium_temperature": "11.34 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "5.91",
+      "medium_temperature": "4.07",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.995",
+      "medium_temperature": "0.996",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "7.09 kW",
+      "medium_temperature": "6.90 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "6.58",
+      "medium_temperature": "4.82",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.991",
+      "medium_temperature": "0.993",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "6.06 kW",
+      "medium_temperature": "6.10 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.83",
+      "medium_temperature": "5.46",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.989",
+      "medium_temperature": "0.991",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "6.06 kW",
+      "medium_temperature": "6.11 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "6.76",
+      "medium_temperature": "5.85",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.989",
+      "medium_temperature": "0.991",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "18.17 kW",
+      "medium_temperature": "18.07 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "4.72",
+      "medium_temperature": "3.16",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP kW kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "18.17_kw": "4.72",
+      "18.07_kw": "3.16",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "18.17_kw": "0.997",
+      "18.07_kw": "0.998",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "18.17_kw": "67 \u00b0C",
+      "18.07_kw": "67 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "18.17_kw": "10 W",
+      "18.07_kw": "10 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "18.17_kw": "10 W",
+      "18.07_kw": "10 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "18.17_kw": "10 W",
+      "18.07_kw": "10 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "18.17_kw": "10 W",
+      "18.07_kw": "10 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "18.17_kw": "Electricity",
+      "18.07_kw": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "18.17_kw": "kW",
+      "18.07_kw": "kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "18.17_kw": "7218 kWh",
+      "18.07_kw": "9932 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "18.17_kw": "",
+      "18.07_kw": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "18.17_kw": "",
+      "18.07_kw": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "EN 12102-1 | Warmer Climate",
+      "18.17_kw": "",
+      "18.07_kw": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "35 dB(A)",
+      "medium_temperature": "37 dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "235 %",
+      "medium_temperature": "169 %",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "18.20 kW",
+      "medium_temperature": "18.10 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.07",
+      "medium_temperature": "4.42",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "18.17 kW",
+      "medium_temperature": "18.07 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.72",
+      "medium_temperature": "3.16",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.997",
+      "medium_temperature": "0.998",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "11.93 kW",
+      "medium_temperature": "11.95 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.69",
+      "medium_temperature": "3.88",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.995",
+      "medium_temperature": "0.997",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "6.06 kW",
+      "medium_temperature": "6.06 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "6.69",
+      "medium_temperature": "5.22",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.992",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "18.17 kW",
+      "medium_temperature": "18.07 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "4.72",
+      "medium_temperature": "3.16",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "18.17 kW",
+      "medium_temperature": "18.07 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "4.72",
+      "medium_temperature": "3.16",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.997",
+      "medium_temperature": "0.998",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "67 \u00b0C",
+      "medium_temperature": "67 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "10 W",
+      "medium_temperature": "10 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "10 W",
+      "medium_temperature": "10 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP kW kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "10 W",
+      "column_2": "10 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "10 W",
+      "column_2": "10 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "kW",
+      "column_2": "kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "4008 kWh",
+      "column_2": "5475 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Water/Water",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 14511-4 | Heating",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "9.09 kW",
+      "medium_temperature": "12.10 kW",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.36 kW",
+      "medium_temperature": "3.09 kW",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "6.67",
+      "medium_temperature": "3.91",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "319 %",
+      "medium_temperature": "217 %",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "18.10 kW",
+      "medium_temperature": "18.10 kW",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "8.17",
+      "medium_temperature": "5.64",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "16.19 kW",
+      "medium_temperature": "16.22 kW",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "6.91",
+      "medium_temperature": "4.31",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.996",
+      "medium_temperature": "0.997",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "9.95 kW",
+      "medium_temperature": "10.07 kW",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "8.08",
+      "medium_temperature": "5.53",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.992",
+      "medium_temperature": "0.995",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "6.54 kW",
+      "medium_temperature": "6.56 kW",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "9.01",
+      "medium_temperature": "6.45",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.988",
+      "medium_temperature": "0.991",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "6.46 kW",
+      "medium_temperature": "6.59 kW",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "9.28",
+      "medium_temperature": "7.48",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.987",
+      "medium_temperature": "0.989",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "18.12 kW",
+      "medium_temperature": "18.15 kW",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "6.50",
+      "medium_temperature": "3.96",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "18.12 kW",
+      "medium_temperature": "18.15 kW",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "6.50",
+      "medium_temperature": "3.96",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP kW kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "0.997": "67 \u00b0C",
+      "0.998": "67 \u00b0C",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "0.997": "10 W",
+      "0.998": "10 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "0.997": "10 W",
+      "0.998": "10 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "0.997": "10 W",
+      "0.998": "10 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "0.997": "10 W",
+      "0.998": "10 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "0.997": "Electricity",
+      "0.998": "Electricity",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "0.997": "kW",
+      "0.998": "kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "0.997": "4578 kWh",
+      "0.998": "6635 kWh",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "0.997": "",
+      "0.998": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "0.997": "",
+      "0.998": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "EN 14825 | Colder Climate",
+      "0.997": "",
+      "0.998": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "331 %",
+      "medium_temperature": "225 %",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "18.10 kW",
+      "medium_temperature": "18.10 kW",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "8.48",
+      "medium_temperature": "5.83",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "11.47 kW",
+      "medium_temperature": "11.21 kW",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "7.99",
+      "medium_temperature": "5.27",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.994",
+      "medium_temperature": "0.995",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "6.99 kW",
+      "medium_temperature": "6.80 kW",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "9.07",
+      "medium_temperature": "6.27",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.988",
+      "medium_temperature": "0.991",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "6.50 kW",
+      "medium_temperature": "6.60 kW",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "9.26",
+      "medium_temperature": "7.17",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.987",
+      "medium_temperature": "0.990",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "6.54 kW",
+      "medium_temperature": "6.59 kW",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "9.19",
+      "medium_temperature": "7.88",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.987",
+      "medium_temperature": "0.989",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "18.12 kW",
+      "medium_temperature": "18.15 kW",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "6.50",
+      "medium_temperature": "3.96",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "18.12 kW",
+      "medium_temperature": "18.15 kW",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "6.50",
+      "medium_temperature": "3.96",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.997",
+      "medium_temperature": "0.998",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "67 \u00b0C",
+      "medium_temperature": "67 \u00b0C",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "10 W",
+      "medium_temperature": "10 W",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "10 W",
+      "medium_temperature": "10 W",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "10 W",
+      "medium_temperature": "10 W",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "10 W",
+      "medium_temperature": "10 W",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "Electricity",
+      "medium_temperature": "Electricity",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "kW",
+      "medium_temperature": "kW",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP kW kW",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP kW kW",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "annual_energy_consumption_qhe": "",
+      "5261_kwh": "",
+      "7656_kwh": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "annual_energy_consumption_qhe": "",
+      "5261_kwh": "",
+      "7656_kwh": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "annual_energy_consumption_qhe": "EN 14825 | Warmer Climate",
+      "5261_kwh": "",
+      "7656_kwh": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "320 %",
+      "medium_temperature": "219 %",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "18.10 kW",
+      "medium_temperature": "18.20 kW",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "8.20",
+      "medium_temperature": "5.71",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "18.12 kW",
+      "medium_temperature": "18.18 kW",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "6.50",
+      "medium_temperature": "3.96",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.997",
+      "medium_temperature": "0.998",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "11.94 kW",
+      "medium_temperature": "11.78 kW",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "7.64",
+      "medium_temperature": "3.96",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.994",
+      "medium_temperature": "0.996",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "6.52 kW",
+      "medium_temperature": "6.57 kW",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "9.11",
+      "medium_temperature": "6.75",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.987",
+      "medium_temperature": "0.990",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "18.12 kW",
+      "medium_temperature": "18.15 kW",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "6.50",
+      "medium_temperature": "3.96",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "18.12 kW",
+      "medium_temperature": "18.15 kW",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "6.50",
+      "medium_temperature": "3.96",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.997",
+      "medium_temperature": "0.998",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "67 \u00b0C",
+      "medium_temperature": "67 \u00b0C",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "10 W",
+      "medium_temperature": "10 W",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "10 W",
+      "medium_temperature": "10 W",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "10 W",
+      "medium_temperature": "10 W",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "10 W",
+      "medium_temperature": "10 W",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "Electricity",
+      "medium_temperature": "Electricity",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "kW",
+      "medium_temperature": "kW",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qhe",
+      "low_temperature": "2948 kWh",
+      "medium_temperature": "4276 kWh",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP kW kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Model ETERA-C L-1 HT / HK 3F",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "etera-c_l-1_ht_/_hk_3f": "Heating (medium temp)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "etera-c_l-1_ht_/_hk_3f": "Indoor",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "etera-c_l-1_ht_/_hk_3f": "Colder, Warmer, Warmer Climate, Colder Climate",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "etera-c_l-1_ht_/_hk_3f": "Yes",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "etera-c_l-1_ht_/_hk_3f": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "etera-c_l-1_ht_/_hk_3f": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "etera-c_l-1_ht_/_hk_3f": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "etera-c_l-1_ht_/_hk_3f": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "etera-c_l-1_ht_/_hk_3f": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "Yes",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Brine/Water",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "9.11 kW",
+      "medium_temperature": "11.94 kW",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.79 kW",
+      "medium_temperature": "3.85 kW",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.08",
+      "medium_temperature": "3.10",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "35 dB(A)",
+      "medium_temperature": "37 dB(A)",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "230 %",
+      "medium_temperature": "166 %",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "18.20 kW",
+      "medium_temperature": "18.10 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.95",
+      "medium_temperature": "4.35",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "16.19 kW",
+      "medium_temperature": "16.07 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "5.04",
+      "medium_temperature": "3.37",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.997",
+      "medium_temperature": "0.998",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "10.20 kW",
+      "medium_temperature": "9.99 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.86",
+      "medium_temperature": "4.26",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.994",
+      "medium_temperature": "0.996",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "6.62 kW",
+      "medium_temperature": "6.46 kW",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.57",
+      "medium_temperature": "4.96",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = 12\u00b0C",
+      "0.991": "6.06 kW",
+      "0.992": "6.15 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = 12\u00b0C",
+      "0.991": "6.83",
+      "0.992": "5.64",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "0.991": "0.989",
+      "0.992": "0.991",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = Tbiv",
+      "0.991": "18.17 kW",
+      "0.992": "18.07 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = Tbiv",
+      "0.991": "4.72",
+      "0.992": "3.16",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.991": "18.17 kW",
+      "0.992": "18.07 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.991": "4.72",
+      "0.992": "3.16",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "0.991": "0.997",
+      "0.992": "0.998",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "WTOL",
+      "0.991": "67 \u00b0C",
+      "0.992": "67 \u00b0C",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Poff",
+      "0.991": "10 W",
+      "0.992": "10 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PTO",
+      "0.991": "10 W",
+      "0.992": "10 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PSB",
+      "0.991": "10 W",
+      "0.992": "10 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "PCK",
+      "0.991": "10 W",
+      "0.992": "10 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "0.991": "Electricity",
+      "0.992": "Electricity",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Supplementary Heater: PSUP",
+      "0.991": "kW",
+      "0.992": "kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "Annual energy consumption Qhe",
+      "0.991": "6320 kWh",
+      "0.992": "8602 kWh",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "",
+      "0.991": "",
+      "0.992": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "",
+      "0.991": "",
+      "0.992": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_+7_\u00b0c": "EN 12102-1 | Colder Climate",
+      "0.991": "",
+      "0.992": "",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "35 dB(A)",
+      "medium_temperature": "37 dB(A)",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 9,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "241 %",
+      "medium_temperature": "172 %",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "18.20 kW",
+      "medium_temperature": "18.10 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.22",
+      "medium_temperature": "4.49",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "11.39 kW",
+      "medium_temperature": "11.34 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "5.91",
+      "medium_temperature": "4.07",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.995",
+      "medium_temperature": "0.996",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "7.09 kW",
+      "medium_temperature": "6.90 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "6.58",
+      "medium_temperature": "4.82",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.991",
+      "medium_temperature": "0.993",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "6.06 kW",
+      "medium_temperature": "6.10 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.83",
+      "medium_temperature": "5.46",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.989",
+      "medium_temperature": "0.991",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "6.06 kW",
+      "medium_temperature": "6.11 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "6.76",
+      "medium_temperature": "5.85",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.989",
+      "medium_temperature": "0.991",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "18.17 kW",
+      "medium_temperature": "18.07 kW",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "4.72",
+      "medium_temperature": "3.16",
+      "source_page": 9,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP kW kW",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "18.17_kw": "4.72",
+      "18.07_kw": "3.16",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "18.17_kw": "0.997",
+      "18.07_kw": "0.998",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "18.17_kw": "67 \u00b0C",
+      "18.07_kw": "67 \u00b0C",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "18.17_kw": "10 W",
+      "18.07_kw": "10 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "18.17_kw": "10 W",
+      "18.07_kw": "10 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "18.17_kw": "10 W",
+      "18.07_kw": "10 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "18.17_kw": "10 W",
+      "18.07_kw": "10 W",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "18.17_kw": "Electricity",
+      "18.07_kw": "Electricity",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "18.17_kw": "kW",
+      "18.07_kw": "kW",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "18.17_kw": "7218 kWh",
+      "18.07_kw": "9932 kWh",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "18.17_kw": "",
+      "18.07_kw": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "18.17_kw": "",
+      "18.07_kw": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "EN 12102-1 | Warmer Climate",
+      "18.17_kw": "",
+      "18.07_kw": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "35 dB(A)",
+      "medium_temperature": "37 dB(A)",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "235 %",
+      "medium_temperature": "169 %",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "18.20 kW",
+      "medium_temperature": "18.10 kW",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.07",
+      "medium_temperature": "4.42",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "18.17 kW",
+      "medium_temperature": "18.07 kW",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.72",
+      "medium_temperature": "3.16",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.997",
+      "medium_temperature": "0.998",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "11.93 kW",
+      "medium_temperature": "11.95 kW",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.69",
+      "medium_temperature": "3.88",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.995",
+      "medium_temperature": "0.997",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "6.06 kW",
+      "medium_temperature": "6.06 kW",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "6.69",
+      "medium_temperature": "5.22",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.990",
+      "medium_temperature": "0.992",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "18.17 kW",
+      "medium_temperature": "18.07 kW",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "4.72",
+      "medium_temperature": "3.16",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "18.17 kW",
+      "medium_temperature": "18.07 kW",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "4.72",
+      "medium_temperature": "3.16",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.997",
+      "medium_temperature": "0.998",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "67 \u00b0C",
+      "medium_temperature": "67 \u00b0C",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "10 W",
+      "medium_temperature": "10 W",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "10 W",
+      "medium_temperature": "10 W",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 10,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP kW kW",
+      "source_page": 10,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "10 W",
+      "column_2": "10 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "10 W",
+      "column_2": "10 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "kW",
+      "column_2": "kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "4008 kWh",
+      "column_2": "5475 kWh",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Water/Water",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 14511-4 | Heating",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 11,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "9.09 kW",
+      "medium_temperature": "12.10 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.36 kW",
+      "medium_temperature": "3.09 kW",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "6.67",
+      "medium_temperature": "3.91",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 11,
+      "source_table": 3,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "319 %",
+      "medium_temperature": "217 %",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "18.10 kW",
+      "medium_temperature": "18.10 kW",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "8.17",
+      "medium_temperature": "5.64",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "16.19 kW",
+      "medium_temperature": "16.22 kW",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "6.91",
+      "medium_temperature": "4.31",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.996",
+      "medium_temperature": "0.997",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "9.95 kW",
+      "medium_temperature": "10.07 kW",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "8.08",
+      "medium_temperature": "5.53",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.992",
+      "medium_temperature": "0.995",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "6.54 kW",
+      "medium_temperature": "6.56 kW",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "9.01",
+      "medium_temperature": "6.45",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.988",
+      "medium_temperature": "0.991",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "6.46 kW",
+      "medium_temperature": "6.59 kW",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "9.28",
+      "medium_temperature": "7.48",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.987",
+      "medium_temperature": "0.989",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "18.12 kW",
+      "medium_temperature": "18.15 kW",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "6.50",
+      "medium_temperature": "3.96",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "18.12 kW",
+      "medium_temperature": "18.15 kW",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "6.50",
+      "medium_temperature": "3.96",
+      "source_page": 11,
+      "source_table": 4,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 11,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP kW kW",
+      "source_page": 11,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "0.997": "67 \u00b0C",
+      "0.998": "67 \u00b0C",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "0.997": "10 W",
+      "0.998": "10 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "0.997": "10 W",
+      "0.998": "10 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "0.997": "10 W",
+      "0.998": "10 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "0.997": "10 W",
+      "0.998": "10 W",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "0.997": "Electricity",
+      "0.998": "Electricity",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "0.997": "kW",
+      "0.998": "kW",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "0.997": "4578 kWh",
+      "0.998": "6635 kWh",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "0.997": "",
+      "0.998": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "0.997": "",
+      "0.998": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cdh_tj_=_tol_or_pdh_tj_=_tdesignh_if_tol_<_tdesignh": "EN 14825 | Colder Climate",
+      "0.997": "",
+      "0.998": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "331 %",
+      "medium_temperature": "225 %",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "18.10 kW",
+      "medium_temperature": "18.10 kW",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "8.48",
+      "medium_temperature": "5.83",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "11.47 kW",
+      "medium_temperature": "11.21 kW",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "7.99",
+      "medium_temperature": "5.27",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.994",
+      "medium_temperature": "0.995",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "6.99 kW",
+      "medium_temperature": "6.80 kW",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "9.07",
+      "medium_temperature": "6.27",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.988",
+      "medium_temperature": "0.991",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "6.50 kW",
+      "medium_temperature": "6.60 kW",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "9.26",
+      "medium_temperature": "7.17",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.987",
+      "medium_temperature": "0.990",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "6.54 kW",
+      "medium_temperature": "6.59 kW",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "9.19",
+      "medium_temperature": "7.88",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.987",
+      "medium_temperature": "0.989",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "18.12 kW",
+      "medium_temperature": "18.15 kW",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "6.50",
+      "medium_temperature": "3.96",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "18.12 kW",
+      "medium_temperature": "18.15 kW",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "6.50",
+      "medium_temperature": "3.96",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.997",
+      "medium_temperature": "0.998",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "67 \u00b0C",
+      "medium_temperature": "67 \u00b0C",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "10 W",
+      "medium_temperature": "10 W",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "10 W",
+      "medium_temperature": "10 W",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "10 W",
+      "medium_temperature": "10 W",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "10 W",
+      "medium_temperature": "10 W",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "Electricity",
+      "medium_temperature": "Electricity",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "kW",
+      "medium_temperature": "kW",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP kW kW",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP kW kW",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "annual_energy_consumption_qhe": "",
+      "5261_kwh": "",
+      "7656_kwh": "",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "annual_energy_consumption_qhe": "",
+      "5261_kwh": "",
+      "7656_kwh": "",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "annual_energy_consumption_qhe": "EN 14825 | Warmer Climate",
+      "5261_kwh": "",
+      "7656_kwh": "",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "320 %",
+      "medium_temperature": "219 %",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "18.10 kW",
+      "medium_temperature": "18.20 kW",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "8.20",
+      "medium_temperature": "5.71",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "18.12 kW",
+      "medium_temperature": "18.18 kW",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "6.50",
+      "medium_temperature": "3.96",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.997",
+      "medium_temperature": "0.998",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "11.94 kW",
+      "medium_temperature": "11.78 kW",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "7.64",
+      "medium_temperature": "3.96",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "0.994",
+      "medium_temperature": "0.996",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "6.52 kW",
+      "medium_temperature": "6.57 kW",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "9.11",
+      "medium_temperature": "6.75",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "0.987",
+      "medium_temperature": "0.990",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "18.12 kW",
+      "medium_temperature": "18.15 kW",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "6.50",
+      "medium_temperature": "3.96",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "18.12 kW",
+      "medium_temperature": "18.15 kW",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "6.50",
+      "medium_temperature": "3.96",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.997",
+      "medium_temperature": "0.998",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "67 \u00b0C",
+      "medium_temperature": "67 \u00b0C",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "10 W",
+      "medium_temperature": "10 W",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "10 W",
+      "medium_temperature": "10 W",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "10 W",
+      "medium_temperature": "10 W",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "10 W",
+      "medium_temperature": "10 W",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "Electricity",
+      "medium_temperature": "Electricity",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "kW",
+      "medium_temperature": "kW",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qhe",
+      "low_temperature": "2948 kWh",
+      "medium_temperature": "4276 kWh",
+      "source_page": 13,
+      "source_table": 2,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP kW kW",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "KRONOTERM_d_o_o__ETERA_L_Brine_Water_and_Water_Water_8"
+    }
+  ]
+}

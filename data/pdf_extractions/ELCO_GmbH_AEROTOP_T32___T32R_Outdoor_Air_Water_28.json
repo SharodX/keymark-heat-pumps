@@ -1,0 +1,2609 @@
+{
+  "source_pdf": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28.pdf",
+  "extraction_timestamp": "2025-11-17T15:23:34.719241",
+  "total_records": 299,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype AEROTOP T32 / T32R",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "elco_gmbh": "Hohenzollernstrasse 31",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "elco_gmbh": "72379",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "elco_gmbh": "Hechingen",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "elco_gmbh": "DE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "elco_gmbh": "DIN CERTCO Gesellschaft f\u00fcr Konformit\u00e4tsbewertung mbH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "elco_gmbh": "AEROTOP T32 / T32R",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "elco_gmbh": "011-1W0302",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "elco_gmbh": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "elco_gmbh": "R407c",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "elco_gmbh": "9.2 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "elco_gmbh": "04.05.2019",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Model AEROTOP T32",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "aerotop_t32": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "aerotop_t32": "Indoor, Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "aerotop_t32": "Warmer Climate, Colder Climate",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "aerotop_t32": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "aerotop_t32": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aerotop_t32": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aerotop_t32": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "aerotop_t32": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "38.00 kW",
+      "medium_temperature": "37.00 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "8.84 kW",
+      "medium_temperature": "13.70 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.30",
+      "medium_temperature": "2.70",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "63 dB(A)",
+      "medium_temperature": "63 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "67 dB(A)",
+      "medium_temperature": "67 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "152 %",
+      "medium_temperature": "114 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "22.50 kW",
+      "medium_temperature": "21.00 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.89",
+      "medium_temperature": "2.93",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "24.49 kW",
+      "medium_temperature": "22.95 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.86",
+      "medium_temperature": "2.01",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "27.51 kW",
+      "medium_temperature": "27.22 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.69",
+      "medium_temperature": "2.69",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "38.40 kW",
+      "medium_temperature": "37.95 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "5.17": "1.000",
+      "4.19": "1.000",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "5.17": "43.63 kW",
+      "4.19": "42.96 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "5.17": "5.90",
+      "4.19": "5.20",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.17": "1.000",
+      "4.19": "1.000",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "5.17": "43.41 kW",
+      "4.19": "21.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "5.17": "2.60",
+      "4.19": "1.80",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.17": "22.50 kW",
+      "4.19": "21.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.17": "2.60",
+      "4.19": "1.80",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.17": "1.000",
+      "4.19": "1.000",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "5.17": "57 \u00b0C",
+      "4.19": "57 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "5.17": "0 W",
+      "4.19": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "5.17": "10 W",
+      "4.19": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "5.17": "10 W",
+      "4.19": "10 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "5.17": "80 W",
+      "4.19": "80 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.17": "Electricity",
+      "4.19": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "5.17": "0.00 kW",
+      "4.19": "0.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "5.17": "11960 kWh",
+      "4.19": "16478 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "5.17": "",
+      "4.19": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "5.17": "",
+      "4.19": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "EN 12102-1 | Colder Climate",
+      "5.17": "",
+      "4.19": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "63 dB(A)",
+      "medium_temperature": "63 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "67 dB(A)",
+      "medium_temperature": "67 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "139 %",
+      "medium_temperature": "94 %",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "23.66 kW",
+      "medium_temperature": "31.70 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.54",
+      "medium_temperature": "2.44",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "24.83 kW",
+      "medium_temperature": "23.63 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.08",
+      "medium_temperature": "2.33",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "27.59 kW",
+      "medium_temperature": "27.34 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.95",
+      "medium_temperature": "3.09",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "38.50 kW",
+      "medium_temperature": "38.15 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.39",
+      "medium_temperature": "4.63",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "43.63 kW",
+      "medium_temperature": "43.18 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.90",
+      "medium_temperature": "5.44",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28"
+    },
+    {
+      "pdh_tj_=_tbiv": "COP Tj = Tbiv",
+      "19.30_kw": "2.25",
+      "21.68_kw": "2.15",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "19.30_kw": "19.30 kW",
+      "21.68_kw": "21.68 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "19.30_kw": "2.22",
+      "21.68_kw": "2.15",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "19.30_kw": "1.000",
+      "21.68_kw": "1.000",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "WTOL",
+      "19.30_kw": "57 \u00b0C",
+      "21.68_kw": "57 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Poff",
+      "19.30_kw": "0 W",
+      "21.68_kw": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "PTO",
+      "19.30_kw": "10 W",
+      "21.68_kw": "10 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "PSB",
+      "19.30_kw": "10 W",
+      "21.68_kw": "10 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "PCK",
+      "19.30_kw": "80 W",
+      "21.68_kw": "80 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Supplementary Heater: Type of energy\ninput",
+      "19.30_kw": "Electricity",
+      "21.68_kw": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Supplementary Heater: PSUP",
+      "19.30_kw": "23.66 kW",
+      "21.68_kw": "31.70 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Annual energy consumption Qhe",
+      "19.30_kw": "16470 kWh",
+      "21.68_kw": "34596 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Pdh Tj = -15\u00b0C (if TOL",
+      "19.30_kw": "0.01",
+      "21.68_kw": "0.01",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "COP Tj = -15\u00b0C (if TOL",
+      "19.30_kw": "0.01",
+      "21.68_kw": "0.01",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Cdh Tj = -15 \u00b0C",
+      "19.30_kw": "0.900",
+      "21.68_kw": "0.900",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "",
+      "19.30_kw": "",
+      "21.68_kw": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "",
+      "19.30_kw": "",
+      "21.68_kw": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "EN 12102-1 | Warmer Climate",
+      "19.30_kw": "",
+      "21.68_kw": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "63 dB(A)",
+      "medium_temperature": "63 dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "67 dB(A)",
+      "medium_temperature": "67 dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "187 %",
+      "medium_temperature": "144 %",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "27.39 kW",
+      "medium_temperature": "26.90 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.74",
+      "medium_temperature": "3.67",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "27.39 kW",
+      "medium_temperature": "26.90 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.26",
+      "medium_temperature": "2.40",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "38.20 kW",
+      "medium_temperature": "37.45 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "4.74",
+      "medium_temperature": "3.26",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "43.41 kW",
+      "medium_temperature": "42.51 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.67",
+      "medium_temperature": "4.74",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "27.39 kW",
+      "medium_temperature": "26.90 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.26",
+      "medium_temperature": "2.40",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "27.39 kW",
+      "medium_temperature": "26.90 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 23.66 kW 31.70 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28"
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.26": "1.000",
+      "2.40": "1.000",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "3.26": "57 \u00b0C",
+      "2.40": "57 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "3.26": "0 W",
+      "2.40": "0 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "3.26": "10 W",
+      "2.40": "10 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "3.26": "10 W",
+      "2.40": "10 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "3.26": "80 W",
+      "2.40": "80 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "3.26": "Electricity",
+      "2.40": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "3.26": "0.00 kW",
+      "2.40": "0.00 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "3.26": "6876 kWh",
+      "2.40": "9801 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28"
+    },
+    {
+      "": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Model AEROTOP T32R",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "aerotop_t32r": "Heating (medium temp)",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "aerotop_t32r": "Indoor, Outdoor",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "aerotop_t32r": "Warmer Climate, Colder Climate",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "aerotop_t32r": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "aerotop_t32r": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aerotop_t32r": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aerotop_t32r": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "aerotop_t32r": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x230v_50hz": "n/a",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x230v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "38.00 kW",
+      "medium_temperature": "37.00 kW",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "8.84 kW",
+      "medium_temperature": "13.70 kW",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.30",
+      "medium_temperature": "2.70",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "63 dB(A)",
+      "medium_temperature": "63 dB(A)",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "68 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "156 %",
+      "medium_temperature": "116 %",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "22.50 kW",
+      "medium_temperature": "21.00 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.98",
+      "medium_temperature": "2.99",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "24.49 kW",
+      "medium_temperature": "22.95 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.86",
+      "medium_temperature": "2.01",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "27.51 kW",
+      "medium_temperature": "27.22 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.69",
+      "medium_temperature": "2.69",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "38.40 kW",
+      "medium_temperature": "37.95 kW",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "5.17": "1.000",
+      "4.19": "1.000",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "5.17": "43.63 kW",
+      "4.19": "42.96 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "5.17": "5.90",
+      "4.19": "5.20",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.17": "1.000",
+      "4.19": "1.000",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "5.17": "43.41 kW",
+      "4.19": "21.00 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "5.17": "2.60",
+      "4.19": "1.80",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.17": "22.50 kW",
+      "4.19": "21.00 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.17": "2.60",
+      "4.19": "1.80",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.17": "1.000",
+      "4.19": "1.000",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "5.17": "57 \u00b0C",
+      "4.19": "57 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "5.17": "0 W",
+      "4.19": "0 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "5.17": "10 W",
+      "4.19": "10 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "5.17": "10 W",
+      "4.19": "10 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "5.17": "80 W",
+      "4.19": "80 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.17": "Electricity",
+      "4.19": "Electricity",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "5.17": "0.00 kW",
+      "4.19": "0.00 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "5.17": "11666 kWh",
+      "4.19": "16185 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "5.17": "",
+      "4.19": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "",
+      "5.17": "",
+      "4.19": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "EN 12102-1 | Colder Climate",
+      "5.17": "",
+      "4.19": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "63 dB(A)",
+      "medium_temperature": "63 dB(A)",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "68 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "140 %",
+      "medium_temperature": "95 %",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "23.66 kW",
+      "medium_temperature": "31.70 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.58",
+      "medium_temperature": "2.45",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "24.83 kW",
+      "medium_temperature": "23.63 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.08",
+      "medium_temperature": "2.33",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "27.59 kW",
+      "medium_temperature": "27.34 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.95",
+      "medium_temperature": "3.09",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "38.50 kW",
+      "medium_temperature": "38.15 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.39",
+      "medium_temperature": "4.63",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "43.63 kW",
+      "medium_temperature": "43.18 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.90",
+      "medium_temperature": "5.44",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28"
+    },
+    {
+      "pdh_tj_=_tbiv": "COP Tj = Tbiv",
+      "19.30_kw": "2.25",
+      "21.68_kw": "2.15",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "19.30_kw": "19.30 kW",
+      "21.68_kw": "21.68 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "19.30_kw": "2.22",
+      "21.68_kw": "2.15",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "19.30_kw": "1.000",
+      "21.68_kw": "1.000",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "WTOL",
+      "19.30_kw": "57 \u00b0C",
+      "21.68_kw": "57 \u00b0C",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Poff",
+      "19.30_kw": "0 W",
+      "21.68_kw": "0 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "PTO",
+      "19.30_kw": "10 W",
+      "21.68_kw": "10 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "PSB",
+      "19.30_kw": "10 W",
+      "21.68_kw": "10 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "PCK",
+      "19.30_kw": "80 W",
+      "21.68_kw": "80 W",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Supplementary Heater: Type of energy\ninput",
+      "19.30_kw": "Electricity",
+      "21.68_kw": "Electricity",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Supplementary Heater: PSUP",
+      "19.30_kw": "23.66 kW",
+      "21.68_kw": "31.70 kW",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Annual energy consumption Qhe",
+      "19.30_kw": "16294 kWh",
+      "21.68_kw": "34419 kWh",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Pdh Tj = -15\u00b0C (if TOL",
+      "19.30_kw": "0.01",
+      "21.68_kw": "0.01",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "COP Tj = -15\u00b0C (if TOL",
+      "19.30_kw": "0.01",
+      "21.68_kw": "0.01",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "Cdh Tj = -15 \u00b0C",
+      "19.30_kw": "0.900",
+      "21.68_kw": "0.900",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "",
+      "19.30_kw": "",
+      "21.68_kw": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "",
+      "19.30_kw": "",
+      "21.68_kw": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "pdh_tj_=_tbiv": "EN 12102-1 | Warmer Climate",
+      "19.30_kw": "",
+      "21.68_kw": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "63 dB(A)",
+      "medium_temperature": "63 dB(A)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "68 dB(A)",
+      "medium_temperature": "68 dB(A)",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "197 %",
+      "medium_temperature": "144 %",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "27.39 kW",
+      "medium_temperature": "26.90 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.00",
+      "medium_temperature": "3.67",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-20 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "27.39 kW",
+      "medium_temperature": "26.90 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.26",
+      "medium_temperature": "2.40",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "38.20 kW",
+      "medium_temperature": "37.45 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "4.74",
+      "medium_temperature": "3.26",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "43.41 kW",
+      "medium_temperature": "42.51 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.67",
+      "medium_temperature": "4.74",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "27.39 kW",
+      "medium_temperature": "26.90 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "3.26",
+      "medium_temperature": "2.40",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "27.39 kW",
+      "medium_temperature": "26.90 kW",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 23.66 kW 31.70 kW",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28"
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.26": "1.000",
+      "2.40": "1.000",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "3.26": "57 \u00b0C",
+      "2.40": "57 \u00b0C",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "3.26": "0 W",
+      "2.40": "0 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "3.26": "10 W",
+      "2.40": "10 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "3.26": "10 W",
+      "2.40": "10 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "3.26": "80 W",
+      "2.40": "80 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "3.26": "Electricity",
+      "2.40": "Electricity",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "3.26": "0.00 kW",
+      "2.40": "0.00 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "3.26": "6523 kWh",
+      "2.40": "9801 kWh",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AEROTOP_T32___T32R_Outdoor_Air_Water_28"
+    }
+  ]
+}

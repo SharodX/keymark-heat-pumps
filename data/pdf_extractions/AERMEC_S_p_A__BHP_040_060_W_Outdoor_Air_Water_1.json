@@ -1,0 +1,1339 @@
+{
+  "source_pdf": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1.pdf",
+  "extraction_timestamp": "2025-11-17T15:02:41.907093",
+  "total_records": 165,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype BHP 040 060 W",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "aermec_s.p.a.": "Via Roma 996",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "aermec_s.p.a.": "37040",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "aermec_s.p.a.": "Bevilacqua (VR)",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "aermec_s.p.a.": "IT",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "aermec_s.p.a.": "BRE Global Limited",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "aermec_s.p.a.": "BHP 040 060 W",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "aermec_s.p.a.": "041-K011-08",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "aermec_s.p.a.": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "aermec_s.p.a.": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "aermec_s.p.a.": "1 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "aermec_s.p.a.": "30.07.2021",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "aermec_s.p.a.": "HP Keymark Scheme Rules Rev 08",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "aermec_s.p.a.": "T\u00dcV S\u00dcD Certification and Testing Co., Ltd. Guangzhou\nBranch, CN",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Model BHP 040 + BHP 060 W",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "bhp_040_+_bhp_060_w": "Heating + DHW",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "bhp_040_+_bhp_060_w": "Indoor, Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "bhp_040_+_bhp_060_w": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "bhp_040_+_bhp_060_w": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "bhp_040_+_bhp_060_w": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "bhp_040_+_bhp_060_w": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "bhp_040_+_bhp_060_w": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "bhp_040_+_bhp_060_w": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "bhp_040_+_bhp_060_w": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "122 %",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.92",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "3.14 h:min",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "52.3 W",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "51.7 \u00b0C",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "325 l",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "3.60 kW",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.31 kW",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "2.75",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "42 dB(A)",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "62 dB(A)",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "128 %",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_3.14_h",
+      "value": "min",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1"
+    },
+    {
+      "prated": "SCOP",
+      "5.00_kw": "3.27",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Tbiv",
+      "5.00_kw": "-7 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "TOL",
+      "5.00_kw": "-10 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = -7\u00b0C",
+      "5.00_kw": "4.02 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = -7\u00b0C",
+      "5.00_kw": "2.03",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = -7 \u00b0C",
+      "5.00_kw": "0.99",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = +2\u00b0C",
+      "5.00_kw": "2.64 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = +2\u00b0C",
+      "5.00_kw": "3.27",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = +2 \u00b0C",
+      "5.00_kw": "0.97",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = +7\u00b0C",
+      "5.00_kw": "2.33 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = +7\u00b0C",
+      "5.00_kw": "4.30",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = +7 \u00b0C",
+      "5.00_kw": "0.95",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = 12\u00b0C",
+      "5.00_kw": "2.78 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = 12\u00b0C",
+      "5.00_kw": "6.00",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = +12 \u00b0C",
+      "5.00_kw": "0.95",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = Tbiv",
+      "5.00_kw": "4.02 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = Tbiv",
+      "5.00_kw": "2.03",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.00_kw": "3.80 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.00_kw": "1.38",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "WTOL",
+      "5.00_kw": "60 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Poff",
+      "5.00_kw": "25 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "PTO",
+      "5.00_kw": "25 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "PSB",
+      "5.00_kw": "25 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "PCK",
+      "5.00_kw": "25 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Supplementary Heater: Type of energy\ninput",
+      "5.00_kw": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Supplementary Heater: PSUP",
+      "5.00_kw": "1.20 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Annual energy consumption Qhe",
+      "5.00_kw": "3152 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.20 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1"
+    },
+    {
+      "": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Model BHP 060 + BHP 060 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "bhp_060_+_bhp_060_w": "Heating + DHW",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "bhp_060_+_bhp_060_w": "Indoor, Outdoor",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "bhp_060_+_bhp_060_w": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "bhp_060_+_bhp_060_w": "Yes",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "bhp_060_+_bhp_060_w": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "bhp_060_+_bhp_060_w": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "bhp_060_+_bhp_060_w": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "bhp_060_+_bhp_060_w": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "bhp_060_+_bhp_060_w": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "122 %",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.92",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "3.14 h:min",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "52.3 W",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "51.7 \u00b0C",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "325 l",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "xl": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "5.61 kW",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.93 kW",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "2.90",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "42 dB(A)",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "62 dB(A)",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "127 %",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 8,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_3.14_h",
+      "value": "min",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1"
+    },
+    {
+      "prated": "SCOP",
+      "5.00_kw": "3.27",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Tbiv",
+      "5.00_kw": "-7 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "TOL",
+      "5.00_kw": "-10 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = -7\u00b0C",
+      "5.00_kw": "4.02 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = -7\u00b0C",
+      "5.00_kw": "2.03",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = -7 \u00b0C",
+      "5.00_kw": "0.99",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = +2\u00b0C",
+      "5.00_kw": "2.64 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = +2\u00b0C",
+      "5.00_kw": "3.27",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = +2 \u00b0C",
+      "5.00_kw": "0.97",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = +7\u00b0C",
+      "5.00_kw": "2.40 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = +7\u00b0C",
+      "5.00_kw": "4.20",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = +7 \u00b0C",
+      "5.00_kw": "0.96",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = 12\u00b0C",
+      "5.00_kw": "2.78 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = 12\u00b0C",
+      "5.00_kw": "6.00",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Cdh Tj = +12 \u00b0C",
+      "5.00_kw": "0.95",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = Tbiv",
+      "5.00_kw": "4.02 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = Tbiv",
+      "5.00_kw": "2.03",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.00_kw": "3.80 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.00_kw": "1.38",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "WTOL",
+      "5.00_kw": "60 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Poff",
+      "5.00_kw": "25 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "PTO",
+      "5.00_kw": "25 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "PSB",
+      "5.00_kw": "25 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "PCK",
+      "5.00_kw": "25 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Supplementary Heater: Type of energy\ninput",
+      "5.00_kw": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Supplementary Heater: PSUP",
+      "5.00_kw": "1.20 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "prated": "Annual energy consumption Qhe",
+      "5.00_kw": "3169 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 1.20 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "AERMEC_S_p_A__BHP_040_060_W_Outdoor_Air_Water_1"
+    }
+  ]
+}

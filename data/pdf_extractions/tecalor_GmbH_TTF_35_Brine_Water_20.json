@@ -1,0 +1,1235 @@
+{
+  "source_pdf": "tecalor_GmbH_TTF_35_Brine_Water_20.pdf",
+  "extraction_timestamp": "2025-11-17T16:02:31.207962",
+  "total_records": 142,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype TTF 35",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "tecalor_gmbh": "L\u00fcchtringer Weg 3",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "tecalor_gmbh": "37603",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "tecalor_gmbh": "Holzminden",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "tecalor_gmbh": "DE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "tecalor_gmbh": "DIN CERTCO Gesellschaft f\u00fcr Konformit\u00e4tsbewertung mbH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "tecalor_gmbh": "TTF 35",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "tecalor_gmbh": "011-1W0043",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "tecalor_gmbh": "Brine/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "tecalor_gmbh": "R410A",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "tecalor_gmbh": "10 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "tecalor_gmbh": "01.11.2016",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Model TTF 35",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ttf_35": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ttf_35": "Indoor, Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ttf_35": "Warmer Climate, Colder Climate",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ttf_35": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ttf_35": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ttf_35": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ttf_35": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ttf_35": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Brine/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "37.70 kW",
+      "medium_temperature": "34.49 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "7.98 kW",
+      "medium_temperature": "11.47 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.72",
+      "medium_temperature": "3.01",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "56 dB(A)",
+      "medium_temperature": "56 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "56 dB(A)",
+      "medium_temperature": "56 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "200 %",
+      "medium_temperature": "133 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "38.00 kW",
+      "medium_temperature": "34.00 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.19",
+      "medium_temperature": "3.52",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "38.10 kW",
+      "medium_temperature": "34.50 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.84",
+      "medium_temperature": "2.95",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "38.60 kW",
+      "medium_temperature": "35.80 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.20",
+      "medium_temperature": "3.50",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "39.00 kW",
+      "medium_temperature": "37.50 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.96",
+      "medium_temperature": "4.42",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "38.00 kW",
+      "medium_temperature": "34.10 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "4.75",
+      "medium_temperature": "2.82",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "38.00 kW",
+      "medium_temperature": "34.10 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.78": "38.00 kW",
+      "2.82": "34.10 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.78": "4.78",
+      "2.82": "2.82",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.78": "0.90",
+      "2.82": "0.90",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "WTOL",
+      "4.78": "60 \u00b0C",
+      "2.82": "60 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Poff",
+      "4.78": "0 W",
+      "2.82": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PTO",
+      "4.78": "7 W",
+      "2.82": "7 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PSB",
+      "4.78": "7 W",
+      "2.82": "7 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PCK",
+      "4.78": "74 W",
+      "2.82": "74 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Supplementary Heater: Type of energy\ninput",
+      "4.78": "Electricity",
+      "2.82": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Supplementary Heater: PSUP",
+      "4.78": "0.00 kW",
+      "2.82": "0.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Annual energy consumption Qhe",
+      "4.78": "15136 kWh",
+      "2.82": "20029 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "",
+      "4.78": "",
+      "2.82": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "",
+      "4.78": "",
+      "2.82": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "EN 12102-1 | Colder Climate",
+      "4.78": "",
+      "2.82": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "56 dB(A)",
+      "medium_temperature": "56 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "56 dB(A)",
+      "medium_temperature": "56 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "208 %",
+      "medium_temperature": "139 %",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "47.00 kW",
+      "medium_temperature": "43.00 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.41",
+      "medium_temperature": "3.66",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-15 \u00b0C",
+      "medium_temperature": "-15 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "38.80 kW",
+      "medium_temperature": "35.80 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "5.38",
+      "medium_temperature": "3.48",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "39.10 kW",
+      "medium_temperature": "36.70 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.67",
+      "medium_temperature": "3.91",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "39.30 kW",
+      "medium_temperature": "37.40 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.90",
+      "medium_temperature": "4.32",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "39.30 kW",
+      "medium_temperature": "37.90 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.94",
+      "medium_temperature": "4.66",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "38.60 kW",
+      "medium_temperature": "34.10 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "5.26",
+      "medium_temperature": "2.82",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "38.60 kW",
+      "medium_temperature": "34.10 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "5.26",
+      "medium_temperature": "2.82",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "60 \u00b0C",
+      "medium_temperature": "60 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20"
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "7 W",
+      "column_2": "7 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "7 W",
+      "column_2": "7 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "74 W",
+      "column_2": "74 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "9.32 kW",
+      "column_2": "9.15 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "21594 kWh",
+      "column_2": "28986 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 12102-1 | Warmer Climate",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "56 dB(A)",
+      "medium_temperature": "56 dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "56 dB(A)",
+      "medium_temperature": "56 dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "199 %",
+      "medium_temperature": "132 %",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "38.00 kW",
+      "medium_temperature": "34.00 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.17",
+      "medium_temperature": "3.50",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "38.00 kW",
+      "medium_temperature": "34.10 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.78",
+      "medium_temperature": "2.82",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "38.50 kW",
+      "medium_temperature": "35.20 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.12",
+      "medium_temperature": "3.24",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "39.10 kW",
+      "medium_temperature": "37.00 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.69",
+      "medium_temperature": "4.08",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "38.00 kW",
+      "medium_temperature": "34.10 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "4.78",
+      "medium_temperature": "2.82",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "38.00 kW",
+      "medium_temperature": "34.10 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "4.78",
+      "medium_temperature": "2.82",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.90",
+      "medium_temperature": "0.90",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "60 \u00b0C",
+      "medium_temperature": "60 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "7 W",
+      "medium_temperature": "7 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "7 W",
+      "medium_temperature": "7 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "74 W",
+      "medium_temperature": "74 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "Electricity",
+      "medium_temperature": "Electricity",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "0.00 kW",
+      "medium_temperature": "0.00 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qhe",
+      "low_temperature": "9834 kWh",
+      "medium_temperature": "13033 kWh",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 9.32 kW 9.15 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "tecalor_GmbH_TTF_35_Brine_Water_20"
+    }
+  ]
+}

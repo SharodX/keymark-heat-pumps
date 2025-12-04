@@ -1,0 +1,1227 @@
+{
+  "source_pdf": "Thermia_iTec_XT_10_Outdoor_Air_Water_8.pdf",
+  "extraction_timestamp": "2025-11-17T15:57:07.368742",
+  "total_records": 144,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype iTec XT 10",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "thermia": "Snickaregatan 1",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "thermia": "",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "thermia": "Arvika",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "thermia": "SE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "thermia": "DIN CERTCO Gesellschaft f\u00fcr Konformit\u00e4tsbewertung mbH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "thermia": "iTec XT 10",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "thermia": "011-1W0742",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "thermia": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "thermia": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "thermia": "2.7 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "thermia": "12.12.2023",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "thermia": "European KEYMARK Scheme for Heat Pumps Rev. 12 (as of\n2023-03)",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Model iTec XT 10 230-1",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "itec_xt_10_230-1": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "itec_xt_10_230-1": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "itec_xt_10_230-1": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "itec_xt_10_230-1": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "itec_xt_10_230-1": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "itec_xt_10_230-1": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "itec_xt_10_230-1": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "itec_xt_10_230-1": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "itec_xt_10_230-1": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "8.00 kW",
+      "medium_temperature": "8.00 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.60 kW",
+      "medium_temperature": "2.50 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.00",
+      "medium_temperature": "3.20",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "56 dB(A)",
+      "medium_temperature": "56 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "183 %",
+      "medium_temperature": "132 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "9.50 kW",
+      "medium_temperature": "9.50 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.65",
+      "medium_temperature": "3.37",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "8.40 kW",
+      "medium_temperature": "8.40 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.20",
+      "medium_temperature": "2.30",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "5.12 kW",
+      "medium_temperature": "5.12 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.55",
+      "medium_temperature": "3.20",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.00 kW",
+      "medium_temperature": "4.00 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "5.70": "0.900",
+      "4.39": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "5.70": "4.00 kW",
+      "4.39": "4.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "5.70": "7.70",
+      "4.39": "5.45",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.70": "0.900",
+      "4.39": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "5.70": "8.40 kW",
+      "4.39": "8.40 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "5.70": "3.20",
+      "4.39": "2.30",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.70": "9.40 kW",
+      "4.39": "9.40 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.70": "2.60",
+      "4.39": "2.05",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.70": "0.900",
+      "4.39": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "5.70": "70 \u00b0C",
+      "4.39": "70 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "5.70": "22 W",
+      "4.39": "22 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "5.70": "22 W",
+      "4.39": "22 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "5.70": "22 W",
+      "4.39": "22 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "5.70": "0 W",
+      "4.39": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.70": "Electricity",
+      "4.39": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "5.70": "0.10 kW",
+      "4.39": "0.10 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "5.70": "4219 kWh",
+      "4.39": "5825 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.10 kW 0.10 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8"
+    },
+    {
+      "": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Model iTec XT 10 400V",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "itec_xt_10_400v": "Heating (medium temp)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "itec_xt_10_400v": "Outdoor",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "itec_xt_10_400v": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "itec_xt_10_400v": "Yes",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "itec_xt_10_400v": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "itec_xt_10_400v": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "itec_xt_10_400v": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "itec_xt_10_400v": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "itec_xt_10_400v": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "8.00 kW",
+      "medium_temperature": "8.00 kW",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.60 kW",
+      "medium_temperature": "2.50 kW",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.00",
+      "medium_temperature": "3.20",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "56 dB(A)",
+      "medium_temperature": "56 dB(A)",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "183 %",
+      "medium_temperature": "132 %",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "9.50 kW",
+      "medium_temperature": "9.50 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.65",
+      "medium_temperature": "3.37",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-7 \u00b0C",
+      "medium_temperature": "-7 \u00b0C",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "8.40 kW",
+      "medium_temperature": "8.40 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.20",
+      "medium_temperature": "2.30",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "5.12 kW",
+      "medium_temperature": "5.12 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.55",
+      "medium_temperature": "3.20",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "4.00 kW",
+      "medium_temperature": "4.00 kW",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "5.70": "0.900",
+      "4.39": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "5.70": "4.00 kW",
+      "4.39": "4.00 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "5.70": "7.70",
+      "4.39": "5.45",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.70": "0.900",
+      "4.39": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "5.70": "8.40 kW",
+      "4.39": "8.40 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "5.70": "3.20",
+      "4.39": "2.30",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.70": "9.40 kW",
+      "4.39": "9.40 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.70": "2.60",
+      "4.39": "2.05",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.70": "0.900",
+      "4.39": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "5.70": "70 \u00b0C",
+      "4.39": "70 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "5.70": "22 W",
+      "4.39": "22 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "5.70": "22 W",
+      "4.39": "22 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "5.70": "22 W",
+      "4.39": "22 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "5.70": "0 W",
+      "4.39": "0 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.70": "Electricity",
+      "4.39": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "5.70": "0.10 kW",
+      "4.39": "0.10 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "5.70": "4219 kWh",
+      "4.39": "5825 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.10 kW 0.10 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Thermia_iTec_XT_10_Outdoor_Air_Water_8"
+    }
+  ]
+}

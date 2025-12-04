@@ -1,0 +1,2425 @@
+{
+  "source_pdf": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30.pdf",
+  "extraction_timestamp": "2025-11-17T15:23:36.442610",
+  "total_records": 276,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype AQUATOP S06",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "elco_gmbh": "Hohenzollernstrasse 31",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "elco_gmbh": "72379",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "elco_gmbh": "Hechingen",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "elco_gmbh": "DE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "elco_gmbh": "DIN CERTCO Gesellschaft f\u00fcr Konformit\u00e4tsbewertung mbH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "elco_gmbh": "AQUATOP S06",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "elco_gmbh": "011-1W0304",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "elco_gmbh": "Brine/Water and Water/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "elco_gmbh": "R410A",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "elco_gmbh": "1.9 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "elco_gmbh": "04.05.2019",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Model AQUATOP S06",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "aquatop_s06": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "aquatop_s06": "Indoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "aquatop_s06": "Warmer Climate, Colder Climate",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "aquatop_s06": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "aquatop_s06": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aquatop_s06": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aquatop_s06": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "aquatop_s06": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Brine/Water",
+      "3x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "5.59 kW",
+      "medium_temperature": "4.85 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.22 kW",
+      "medium_temperature": "1.86 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.58",
+      "medium_temperature": "2.61",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "39 dB(A)",
+      "medium_temperature": "39 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "189 %",
+      "medium_temperature": "137 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5.79 kW",
+      "medium_temperature": "5.25 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.93",
+      "medium_temperature": "3.64",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "5.84 kW",
+      "medium_temperature": "5.35 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "4.47",
+      "medium_temperature": "2.79",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "5.96 kW",
+      "medium_temperature": "5.61 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.00",
+      "medium_temperature": "3.65",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "6.02 kW",
+      "medium_temperature": "5.77 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.39",
+      "medium_temperature": "4.27",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "6.13 kW",
+      "medium_temperature": "5.98 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "5.79": "",
+      "5.02": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = Tbiv",
+      "5.79": "5.79 kW",
+      "5.02": "5.25 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = Tbiv",
+      "5.79": "4.39",
+      "5.02": "2.59",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.79": "5.79 kW",
+      "5.02": "5.25 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.79": "4.39",
+      "5.02": "2.59",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "5.79": "1.000",
+      "5.02": "1.000",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "WTOL",
+      "5.79": "65 \u00b0C",
+      "5.02": "65 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Poff",
+      "5.79": "0 W",
+      "5.02": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PTO",
+      "5.79": "20 W",
+      "5.02": "20 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PSB",
+      "5.79": "20 W",
+      "5.02": "20 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "PCK",
+      "5.79": "0 W",
+      "5.02": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "5.79": "Electricity",
+      "5.02": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Supplementary Heater: PSUP",
+      "5.79": "0.00 kW",
+      "5.02": "0.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "Annual energy consumption Qhe",
+      "5.79": "2426 kWh",
+      "5.02": "2983 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "5.79": "",
+      "5.02": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "",
+      "5.79": "",
+      "5.02": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_12\u00b0c": "EN 12102-1 | Colder Climate",
+      "5.79": "",
+      "5.02": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "39 dB(A)",
+      "medium_temperature": "39 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "195 %",
+      "medium_temperature": "142 %",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5.79 kW",
+      "medium_temperature": "5.25 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "5.08",
+      "medium_temperature": "3.75",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "5.40 kW",
+      "medium_temperature": "5.56 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "5.00",
+      "medium_temperature": "3.44",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "5.46 kW",
+      "medium_temperature": "5.77 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.39",
+      "medium_temperature": "4.16",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "5.51 kW",
+      "medium_temperature": "5.93 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.66",
+      "medium_temperature": "4.76",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "5.56 kW",
+      "medium_temperature": "6.03 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.79",
+      "medium_temperature": "5.25",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "5.79 kW",
+      "medium_temperature": "5.25 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "4.39",
+      "medium_temperature": "2.59",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "5.79 kW",
+      "medium_temperature": "5.25 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30"
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.39": "1.000",
+      "2.59": "1.000",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "WTOL",
+      "4.39": "65 \u00b0C",
+      "2.59": "65 \u00b0C",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Poff",
+      "4.39": "0 W",
+      "2.59": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PTO",
+      "4.39": "20 W",
+      "2.59": "20 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PSB",
+      "4.39": "20 W",
+      "2.59": "20 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "PCK",
+      "4.39": "0 W",
+      "2.59": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: Type of energy\ninput",
+      "4.39": "Electricity",
+      "2.59": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Supplementary Heater: PSUP",
+      "4.39": "0.00 kW",
+      "2.59": "0.00 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "Annual energy consumption Qhe",
+      "4.39": "2812 kWh",
+      "2.59": "3453 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "4.39": "",
+      "2.59": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "",
+      "4.39": "",
+      "2.59": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tol_or_cop_tj_=_tdesignh_if_tol_<_tdesignh": "EN 12102-1 | Warmer Climate",
+      "4.39": "",
+      "2.59": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "39 dB(A)",
+      "medium_temperature": "39 dB(A)",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "191 %",
+      "medium_temperature": "137 %",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5.79 kW",
+      "medium_temperature": "5.25 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.97",
+      "medium_temperature": "3.63",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "5.79 kW",
+      "medium_temperature": "5.25 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.39",
+      "medium_temperature": "2.57",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "5.90 kW",
+      "medium_temperature": "5.51 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "5.53",
+      "medium_temperature": "3.26",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "6.07 kW",
+      "medium_temperature": "5.88 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.53",
+      "medium_temperature": "4.48",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "5.79 kW",
+      "medium_temperature": "5.25 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "4.39",
+      "medium_temperature": "2.59",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "5.79 kW",
+      "medium_temperature": "5.25 kW",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "4.39",
+      "medium_temperature": "2.59",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "20 W",
+      "medium_temperature": "20 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "20 W",
+      "medium_temperature": "20 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30"
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "0.00 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "1556 kWh",
+      "column_2": "1931 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Water/Water",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 14511-4 | Heating",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 5,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "6.67 kW",
+      "medium_temperature": "6.07 kW",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.19 kW",
+      "medium_temperature": "1.79 kW",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5.61",
+      "medium_temperature": "3.39",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "39 dB(A)",
+      "medium_temperature": "39 dB(A)",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 4,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "243 %",
+      "medium_temperature": "182 %",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "6.67 kW",
+      "medium_temperature": "6.07 kW",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.28",
+      "medium_temperature": "6.00",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "6.73 kW",
+      "medium_temperature": "6.19 kW",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "5.71",
+      "medium_temperature": "3.65",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "6.87 kW",
+      "medium_temperature": "6.49 kW",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "6.39",
+      "medium_temperature": "4.78",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "6.93 kW",
+      "medium_temperature": "6.67 kW",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.89",
+      "medium_temperature": "5.59",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "7.06 kW",
+      "medium_temperature": "6.91 kW",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.40",
+      "medium_temperature": "6.57",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "6.67 kW",
+      "medium_temperature": "6.07 kW",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "5.61",
+      "medium_temperature": "3.39",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "6.67 kW",
+      "medium_temperature": "6.10 kW",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "5.61",
+      "medium_temperature": "3.39",
+      "source_page": 5,
+      "source_table": 5,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30"
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "1.000",
+      "column_2": "1.000",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "65 \u00b0C",
+      "column_2": "65 \u00b0C",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "20 W",
+      "column_2": "20 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "20 W",
+      "column_2": "20 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "0.00 kW",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "2193 kWh",
+      "column_2": "2645 kWh",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 12102-1 | Colder Climate",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "39 dB(A)",
+      "medium_temperature": "39 dB(A)",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "250 %",
+      "medium_temperature": "188 %",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "6.67 kW",
+      "medium_temperature": "6.07 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.46",
+      "medium_temperature": "4.89",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "6.22 kW",
+      "medium_temperature": "6.43 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "6.39",
+      "medium_temperature": "4.50",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "4.29 kW",
+      "medium_temperature": "6.67 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "6.89",
+      "medium_temperature": "5.44",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "6.35 kW",
+      "medium_temperature": "6.86 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "7.23",
+      "medium_temperature": "6.23",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "6.41 kW",
+      "medium_temperature": "6.97 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.40",
+      "medium_temperature": "6.87",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "6.67 kW",
+      "medium_temperature": "6.07 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "5.61",
+      "medium_temperature": "3.39",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "6.67 kW",
+      "medium_temperature": "6.07 kW",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "5.61",
+      "medium_temperature": "3.39",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "20 W",
+      "medium_temperature": "20 W",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "20 W",
+      "medium_temperature": "20 W",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30"
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "0.00 kW",
+      "column_2": "0.00 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "2544 kWh",
+      "column_2": "3059 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 12102-1 | Warmer Climate",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "39 dB(A)",
+      "medium_temperature": "39 dB(A)",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Warmer Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 2,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "245 %",
+      "medium_temperature": "182 %",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "6.67 kW",
+      "medium_temperature": "6.07 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "6.32",
+      "medium_temperature": "4.74",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "2 \u00b0C",
+      "medium_temperature": "2 \u00b0C",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "6.67 kW",
+      "medium_temperature": "6.07 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "5.61",
+      "medium_temperature": "3.39",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "6.80 kW",
+      "medium_temperature": "6.37 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "6.22",
+      "medium_temperature": "4.27",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +7 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "6.99 kW",
+      "medium_temperature": "6.80 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "7.07",
+      "medium_temperature": "5.86",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +12 \u00b0C",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "6.67 kW",
+      "medium_temperature": "6.07 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "5.61",
+      "medium_temperature": "3.39",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "6.67 kW",
+      "medium_temperature": "6.07 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "5.61",
+      "medium_temperature": "3.39",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "1.000",
+      "medium_temperature": "1.000",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "20 W",
+      "medium_temperature": "20 W",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "PSB",
+      "low_temperature": "20 W",
+      "medium_temperature": "20 W",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "PCK",
+      "low_temperature": "0 W",
+      "medium_temperature": "0 W",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: Type of energy\ninput",
+      "low_temperature": "Electricity",
+      "medium_temperature": "Electricity",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Supplementary Heater: PSUP",
+      "low_temperature": "0.00 kW",
+      "medium_temperature": "0.00 kW",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "": "Annual energy consumption Qhe",
+      "low_temperature": "1409 kWh",
+      "medium_temperature": "1711 kWh",
+      "source_page": 7,
+      "source_table": 3,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "ELCO_GmbH_AQUATOP_S06_Brine_Water_and_Water_Water_30"
+    }
+  ]
+}

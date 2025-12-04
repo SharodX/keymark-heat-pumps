@@ -1,0 +1,97 @@
+{"modelid": "Eco 200esm", "varname": "title", "value": "Eco 200esm", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "application", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "indoor", "value": "1", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "outdoor", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "coolingMode7c12c", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "coolingMode18c23c", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "colderClimate", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "warmerClimate", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "reversibility", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "colderForHeating", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "warmerForHeating", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "en145112Certification", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "heatSource", "value": "1", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "additionalOutdoorAir", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "additionalExhaustAir", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "additionalIndoorAir", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "additionalNonheatedSpaceAir", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "powerSupply", "value": "1", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "offPeakProduct", "value": "2", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "EN12102_2_001", "value": "56", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "EN16147_001", "value": "L", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "EN16147_002", "value": "123", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "EN16147_003", "value": "2.97", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "EN16147_004", "value": "7:06", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "EN16147_005", "value": "26.5", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "EN16147_006", "value": "53.6", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "EN16147_007", "value": "223", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "EN16147_008", "value": "2", "temperature": "0", "climate": "5", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "EN16147_009", "value": "2", "temperature": "0", "climate": "5", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200esm", "varname": "EN16147_010", "value": "2", "temperature": "0", "climate": "5", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "title", "value": "Eco 200i", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "application", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "indoor", "value": "1", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "outdoor", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "coolingMode7c12c", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "coolingMode18c23c", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "colderClimate", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "warmerClimate", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "reversibility", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "colderForHeating", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "warmerForHeating", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "en145112Certification", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "heatSource", "value": "1", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "additionalOutdoorAir", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "additionalExhaustAir", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "additionalIndoorAir", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "additionalNonheatedSpaceAir", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "powerSupply", "value": "1", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "offPeakProduct", "value": "2", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "EN12102_2_001", "value": "56", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "EN16147_001", "value": "L", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "EN16147_002", "value": "123", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "EN16147_003", "value": "2.97", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "EN16147_004", "value": "7:06", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "EN16147_005", "value": "26.5", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "EN16147_006", "value": "53.6", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "EN16147_007", "value": "223", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "EN16147_008", "value": "2", "temperature": "0", "climate": "5", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "EN16147_009", "value": "2", "temperature": "0", "climate": "5", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200i", "varname": "EN16147_010", "value": "2", "temperature": "0", "climate": "5", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "title", "value": "Eco 200ix", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "application", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "indoor", "value": "1", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "outdoor", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "coolingMode7c12c", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "coolingMode18c23c", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "colderClimate", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "warmerClimate", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "reversibility", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "colderForHeating", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "warmerForHeating", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "en145112Certification", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "heatSource", "value": "1", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "additionalOutdoorAir", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "additionalExhaustAir", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "additionalIndoorAir", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "additionalNonheatedSpaceAir", "value": "0", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "powerSupply", "value": "1", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "offPeakProduct", "value": "2", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "1", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "EN12102_2_001", "value": "56", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "EN16147_001", "value": "L", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "EN16147_002", "value": "123", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "EN16147_003", "value": "2.97", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "EN16147_004", "value": "7:06", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "EN16147_005", "value": "26.5", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "EN16147_006", "value": "53.6", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "EN16147_007", "value": "223", "temperature": "0", "climate": "3", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "EN16147_008", "value": "2", "temperature": "0", "climate": "5", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "EN16147_009", "value": "2", "temperature": "0", "climate": "5", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "Eco 200ix", "varname": "EN16147_010", "value": "2", "temperature": "0", "climate": "5", "indoorunittype": "0", "info": "2", "hptype": "0", "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "", "varname": "Refrigerant", "value": "R134a", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "0", "hptype": null, "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "", "varname": "Mass of Refrigerant", "value": "1,300 kg", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "0", "hptype": null, "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "", "varname": "Date", "value": "28.06.2024", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "0", "hptype": null, "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "", "varname": "Manufacturer", "value": "Energie est, Lda.", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "0", "hptype": null, "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "", "varname": "Modelname", "value": "ECO200", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "0", "hptype": null, "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "", "varname": "Type", "value": "Heat Pump for Domestic Hot Water (DHW)", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "0", "hptype": null, "model_id": "_Energie_est,_Lda.ECO200"}
+{"modelid": "", "varname": "Energy", "value": "Electricity", "temperature": "0", "climate": "0", "indoorunittype": "0", "info": "0", "hptype": null, "model_id": "_Energie_est,_Lda.ECO200"}

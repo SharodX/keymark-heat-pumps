@@ -1,0 +1,1425 @@
+{
+  "source_pdf": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5.pdf",
+  "extraction_timestamp": "2025-11-17T15:48:01.193418",
+  "total_records": 169,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype QE-6",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "qvantum_energi_ab": "Ji-te gatan 7",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "qvantum_energi_ab": "265 38",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "qvantum_energi_ab": "\u00c5storp",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "qvantum_energi_ab": "SE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "qvantum_energi_ab": "RISE CERT",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "qvantum_energi_ab": "QE-6",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "qvantum_energi_ab": "012-C700372",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "qvantum_energi_ab": "Exhaust Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "qvantum_energi_ab": "R513A",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "qvantum_energi_ab": "1.35 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "qvantum_energi_ab": "11.07.2025",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "qvantum_energi_ab": "EN 14511:2022, EN 14825:2022, EN\n16147:2017+A1:2022, EN 12102:2022",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "qvantum_energi_ab": "Danish Technological Institute (DTI), DK",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "testing_basis_en_14511",
+      "value": "2022, EN 14825:2022, EN",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5"
+    },
+    {
+      "label": "16147",
+      "value": "2017+A1:2022, EN 12102:2022",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5"
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Model QE-6 1x230V",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "qe-6_1x230v": "Heating + DHW + low temp",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "qe-6_1x230v": "Indoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "qe-6_1x230v": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "qe-6_1x230v": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "qe-6_1x230v": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "qe-6_1x230v": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "qe-6_1x230v": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "qe-6_1x230v": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "qe-6_1x230v": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "No",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Exhaust Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "103 %",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.56",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "3.52 h:min",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "59.1 W",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "40.6 \u00b0C",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "236 l",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "5.46 kW",
+      "medium_temperature": "5.40 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.48 kW",
+      "medium_temperature": "3.09 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "2.20",
+      "medium_temperature": "1.75",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "42 dB(A)",
+      "medium_temperature": "42 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "151 %",
+      "medium_temperature": "126 %",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5.50 kW",
+      "medium_temperature": "5.50 kW",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_3.52_h",
+      "value": "min",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5"
+    },
+    {
+      "scop": "Tbiv",
+      "3.84": "-10 \u00b0C",
+      "3.23": "-10 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "TOL",
+      "3.84": "-10 \u00b0C",
+      "3.23": "-10 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = -7\u00b0C",
+      "3.84": "4.92 kW",
+      "3.23": "4.75 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = -7\u00b0C",
+      "3.84": "2.41",
+      "3.23": "2.04",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = -7 \u00b0C",
+      "3.84": "1.000",
+      "3.23": "1.000",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +2\u00b0C",
+      "3.84": "2.91 kW",
+      "3.23": "2.87 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +2\u00b0C",
+      "3.84": "3.92",
+      "3.23": "3.23",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +2 \u00b0C",
+      "3.84": "0.990",
+      "3.23": "0.990",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +7\u00b0C",
+      "3.84": "1.88 kW",
+      "3.23": "1.92 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +7\u00b0C",
+      "3.84": "5.09",
+      "3.23": "4.48",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +7 \u00b0C",
+      "3.84": "0.980",
+      "3.23": "0.980",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = 12\u00b0C",
+      "3.84": "1.51 kW",
+      "3.23": "1.56 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = 12\u00b0C",
+      "3.84": "5.60",
+      "3.23": "5.72",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +12 \u00b0C",
+      "3.84": "0.980",
+      "3.23": "0.980",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = Tbiv",
+      "3.84": "5.46 kW",
+      "3.23": "5.40 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = Tbiv",
+      "3.84": "2.20",
+      "3.23": "1.75",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.84": "5.46 kW",
+      "3.23": "5.40 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.84": "2.20",
+      "3.23": "1.75",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Rated airflow rate",
+      "3.84": "235 m\u00b3/h",
+      "3.23": "235 m\u00b3/h",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.84": "0.980",
+      "3.23": "0.980",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "WTOL",
+      "3.84": "58 \u00b0C",
+      "3.23": "58 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Poff",
+      "3.84": "2 W",
+      "3.23": "2 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "PTO",
+      "3.84": "5 W",
+      "3.23": "5 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "PSB",
+      "3.84": "5 W",
+      "3.23": "5 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "PCK",
+      "3.84": "0 W",
+      "3.23": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: Type of energy\ninput",
+      "3.84": "Electricity",
+      "3.23": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: PSUP",
+      "3.84": "0.00 kW",
+      "3.23": "0.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Annual energy consumption Qhe",
+      "3.84": "2958 kWh",
+      "3.23": "3516 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5"
+    },
+    {
+      "": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Model QE-6 3x400V",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "qe-6_3x400v": "Heating + DHW + low temp",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "qe-6_3x400v": "Indoor",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "qe-6_3x400v": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "qe-6_3x400v": "Yes",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "qe-6_3x400v": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "qe-6_3x400v": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "qe-6_3x400v": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "qe-6_3x400v": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "qe-6_3x400v": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "No",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Exhaust Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "3x400v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "103 %",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.56",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "3.52 h:min",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "59.1 W",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "40.6 \u00b0C",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "236 l",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "xl": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "5.46 kW",
+      "medium_temperature": "5.40 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.48 kW",
+      "medium_temperature": "3.09 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "2.20",
+      "medium_temperature": "1.75",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "42 dB(A)",
+      "medium_temperature": "42 dB(A)",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "151 %",
+      "medium_temperature": "126 %",
+      "source_page": 4,
+      "source_table": 8,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "5.50 kW",
+      "medium_temperature": "5.50 kW",
+      "source_page": 4,
+      "source_table": 8,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_3.52_h",
+      "value": "min",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5"
+    },
+    {
+      "scop": "Tbiv",
+      "3.84": "-10 \u00b0C",
+      "3.23": "-10 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "TOL",
+      "3.84": "-10 \u00b0C",
+      "3.23": "-10 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = -7\u00b0C",
+      "3.84": "4.92 kW",
+      "3.23": "4.75 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = -7\u00b0C",
+      "3.84": "2.41",
+      "3.23": "2.04",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = -7 \u00b0C",
+      "3.84": "1.000",
+      "3.23": "1.000",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +2\u00b0C",
+      "3.84": "2.91 kW",
+      "3.23": "2.87 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +2\u00b0C",
+      "3.84": "3.92",
+      "3.23": "3.23",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +2 \u00b0C",
+      "3.84": "0.990",
+      "3.23": "0.990",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +7\u00b0C",
+      "3.84": "1.88 kW",
+      "3.23": "1.92 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +7\u00b0C",
+      "3.84": "5.09",
+      "3.23": "4.48",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +7 \u00b0C",
+      "3.84": "0.980",
+      "3.23": "0.980",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = 12\u00b0C",
+      "3.84": "1.51 kW",
+      "3.23": "1.56 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = 12\u00b0C",
+      "3.84": "5.60",
+      "3.23": "5.72",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +12 \u00b0C",
+      "3.84": "0.980",
+      "3.23": "0.980",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = Tbiv",
+      "3.84": "5.46 kW",
+      "3.23": "5.40 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = Tbiv",
+      "3.84": "2.20",
+      "3.23": "1.75",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.84": "5.46 kW",
+      "3.23": "5.40 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.84": "2.20",
+      "3.23": "1.75",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Rated airflow rate",
+      "3.84": "235 m\u00b3/h",
+      "3.23": "235 m\u00b3/h",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.84": "1.000",
+      "3.23": "1.000",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "WTOL",
+      "3.84": "58 \u00b0C",
+      "3.23": "58 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Poff",
+      "3.84": "2 W",
+      "3.23": "2 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "PTO",
+      "3.84": "5 W",
+      "3.23": "5 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "PSB",
+      "3.84": "5 W",
+      "3.23": "5 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "PCK",
+      "3.84": "0 W",
+      "3.23": "0 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: Type of energy\ninput",
+      "3.84": "Electricity",
+      "3.23": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: PSUP",
+      "3.84": "0.00 kW",
+      "3.23": "0.00 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "scop": "Annual energy consumption Qhe",
+      "3.84": "2958 kWh",
+      "3.23": "3516 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Qvantum_Energi_AB_QE-6_Exhaust_Air_Water_5"
+    }
+  ]
+}

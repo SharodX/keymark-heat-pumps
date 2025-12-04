@@ -1,0 +1,1377 @@
+{
+  "source_pdf": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3.pdf",
+  "extraction_timestamp": "2025-11-17T15:03:52.843702",
+  "total_records": 163,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype AIM11",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "argoclima_s.p.a": "Via Alfeno Varo, 35",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "argoclima_s.p.a": "25020",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "argoclima_s.p.a": "Alfianello (BS)",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "argoclima_s.p.a": "IT",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "argoclima_s.p.a": "ICIM S.p.A.",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "argoclima_s.p.a": "AIM11",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "argoclima_s.p.a": "ICIM-PDC-000013-01",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "argoclima_s.p.a": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "argoclima_s.p.a": "R410A",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "argoclima_s.p.a": "2.5 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "argoclima_s.p.a": "10.10.2018",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Model AIM11EMX3PH",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "aim11emx3ph": "Heating + DHW + low temp",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "aim11emx3ph": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "aim11emx3ph": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "aim11emx3ph": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "aim11emx3ph": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "aim11emx3ph": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aim11emx3ph": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aim11emx3ph": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "aim11emx3ph": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "89 %",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.13",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "2:40 h:min",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "59.3 W",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "46.7 \u00b0C",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "377 l",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "10.16 kW",
+      "medium_temperature": "7.36 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.54 kW",
+      "medium_temperature": "3.51 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.00",
+      "medium_temperature": "2.10",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "69 dB(A)",
+      "medium_temperature": "69 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "151 %",
+      "medium_temperature": "114 %",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "7.83 kW",
+      "medium_temperature": "6.91 kW",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_2",
+      "value": "40 h:min",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3"
+    },
+    {
+      "scop": "Tbiv",
+      "3.86": "-7 \u00b0C",
+      "2.92": "-7 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "TOL",
+      "3.86": "-10 \u00b0C",
+      "2.92": "-10 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = -7\u00b0C",
+      "3.86": "6.93 kW",
+      "2.92": "6.11 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = -7\u00b0C",
+      "3.86": "2.67",
+      "2.92": "1.62",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = -7 \u00b0C",
+      "3.86": "0.900",
+      "2.92": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +2\u00b0C",
+      "3.86": "4.56 kW",
+      "2.92": "3.64 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +2\u00b0C",
+      "3.86": "3.81",
+      "2.92": "2.98",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +2 \u00b0C",
+      "3.86": "0.900",
+      "2.92": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +7\u00b0C",
+      "3.86": "2.83 kW",
+      "2.92": "4.55 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +7\u00b0C",
+      "3.86": "4.56",
+      "2.92": "4.16",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +7 \u00b0C",
+      "3.86": "0.900",
+      "2.92": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = 12\u00b0C",
+      "3.86": "3.12 kW",
+      "2.92": "3.90 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = 12\u00b0C",
+      "3.86": "6.93",
+      "2.92": "6.52",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +12 \u00b0C",
+      "3.86": "0.900",
+      "2.92": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = Tbiv",
+      "3.86": "6.93 kW",
+      "2.92": "6.11 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = Tbiv",
+      "3.86": "2.67",
+      "2.92": "1.62",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.86": "6.99 kW",
+      "2.92": "4.41 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.86": "2.31",
+      "2.92": "1.19",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.86": "0.900",
+      "2.92": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "WTOL",
+      "3.86": "55 \u00b0C",
+      "2.92": "55 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Poff",
+      "3.86": "5 W",
+      "2.92": "5 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "PTO",
+      "3.86": "8 W",
+      "2.92": "8 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "PSB",
+      "3.86": "5 W",
+      "2.92": "5 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "PCK",
+      "3.86": "35 W",
+      "2.92": "35 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: Type of energy\ninput",
+      "3.86": "Electricity",
+      "2.92": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: PSUP",
+      "3.86": "0.84 kW",
+      "2.92": "2.50 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Annual energy consumption Qhe",
+      "3.86": "4196 kWh",
+      "2.92": "4880 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.84 kW 2.50 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3"
+    },
+    {
+      "": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Model AIM11EMX",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "aim11emx": "Heating + DHW + low temp",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "aim11emx": "Outdoor",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "aim11emx": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "aim11emx": "Yes",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "aim11emx": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "aim11emx": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aim11emx": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "aim11emx": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "aim11emx": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "89 %",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.13",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "2:40 h:min",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "59.3 W",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "46.7 \u00b0C",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "377 l",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "xl": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "10.16 kW",
+      "medium_temperature": "7.36 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.54 kW",
+      "medium_temperature": "3.51 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.00",
+      "medium_temperature": "2.10",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "69 dB(A)",
+      "medium_temperature": "69 dB(A)",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "151 %",
+      "medium_temperature": "114 %",
+      "source_page": 4,
+      "source_table": 8,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "7.83 kW",
+      "medium_temperature": "6.91 kW",
+      "source_page": 4,
+      "source_table": 8,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_2",
+      "value": "40 h:min",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3"
+    },
+    {
+      "scop": "Tbiv",
+      "3.86": "-7 \u00b0C",
+      "2.92": "-7 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "TOL",
+      "3.86": "-10 \u00b0C",
+      "2.92": "-10 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = -7\u00b0C",
+      "3.86": "6.93 kW",
+      "2.92": "6.11 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = -7\u00b0C",
+      "3.86": "2.67",
+      "2.92": "1.62",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = -7 \u00b0C",
+      "3.86": "0.900",
+      "2.92": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +2\u00b0C",
+      "3.86": "4.56 kW",
+      "2.92": "3.64 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +2\u00b0C",
+      "3.86": "3.81",
+      "2.92": "2.98",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +2 \u00b0C",
+      "3.86": "0.900",
+      "2.92": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +7\u00b0C",
+      "3.86": "2.83 kW",
+      "2.92": "4.55 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +7\u00b0C",
+      "3.86": "4.56",
+      "2.92": "4.16",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +7 \u00b0C",
+      "3.86": "0.900",
+      "2.92": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = 12\u00b0C",
+      "3.86": "3.12 kW",
+      "2.92": "3.90 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = 12\u00b0C",
+      "3.86": "6.93",
+      "2.92": "6.52",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +12 \u00b0C",
+      "3.86": "0.900",
+      "2.92": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = Tbiv",
+      "3.86": "6.93 kW",
+      "2.92": "6.11 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = Tbiv",
+      "3.86": "2.67",
+      "2.92": "1.62",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.86": "6.99 kW",
+      "2.92": "4.41 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.86": "2.31",
+      "2.92": "1.19",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.86": "0.900",
+      "2.92": "0.900",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "WTOL",
+      "3.86": "55 \u00b0C",
+      "2.92": "55 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Poff",
+      "3.86": "5 W",
+      "2.92": "5 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "PTO",
+      "3.86": "8 W",
+      "2.92": "8 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "PSB",
+      "3.86": "5 W",
+      "2.92": "5 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "PCK",
+      "3.86": "35 W",
+      "2.92": "35 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: Type of energy\ninput",
+      "3.86": "Electricity",
+      "2.92": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: PSUP",
+      "3.86": "0.84 kW",
+      "2.92": "2.50 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "scop": "Annual energy consumption Qhe",
+      "3.86": "4196 kWh",
+      "2.92": "4880 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.84 kW 2.50 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Argoclima_S_p_A_AIM11_Outdoor_Air_Water_3"
+    }
+  ]
+}

@@ -1,0 +1,938 @@
+{
+  "source_pdf": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12.pdf",
+  "extraction_timestamp": "2025-11-17T15:17:19.835210",
+  "total_records": 109,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype CTC EcoAir 420",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "ctc_ab": "Box 309, N\u00e4sv\u00e4gen",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "ctc_ab": "SE-341 26",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "ctc_ab": "Ljungby",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "ctc_ab": "SE",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "ctc_ab": "RISE CERT",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "ctc_ab": "CTC EcoAir 420",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "ctc_ab": "012-060",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "ctc_ab": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "ctc_ab": "R407c",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "ctc_ab": "3.5 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "ctc_ab": "EN 14511:2013, EN 14825:2013, EN12102:2013",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "ctc_ab": "Danish Technological Institute (DTI), DK",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "label": "testing_basis_en_14511",
+      "value": "2013, EN 14825:2013, EN12102:2013",
+      "source_page": 1,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12"
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Model CTC EcoAir 420 3x400V",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "ctc_ecoair_420_3x400v": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "ctc_ecoair_420_3x400v": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "ctc_ecoair_420_3x400v": "Colder Climate",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "ctc_ecoair_420_3x400v": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "ctc_ecoair_420_3x400v": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ctc_ecoair_420_3x400v": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "ctc_ecoair_420_3x400v": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "ctc_ecoair_420_3x400v": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "No",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "18.72 kW",
+      "medium_temperature": "15.94 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "4.05 kW",
+      "medium_temperature": "5.45 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.62",
+      "medium_temperature": "2.92",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "66 dB(A)",
+      "medium_temperature": "66 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "145 %",
+      "medium_temperature": "119 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "13.88 kW",
+      "medium_temperature": "14.20 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.70",
+      "medium_temperature": "3.10",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-6 \u00b0C",
+      "medium_temperature": "-5 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "11.50 kW",
+      "medium_temperature": "10.90 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.07",
+      "medium_temperature": "2.35",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "14.00 kW",
+      "medium_temperature": "13.40 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.72",
+      "medium_temperature": "2.97",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "17.70 kW",
+      "medium_temperature": "17.30 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "4.64",
+      "medium_temperature": "3.81",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "21.40 kW",
+      "medium_temperature": "20.30 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.56",
+      "medium_temperature": "4.62",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "11.50 kW",
+      "medium_temperature": "11.50 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.15": "10.50 kW",
+      "2.49": "10.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.15": "2.82",
+      "2.49": "2.10",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "3.15": "0.98",
+      "2.49": "0.99",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "WTOL",
+      "3.15": "65 \u00b0C",
+      "2.49": "65 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Poff",
+      "3.15": "18 W",
+      "2.49": "18 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PTO",
+      "3.15": "68 W",
+      "2.49": "20 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PSB",
+      "3.15": "18 W",
+      "2.49": "18 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "PCK",
+      "3.15": "0 W",
+      "2.49": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Supplementary Heater: Type of energy\ninput",
+      "3.15": "Electricity",
+      "2.49": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Supplementary Heater: PSUP",
+      "3.15": "3.40 kW",
+      "2.49": "4.30 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "Annual energy consumption Qhe",
+      "3.15": "7739 kWh",
+      "2.49": "9646 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "",
+      "3.15": "",
+      "2.49": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "",
+      "3.15": "",
+      "2.49": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_tbiv": "EN 12102-1 | Colder Climate",
+      "3.15": "",
+      "2.49": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "66 dB(A)",
+      "medium_temperature": "66 dB(A)",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Colder Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "129 %",
+      "medium_temperature": "107 %",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "11.91 kW",
+      "medium_temperature": "11.14 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "3.30",
+      "medium_temperature": "2.80",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-14 \u00b0C",
+      "medium_temperature": "-14 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-22 \u00b0C",
+      "medium_temperature": "-22 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "11.60 kW",
+      "medium_temperature": "11.00 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "3.20",
+      "medium_temperature": "2.52",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "14.10 kW",
+      "medium_temperature": "13.60 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "3.84",
+      "medium_temperature": "3.15",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "17.80 kW",
+      "medium_temperature": "17.40 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +7\u00b0C",
+      "low_temperature": "4.74",
+      "medium_temperature": "4.01",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = 12\u00b0C",
+      "low_temperature": "21.30 kW",
+      "medium_temperature": "20.50 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = 12\u00b0C",
+      "low_temperature": "5.54",
+      "medium_temperature": "4.76",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = Tbiv",
+      "low_temperature": "9.10 kW",
+      "medium_temperature": "8.50 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = Tbiv",
+      "low_temperature": "2.63",
+      "medium_temperature": "1.98",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "6.80 kW",
+      "medium_temperature": "6.10 kW",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "2.04",
+      "medium_temperature": "1.44",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "low_temperature": "0.98",
+      "medium_temperature": "0.99",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "WTOL",
+      "low_temperature": "65 \u00b0C",
+      "medium_temperature": "65 \u00b0C",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "Poff",
+      "low_temperature": "18 W",
+      "medium_temperature": "18 W",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "": "PTO",
+      "low_temperature": "68 W",
+      "medium_temperature": "20 W",
+      "source_page": 3,
+      "source_table": 3,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 3.40 kW 4.30 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12"
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "18 W",
+      "column_2": "18 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "0 W",
+      "column_2": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "Electricity",
+      "column_2": "Electricity",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "5.00 kW",
+      "column_2": "4.90 kW",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "8876 kWh",
+      "column_2": "9970 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 5.00 kW 4.90 kW",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "CTC_AB_CTC_EcoAir_420_Outdoor_Air_Water_12"
+    }
+  ]
+}

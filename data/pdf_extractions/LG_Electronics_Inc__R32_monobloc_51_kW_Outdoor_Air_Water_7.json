@@ -1,0 +1,672 @@
+{
+  "source_pdf": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7.pdf",
+  "extraction_timestamp": "2025-11-17T15:38:04.865874",
+  "total_records": 79,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype R32 monobloc 51 kW",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "lg_electronics_inc.": "84, Wanam-ro, seongsan-gu",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "lg_electronics_inc.": "51554",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "lg_electronics_inc.": "Changwon-si",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "lg_electronics_inc.": "KR",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "lg_electronics_inc.": "DIN CERTCO Gesellschaft f\u00fcr Konformit\u00e4tsbewertung mbH",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "lg_electronics_inc.": "R32 monobloc 51 kW",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "lg_electronics_inc.": "011-1W1049",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "lg_electronics_inc.": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "lg_electronics_inc.": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "lg_electronics_inc.": "10 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "lg_electronics_inc.": "21.05.2025",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "lg_electronics_inc.": "HP KEYMARK certification scheme rules rev. 14",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Model HM513MR UXC0 / PHCSL0 ENCXLEU",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "hm513mr_uxc0_/_phcsl0_encxleu": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "hm513mr_uxc0_/_phcsl0_encxleu": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "hm513mr_uxc0_/_phcsl0_encxleu": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "hm513mr_uxc0_/_phcsl0_encxleu": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "hm513mr_uxc0_/_phcsl0_encxleu": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "hm513mr_uxc0_/_phcsl0_encxleu": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hm513mr_uxc0_/_phcsl0_encxleu": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "hm513mr_uxc0_/_phcsl0_encxleu": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "hm513mr_uxc0_/_phcsl0_encxleu": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "51.00 kW",
+      "medium_temperature": "51.00 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "11.86 kW",
+      "medium_temperature": "17.71 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.30",
+      "medium_temperature": "2.88",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "82 dB(A)",
+      "medium_temperature": "82 dB(A)",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "167 %",
+      "medium_temperature": "125 %",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "42.00 kW",
+      "medium_temperature": "40.00 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.26",
+      "medium_temperature": "3.21",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Tbiv",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "TOL",
+      "low_temperature": "-10 \u00b0C",
+      "medium_temperature": "-10 \u00b0C",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = -7\u00b0C",
+      "low_temperature": "36.90 kW",
+      "medium_temperature": "35.40 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = -7\u00b0C",
+      "low_temperature": "2.57",
+      "medium_temperature": "1.89",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = -7 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +2\u00b0C",
+      "low_temperature": "22.60 kW",
+      "medium_temperature": "21.00 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "COP Tj = +2\u00b0C",
+      "low_temperature": "4.00",
+      "medium_temperature": "2.99",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Cdh Tj = +2 \u00b0C",
+      "low_temperature": "0.900",
+      "medium_temperature": "0.900",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "": "Pdh Tj = +7\u00b0C",
+      "low_temperature": "14.50 kW",
+      "medium_temperature": "13.90 kW",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +7 \u00b0C",
+      "6.19": "0.900",
+      "4.78": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = 12\u00b0C",
+      "6.19": "9.00 kW",
+      "4.78": "9.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = 12\u00b0C",
+      "6.19": "6.69",
+      "4.78": "5.41",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = +12 \u00b0C",
+      "6.19": "0.900",
+      "4.78": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = Tbiv",
+      "6.19": "42.00 kW",
+      "4.78": "40.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = Tbiv",
+      "6.19": "2.51",
+      "4.78": "1.76",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.19": "42.00 kW",
+      "4.78": "40.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.19": "2.51",
+      "4.78": "1.76",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "6.19": "0.900",
+      "4.78": "0.900",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "WTOL",
+      "6.19": "65 \u00b0C",
+      "4.78": "65 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Poff",
+      "6.19": "20 W",
+      "4.78": "20 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PTO",
+      "6.19": "20 W",
+      "4.78": "20 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PSB",
+      "6.19": "20 W",
+      "4.78": "20 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "PCK",
+      "6.19": "100 W",
+      "4.78": "100 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: Type of energy\ninput",
+      "6.19": "Electricity",
+      "4.78": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Supplementary Heater: PSUP",
+      "6.19": "0.00 kW",
+      "4.78": "0.00 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "cop_tj_=_+7\u00b0c": "Annual energy consumption Qhe",
+      "6.19": "20379 kWh",
+      "4.78": "25779 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0.00 kW 0.00 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "LG_Electronics_Inc__R32_monobloc_51_kW_Outdoor_Air_Water_7"
+    }
+  ]
+}

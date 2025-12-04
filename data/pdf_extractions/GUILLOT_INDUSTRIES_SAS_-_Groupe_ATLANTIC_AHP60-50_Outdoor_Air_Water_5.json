@@ -1,0 +1,911 @@
+{
+  "source_pdf": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5.pdf",
+  "extraction_timestamp": "2025-11-17T15:29:55.866263",
+  "total_records": 106,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype AHP60-50",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "guillot_industries_sas_-_groupe_atlantic": "1, Route de Fleurville",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "guillot_industries_sas_-_groupe_atlantic": "01190",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "guillot_industries_sas_-_groupe_atlantic": "Ponte De Vaux",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "guillot_industries_sas_-_groupe_atlantic": "FR",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "guillot_industries_sas_-_groupe_atlantic": "ICIM S.p.A.",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "guillot_industries_sas_-_groupe_atlantic": "AHP60-50",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "guillot_industries_sas_-_groupe_atlantic": "ICIM-PDC-000164-00",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "guillot_industries_sas_-_groupe_atlantic": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "guillot_industries_sas_-_groupe_atlantic": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "guillot_industries_sas_-_groupe_atlantic": "8.5 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "guillot_industries_sas_-_groupe_atlantic": "24.06.2022",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "guillot_industries_sas_-_groupe_atlantic": "Heat Pump KEYMARK V9",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Model EFFIPAC AHP60-50 (brand ATLANTIC) ; TYNEHAM AHP60-50 (brand HAMWORTHY) ; ECOMOD\nAHP60-50 (brand IDEAL) ; HEATPAC MAX AHP60-50 (brand ACV)",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "effipac_ahp60-50_(brand_atlantic)_;_tyneham_ahp60-50_(brand_hamworthy)_;_ecomod_ahp60-50_(brand_ideal)_;_heatpac_max_ahp60-50_(brand_acv)": "Heating (medium temp)",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "effipac_ahp60-50_(brand_atlantic)_;_tyneham_ahp60-50_(brand_hamworthy)_;_ecomod_ahp60-50_(brand_ideal)_;_heatpac_max_ahp60-50_(brand_acv)": "Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "effipac_ahp60-50_(brand_atlantic)_;_tyneham_ahp60-50_(brand_hamworthy)_;_ecomod_ahp60-50_(brand_ideal)_;_heatpac_max_ahp60-50_(brand_acv)": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Reversibility",
+      "effipac_ahp60-50_(brand_atlantic)_;_tyneham_ahp60-50_(brand_hamworthy)_;_ecomod_ahp60-50_(brand_ideal)_;_heatpac_max_ahp60-50_(brand_acv)": "Yes",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "effipac_ahp60-50_(brand_atlantic)_;_tyneham_ahp60-50_(brand_hamworthy)_;_ecomod_ahp60-50_(brand_ideal)_;_heatpac_max_ahp60-50_(brand_acv)": "+7\u00b0C/12\u00b0C",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "effipac_ahp60-50_(brand_atlantic)_;_tyneham_ahp60-50_(brand_hamworthy)_;_ecomod_ahp60-50_(brand_ideal)_;_heatpac_max_ahp60-50_(brand_acv)": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "effipac_ahp60-50_(brand_atlantic)_;_tyneham_ahp60-50_(brand_hamworthy)_;_ecomod_ahp60-50_(brand_ideal)_;_heatpac_max_ahp60-50_(brand_acv)": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "effipac_ahp60-50_(brand_atlantic)_;_tyneham_ahp60-50_(brand_hamworthy)_;_ecomod_ahp60-50_(brand_ideal)_;_heatpac_max_ahp60-50_(brand_acv)": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "effipac_ahp60-50_(brand_atlantic)_;_tyneham_ahp60-50_(brand_hamworthy)_;_ecomod_ahp60-50_(brand_ideal)_;_heatpac_max_ahp60-50_(brand_acv)": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 14511-4 | Heating",
+      "3x400v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "50.20 kW",
+      "medium_temperature": "48.30 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "12.20 kW",
+      "medium_temperature": "18.02 kW",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.11",
+      "medium_temperature": "2.68",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14511-2 | Cooling",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "+7\u00b0c/+12\u00b0c": "11.70 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cooling capacity",
+      "+7\u00b0c/+12\u00b0c": "36.30",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EER",
+      "+7\u00b0c/+12\u00b0c": "3.10",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "+7\u00b0c/+12\u00b0c": "",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "75 dB(A)",
+      "medium_temperature": "75 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "163 %",
+      "medium_temperature": "122 %",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "44.00 kW",
+      "medium_temperature": "44.00 kW",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "SCOP",
+      "low_temperature": "4.16",
+      "medium_temperature": "3.11",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Tbiv",
+      "column_1": "-7 \u00b0C",
+      "column_2": "-7 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "TOL",
+      "column_1": "-10 \u00b0C",
+      "column_2": "-10 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = -7\u00b0C",
+      "column_1": "39.30 kW",
+      "column_2": "39.20 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = -7\u00b0C",
+      "column_1": "2.22",
+      "column_2": "1.55",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = -7 \u00b0C",
+      "column_1": "1.000",
+      "column_2": "1.000",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +2\u00b0C",
+      "column_1": "24.90 kW",
+      "column_2": "23.80 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +2\u00b0C",
+      "column_1": "4.25",
+      "column_2": "3.06",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +2 \u00b0C",
+      "column_1": "1.000",
+      "column_2": "1.000",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = +7\u00b0C",
+      "column_1": "24.70 kW",
+      "column_2": "23.70 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = +7\u00b0C",
+      "column_1": "5.55",
+      "column_2": "4.48",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +7 \u00b0C",
+      "column_1": "1.000",
+      "column_2": "1.000",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = 12\u00b0C",
+      "column_1": "28.50 kW",
+      "column_2": "27.70 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = 12\u00b0C",
+      "column_1": "7.22",
+      "column_2": "7.10",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = +12 \u00b0C",
+      "column_1": "1.000",
+      "column_2": "1.000",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = Tbiv",
+      "column_1": "39.30 kW",
+      "column_2": "39.20 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = Tbiv",
+      "column_1": "2.22",
+      "column_2": "1.55",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "34.00 kW",
+      "column_2": "34.60 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "1.91",
+      "column_2": "1.25",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Cdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "column_1": "1.000",
+      "column_2": "1.000",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "WTOL",
+      "column_1": "58 \u00b0C",
+      "column_2": "58 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Poff",
+      "column_1": "22 W",
+      "column_2": "22 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PTO",
+      "column_1": "22 W",
+      "column_2": "22 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PSB",
+      "column_1": "22 W",
+      "column_2": "22 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "PCK",
+      "column_1": "76 W",
+      "column_2": "76 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: Type of energy\ninput",
+      "column_1": "n/a",
+      "column_2": "n/a",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Supplementary Heater: PSUP",
+      "column_1": "10.00 kW",
+      "column_2": "9.40 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "Annual energy consumption Qhe",
+      "column_1": "22063 kWh",
+      "column_2": "29398 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "column_0": "EN 14825 | Cooling",
+      "column_1": "",
+      "column_2": "",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdesignc",
+      "+7\u00b0c/+12\u00b0c": "36.30 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "SEER",
+      "+7\u00b0c/+12\u00b0c": "4.72",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "36.30 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 35\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.10",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "26.80 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 30\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "3.93",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 30 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "1.000",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "21.65 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 25\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "5.00",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 25 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.990",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Pdc Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "23.94 kW",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "EER Tj = 20\u00b0C",
+      "+7\u00b0c/+12\u00b0c": "6.45",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "": "Cdc Tj = 20 \u00b0C",
+      "+7\u00b0c/+12\u00b0c": "0.990",
+      "+18\u00b0c/+23\u00b0c": "",
+      "source_page": 3,
+      "source_table": 2,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy n/a n/a",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 10.00 kW 9.40 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5"
+    },
+    {
+      "poff": "PTO",
+      "22_w": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "poff": "PSB",
+      "22_w": "28 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "poff": "PCK",
+      "22_w": "0 W",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    },
+    {
+      "poff": "Annual energy consumption Qce",
+      "22_w": "4614 kWh",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "GUILLOT_INDUSTRIES_SAS_-_Groupe_ATLANTIC_AHP60-50_Outdoor_Air_Water_5",
+      "submodel_id": null
+    }
+  ]
+}

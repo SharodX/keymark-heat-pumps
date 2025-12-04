@@ -1,0 +1,5133 @@
+{
+  "source_pdf": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85.pdf",
+  "extraction_timestamp": "2025-11-17T15:41:58.506686",
+  "total_records": 607,
+  "records": [
+    {
+      "": "",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Subtype Ecodan Zubadan 10/12-300D AA",
+      "source_page": 1,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Address",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "Nettlehill Road, Houston Industrial Estate",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "ZIP",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "EH54 5EQ",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "City",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "Livingston",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Country",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "GB",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Body",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "SZU - Strojirensky zkusebni ustav (Engineering Test\nInstitute, Public Enterprise)",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Subtype title",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "Ecodan Zubadan 10/12-300D AA",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Registration number",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "037-0027-20",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Heat Pump Type",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "Outdoor Air/Water",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Refrigerant",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "R32",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Mass of Refrigerant",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "1.7 kg",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Certification Date",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "06.10.2020",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing basis",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "HP Keymark scheme rules rev. no. 6",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "certificate_holder": "Testing laboratory",
+      "mitsubishi_electric_air_conditioning_systems_europe_ltd": "SZU Brno, CZ",
+      "source_page": 1,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Model PUD-SHWM100VAA(-BS) + E*ST30D-*M*D",
+      "source_page": 2,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "pud-shwm100vaa(-bs)_+_e*st30d-*m*d": "Heating + DHW + low temp",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "pud-shwm100vaa(-bs)_+_e*st30d-*m*d": "Indoor, Outdoor",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "pud-shwm100vaa(-bs)_+_e*st30d-*m*d": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "pud-shwm100vaa(-bs)_+_e*st30d-*m*d": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "pud-shwm100vaa(-bs)_+_e*st30d-*m*d": "n/a",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "pud-shwm100vaa(-bs)_+_e*st30d-*m*d": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "pud-shwm100vaa(-bs)_+_e*st30d-*m*d": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "pud-shwm100vaa(-bs)_+_e*st30d-*m*d": "",
+      "source_page": 2,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 2,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "121 %",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.93",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "02:25 h:min",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "39 W",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "52.5 \u00b0C",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "417 l",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "xl": "",
+      "source_page": 2,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 2,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "8 kW",
+      "medium_temperature": "8 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.6 kW",
+      "medium_temperature": "3.08 kW",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5",
+      "medium_temperature": "2.6",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "41 dB(A)",
+      "medium_temperature": "41 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "59 dB(A)",
+      "medium_temperature": "59 dB(A)",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 2,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "180 %",
+      "medium_temperature": "136 %",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "10 kW",
+      "medium_temperature": "10 kW",
+      "source_page": 2,
+      "source_table": 8,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_02",
+      "value": "25 h:min",
+      "source_page": 2,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "scop": "Tbiv",
+      "4.56": "-10 \u00b0C",
+      "3.48": "-10 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "TOL",
+      "4.56": "-28 \u00b0C",
+      "3.48": "-28 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = -7\u00b0C",
+      "4.56": "8.9 kW",
+      "3.48": "8.9 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = -7\u00b0C",
+      "4.56": "3.16",
+      "3.48": "2.18",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = -7 \u00b0C",
+      "4.56": "1",
+      "3.48": "1",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +2\u00b0C",
+      "4.56": "5.7 kW",
+      "3.48": "5.4 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +2\u00b0C",
+      "4.56": "4.46",
+      "3.48": "3.27",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +2 \u00b0C",
+      "4.56": "0.99",
+      "3.48": "0.99",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +7\u00b0C",
+      "4.56": "5.4 kW",
+      "3.48": "5.2 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +7\u00b0C",
+      "4.56": "5.63",
+      "3.48": "4.81",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +7 \u00b0C",
+      "4.56": "0.98",
+      "3.48": "0.99",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = 12\u00b0C",
+      "4.56": "4.5 kW",
+      "3.48": "3.6 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = 12\u00b0C",
+      "4.56": "7.89",
+      "3.48": "7.06",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +12 \u00b0C",
+      "4.56": "0.97",
+      "3.48": "0.97",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = Tbiv",
+      "4.56": "10 kW",
+      "3.48": "10 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = Tbiv",
+      "4.56": "2.92",
+      "3.48": "1.91",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.56": "10 kW",
+      "3.48": "10 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.56": "2.92",
+      "3.48": "1.91",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "WTOL",
+      "4.56": "60 \u00b0C",
+      "3.48": "60 \u00b0C",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Poff",
+      "4.56": "15 W",
+      "3.48": "15 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PTO",
+      "4.56": "15 W",
+      "3.48": "15 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PSB",
+      "4.56": "15 W",
+      "3.48": "15 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PCK",
+      "4.56": "0 W",
+      "3.48": "0 W",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: Type of energy\ninput",
+      "4.56": "Electricity",
+      "3.48": "Electricity",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: PSUP",
+      "4.56": "0 kW",
+      "3.48": "0 kW",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Annual energy consumption Qhe",
+      "4.56": "4527 kWh",
+      "3.48": "5938 kWh",
+      "source_page": 3,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0 kW 0 kW",
+      "source_page": 3,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "": "",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Model PUD-SHWM100VAA(-BS) + E*ST30D-M*D",
+      "source_page": 4,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "pud-shwm100vaa(-bs)_+_e*st30d-m*d": "Heating + DHW + low temp",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "pud-shwm100vaa(-bs)_+_e*st30d-m*d": "Indoor, Outdoor",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "pud-shwm100vaa(-bs)_+_e*st30d-m*d": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "pud-shwm100vaa(-bs)_+_e*st30d-m*d": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "pud-shwm100vaa(-bs)_+_e*st30d-m*d": "n/a",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "pud-shwm100vaa(-bs)_+_e*st30d-m*d": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "pud-shwm100vaa(-bs)_+_e*st30d-m*d": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "pud-shwm100vaa(-bs)_+_e*st30d-m*d": "",
+      "source_page": 4,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 4,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "121 %",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.93",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "02:25 h:min",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "39 W",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "52.5 \u00b0C",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "417 l",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "xl": "",
+      "source_page": 4,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 4,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "8 kW",
+      "medium_temperature": "8 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.6 kW",
+      "medium_temperature": "3.08 kW",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5",
+      "medium_temperature": "2.6",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "41 dB(A)",
+      "medium_temperature": "41 dB(A)",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "59 dB(A)",
+      "medium_temperature": "59 dB(A)",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 4,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "180 %",
+      "medium_temperature": "136 %",
+      "source_page": 4,
+      "source_table": 8,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "10 kW",
+      "medium_temperature": "10 kW",
+      "source_page": 4,
+      "source_table": 8,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_02",
+      "value": "25 h:min",
+      "source_page": 4,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "scop": "Tbiv",
+      "4.56": "-10 \u00b0C",
+      "3.48": "-10 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "TOL",
+      "4.56": "-28 \u00b0C",
+      "3.48": "-28 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = -7\u00b0C",
+      "4.56": "8.9 kW",
+      "3.48": "8.9 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = -7\u00b0C",
+      "4.56": "3.16",
+      "3.48": "2.18",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = -7 \u00b0C",
+      "4.56": "1",
+      "3.48": "1",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +2\u00b0C",
+      "4.56": "5.7 kW",
+      "3.48": "5.4 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +2\u00b0C",
+      "4.56": "4.46",
+      "3.48": "3.27",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +2 \u00b0C",
+      "4.56": "0.99",
+      "3.48": "0.99",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +7\u00b0C",
+      "4.56": "5.4 kW",
+      "3.48": "5.2 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +7\u00b0C",
+      "4.56": "5.63",
+      "3.48": "4.81",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +7 \u00b0C",
+      "4.56": "0.98",
+      "3.48": "0.99",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = 12\u00b0C",
+      "4.56": "4.5 kW",
+      "3.48": "3.6 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = 12\u00b0C",
+      "4.56": "7.89",
+      "3.48": "7.06",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +12 \u00b0C",
+      "4.56": "0.97",
+      "3.48": "0.97",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = Tbiv",
+      "4.56": "10 kW",
+      "3.48": "10 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = Tbiv",
+      "4.56": "2.92",
+      "3.48": "1.91",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.56": "10 kW",
+      "3.48": "10 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.56": "2.92",
+      "3.48": "1.91",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "WTOL",
+      "4.56": "60 \u00b0C",
+      "3.48": "60 \u00b0C",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Poff",
+      "4.56": "15 W",
+      "3.48": "15 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PTO",
+      "4.56": "15 W",
+      "3.48": "15 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PSB",
+      "4.56": "15 W",
+      "3.48": "15 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PCK",
+      "4.56": "0 W",
+      "3.48": "0 W",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: Type of energy\ninput",
+      "4.56": "Electricity",
+      "3.48": "Electricity",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: PSUP",
+      "4.56": "0 kW",
+      "3.48": "0 kW",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Annual energy consumption Qhe",
+      "4.56": "4527 kWh",
+      "3.48": "5938 kWh",
+      "source_page": 5,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0 kW 0 kW",
+      "source_page": 5,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "": "",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Model PUD-SHWM100YAA(-BS) + E*ST30D-*M*D",
+      "source_page": 6,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "pud-shwm100yaa(-bs)_+_e*st30d-*m*d": "Heating + DHW + low temp",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "pud-shwm100yaa(-bs)_+_e*st30d-*m*d": "Indoor, Outdoor",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "pud-shwm100yaa(-bs)_+_e*st30d-*m*d": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "pud-shwm100yaa(-bs)_+_e*st30d-*m*d": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "pud-shwm100yaa(-bs)_+_e*st30d-*m*d": "n/a",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "pud-shwm100yaa(-bs)_+_e*st30d-*m*d": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "pud-shwm100yaa(-bs)_+_e*st30d-*m*d": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "pud-shwm100yaa(-bs)_+_e*st30d-*m*d": "",
+      "source_page": 6,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "3x400v_50hz": "",
+      "source_page": 6,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "121 %",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.93",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "02:25 h:min",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "39 W",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "52.5 \u00b0C",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "417 l",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "xl": "",
+      "source_page": 6,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 6,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "8 kW",
+      "medium_temperature": "8 kW",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.6 kW",
+      "medium_temperature": "3.08 kW",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5",
+      "medium_temperature": "2.6",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "41 dB(A)",
+      "medium_temperature": "41 dB(A)",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "59 dB(A)",
+      "medium_temperature": "59 dB(A)",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 6,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "178 %",
+      "medium_temperature": "135 %",
+      "source_page": 6,
+      "source_table": 8,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "10 kW",
+      "medium_temperature": "10 kW",
+      "source_page": 6,
+      "source_table": 8,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_02",
+      "value": "25 h:min",
+      "source_page": 6,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "scop": "Tbiv",
+      "4.52": "-10 \u00b0C",
+      "3.46": "-10 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "TOL",
+      "4.52": "-28 \u00b0C",
+      "3.46": "-28 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = -7\u00b0C",
+      "4.52": "8.9 kW",
+      "3.46": "8.9 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = -7\u00b0C",
+      "4.52": "3.16",
+      "3.46": "2.18",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = -7 \u00b0C",
+      "4.52": "0.99",
+      "3.46": "1",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +2\u00b0C",
+      "4.52": "5.7 kW",
+      "3.46": "5.4 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +2\u00b0C",
+      "4.52": "4.45",
+      "3.46": "3.27",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +2 \u00b0C",
+      "4.52": "0.98",
+      "3.46": "0.99",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +7\u00b0C",
+      "4.52": "5.4 kW",
+      "3.46": "5.2 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +7\u00b0C",
+      "4.52": "5.63",
+      "3.46": "4.81",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +7 \u00b0C",
+      "4.52": "0.98",
+      "3.46": "0.98",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = 12\u00b0C",
+      "4.52": "4.5 kW",
+      "3.46": "3.6 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = 12\u00b0C",
+      "4.52": "7.89",
+      "3.46": "7.06",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +12 \u00b0C",
+      "4.52": "0.96",
+      "3.46": "0.96",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = Tbiv",
+      "4.52": "10 kW",
+      "3.46": "10 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = Tbiv",
+      "4.52": "2.92",
+      "3.46": "1.91",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.52": "10 kW",
+      "3.46": "10 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.52": "2.92",
+      "3.46": "1.91",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "WTOL",
+      "4.52": "60 \u00b0C",
+      "3.46": "60 \u00b0C",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Poff",
+      "4.52": "22 W",
+      "3.46": "22 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PTO",
+      "4.52": "22 W",
+      "3.46": "22 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PSB",
+      "4.52": "22 W",
+      "3.46": "22 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PCK",
+      "4.52": "0 W",
+      "3.46": "0 W",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: Type of energy\ninput",
+      "4.52": "Electricity",
+      "3.46": "Electricity",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: PSUP",
+      "4.52": "0 kW",
+      "3.46": "0 kW",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Annual energy consumption Qhe",
+      "4.52": "4571 kWh",
+      "3.46": "5975 kWh",
+      "source_page": 7,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0 kW 0 kW",
+      "source_page": 7,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "": "",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Model PUD-SHWM100YAA(-BS) + E*ST30D-M*D",
+      "source_page": 8,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "pud-shwm100yaa(-bs)_+_e*st30d-m*d": "Heating + DHW + low temp",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "pud-shwm100yaa(-bs)_+_e*st30d-m*d": "Indoor, Outdoor",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "pud-shwm100yaa(-bs)_+_e*st30d-m*d": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "pud-shwm100yaa(-bs)_+_e*st30d-m*d": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "pud-shwm100yaa(-bs)_+_e*st30d-m*d": "n/a",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "pud-shwm100yaa(-bs)_+_e*st30d-m*d": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "pud-shwm100yaa(-bs)_+_e*st30d-m*d": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "pud-shwm100yaa(-bs)_+_e*st30d-m*d": "",
+      "source_page": 8,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "3x400v_50hz": "",
+      "source_page": 8,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "121 %",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.93",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "02:25 h:min",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "39 W",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "52.5 \u00b0C",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "417 l",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "xl": "",
+      "source_page": 8,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 8,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "8 kW",
+      "medium_temperature": "8 kW",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "1.6 kW",
+      "medium_temperature": "3.08 kW",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "5",
+      "medium_temperature": "2.6",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "41 dB(A)",
+      "medium_temperature": "41 dB(A)",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "59 dB(A)",
+      "medium_temperature": "59 dB(A)",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 8,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "178 %",
+      "medium_temperature": "135 %",
+      "source_page": 8,
+      "source_table": 8,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "10 kW",
+      "medium_temperature": "10 kW",
+      "source_page": 8,
+      "source_table": 8,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_02",
+      "value": "25 h:min",
+      "source_page": 8,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "scop": "Tbiv",
+      "4.52": "-10 \u00b0C",
+      "3.46": "-10 \u00b0C",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "TOL",
+      "4.52": "-28 \u00b0C",
+      "3.46": "-28 \u00b0C",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = -7\u00b0C",
+      "4.52": "8.9 kW",
+      "3.46": "8.9 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = -7\u00b0C",
+      "4.52": "3.16",
+      "3.46": "2.18",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = -7 \u00b0C",
+      "4.52": "0.99",
+      "3.46": "1",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +2\u00b0C",
+      "4.52": "5.7 kW",
+      "3.46": "5.4 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +2\u00b0C",
+      "4.52": "4.45",
+      "3.46": "3.27",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +2 \u00b0C",
+      "4.52": "0.98",
+      "3.46": "0.99",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +7\u00b0C",
+      "4.52": "5.4 kW",
+      "3.46": "5.2 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +7\u00b0C",
+      "4.52": "5.63",
+      "3.46": "4.81",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +7 \u00b0C",
+      "4.52": "0.98",
+      "3.46": "0.98",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = 12\u00b0C",
+      "4.52": "4.5 kW",
+      "3.46": "3.6 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = 12\u00b0C",
+      "4.52": "7.89",
+      "3.46": "7.06",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +12 \u00b0C",
+      "4.52": "0.96",
+      "3.46": "0.96",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = Tbiv",
+      "4.52": "10 kW",
+      "3.46": "10 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = Tbiv",
+      "4.52": "2.92",
+      "3.46": "1.91",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.52": "10 kW",
+      "3.46": "10 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.52": "2.92",
+      "3.46": "1.91",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "WTOL",
+      "4.52": "60 \u00b0C",
+      "3.46": "60 \u00b0C",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Poff",
+      "4.52": "22 W",
+      "3.46": "22 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PTO",
+      "4.52": "22 W",
+      "3.46": "22 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PSB",
+      "4.52": "22 W",
+      "3.46": "22 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PCK",
+      "4.52": "0 W",
+      "3.46": "0 W",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: Type of energy\ninput",
+      "4.52": "Electricity",
+      "3.46": "Electricity",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: PSUP",
+      "4.52": "0 kW",
+      "3.46": "0 kW",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Annual energy consumption Qhe",
+      "4.52": "4571 kWh",
+      "3.46": "5975 kWh",
+      "source_page": 9,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0 kW 0 kW",
+      "source_page": 9,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "": "",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Model PUD-SHWM120VAA(-BS) + E*ST30D-*M*D",
+      "source_page": 10,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "pud-shwm120vaa(-bs)_+_e*st30d-*m*d": "Heating + DHW + low temp",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "pud-shwm120vaa(-bs)_+_e*st30d-*m*d": "Indoor, Outdoor",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "pud-shwm120vaa(-bs)_+_e*st30d-*m*d": "n/a",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "pud-shwm120vaa(-bs)_+_e*st30d-*m*d": "n/a",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "pud-shwm120vaa(-bs)_+_e*st30d-*m*d": "n/a",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "pud-shwm120vaa(-bs)_+_e*st30d-*m*d": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "pud-shwm120vaa(-bs)_+_e*st30d-*m*d": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "pud-shwm120vaa(-bs)_+_e*st30d-*m*d": "",
+      "source_page": 10,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 10,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "121 %",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.93",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "02:25 h:min",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "39 W",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "52.5 \u00b0C",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "417 l",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "xl": "",
+      "source_page": 10,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 10,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "10 kW",
+      "medium_temperature": "10 kW",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.08 kW",
+      "medium_temperature": "3.77 kW",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.8",
+      "medium_temperature": "2.65",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "41 dB(A)",
+      "medium_temperature": "41 dB(A)",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "60 dB(A)",
+      "medium_temperature": "60 dB(A)",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 10,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "179 %",
+      "medium_temperature": "135 %",
+      "source_page": 10,
+      "source_table": 8,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12 kW",
+      "medium_temperature": "12 kW",
+      "source_page": 10,
+      "source_table": 8,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_02",
+      "value": "25 h:min",
+      "source_page": 10,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "scop": "Tbiv",
+      "4.55": "-10 \u00b0C",
+      "3.46": "-10 \u00b0C",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "TOL",
+      "4.55": "-28 \u00b0C",
+      "3.46": "-28 \u00b0C",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = -7\u00b0C",
+      "4.55": "10.6 kW",
+      "3.46": "10.6 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = -7\u00b0C",
+      "4.55": "2.85",
+      "3.46": "2.14",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = -7 \u00b0C",
+      "4.55": "1",
+      "3.46": "1",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +2\u00b0C",
+      "4.55": "6.5 kW",
+      "3.46": "6.5 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +2\u00b0C",
+      "4.55": "4.46",
+      "3.46": "3.24",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +2 \u00b0C",
+      "4.55": "0.99",
+      "3.46": "0.99",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +7\u00b0C",
+      "4.55": "5.6 kW",
+      "3.46": "5.3 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +7\u00b0C",
+      "4.55": "5.89",
+      "3.46": "4.82",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +7 \u00b0C",
+      "4.55": "0.98",
+      "3.46": "0.99",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = 12\u00b0C",
+      "4.55": "4.4 kW",
+      "3.46": "4.3 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = 12\u00b0C",
+      "4.55": "8",
+      "3.46": "6.94",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +12 \u00b0C",
+      "4.55": "0.97",
+      "3.46": "0.98",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = Tbiv",
+      "4.55": "12 kW",
+      "3.46": "12 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = Tbiv",
+      "4.55": "2.77",
+      "3.46": "1.87",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.55": "12 kW",
+      "3.46": "12 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.55": "2.77",
+      "3.46": "1.87",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "WTOL",
+      "4.55": "60 \u00b0C",
+      "3.46": "60 \u00b0C",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Poff",
+      "4.55": "15 W",
+      "3.46": "15 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PTO",
+      "4.55": "15 W",
+      "3.46": "15 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PSB",
+      "4.55": "15 W",
+      "3.46": "15 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PCK",
+      "4.55": "0 W",
+      "3.46": "0 W",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: Type of energy\ninput",
+      "4.55": "Electricity",
+      "3.46": "Electricity",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: PSUP",
+      "4.55": "0 kW",
+      "3.46": "0 kW",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Annual energy consumption Qhe",
+      "4.55": "5453 kWh",
+      "3.46": "7170 kWh",
+      "source_page": 11,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 11,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0 kW 0 kW",
+      "source_page": 11,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "": "",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Model PUD-SHWM120VAA(-BS) + E*ST30D-M*D",
+      "source_page": 12,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "pud-shwm120vaa(-bs)_+_e*st30d-m*d": "Heating + DHW + low temp",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "pud-shwm120vaa(-bs)_+_e*st30d-m*d": "Indoor, Outdoor",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "pud-shwm120vaa(-bs)_+_e*st30d-m*d": "n/a",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "pud-shwm120vaa(-bs)_+_e*st30d-m*d": "n/a",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "pud-shwm120vaa(-bs)_+_e*st30d-m*d": "n/a",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "pud-shwm120vaa(-bs)_+_e*st30d-m*d": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "pud-shwm120vaa(-bs)_+_e*st30d-m*d": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "pud-shwm120vaa(-bs)_+_e*st30d-m*d": "",
+      "source_page": 12,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "1x230v_50hz": "n/a",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "1x230v_50hz": "",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "1x230v_50hz": "",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "1x230v_50hz": "",
+      "source_page": 12,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "121 %",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.93",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "02:25 h:min",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "39 W",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "52.5 \u00b0C",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "417 l",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "xl": "",
+      "source_page": 12,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 12,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 12,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 12,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 12,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 12,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 12,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "10 kW",
+      "medium_temperature": "10 kW",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.08 kW",
+      "medium_temperature": "3.77 kW",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.8",
+      "medium_temperature": "2.65",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "41 dB(A)",
+      "medium_temperature": "41 dB(A)",
+      "source_page": 12,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "60 dB(A)",
+      "medium_temperature": "60 dB(A)",
+      "source_page": 12,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 12,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "179 %",
+      "medium_temperature": "135 %",
+      "source_page": 12,
+      "source_table": 8,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12 kW",
+      "medium_temperature": "12 kW",
+      "source_page": 12,
+      "source_table": 8,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_02",
+      "value": "25 h:min",
+      "source_page": 12,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "scop": "Tbiv",
+      "4.55": "-10 \u00b0C",
+      "3.46": "-10 \u00b0C",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "TOL",
+      "4.55": "-28 \u00b0C",
+      "3.46": "-28 \u00b0C",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = -7\u00b0C",
+      "4.55": "10.6 kW",
+      "3.46": "10.6 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = -7\u00b0C",
+      "4.55": "2.85",
+      "3.46": "2.14",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = -7 \u00b0C",
+      "4.55": "1",
+      "3.46": "1",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +2\u00b0C",
+      "4.55": "6.5 kW",
+      "3.46": "6.5 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +2\u00b0C",
+      "4.55": "4.46",
+      "3.46": "3.24",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +2 \u00b0C",
+      "4.55": "0.99",
+      "3.46": "0.99",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +7\u00b0C",
+      "4.55": "5.6 kW",
+      "3.46": "5.3 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +7\u00b0C",
+      "4.55": "5.89",
+      "3.46": "4.82",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +7 \u00b0C",
+      "4.55": "0.98",
+      "3.46": "0.99",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = 12\u00b0C",
+      "4.55": "4.4 kW",
+      "3.46": "4.3 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = 12\u00b0C",
+      "4.55": "8",
+      "3.46": "6.94",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +12 \u00b0C",
+      "4.55": "0.97",
+      "3.46": "0.98",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = Tbiv",
+      "4.55": "12 kW",
+      "3.46": "12 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = Tbiv",
+      "4.55": "2.77",
+      "3.46": "1.87",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.55": "12 kW",
+      "3.46": "12 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.55": "2.77",
+      "3.46": "1.87",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "WTOL",
+      "4.55": "60 \u00b0C",
+      "3.46": "60 \u00b0C",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Poff",
+      "4.55": "15 W",
+      "3.46": "15 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PTO",
+      "4.55": "15 W",
+      "3.46": "15 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PSB",
+      "4.55": "15 W",
+      "3.46": "15 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PCK",
+      "4.55": "0 W",
+      "3.46": "0 W",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: Type of energy\ninput",
+      "4.55": "Electricity",
+      "3.46": "Electricity",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: PSUP",
+      "4.55": "0 kW",
+      "3.46": "0 kW",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Annual energy consumption Qhe",
+      "4.55": "5453 kWh",
+      "3.46": "7170 kWh",
+      "source_page": 13,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0 kW 0 kW",
+      "source_page": 13,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "": "",
+      "source_page": 14,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Model PUD-SHWM120YAA(-BS) + E*ST30D-*M*D",
+      "source_page": 14,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "pud-shwm120yaa(-bs)_+_e*st30d-*m*d": "Heating + DHW + low temp",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "pud-shwm120yaa(-bs)_+_e*st30d-*m*d": "Indoor, Outdoor",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "pud-shwm120yaa(-bs)_+_e*st30d-*m*d": "n/a",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "pud-shwm120yaa(-bs)_+_e*st30d-*m*d": "n/a",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "pud-shwm120yaa(-bs)_+_e*st30d-*m*d": "n/a",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "pud-shwm120yaa(-bs)_+_e*st30d-*m*d": "",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "pud-shwm120yaa(-bs)_+_e*st30d-*m*d": "",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "pud-shwm120yaa(-bs)_+_e*st30d-*m*d": "",
+      "source_page": 14,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "3x400v_50hz": "",
+      "source_page": 14,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "121 %",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.93",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "02:25 h:min",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "39 W",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "52.5 \u00b0C",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "417 l",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "xl": "",
+      "source_page": 14,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 14,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "10 kW",
+      "medium_temperature": "10 kW",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.08 kW",
+      "medium_temperature": "3.77 kW",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.8",
+      "medium_temperature": "2.65",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "41 dB(A)",
+      "medium_temperature": "41 dB(A)",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "60 dB(A)",
+      "medium_temperature": "60 dB(A)",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 14,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "177 %",
+      "medium_temperature": "134 %",
+      "source_page": 14,
+      "source_table": 8,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12 kW",
+      "medium_temperature": "12 kW",
+      "source_page": 14,
+      "source_table": 8,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_02",
+      "value": "25 h:min",
+      "source_page": 14,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "scop": "Tbiv",
+      "4.51": "-10 \u00b0C",
+      "3.44": "-10 \u00b0C",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "TOL",
+      "4.51": "-28 \u00b0C",
+      "3.44": "-28 \u00b0C",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = -7\u00b0C",
+      "4.51": "10.6 kW",
+      "3.44": "10.6 kW",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = -7\u00b0C",
+      "4.51": "2.85",
+      "3.44": "2.14",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = -7 \u00b0C",
+      "4.51": "0.99",
+      "3.44": "1",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +2\u00b0C",
+      "4.51": "6.5 kW",
+      "3.44": "6.5 kW",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +2\u00b0C",
+      "4.51": "4.45",
+      "3.44": "3.24",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +2 \u00b0C",
+      "4.51": "0.98",
+      "3.44": "0.99",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +7\u00b0C",
+      "4.51": "5.6 kW",
+      "3.44": "5.3 kW",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +7\u00b0C",
+      "4.51": "5.89",
+      "3.44": "4.8",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +7 \u00b0C",
+      "4.51": "0.98",
+      "3.44": "0.98",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = 12\u00b0C",
+      "4.51": "4.4 kW",
+      "3.44": "4.3 kW",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = 12\u00b0C",
+      "4.51": "8",
+      "3.44": "6.94",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +12 \u00b0C",
+      "4.51": "0.96",
+      "3.44": "0.96",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = Tbiv",
+      "4.51": "12 kW",
+      "3.44": "12 kW",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = Tbiv",
+      "4.51": "2.77",
+      "3.44": "1.87",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.51": "12 kW",
+      "3.44": "12 kW",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.51": "2.77",
+      "3.44": "1.87",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "WTOL",
+      "4.51": "60 \u00b0C",
+      "3.44": "60 \u00b0C",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Poff",
+      "4.51": "22 W",
+      "3.44": "22 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PTO",
+      "4.51": "22 W",
+      "3.44": "22 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PSB",
+      "4.51": "22 W",
+      "3.44": "22 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PCK",
+      "4.51": "0 W",
+      "3.44": "0 W",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: Type of energy\ninput",
+      "4.51": "Electricity",
+      "3.44": "Electricity",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: PSUP",
+      "4.51": "0 kW",
+      "3.44": "0 kW",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Annual energy consumption Qhe",
+      "4.51": "5496 kWh",
+      "3.44": "7213 kWh",
+      "source_page": 15,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 15,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0 kW 0 kW",
+      "source_page": 15,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "": "",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Model PUD-SHWM120YAA(-BS) + E*ST30D-M*D",
+      "source_page": 16,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Application",
+      "pud-shwm120yaa(-bs)_+_e*st30d-m*d": "Heating + DHW + low temp",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Units",
+      "pud-shwm120yaa(-bs)_+_e*st30d-m*d": "Indoor, Outdoor",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Climate zone (for heating)",
+      "pud-shwm120yaa(-bs)_+_e*st30d-m*d": "n/a",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Cooling mode application (optional)",
+      "pud-shwm120yaa(-bs)_+_e*st30d-m*d": "n/a",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "Any additional heat sources",
+      "pud-shwm120yaa(-bs)_+_e*st30d-m*d": "n/a",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "pud-shwm120yaa(-bs)_+_e*st30d-m*d": "",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "",
+      "pud-shwm120yaa(-bs)_+_e*st30d-m*d": "",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "model_name": "General data",
+      "pud-shwm120yaa(-bs)_+_e*st30d-m*d": "",
+      "source_page": 16,
+      "source_table": 2,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Off-peak product",
+      "3x400v_50hz": "n/a",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "Outdoor Air/Water",
+      "3x400v_50hz": "",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "",
+      "3x400v_50hz": "",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "power_supply": "EN 16147 | Average Climate",
+      "3x400v_50hz": "",
+      "source_page": 16,
+      "source_table": 3,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Efficiency \u03b7DHW",
+      "xl": "121 %",
+      "source_page": 16,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "COP",
+      "xl": "2.93",
+      "source_page": 16,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Heating up time",
+      "xl": "02:25 h:min",
+      "source_page": 16,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Standby power input",
+      "xl": "39 W",
+      "source_page": 16,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Reference hot water temperature",
+      "xl": "52.5 \u00b0C",
+      "source_page": 16,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "Mixed water at 40\u00b0C",
+      "xl": "417 l",
+      "source_page": 16,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 16,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "",
+      "xl": "",
+      "source_page": 16,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "declared_load_profile": "EN 14511-4 | Heating",
+      "xl": "",
+      "source_page": 16,
+      "source_table": 4,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Complete power supply failure",
+      "passed": "passed",
+      "source_page": 16,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Defrost test",
+      "passed": "passed",
+      "source_page": 16,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "Starting and operating test",
+      "passed": "passed",
+      "source_page": 16,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 16,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "",
+      "passed": "",
+      "source_page": 16,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "shutting_off_the_heat_transfer_medium_flow": "EN 14511-2 | Heating",
+      "passed": "",
+      "source_page": 16,
+      "source_table": 5,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Heat output",
+      "low_temperature": "10 kW",
+      "medium_temperature": "10 kW",
+      "source_page": 16,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "El input",
+      "low_temperature": "2.08 kW",
+      "medium_temperature": "3.77 kW",
+      "source_page": 16,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "COP",
+      "low_temperature": "4.8",
+      "medium_temperature": "2.65",
+      "source_page": 16,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "EN 12102-1 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 6,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level indoor",
+      "low_temperature": "41 dB(A)",
+      "medium_temperature": "41 dB(A)",
+      "source_page": 16,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Sound power level outdoor",
+      "low_temperature": "60 dB(A)",
+      "medium_temperature": "60 dB(A)",
+      "source_page": 16,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "EN 14825 | Average Climate",
+      "low_temperature": "",
+      "medium_temperature": "",
+      "source_page": 16,
+      "source_table": 7,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "\u03b7s",
+      "low_temperature": "177 %",
+      "medium_temperature": "134 %",
+      "source_page": 16,
+      "source_table": 8,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "": "Prated",
+      "low_temperature": "12 kW",
+      "medium_temperature": "12 kW",
+      "source_page": 16,
+      "source_table": 8,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "label": "heating_up_time_02",
+      "value": "25 h:min",
+      "source_page": 16,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "scop": "Tbiv",
+      "4.51": "-10 \u00b0C",
+      "3.44": "-10 \u00b0C",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "TOL",
+      "4.51": "-28 \u00b0C",
+      "3.44": "-28 \u00b0C",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = -7\u00b0C",
+      "4.51": "10.6 kW",
+      "3.44": "10.6 kW",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = -7\u00b0C",
+      "4.51": "2.85",
+      "3.44": "2.14",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = -7 \u00b0C",
+      "4.51": "0.99",
+      "3.44": "1",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +2\u00b0C",
+      "4.51": "6.5 kW",
+      "3.44": "6.5 kW",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +2\u00b0C",
+      "4.51": "4.45",
+      "3.44": "3.24",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +2 \u00b0C",
+      "4.51": "0.98",
+      "3.44": "0.99",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = +7\u00b0C",
+      "4.51": "5.6 kW",
+      "3.44": "5.3 kW",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = +7\u00b0C",
+      "4.51": "5.89",
+      "3.44": "4.8",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +7 \u00b0C",
+      "4.51": "0.98",
+      "3.44": "0.98",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = 12\u00b0C",
+      "4.51": "4.4 kW",
+      "3.44": "4.3 kW",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = 12\u00b0C",
+      "4.51": "8",
+      "3.44": "6.94",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Cdh Tj = +12 \u00b0C",
+      "4.51": "0.96",
+      "3.44": "0.96",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = Tbiv",
+      "4.51": "12 kW",
+      "3.44": "12 kW",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = Tbiv",
+      "4.51": "2.77",
+      "3.44": "1.87",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Pdh Tj = TOL or Pdh Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.51": "12 kW",
+      "3.44": "12 kW",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "COP Tj = TOL or COP Tj = Tdesignh if TOL\n< Tdesignh",
+      "4.51": "2.77",
+      "3.44": "1.87",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "WTOL",
+      "4.51": "60 \u00b0C",
+      "3.44": "60 \u00b0C",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Poff",
+      "4.51": "22 W",
+      "3.44": "22 W",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PTO",
+      "4.51": "22 W",
+      "3.44": "22 W",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PSB",
+      "4.51": "22 W",
+      "3.44": "22 W",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "PCK",
+      "4.51": "0 W",
+      "3.44": "0 W",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: Type of energy\ninput",
+      "4.51": "Electricity",
+      "3.44": "Electricity",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Supplementary Heater: PSUP",
+      "4.51": "0 kW",
+      "3.44": "0 kW",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "scop": "Annual energy consumption Qhe",
+      "4.51": "5496 kWh",
+      "3.44": "7213 kWh",
+      "source_page": 17,
+      "source_table": 1,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85",
+      "submodel_id": null
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "Type of energy Electricity Electricity",
+      "source_page": 17,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    },
+    {
+      "label": "supplementary_heater",
+      "value": "PSUP 0 kW 0 kW",
+      "source_page": 17,
+      "source_table": null,
+      "model_id": "Mitsubishi_Electric_Air_Conditioning_Sys_Ecodan_Zubadan_10_12-300D_AA_Outdoor_Air_Water_85"
+    }
+  ]
+}
