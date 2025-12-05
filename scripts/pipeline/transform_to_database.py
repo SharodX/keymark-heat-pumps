@@ -23,18 +23,41 @@ from datetime import datetime
 
 # Classification constants
 MEASUREMENT_PREFIXES = ('EN14825', 'EN14511', 'EN16147', 'EN12102')
-PROBLEMATIC_FILES = {
-    '_Advantix_S.p.A.i-290_0106.jsonl',
-    '_Ariston_Thermo_GroupNIMBUS_90_M_-_ARIANEXT_90_M_-_AEROTOP_MONO_09_-_ENERGION_M_9.jsonl',
-    '_Ariston_Thermo_GroupNIMBUS_ARIANEXT_AEROTOP_ENERGION_120_150_M_-_COMPACT.jsonl',
-    '_Ariston_Thermo_GroupNIMBUS_ARIANEXT_AEROTOP_ENERGION_120_150_M_-_Plus_LB.jsonl',
-    '_Ariston_Thermo_GroupNIMBUS_ARIANEXT_AEROTOP_ENERGION_35_50_S_-_COMPACT.jsonl',
-    '_BAXI_Climatización_S.L.UIridium_9.jsonl',
-    '_Bosch_Thermotechnik_GmbHBosch_CS5800i_6800iAW_10_12_OR.jsonl',
-    '_DAIKIN_Europe_N.V.DAIKIN_ALTHERMA_3_M_9KW.jsonl',
-    '_DAIKIN_Europe_N.V.DAIKIN_ALTHERMA_3_R_ECH2O_08KW_(300L)_(_A).jsonl',
-    '_DAIKIN_Europe_N.V.Daikin_Altherma_3_R_MT_ECH2O_08-12_kW_(300L).jsonl'
-}
+
+# Standard header fields that indicate a properly formatted file
+STANDARD_HEADER_FIELDS = {'modelid', 'varname', 'value', 'temperature', 'climate', 'indoorunittype', 'info', 'hptype'}
+
+
+def is_alternate_format(jsonl_path: Path) -> bool:
+    """
+    Detect if a staging file is in alternate format (not standard KeyMark format).
+    
+    Alternate format files either:
+    1. Have metadata-only content (no varname field with 'title' value)
+    2. Are missing standard header fields
+    
+    See docs/ALTERNATE_FORMAT_FILES.md for details.
+    """
+    try:
+        with open(jsonl_path) as f:
+            first_line = f.readline()
+            if not first_line.strip():
+                return True
+            
+            record = json.loads(first_line)
+            fields = {k.lower() for k in record.keys()}
+            
+            # Check if it has standard header fields
+            if not STANDARD_HEADER_FIELDS.intersection(fields):
+                return True
+            
+            # Check if varname field exists (key indicator of standard format)
+            if 'varname' not in fields:
+                return True
+                
+            return False
+    except (json.JSONDecodeError, IOError):
+        return True
 
 
 def load_staging_jsonl(file_path):
@@ -336,9 +359,19 @@ def main():
     # Initialize logger
     logger = TransformationLogger(log_dir)
     
-    # Get all valid JSONL files
-    jsonl_files = sorted([f for f in staging_dir.glob('*.jsonl') 
-                         if f.name not in PROBLEMATIC_FILES])
+    # Get all JSONL files and filter out alternate format files
+    all_jsonl_files = sorted(staging_dir.glob('*.jsonl'))
+    alternate_format_files = []
+    jsonl_files = []
+    
+    for f in all_jsonl_files:
+        if is_alternate_format(f):
+            alternate_format_files.append(f.name)
+        else:
+            jsonl_files.append(f)
+    
+    if alternate_format_files:
+        print(f"Skipping {len(alternate_format_files)} alternate format files (see docs/ALTERNATE_FORMAT_FILES.md)")
     
     print(f"Transforming {len(jsonl_files)} files to database...\n")
     
@@ -361,8 +394,8 @@ def main():
                 stats['failed'] += 1
                 continue
             
-            # Write to JSON
-            output_file = output_dir / (jsonl_file.stem.replace('_', '__') + '.json')
+            # Write to JSON (keep original stem, don't replace underscores)
+            output_file = output_dir / (jsonl_file.stem + '.json')
             with open(output_file, 'w') as f:
                 json.dump(db_obj, f, indent=2)
             

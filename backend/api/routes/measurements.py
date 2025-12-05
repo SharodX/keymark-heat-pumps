@@ -22,8 +22,8 @@ CLIMATE_TOKEN_MAP = {
 @router.get("/", response_model=Page[Measurement])
 def list_measurements(
     manufacturer: str | None = Query(None, description="Filter by manufacturer name"),
-    model: str | None = Query(None, description="Filter by model name"),
-    variant: str | None = Query(None, description="Filter by variant name"),
+    subtype: str | None = Query(None, description="Filter by subtype name (product line)"),
+    model: str | None = Query(None, description="Filter by model name (specific configuration)"),
     en_code: str | None = Query(None, description="Filter by EN code"),
     dimension: str | None = Query(None, description="Filter by measurement dimension"),
     climates: list[str] | None = Query(
@@ -34,7 +34,10 @@ def list_measurements(
     offset: int = Query(0, ge=0, description="Number of rows to skip"),
     connection = Depends(get_duckdb),
 ) -> Page[Measurement]:
-    """Return a paginated list of measurements."""
+    """Return a paginated list of measurements.
+    
+    Hierarchy: Manufacturer -> Subtype (product line) -> Model (specific configuration)
+    """
 
     conditions: list[str] = []
     parameters: list[Any] = []
@@ -45,8 +48,8 @@ def list_measurements(
             parameters.append(value)
 
     add_condition("manufacturer_name", manufacturer)
+    add_condition("subtype_name", subtype)
     add_condition("model_name", model)
-    add_condition("variant_name", variant)
     add_condition("en_code", en_code)
     add_condition("dimension", dimension)
 
@@ -61,10 +64,10 @@ def list_measurements(
     where_clause = f"WHERE {' AND '.join(conditions)}" if conditions else ""
 
     select_sql = (
-        "SELECT manufacturer_name, model_name, variant_name, en_code, dimension, value, unit "
+        "SELECT manufacturer_name, subtype_name, model_name, en_code, dimension, value, unit "
         "FROM measurements "
         f"{where_clause} "
-        "ORDER BY manufacturer_name, model_name, variant_name, en_code, dimension "
+        "ORDER BY manufacturer_name, subtype_name, model_name, en_code, dimension "
         "LIMIT ? OFFSET ?"
     )
 

@@ -16,7 +16,7 @@ def get_en14825_metadata(connection = Depends(get_duckdb)) -> dict:
     # Get available refrigerants
     refrigerants = connection.execute("""
             SELECT DISTINCT json_extract_string(metadata, '$.Refrigerant') as refrigerant
-            FROM models
+            FROM subtypes
             WHERE json_extract_string(metadata, '$.Refrigerant') IS NOT NULL
             ORDER BY refrigerant
         """).fetchall()
@@ -26,7 +26,7 @@ def get_en14825_metadata(connection = Depends(get_duckdb)) -> dict:
             SELECT 
                 MIN(CAST(json_extract_string(metadata, '$.refrigerant_mass_kg') AS DOUBLE)) as min_mass,
                 MAX(CAST(json_extract_string(metadata, '$.refrigerant_mass_kg') AS DOUBLE)) as max_mass
-            FROM models
+            FROM subtypes
             WHERE json_extract_string(metadata, '$.refrigerant_mass_kg') IS NOT NULL
         """).fetchone()
         
@@ -35,14 +35,14 @@ def get_en14825_metadata(connection = Depends(get_duckdb)) -> dict:
             SELECT 
                 MIN(json_extract_string(metadata, '$.certification_date')) as min_date,
                 MAX(json_extract_string(metadata, '$.certification_date')) as max_date
-            FROM models
+            FROM subtypes
             WHERE json_extract_string(metadata, '$.certification_date') IS NOT NULL
         """).fetchone()
         
     # Get heat pump types
     types = connection.execute("""
             SELECT DISTINCT json_extract_string(metadata, '$.Type') as type
-            FROM models
+            FROM subtypes
             WHERE json_extract_string(metadata, '$.Type') IS NOT NULL
             ORDER BY type
         """).fetchall()
@@ -50,7 +50,7 @@ def get_en14825_metadata(connection = Depends(get_duckdb)) -> dict:
     # Get manufacturers
     manufacturers = connection.execute("""
             SELECT DISTINCT manufacturer_name
-            FROM models
+            FROM subtypes
             ORDER BY manufacturer_name
         """).fetchall()
         
@@ -169,48 +169,48 @@ def get_en14825_data(
     if refrigerant:
         placeholders = ','.join(['?' for _ in refrigerant])
         where_clauses.append(
-            f"json_extract_string(mod.metadata, '$.Refrigerant') IN ({placeholders})"
+            f"json_extract_string(sub.metadata, '$.Refrigerant') IN ({placeholders})"
         )
         params.extend(refrigerant)
 
     # Refrigerant mass filter
     if refrigerant_mass_min is not None:
         where_clauses.append(
-            "CAST(json_extract_string(mod.metadata, '$.refrigerant_mass_kg') AS DOUBLE) >= ?"
+            "CAST(json_extract_string(sub.metadata, '$.refrigerant_mass_kg') AS DOUBLE) >= ?"
         )
         params.append(refrigerant_mass_min)
     if refrigerant_mass_max is not None:
         where_clauses.append(
-            "CAST(json_extract_string(mod.metadata, '$.refrigerant_mass_kg') AS DOUBLE) <= ?"
+            "CAST(json_extract_string(sub.metadata, '$.refrigerant_mass_kg') AS DOUBLE) <= ?"
         )
         params.append(refrigerant_mass_max)
 
     # Certification date filter
     if certification_date_from:
-        where_clauses.append("json_extract_string(mod.metadata, '$.certification_date') >= ?")
+        where_clauses.append("json_extract_string(sub.metadata, '$.certification_date') >= ?")
         params.append(certification_date_from)
     if certification_date_to:
-        where_clauses.append("json_extract_string(mod.metadata, '$.certification_date') <= ?")
+        where_clauses.append("json_extract_string(sub.metadata, '$.certification_date') <= ?")
         params.append(certification_date_to)
 
     # Type filter
     if hp_type:
         placeholders = ','.join(['?' for _ in hp_type])
-        where_clauses.append(f"json_extract_string(mod.metadata, '$.Type') IN ({placeholders})")
+        where_clauses.append(f"json_extract_string(sub.metadata, '$.Type') IN ({placeholders})")
         params.extend(hp_type)
 
     # Manufacturer filter
     if manufacturer:
         placeholders = ','.join(['?' for _ in manufacturer])
-        where_clauses.append(f"mod.manufacturer_name IN ({placeholders})")
+        where_clauses.append(f"sub.manufacturer_name IN ({placeholders})")
         params.extend(manufacturer)
 
-    # Variant property filters
+    # Model property filters
     if reversibility is not None:
-        where_clauses.append("CAST(json_extract_string(v.properties, '$.reversibility') AS INTEGER) = ?")
+        where_clauses.append("CAST(json_extract_string(mdl.properties, '$.reversibility') AS INTEGER) = ?")
         params.append(reversibility)
     if power_supply is not None:
-        where_clauses.append("CAST(json_extract_string(v.properties, '$.powerSupply') AS INTEGER) = ?")
+        where_clauses.append("CAST(json_extract_string(mdl.properties, '$.powerSupply') AS INTEGER) = ?")
         params.append(power_supply)
 
     where_clause = " AND " + " AND ".join(where_clauses) if where_clauses else ""
@@ -222,8 +222,8 @@ def get_en14825_data(
         WITH en14825_metrics AS (
             SELECT 
                 m.manufacturer_name,
+                m.subtype_name,
                 m.model_name,
-                m.variant_name,
                 m.dimension,
                 MAX(CASE WHEN m.en_code = 'EN14825_002' THEN m.value END) as prated,
                 MAX(CASE WHEN m.en_code = 'EN14825_003' THEN m.value END) as scop,
@@ -233,16 +233,16 @@ def get_en14825_data(
                 MAX(CASE WHEN m.en_code = 'EN14825_001' THEN m.value END) as efficiency_pct,
                 MAX(CASE WHEN m.en_code = 'EN14825_022' THEN m.value END) as wtol,
                 MAX(CASE WHEN m.en_code = 'EN14825_029' THEN m.value END) as annual_energy_kwh,
-                mod.metadata,
-                v.properties
+                sub.metadata,
+                mdl.properties
             FROM measurements m
-            JOIN models mod ON m.manufacturer_name = mod.manufacturer_name AND m.model_name = mod.model_name
-            JOIN variants v ON m.manufacturer_name = v.manufacturer_name 
-                AND m.model_name = v.model_name 
-                AND m.variant_name = v.variant_name
+            JOIN subtypes sub ON m.manufacturer_name = sub.manufacturer_name AND m.subtype_name = sub.subtype_name
+            JOIN models mdl ON m.manufacturer_name = mdl.manufacturer_name 
+                AND m.subtype_name = mdl.subtype_name 
+                AND m.model_name = mdl.model_name
             WHERE m.en_code IN ('EN14825_001', 'EN14825_002', 'EN14825_003', 'EN14825_004', 'EN14825_005', 'EN14825_022', 'EN14825_028', 'EN14825_029')
                 {where_clause}
-            GROUP BY m.manufacturer_name, m.model_name, m.variant_name, m.dimension, mod.metadata, v.properties
+            GROUP BY m.manufacturer_name, m.subtype_name, m.model_name, m.dimension, sub.metadata, mdl.properties
         )
         SELECT *
         FROM en14825_metrics
@@ -257,7 +257,7 @@ def get_en14825_data(
             {f"AND tol <= {tol_max}" if tol_max is not None else ""}
             {f"AND psup >= {psup_min}" if psup_min is not None else ""}
             {f"AND psup <= {psup_max}" if psup_max is not None else ""}
-        ORDER BY manufacturer_name, model_name, variant_name, dimension
+        ORDER BY manufacturer_name, subtype_name, model_name, dimension
         LIMIT ? OFFSET ?
         """
         
@@ -270,8 +270,8 @@ def get_en14825_data(
         WITH en14825_metrics AS (
             SELECT 
                 m.manufacturer_name,
+                m.subtype_name,
                 m.model_name,
-                m.variant_name,
                 m.dimension,
                 MAX(CASE WHEN m.en_code = 'EN14825_002' THEN m.value END) as prated,
                 MAX(CASE WHEN m.en_code = 'EN14825_003' THEN m.value END) as scop,
@@ -279,13 +279,13 @@ def get_en14825_data(
                 MAX(CASE WHEN m.en_code = 'EN14825_005' THEN m.value END) as tol,
                 MAX(CASE WHEN m.en_code = 'EN14825_028' THEN m.value END) as psup
             FROM measurements m
-            JOIN models mod ON m.manufacturer_name = mod.manufacturer_name AND m.model_name = mod.model_name
-            JOIN variants v ON m.manufacturer_name = v.manufacturer_name 
-                AND m.model_name = v.model_name 
-                AND m.variant_name = v.variant_name
+            JOIN subtypes sub ON m.manufacturer_name = sub.manufacturer_name AND m.subtype_name = sub.subtype_name
+            JOIN models mdl ON m.manufacturer_name = mdl.manufacturer_name 
+                AND m.subtype_name = mdl.subtype_name 
+                AND m.model_name = mdl.model_name
             WHERE m.en_code IN ('EN14825_002', 'EN14825_003', 'EN14825_004', 'EN14825_005', 'EN14825_028')
                 {where_clause}
-            GROUP BY m.manufacturer_name, m.model_name, m.variant_name, m.dimension
+            GROUP BY m.manufacturer_name, m.subtype_name, m.model_name, m.dimension
         )
         SELECT COUNT(*)
         FROM en14825_metrics
@@ -308,7 +308,7 @@ def get_en14825_data(
     data = []
     for row in results:
         # Parse JSON strings from DuckDB
-        # Row order: manufacturer, model, variant, dimension, prated, scop, tbiv, tol, psup, efficiency_pct, wtol, annual_energy_kwh, metadata, properties
+        # Row order: manufacturer, subtype, model, dimension, prated, scop, tbiv, tol, psup, efficiency_pct, wtol, annual_energy_kwh, metadata, properties
         metadata = {}
         properties = {}
         
@@ -326,8 +326,8 @@ def get_en14825_data(
         
         data.append({
             "manufacturer": row[0],
-            "model": row[1],
-            "variant": row[2],
+            "subtype": row[1],
+            "model": row[2],
             "dimension": row[3],
             "temperature_level": row[3][0] if row[3] else None,
             "climate_zone": row[3][2] if len(row[3]) > 2 else None,

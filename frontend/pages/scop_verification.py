@@ -26,14 +26,14 @@ def fetch_en14825_metadata() -> dict[str, Any]:
         return response.json()
 
 
-def fetch_heat_pump_detail(manufacturer: str, model: str, variant: str, temp_level: str, climate: str) -> dict:
+def fetch_heat_pump_detail(manufacturer: str, subtype: str, model: str, temp_level: str, climate: str) -> dict:
     """Fetch detailed performance data for a specific heat pump."""
     base_url = get_api_base().rstrip("/")
     url = f"{base_url}/heat-pump/detail"
     params = {
         "manufacturer": manufacturer,
+        "subtype": subtype,
         "model": model,
-        "variant": variant,
         "temperature_level": temp_level,
         "climate_zone": climate
     }
@@ -43,8 +43,8 @@ def fetch_heat_pump_detail(manufacturer: str, model: str, variant: str, temp_lev
         return response.json()
 
 
-def fetch_all_variants() -> pd.DataFrame:
-    """Fetch all available heat pump variants."""
+def fetch_all_models() -> pd.DataFrame:
+    """Fetch all available heat pump models.""""
     base_url = get_api_base().rstrip("/")
     url = f"{base_url}/en14825/data"
     params = {"limit": 50000}
@@ -184,16 +184,16 @@ def main():
     st.title("🧮 SCOP Verification Tool")
     st.caption("Verify SCOP calculations from spec sheets using EN14825:2018 bin method")
     
-    # Load all variants once
-    if 'variants_df' not in st.session_state:
+    # Load all models once
+    if 'models_df' not in st.session_state:
         with st.spinner("Loading heat pump database..."):
             try:
-                st.session_state.variants_df = fetch_all_variants()
+                st.session_state.models_df = fetch_all_models()
             except Exception as e:
                 st.error(f"Failed to load database: {e}")
                 return
     
-    df = st.session_state.variants_df
+    df = st.session_state.models_df
     
     # Sidebar for selection
     with st.sidebar:
@@ -203,28 +203,28 @@ def main():
         manufacturers = sorted(df["manufacturer"].unique())
         selected_mfg = st.selectbox("Manufacturer", manufacturers, key="mfg_select")
         
-        # Model selection
+        # Subtype selection
         if selected_mfg:
-            models = sorted(df[df["manufacturer"] == selected_mfg]["model"].unique())
+            subtypes = sorted(df[df["manufacturer"] == selected_mfg]["subtype"].unique())
+            selected_subtype = st.selectbox("Subtype", subtypes, key="subtype_select")
+        else:
+            selected_subtype = None
+        
+        # Model selection
+        if selected_mfg and selected_subtype:
+            models = sorted(df[(df["manufacturer"] == selected_mfg) & 
+                                (df["subtype"] == selected_subtype)]["model"].unique())
             selected_model = st.selectbox("Model", models, key="model_select")
         else:
             selected_model = None
         
-        # Variant selection
-        if selected_mfg and selected_model:
-            variants = sorted(df[(df["manufacturer"] == selected_mfg) & 
-                                (df["model"] == selected_model)]["variant"].unique())
-            selected_variant = st.selectbox("Variant", variants, key="variant_select")
-        else:
-            selected_variant = None
-        
         st.divider()
         
         # Temperature and climate selection
-        if selected_mfg and selected_model and selected_variant:
+        if selected_mfg and selected_subtype and selected_model:
             hp_data = df[(df["manufacturer"] == selected_mfg) & 
-                        (df["model"] == selected_model) & 
-                        (df["variant"] == selected_variant)]
+                        (df["subtype"] == selected_subtype) & 
+                        (df["model"] == selected_model)]
             
             temp_options = sorted(hp_data["temperature_level"].unique())
             temp_map = {"4": "35°C Low Temp", "5": "55°C Medium Temp", "9": "Other"}
@@ -249,7 +249,7 @@ def main():
             )
     
     # Main content
-    if not (selected_mfg and selected_model and selected_variant):
+    if not (selected_mfg and selected_subtype and selected_model):
         st.info("👈 Select a heat pump from the sidebar to verify SCOP calculations")
         return
     
@@ -258,8 +258,8 @@ def main():
                             (hp_data["climate_zone"] == selected_climate)].iloc[0]
     
     # Display basic info
-    st.header(f"{selected_mfg} {selected_model}")
-    st.subheader(f"Variant: {selected_variant}")
+    st.header(f"{selected_mfg} {selected_subtype}")
+    st.subheader(f"Model: {selected_model}")
     
     # Reported values from spec sheet
     temp_label = temp_map.get(selected_temp, selected_temp)
@@ -291,7 +291,7 @@ def main():
     # Fetch detailed test point data
     try:
         with st.spinner("Loading test point data..."):
-            detail_data = fetch_heat_pump_detail(selected_mfg, selected_model, selected_variant, selected_temp, selected_climate)
+            detail_data = fetch_heat_pump_detail(selected_mfg, selected_subtype, selected_model, selected_temp, selected_climate)
         
         measurements = detail_data.get("measurements", {})
         

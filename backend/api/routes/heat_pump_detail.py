@@ -9,13 +9,13 @@ router = APIRouter(prefix="/heat-pump", tags=["heat-pump-detail"])
 @router.get("/detail")
 def get_heat_pump_detail(
     manufacturer: str = Query(..., description="Manufacturer name"),
+    subtype: str = Query(..., description="Subtype name"),
     model: str = Query(..., description="Model name"),
-    variant: str = Query(..., description="Variant name"),
     temperature_level: str = Query(..., description="Temperature level code (4 or 5)"),
     climate_zone: str = Query(..., description="Climate zone code (1, 2, or 3)"),
     connection = Depends(get_duckdb),
 ) -> dict:
-    """Get detailed performance curve data for a specific heat pump variant and condition."""
+    """Get detailed performance curve data for a specific heat pump model and condition."""
     import json
 
     # Get all EN14825 measurements for this heat pump at specified condition
@@ -26,24 +26,24 @@ def get_heat_pump_detail(
             m.en_code,
             m.dimension,
             m.value,
-            mod.metadata,
-            v.properties
+            sub.metadata,
+            mod.properties
         FROM measurements m
+        JOIN subtypes sub ON m.manufacturer_name = sub.manufacturer_name 
+            AND m.subtype_name = sub.subtype_name
         JOIN models mod ON m.manufacturer_name = mod.manufacturer_name 
+            AND m.subtype_name = mod.subtype_name 
             AND m.model_name = mod.model_name
-        JOIN variants v ON m.manufacturer_name = v.manufacturer_name 
-            AND m.model_name = v.model_name 
-            AND m.variant_name = v.variant_name
         WHERE m.manufacturer_name = ?
+            AND m.subtype_name = ?
             AND m.model_name = ?
-            AND m.variant_name = ?
             AND m.en_code LIKE 'EN14825_%'
             AND m.dimension LIKE ?
         ORDER BY m.en_code, m.dimension
         """
 
     results = connection.execute(
-        query, [manufacturer, model, variant, dimension_pattern]
+        query, [manufacturer, subtype, model, dimension_pattern]
     ).fetchall()
 
     if not results:
@@ -85,8 +85,8 @@ def get_heat_pump_detail(
 
     return {
         "manufacturer": manufacturer,
+        "subtype": subtype,
         "model": model,
-        "variant": variant,
         "temperature_level": temperature_level,
         "climate_zone": climate_zone,
         "metadata": metadata,

@@ -166,8 +166,8 @@ def main():
             options=metadata["manufacturers"]
         )
         
-        # Variant Properties
-        with st.expander("Variant Properties"):
+        # Model Properties
+        with st.expander("Model Properties"):
             reversibility = st.selectbox(
                 "Reversibility",
                 options=["All", "Yes (1)", "No (0)"]
@@ -178,7 +178,7 @@ def main():
             )
         
         st.divider()
-        st.info("💡 Results show individual data points (each variant × temp level × climate zone = 1 data point)")
+        st.info("💡 Results show individual data points (each model × temp level × climate zone = 1 data point)")
         
         # Fetch button
         fetch_button = st.button("🔍 Analyze Data", type="primary", use_container_width=True)
@@ -248,10 +248,10 @@ def main():
                 st.success(f"✅ Found {result['total']:,} data points (showing {len(df):,})")
                 
                 # Calculate unique heat pumps and data composition
-                unique_variants = df[["manufacturer", "model", "variant"]].drop_duplicates().shape[0]
+                unique_models = df[["manufacturer", "subtype", "model"]].drop_duplicates().shape[0]
                 temp_levels = df['temperature_level'].unique()
                 climate_zones = df['climate_zone'].unique()
-                st.info(f"📊 This represents **{unique_variants:,} unique heat pump variants** across {len(temp_levels)} temperature level(s) and {len(climate_zones)} climate zone(s)")
+                st.info(f"📊 This represents **{unique_models:,} unique heat pump models** across {len(temp_levels)} temperature level(s) and {len(climate_zones)} climate zone(s)")
                 
                 # Data composition warning
                 if len(temp_levels) > 1 or len(climate_zones) > 1:
@@ -269,7 +269,7 @@ def main():
                 # Key metrics
                 col1, col2, col3, col4 = st.columns(4)
                 with col1:
-                    st.metric("Heat Pump Variants", unique_variants)
+                    st.metric("Heat Pump Models", unique_models)
                 with col2:
                     st.metric("Avg SCOP", f"{df['scop'].mean():.2f}")
                 with col3:
@@ -343,15 +343,15 @@ def main():
                         # Test condition coverage analysis
                         st.write("**Test Condition Coverage**")
                         
-                        # Group by variant to see which climate zones each variant has
-                        variant_coverage = df.groupby(["manufacturer", "model", "variant"]).agg({
+                        # Group by model to see which climate zones each model has
+                        model_coverage = df.groupby(["manufacturer", "subtype", "model"]).agg({
                             "climate_zone": lambda x: set(x),
                             "temperature_level": lambda x: set(x)
                         }).reset_index()
                         
-                        # Count variants by climate zone coverage
+                        # Count models by climate zone coverage
                         coverage_counts = []
-                        for climates in variant_coverage["climate_zone"]:
+                        for climates in model_coverage["climate_zone"]:
                             climate_set = sorted(climates)
                             if climate_set == ['1', '2', '3']:
                                 coverage_counts.append("All 3 climates")
@@ -365,7 +365,7 @@ def main():
                         
                         coverage_df = pd.DataFrame({"coverage": coverage_counts})
                         coverage_summary = coverage_df.value_counts().reset_index()
-                        coverage_summary.columns = ["Test Coverage", "Variants"]
+                        coverage_summary.columns = ["Test Coverage", "Models"]
                         
                         # Order by importance
                         order_map = {"Average only": 0, "Average + Colder": 1, "Average + Warmer": 2, "All 3 climates": 3, "Other combination": 4}
@@ -374,11 +374,12 @@ def main():
                         
                         fig_coverage = px.bar(
                             coverage_summary,
-                            x="Variants",
+                            x="Models",
                             y="Test Coverage",
                             orientation="h",
-                            title="Climate Zone Test Coverage by Variant",
-                            labels={"Variants": "Number of Variants", "Test Coverage": ""}
+                            title="Climate Zone Test Coverage by Model",
+                            labels={"Models": "Number of Models", "Test Coverage": ""}
+                        )
                         )
                         fig_coverage.update_layout(height=400, showlegend=False)
                         st.plotly_chart(fig_coverage, use_container_width=True)
@@ -399,7 +400,7 @@ def main():
                             y="scop",
                             color="refrigerant",
                             size="refrigerant_mass_kg",
-                            hover_data=["manufacturer", "model", "variant", "temperature_level", "climate_zone"],
+                            hover_data=["manufacturer", "subtype", "model", "temperature_level", "climate_zone"],
                             title="SCOP vs Prated (sized by refrigerant mass) - Click points to view details",
                             labels={"prated": "Rated Power (kW)", "scop": "SCOP"}
                         )
@@ -412,7 +413,7 @@ def main():
                             x="prated",
                             y="scop",
                             color="refrigerant",
-                            hover_data=["manufacturer", "model", "variant", "temperature_level", "climate_zone"],
+                            hover_data=["manufacturer", "subtype", "model", "temperature_level", "climate_zone"],
                             title="SCOP vs Prated - Click points to view details",
                             labels={"prated": "Rated Power (kW)", "scop": "SCOP"}
                         )
@@ -426,11 +427,11 @@ def main():
                     col_a, col_b = st.columns([1, 2])
                     with col_a:
                         # Find top/bottom performers
-                        top_scop = df.nlargest(5, "scop")[["manufacturer", "model", "variant", "scop", "prated", "refrigerant"]]
+                        top_scop = df.nlargest(5, "scop")[["manufacturer", "subtype", "model", "scop", "prated", "refrigerant"]]
                         st.write("**Top 5 SCOP**")
                         st.dataframe(top_scop, hide_index=True)
                         
-                        low_scop = df.nsmallest(5, "scop")[["manufacturer", "model", "variant", "scop", "prated", "refrigerant"]]
+                        low_scop = df.nsmallest(5, "scop")[["manufacturer", "subtype", "model", "scop", "prated", "refrigerant"]]
                         st.write("**Lowest 5 SCOP**")
                         st.dataframe(low_scop, hide_index=True)
                     
@@ -453,7 +454,7 @@ def main():
                             if not filtered.empty:
                                 st.write(f"**Found {len(filtered)} matching records:**")
                                 st.dataframe(
-                                    filtered[["manufacturer", "model", "variant", "dimension", "scop", "prated", 
+                                    filtered[["manufacturer", "subtype", "model", "dimension", "scop", "prated", 
                                              "tbiv", "tol", "refrigerant", "refrigerant_mass_kg", "certification_date"]],
                                     hide_index=True,
                                     width="stretch"
@@ -512,27 +513,27 @@ def main():
                     # Show test coverage breakdown
                     st.write("**🔬 Test Condition Availability**")
                     
-                    # Calculate unique variants per temp/climate combination
-                    variant_by_condition = df.groupby(["temperature_level", "climate_zone"]).agg({
-                        "variant": lambda x: x.nunique()
+                    # Calculate unique models per temp/climate combination
+                    model_by_condition = df.groupby(["temperature_level", "climate_zone"]).agg({
+                        "model": lambda x: x.nunique()
                     }).reset_index()
-                    variant_by_condition.columns = ["temperature_level", "climate_zone", "unique_variants"]
-                    variant_by_condition["temperature_level"] = variant_by_condition["temperature_level"].map(
+                    model_by_condition.columns = ["temperature_level", "climate_zone", "unique_models"]
+                    model_by_condition["temperature_level"] = model_by_condition["temperature_level"].map(
                         {"4": "35°C", "5": "55°C", "9": "Other"}
                     )
-                    variant_by_condition["climate_zone"] = variant_by_condition["climate_zone"].map(
+                    model_by_condition["climate_zone"] = model_by_condition["climate_zone"].map(
                         {"1": "Warmer", "2": "Colder", "3": "Average"}
                     )
                     
                     # Pivot for better display
-                    pivot_variants = variant_by_condition.pivot(
+                    pivot_models = model_by_condition.pivot(
                         index="temperature_level",
                         columns="climate_zone",
-                        values="unique_variants"
+                        values="unique_models"
                     ).fillna(0).astype(int)
                     
-                    st.write(f"**Number of unique variants tested per condition:**")
-                    st.dataframe(pivot_variants, width="stretch")
+                    st.write(f"**Number of unique models tested per condition:**")
+                    st.dataframe(pivot_models, width="stretch")
                     
                     col1, col2 = st.columns(2)
                     

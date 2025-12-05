@@ -74,7 +74,7 @@ def main() -> None:
 
         if heat_pumps:
             labels = [
-                f"{hp['manufacturer_name']} – {hp['model_name']} ({hp['variant_name']})"
+                f"{hp['manufacturer_name']} – {hp['subtype_name']} ({hp['model_name']})"
                 for hp in heat_pumps
             ]
             options = ["All heat pumps", *labels]
@@ -102,8 +102,8 @@ def main() -> None:
     params: dict[str, Any] = {"limit": limit, "offset": offset}
     if selected_hp:
         params["manufacturer"] = selected_hp["manufacturer_name"]
+        params["subtype"] = selected_hp["subtype_name"]
         params["model"] = selected_hp["model_name"]
-        params["variant"] = selected_hp["variant_name"]
     if en_code:
         params["en_code"] = en_code
     if dimension:
