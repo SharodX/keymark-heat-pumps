@@ -10,6 +10,13 @@ This project:
 3. **Analyzes** heat pump performance (SCOP calculations per EN14825:2018)
 4. **Serves** data via FastAPI + Streamlit dashboard
 
+## Data Model
+
+The database uses a **Manufacturer → Subtype → Model** hierarchy:
+- **Manufacturer**: Company producing the heat pump (e.g., "Daikin Europe N.V.")
+- **Subtype**: Product line or series (e.g., "EHBH08D6V")
+- **Model**: Specific variant/configuration (e.g., "ERGA04DV + EHBH08D6V")
+
 ## Quick Start
 
 ### VS Code / Codespaces (Recommended)
@@ -64,11 +71,15 @@ CSV/PDF sources → staging/JSONL → database/JSON → DuckDB → API → Dashb
 ```
 
 **Pipeline scripts** (in order):
-1. `scripts/pipeline/ingest_all_csvs.py`
-2. `scripts/pipeline/ingest_all_pdfs.py`
-3. `scripts/pipeline/transform_to_database.py`
-4. `scripts/pipeline/build_duckdb.py`
-5. `scripts/pipeline/build_unique_duckdb.py`
+1. `scripts/pipeline/ingest_all_csvs.py` - Parse CSVs → staging JSONL
+2. `scripts/pipeline/ingest_all_pdfs.py` - Extract PDFs → staging JSONL
+3. `scripts/pipeline/transform_to_database.py` - JSONL → database JSON
+4. `scripts/pipeline/build_duckdb_minimal.py` - JSON → keymark.duckdb
+5. `scripts/pipeline/build_unique_duckdb.py` - Deduplicate → keymark_unique.duckdb
+
+**Convenience scripts:**
+- `scripts/pipeline/full_rebuild.py` - Run complete pipeline from scratch
+- `scripts/pipeline/incremental_update.py` - Sync new files only
 
 ## Documentation
 
@@ -77,20 +88,33 @@ CSV/PDF sources → staging/JSONL → database/JSON → DuckDB → API → Dashb
 | [`docs/PROJECT_STRUCTURE.md`](docs/PROJECT_STRUCTURE.md) | Full project structure |
 | [`docs/EN_CODES_REFERENCE.md`](docs/EN_CODES_REFERENCE.md) | EN14825/14511/12102 code mapping |
 | [`docs/SCOP_CALCULATIONS.md`](docs/SCOP_CALCULATIONS.md) | SCOP formula implementation |
+| [`docs/ALTERNATE_FORMAT_FILES.md`](docs/ALTERNATE_FORMAT_FILES.md) | Files with metadata-only format |
 | [`data/DIMENSION_CODE_MAPPING.md`](data/DIMENSION_CODE_MAPPING.md) | Dimension encoding (X_Y_Z_W) |
 
 ## Database
 
 | Database | Description |
 |----------|-------------|
-| `data/keymark.duckdb` | Full database (309K measurements) |
-| `data/keymark_unique.duckdb` | Deduplicated version |
+| `data/keymark.duckdb` | Full database (181 manufacturers, 2,446 subtypes, 8,334 models, 1.1M measurements) |
+| `data/keymark_unique.duckdb` | Deduplicated (3,762 unique signatures, 472K measurements) |
+
+### Schema
+
+```sql
+-- Hierarchy: manufacturers → subtypes → models → measurements
+manufacturers (manufacturer_name PRIMARY KEY)
+subtypes (manufacturer_name, subtype_name, metadata JSON)
+models (manufacturer_name, subtype_name, model_name, properties JSON)
+measurements (manufacturer_name, subtype_name, model_name, en_code, dimension, value)
+```
 
 ## API Endpoints
 
 - `GET /measurements` – Paginated measurements with filters
 - `GET /heat-pumps` – Heat pump list with search
-- `GET /en14825` – EN14825-specific data
+- `GET /en14825/data` – EN14825-specific data with filtering
+- `GET /en14825/metadata` – Filter options (manufacturers, refrigerants, etc.)
+- `GET /heat-pump/detail` – Detailed test point data for a specific model
 - `GET /health` – Health check
 
 ## Testing
