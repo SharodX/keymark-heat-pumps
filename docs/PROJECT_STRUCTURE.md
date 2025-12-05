@@ -44,7 +44,7 @@ keymark-heat-pumps/
 │   │   ├── ingest_all_csvs.py     # Parse CSVs → staging JSONL
 │   │   ├── ingest_all_pdfs.py     # Extract PDFs → staging JSONL
 │   │   ├── transform_to_database.py # JSONL → database JSON
-│   │   ├── build_duckdb_minimal.py  # JSON → keymark.duckdb
+│   │   ├── build_duckdb.py        # JSON → keymark.duckdb (main builder)
 │   │   ├── build_unique_duckdb.py   # Deduplicate → keymark_unique.duckdb
 │   │   ├── full_rebuild.py        # Complete pipeline from scratch
 │   │   └── incremental_update.py  # Sync new files only
@@ -119,7 +119,7 @@ keymark-heat-pumps/
 | `ingest_all_csvs.py` | `data/source/*.csv` | `data/staging/*.jsonl` | Parse CSV files |
 | `ingest_all_pdfs.py` | `data/source/*.pdf` | `data/staging/*.jsonl` | Extract PDF tables |
 | `transform_to_database.py` | `data/staging/*.jsonl` | `data/database/*.json` | Normalize to JSON |
-| `build_duckdb_minimal.py` | `data/database/*.json` | `data/keymark.duckdb` | Build DuckDB |
+| `build_duckdb.py` | `data/database/*.json` | `data/keymark.duckdb` | Build DuckDB |
 | `build_unique_duckdb.py` | `data/keymark.duckdb` | `data/keymark_unique.duckdb` | Deduplicate |
 
 **Convenience scripts:**
@@ -217,7 +217,7 @@ uvicorn backend.api.app:app --reload --host 0.0.0.0 --port 8000
 streamlit run frontend/streamlit_app.py --server.port 8501
 
 # Rebuild Database
-python scripts/pipeline/build_duckdb_minimal.py
+python scripts/pipeline/build_duckdb.py
 python scripts/pipeline/build_unique_duckdb.py
 
 # Full Pipeline Rebuild

@@ -74,7 +74,7 @@ CSV/PDF sources → staging/JSONL → database/JSON → DuckDB → API → Dashb
 1. `scripts/pipeline/ingest_all_csvs.py` - Parse CSVs → staging JSONL
 2. `scripts/pipeline/ingest_all_pdfs.py` - Extract PDFs → staging JSONL
 3. `scripts/pipeline/transform_to_database.py` - JSONL → database JSON
-4. `scripts/pipeline/build_duckdb_minimal.py` - JSON → keymark.duckdb
+4. `scripts/pipeline/build_duckdb.py` - JSON → keymark.duckdb
 5. `scripts/pipeline/build_unique_duckdb.py` - Deduplicate → keymark_unique.duckdb
 
 **Convenience scripts:**

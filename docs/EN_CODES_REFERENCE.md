@@ -102,7 +102,7 @@
 | EN14825_038 | Pdh DHW (4) | Fourth DHW capacity measurement point | kW |
 | EN14825_039 | COP DHW (4) | Fourth DHW COP measurement point | - |
 | EN14825_041 | **Qdhw** | Annual DHW energy consumption | kWh/yr |
-| EN14825_042 | Unknown DHW | Unknown DHW parameter (rare) | ? |
+| EN14825_042 | **Backup heater** | Backup heater capacity | kW |
 | EN14825_043 | DHW capacity | DHW-related capacity metric | kW |
 
 ### Mixed Operation (Space Heating + DHW)
@@ -151,16 +151,35 @@
 
 | Code | Name | Description | Unit | Range |
 |------|------|-------------|------|-------|
-| EN16147_001 | Unknown | Unknown DHW parameter (very rare) | ? | 0.0 |
-| EN16147_002 | **DHW heating capacity** | Domestic hot water heating capacity | kW | 0-185 kW |
-| EN16147_003 | **DHW COP** | DHW coefficient of performance | - | 0-4.3 |
-| EN16147_004 | **DHW power input** | Electrical power input for DHW | kW | 0-154.8 kW |
-| EN16147_005 | **DHW temperature** | DHW outlet or tank temperature | °C | 0-189°C |
-| EN16147_006 | **DHW inlet temp** | DHW inlet water temperature | °C | 0-62.4°C |
-| EN16147_007 | **DHW test metric** | Unknown DHW test parameter | ? | -99 to 434 |
+| EN16147_001 | **DHW Load Profile** | Declared load profile size (S/M/L/XL/XXL/3XL/4XL) | code | 1-7 |
+| EN16147_002 | **ηDHW** | DHW energy efficiency | % | 0-185% |
+| EN16147_003 | **COP DHW** | DHW coefficient of performance | - | 0-4.3 |
+| EN16147_004 | **Heating up time** | Time to heat DHW tank | hours | 0.5-5.0 h |
+| EN16147_005 | **Standby power** | Standby mode power consumption | W | 0-154.8 W |
+| EN16147_006 | **Reference temp** | Reference hot water temperature | °C | 0-62.4°C |
+| EN16147_007 | **Mixed water 40°C** | Mixed water volume at 40°C | liters | 100-1100 L |
 | EN16147_008 | **DHW test mode 1** | Test configuration indicator | code | Always 2 |
 | EN16147_009 | **DHW test mode 2** | Test configuration indicator | code | Always 2 |
 | EN16147_010 | **DHW test mode 3** | Test configuration indicator | code | Always 2 |
+
+### EN16147_001 Load Profile Encoding
+
+The load profile is stored as a numeric code:
+
+| Code | Profile | Typical Use Case |
+|------|---------|------------------|
+| 1 | S | Small household (1 person) |
+| 2 | M | Medium household (2-3 persons) |
+| 3 | L | Large household (3-4 persons) |
+| 4 | XL | Extra large (4-5 persons) |
+| 5 | XXL | Very large (5+ persons) |
+| 6 | 3XL | Commercial/large buildings |
+| 7 | 4XL | Commercial/large buildings |
+
+### EN16147_004 Heating Up Time
+
+Original values are in `h:mm` format (e.g., "1:35" = 1 hour 35 minutes).
+Stored as decimal hours (e.g., 1.583 hours).
 
 **Note:** EN16147 focuses on:
 - Heat pump water heaters
@@ -237,19 +256,29 @@
 ✅ EN14825_008-019 (Temperature-specific performance)
 ✅ EN14825_022-029 (Power consumption & annual energy)
 ✅ EN14511_2_001-003 (Single-point heating capacity & COP)
+✅ EN16147_001-007 (DHW performance - now fully mapped)
 
 ### Moderate-Quality Codes
 ⚠️ EN14825_030-055 (DHW & mixed operation - partial coverage)
-⚠️ EN16147_002-007 (DHW-specific - only 713 models)
-⚠️ EN12102_1_001-002 (Sound levels - some missing data)
+⚠️ EN12102_1_001-002 (Sound levels - some missing data marked as "-")
 
 ### Low-Quality Codes
-❌ EN14825_020, 042 (Very rare, unclear meaning)
 ❌ EN14511_4_* (All constant value 2, test flags only)
-❌ EN16147_001, 007 (Unclear purpose, extreme ranges)
 ❌ EN12102_1_001 negative values (Data quality issue)
+
+### Special Value Handling
+
+| Value | Meaning |
+|-------|---------|
+| `-999.0` | Invalid/incorrectly formatted entry (e.g., "400V 3ph 50Hz" in EN14825_027) |
+| `NULL` | Missing data or "-" / "N/A" in source |
+
+### Database Schema
+
+The `measurements` table includes a `value_text` column that preserves the original
+string value from the source JSON for debugging and verification purposes.
 
 ---
 
-*Last updated: 2025-11-18*
-*Source: Keymark database with 808K+ measurements from 1,715 heat pump models*
+*Last updated: 2025-12-05*
+*Source: Keymark database with 1.1M+ measurements from 8,300+ heat pump models*

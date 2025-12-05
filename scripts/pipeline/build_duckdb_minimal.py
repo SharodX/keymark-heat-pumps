@@ -22,8 +22,94 @@ DATA_DIR = Path("data/database")
 BATCH_SIZE = 50000  # Big batches for speed
 
 _num_re = re.compile(r"[-+]?(?:\d+\.\d*|\d*\.\d+|\d+)(?:[eE][-+]?\d+)?")
+_time_re = re.compile(r"^(\d{1,2}):(\d{2})$")  # h:mm or hh:mm format
+
+# EN16147_001 Load Profile mapping (normalized to uppercase)
+LOAD_PROFILE_MAP = {
+    "S": 1, "M": 2, "L": 3, "LARGE": 3,
+    "XL": 4, "XXL": 5, "3XL": 6, "4XL": 7
+}
+
+# Special value for non-numeric entries that should be flagged
+INVALID_ENTRY_VALUE = -999.0
+
+
+def parse_time_to_hours(v):
+    """Parse h:mm or hh:mm format to decimal hours."""
+    if not isinstance(v, str):
+        return None
+    m = _time_re.match(v.strip())
+    if m:
+        hours = int(m.group(1))
+        minutes = int(m.group(2))
+        return hours + minutes / 60.0
+    return None
+
+
+def parse_load_profile(v):
+    """Parse DHW load profile string to numeric code."""
+    if not isinstance(v, str):
+        return None
+    normalized = v.strip().upper()
+    return LOAD_PROFILE_MAP.get(normalized)
+
+
+def parse_value(v, en_code):
+    """
+    Parse measurement value with special handling for specific EN codes.
+    Returns (numeric_value, original_text) tuple.
+    """
+    original = str(v) if v is not None else None
+    
+    # Handle None or empty
+    if v is None or (isinstance(v, str) and v.strip() in ("", "-", "N/A")):
+        return None, original
+    
+    # Already numeric
+    if isinstance(v, (int, float)):
+        return float(v), original
+    
+    if not isinstance(v, str):
+        return None, original
+    
+    v_clean = v.strip()
+    
+    # EN16147_001: Load Profile (S, M, L, XL, XXL, 3XL, 4XL)
+    if en_code == "EN16147_001":
+        profile_val = parse_load_profile(v_clean)
+        if profile_val is not None:
+            return float(profile_val), original
+        # Check if it's already numeric
+        m = _num_re.search(v_clean.replace(",", "."))
+        if m:
+            return float(m.group(0)), original
+        return None, original
+    
+    # EN16147_004: Heating up time in h:mm format
+    if en_code == "EN16147_004":
+        time_val = parse_time_to_hours(v_clean)
+        if time_val is not None:
+            return time_val, original
+        # Fall through to numeric parsing
+    
+    # EN14825_027: Supplementary heater type - flag invalid text entries
+    if en_code == "EN14825_027":
+        # Check for known junk values
+        if any(x in v_clean.lower() for x in ["400v", "electricity", "elctricity", "n/a"]):
+            return INVALID_ENTRY_VALUE, original
+    
+    # EN12102_1_001, EN12102_1_002, EN14825_020: Skip "-" values
+    if en_code in ("EN12102_1_001", "EN12102_1_002", "EN14825_020"):
+        if v_clean == "-":
+            return None, original
+    
+    # Default: try to parse as number
+    m = _num_re.search(v_clean.replace(",", "."))
+    return (float(m.group(0)), original) if m else (None, original)
+
 
 def parse_num(v):
+    """Legacy function for backwards compatibility."""
     if isinstance(v, (int, float)): return float(v)
     if not isinstance(v, str): return None
     m = _num_re.search(v.replace(",", "."))
@@ -95,9 +181,9 @@ def main():
             for code, dims in hp.get("measurements", {}).items():
                 if not isinstance(dims, dict): continue
                 for dim, val in dims.items():
-                    num = parse_num(val)
+                    num, original = parse_value(val, code)
                     if num is not None:
-                        measurements.append((mfr, subtype, model_name, code, dim, num, None))
+                        measurements.append((mfr, subtype, model_name, code, dim, num, None, original))
     
     print()  # End progress line
     print()
@@ -154,7 +240,7 @@ def main():
     conn.execute("BEGIN")
     for i in range(0, len(measurements), BATCH_SIZE):
         conn.executemany(
-            "INSERT INTO measurements (manufacturer_name, subtype_name, model_name, en_code, dimension, value, unit) VALUES (?, ?, ?, ?, ?, ?, ?)",
+            "INSERT INTO measurements (manufacturer_name, subtype_name, model_name, en_code, dimension, value, unit, value_text) VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
             measurements[i:i+BATCH_SIZE]
         )
         progress(min(i+BATCH_SIZE, len(measurements)), len(measurements), meas_start, "Measurements: ")

@@ -27,7 +27,8 @@ CREATE OR REPLACE TABLE measurements (
     en_code TEXT NOT NULL,
     dimension TEXT NOT NULL,
     value DOUBLE,
-    unit TEXT
+    unit TEXT,
+    value_text TEXT  -- Original string value for debugging/verification
 );
 
 CREATE INDEX IF NOT EXISTS idx_measurements_en ON measurements(en_code);
