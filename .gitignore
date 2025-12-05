@@ -1,5 +1,17 @@
 __pycache__/
 *.pyc
+
+# Database files
 data/full_pdf_index.sqlite
 data/keymark.duckdb
+
+# Scraped data files (regenerate with sync_keymark.py)
+data/source/*.csv
+data/source/*.pdf
+
+# Sync logs (local state)
+data/logs/sync_log.jsonl
+data/logs/sync_state.json
+
+# Staging files
 staging/_Ariston_Thermo_GroupNIMBUS_ARIANEXT_AEROTOP_ENERGION_120_150_M_-_COMPACT.jsonl
