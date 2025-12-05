@@ -1,0 +1,73 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "🚀 Start All Services",
+      "dependsOn": ["Start API", "Start Streamlit"],
+      "dependsOrder": "parallel",
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "Start API",
+      "type": "shell",
+      "command": "source .venv/bin/activate && uvicorn backend.api.app:app --reload --host 0.0.0.0 --port 8000",
+      "isBackground": true,
+      "problemMatcher": {
+        "pattern": {
+          "regexp": "^$"
+        },
+        "background": {
+          "activeOnStart": true,
+          "beginsPattern": "^.*Uvicorn running.*$",
+          "endsPattern": "^.*Application startup complete.*$"
+        }
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated",
+        "group": "services"
+      }
+    },
+    {
+      "label": "Start Streamlit",
+      "type": "shell",
+      "command": "source .venv/bin/activate && streamlit run frontend/streamlit_app.py --server.port 8501 --server.address 0.0.0.0",
+      "isBackground": true,
+      "problemMatcher": {
+        "pattern": {
+          "regexp": "^$"
+        },
+        "background": {
+          "activeOnStart": true,
+          "beginsPattern": "^.*You can now view.*$",
+          "endsPattern": "^.*Network URL.*$"
+        }
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated",
+        "group": "services"
+      }
+    },
+    {
+      "label": "🛑 Stop All Services",
+      "type": "shell",
+      "command": "pkill -f 'uvicorn backend.api.app' ; pkill -f 'streamlit run' ; echo '✅ All services stopped'",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      }
+    },
+    {
+      "label": "🔄 Restart All Services",
+      "dependsOn": ["🛑 Stop All Services", "🚀 Start All Services"],
+      "dependsOrder": "sequence",
+      "problemMatcher": []
+    }
+  ]
+}

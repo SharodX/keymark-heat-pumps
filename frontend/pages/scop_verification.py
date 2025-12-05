@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 from typing import Any
 
 # Add scripts directory to path
-sys.path.insert(0, str(Path(__file__).parent.parent.parent / "scripts"))
+sys.path.insert(0, str(Path(__file__).parent.parent.parent / "scripts" / "analysis"))
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from streamlit_app import get_api_base

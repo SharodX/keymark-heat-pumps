@@ -1,32 +1,100 @@
-# keymark-heat-pumps
-Analyze heat pumps found in keymark database
+# Keymark Heat Pumps
 
-## Ingestion utilities
+Analyze and verify heat pump performance data from the European Keymark certification database.
 
-- Define CSV/PDF sources in `data/manifest.yaml` with model identifiers.
-- Use `ingestion/csv_loader.py` to normalize CSV headers and emit staging JSONL files under `data/staging/`.
-- Use `ingestion/pdf_extractor.py` to pull tables and labeled values from PDFs, capturing `model_id` and `submodel_id` metadata where available.
-- Shared logging and metrics helpers live in `ingestion/__init__.py`.
+## Overview
 
-## API server
+This project:
+1. **Ingests** raw CSV and PDF data from Keymark certifications
+2. **Normalizes** data into a structured DuckDB database
+3. **Analyzes** heat pump performance (SCOP calculations per EN14825:2018)
+4. **Serves** data via FastAPI + Streamlit dashboard
 
-The FastAPI application in `backend/api/app.py` exposes DuckDB data with paginated responses tailored for Streamlit or any HTTP client.
+## Quick Start
 
-### Endpoints
+### VS Code / Codespaces (Recommended)
 
-- `GET /measurements` – Paginated measurement rows with exact-match filters plus optional `climates=warmer|average|colder` repeatable params.
-- `GET /heat-pumps` – Paginated list of manufacturer/model/variant combinations with total measurement counts and `has_cold_climate` flag; supports `search=` and `has_cold_climate=true` filters for dropdowns.
+Use the built-in tasks:
 
-1. Build the DuckDB file if necessary: `scripts/build_duckdb.py`.
-2. Install dependencies once: `pip install -r requirements.txt`.
-3. Launch the server with Uvicorn:
+| Action | Shortcut |
+|--------|----------|
+| **🚀 Start All Services** | `Ctrl+Shift+B` (or `Cmd+Shift+B` on Mac) |
+| **🛑 Stop All Services** | `Ctrl+Shift+P` → "Run Task" → "🛑 Stop All Services" |
+| **🔄 Restart All Services** | `Ctrl+Shift+P` → "Run Task" → "🔄 Restart All Services" |
+
+Or use the **Run and Debug** panel (`Ctrl+Shift+D`) for debugging:
+- "🚀 Start All (Debug)" - starts both with debugger attached
+
+### Manual Start
 
 ```bash
-/workspaces/keymark-heat-pumps/.venv/bin/uvicorn backend.api.app:app --reload
+# Install dependencies
+pip install -r requirements.txt
+
+# Start API server
+uvicorn backend.api.app:app --reload
+
+# Start Streamlit dashboard  
+streamlit run frontend/streamlit_app.py
 ```
 
-### Pagination contract
+## Project Structure
 
-- Endpoints accept `limit` (1-1000) and `offset` query params; defaults are `limit=100`, `offset=0`.
-- Responses follow the `Page[T]` structure with a `meta` block: `{total, limit, offset, has_more}` for quick UI paging.
-- Filter parameters (manufacturer/model/variant/en_code/dimension/climates) map directly to DuckDB filters so Streamlit can request only the subset it needs.
+See [`docs/PROJECT_STRUCTURE.md`](docs/PROJECT_STRUCTURE.md) for detailed documentation.
+
+```
+keymark-heat-pumps/
+├── docs/                    # Documentation
+├── data/                    # Data files (source, staging, database)
+├── ingestion/               # Data ingestion modules
+├── scripts/
+│   ├── pipeline/            # Core pipeline scripts
+│   └── analysis/            # SCOP calculation & analysis
+├── backend/                 # FastAPI backend
+├── frontend/                # Streamlit dashboard
+├── tests/                   # Unit tests
+├── outputs/                 # Analysis outputs
+└── archive/                 # Old/experimental files
+```
+
+## Data Pipeline
+
+```
+CSV/PDF sources → staging/JSONL → database/JSON → DuckDB → API → Dashboard
+```
+
+**Pipeline scripts** (in order):
+1. `scripts/pipeline/ingest_all_csvs.py`
+2. `scripts/pipeline/ingest_all_pdfs.py`
+3. `scripts/pipeline/transform_to_database.py`
+4. `scripts/pipeline/build_duckdb.py`
+5. `scripts/pipeline/build_unique_duckdb.py`
+
+## Documentation
+
+| Document | Description |
+|----------|-------------|
+| [`docs/PROJECT_STRUCTURE.md`](docs/PROJECT_STRUCTURE.md) | Full project structure |
+| [`docs/EN_CODES_REFERENCE.md`](docs/EN_CODES_REFERENCE.md) | EN14825/14511/12102 code mapping |
+| [`docs/SCOP_CALCULATIONS.md`](docs/SCOP_CALCULATIONS.md) | SCOP formula implementation |
+| [`data/DIMENSION_CODE_MAPPING.md`](data/DIMENSION_CODE_MAPPING.md) | Dimension encoding (X_Y_Z_W) |
+
+## Database
+
+| Database | Description |
+|----------|-------------|
+| `data/keymark.duckdb` | Full database (309K measurements) |
+| `data/keymark_unique.duckdb` | Deduplicated version |
+
+## API Endpoints
+
+- `GET /measurements` – Paginated measurements with filters
+- `GET /heat-pumps` – Heat pump list with search
+- `GET /en14825` – EN14825-specific data
+- `GET /health` – Health check
+
+## Testing
+
+```bash
+pytest tests/
+```

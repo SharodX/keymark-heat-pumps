@@ -1,7 +1,7 @@
 import pandas as pd
 import pytest
 
-from scripts.calculate_scop_en14825 import SCOPCalculator
+from scripts.analysis.calculate_scop_en14825 import SCOPCalculator
 
 
 def _annex_h_calculator():
